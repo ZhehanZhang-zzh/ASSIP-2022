@@ -18,7 +18,7 @@ from googleapiclient.errors import HttpError
 # tab of
 #   https://cloud.google.com/console
 # Please ensure that you have enabled the YouTube Data API for your project.
-DEVELOPER_KEY = 'AIzaSyDAptpTfh33KDwIuyVDB714gVVBe9yYIwE'
+DEVELOPER_KEY = 'YOUR_KEY'
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 
@@ -30,7 +30,7 @@ def youtube_search(options):
   # query term.
   search_response = youtube.search().list(
     q=options.q,
-    part='id,snippet',
+    part='id,snippet,statistics',
     maxResults=options.max_results
   ).execute()
 
@@ -43,7 +43,7 @@ def youtube_search(options):
   for search_result in search_response.get('items', []):
     if search_result['id']['kind'] == 'youtube#video':
       videos.append('%s (%s)' % (search_result['snippet']['title'],
-                                 search_result['id']['videoId']))
+                                 search_result['id']['videoId'], search_result['statistics']['likeCount']))
     elif search_result['id']['kind'] == 'youtube#channel':
       channels.append('%s (%s)' % (search_result['snippet']['title'],
                                    search_result['id']['channelId']))
