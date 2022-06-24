@@ -8,6 +8,7 @@
 #       to find the correct place to provide that key..
 
 import argparse
+import json
 
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
@@ -17,7 +18,7 @@ from googleapiclient.errors import HttpError
 # tab of
 #   https://cloud.google.com/console
 # Please ensure that you have enabled the YouTube Data API for your project.
-DEVELOPER_KEY = 'YOUR_KEY'
+DEVELOPER_KEY = 'AIzaSyDAptpTfh33KDwIuyVDB714gVVBe9yYIwE'
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 
@@ -50,6 +51,11 @@ def youtube_search(options):
       playlists.append('%s (%s)' % (search_result['snippet']['title'],
                                     search_result['id']['playlistId']))
 
+
+  file_name = 'videos.json'
+  with open(file_name, 'w') as f:
+    json.dump(videos, f, indent = 4)
+  print('file dumped')
   print ('Videos:\n','\n'.join(videos), '\n')
   print ('Channels:\n', '\n'.join(channels), '\n')
   print ('Playlists:\n', '\n'.join(playlists), '\n')
