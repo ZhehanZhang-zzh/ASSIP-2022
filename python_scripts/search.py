@@ -18,7 +18,7 @@ from googleapiclient.errors import HttpError
 # tab of
 #   https://cloud.google.com/console
 # Please ensure that you have enabled the YouTube Data API for your project.
-DEVELOPER_KEY = 'YOUR_KEY'
+DEVELOPER_KEY = 'AIzaSyDAptpTfh33KDwIuyVDB714gVVBe9yYIwE'
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 
@@ -33,13 +33,6 @@ def youtube_search(options):
     part='id,snippet',
     maxResults=options.max_results
   ).execute()
-  search_response2 = youtube.videos().list(
-    id ='kDd2_UxjuEw',
-    part='statistics,contentDetails',
-    maxResults=options.max_results,
-    fields="items(statistics," + \
-             "contentDetails(duration))"
-  ).execute()
 
   videos = []
 
@@ -47,8 +40,9 @@ def youtube_search(options):
   # matching videos, channels, and playlists.
   for search_result in search_response.get('items', []):
     if search_result['id']['kind'] == 'youtube#video':
-      videos.append('%s (%s)' % (search_result['snippet']['title'],
-                                 search_result['id']['videoId']))
+      videos.append(search_result['snippet']['title'])
+      videos.append(search_result['id']['videoId'])
+      videos.append(search_result['snippet']['channelId'])
       search_response3 = youtube.videos().list(
           id=search_result['id']['videoId'],
           part='statistics'
@@ -58,6 +52,7 @@ def youtube_search(options):
         videos.append(search_result['statistics']['likeCount'])
         videos.append(search_result['statistics']['favoriteCount'])
         videos.append(search_result['statistics']['commentCount'])
+
 
   file_name = 'videos.json'
   import os
