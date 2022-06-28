@@ -47,8 +47,9 @@ def youtube_search(options):
   # matching videos, channels, and playlists.
   for search_result in search_response.get('items', []):
     if search_result['id']['kind'] == 'youtube#video':
-      videos.append('%s (%s)' % (search_result['snippet']['title'],
-                                 search_result['id']['videoId']))
+      videos.append(search_result['snippet']['title'])
+      videos.append(search_result['id']['videoId'])
+                                 
     for search_result in search_response2.get('items', []):
       videos.append(search_result['statistics']['viewCount'])
       videos.append(search_result['statistics']['likeCount'])
