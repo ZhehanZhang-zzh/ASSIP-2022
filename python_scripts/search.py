@@ -47,23 +47,35 @@ def youtube_search(options):
   # matching videos, channels, and playlists.
   for search_result in search_response.get('items', []):
     if search_result['id']['kind'] == 'youtube#video':
-      videos.append(search_result['snippet']['title'])
-      videos.append(search_result['id']['videoId'])
-                                 
-    for search_result in search_response2.get('items', []):
-      videos.append(search_result['statistics']['viewCount'])
-      videos.append(search_result['statistics']['likeCount'])
-
+      videos.append('%s (%s)' % (search_result['snippet']['title'],
+                                 search_result['id']['videoId']))
+      search_response3 = youtube.videos().list(
+          id=search_result['id']['videoId'],
+          part='statistics'
+      ).execute()
+      for search_result in search_response3.get('items',[]):
+        videos.append(search_result['statistics']['viewCount'])
+        videos.append(search_result['statistics']['likeCount'])
 
 
   file_name = 'videos.json'
-  with open(file_name, 'w') as f:
-      json_object = json.dumps(videos, indent = 4)
-      z = json.loads(json_object)
-      z.append(json_object)
-      json.dump(z, f, indent = 4)
+  import os
+  file_path = 'videos.json'
+  # check if size of file is 0
+  if os.stat(file_path).st_size == 0:
+      with open(file_name, 'w') as f:
+          json_object = json.dumps(videos, indent = 4)
+          z = json.loads(json_object)
+          json.dump(z, f, indent = 4)
+  else:
+      with open(file_name, 'r+') as f:
+          #json_object = json.dumps(videos, indent = 4)
+          #z = json.loads(json_object)
+          data = json.load(f)
+          data.extend(videos)
+          f.seek(0)
+          json.dump(data, f, indent = 4)
   print('file dumped')
-  print ('Videos:\n','\n'.join(videos), '\n')
 
 
 if __name__ == '__main__':
