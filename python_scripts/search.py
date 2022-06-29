@@ -43,6 +43,7 @@ def youtube_search(options):
       videos.append(search_result['snippet']['title'])
       videos.append(search_result['id']['videoId'])
       videos.append(search_result['snippet']['channelId'])
+      videos.append(search_result['snippet']['channelTitle'])
       search_response3 = youtube.videos().list(
           id=search_result['id']['videoId'],
           part='statistics'
