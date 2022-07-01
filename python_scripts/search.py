@@ -18,7 +18,7 @@ from googleapiclient.errors import HttpError
 # tab of
 #   https://cloud.google.com/console
 # Please ensure that you have enabled the YouTube Data API for your project.
-DEVELOPER_KEY = 'key'
+DEVELOPER_KEY = 'AIzaSyC_Z_VCyF6j8nWrVEtgG2WmBW3tHOwyx9A'
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 
@@ -35,7 +35,7 @@ def youtube_search(options):
     ).execute()
 
     videos = []
-    stat_names = ['title', 'videoId', 'channelId', 'channelTitle', 'viewCount', 'likeCount', 'favoriteCount', 'commentCount']
+    stat_names = ['title', 'videoId', 'channelId', 'channelTitle', 'viewCount', 'likeCount', 'commentCount']
     # Add each result to the appropriate list, and then display the lists of
     # matching videos, channels, and playlists.
     
@@ -52,7 +52,6 @@ def youtube_search(options):
             for search_result in search_response3.get('items',[]):
                 videos.append(search_result['statistics']['viewCount'])
                 videos.append(search_result['statistics']['likeCount'])
-                videos.append(search_result['statistics']['favoriteCount'])
                 videos.append(search_result['statistics']['commentCount'])
     for i in range(int((len(videos)/8))-1):
         stat_names.append('title' + str(i))
@@ -61,7 +60,6 @@ def youtube_search(options):
         stat_names.append('channelTitle' + str(i))
         stat_names.append('viewCount' + str(i))
         stat_names.append('likeCount' + str(i))
-        stat_names.append('favoriteCount' + str(i))
         stat_names.append('commentCount' + str(i))
 
     
