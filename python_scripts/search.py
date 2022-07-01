@@ -19,7 +19,7 @@ from googleapiclient.errors import HttpError
 # tab of
 #   https://cloud.google.com/console
 # Please ensure that you have enabled the YouTube Data API for your project.
-DEVELOPER_KEY = 'AIzaSyDAptpTfh33KDwIuyVDB714gVVBe9yYIwE'
+DEVELOPER_KEY = 'AIzaSyC5KdsaF1gGmoTkygxntyQTbSmss7rqC5Q'
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 
@@ -82,9 +82,9 @@ def youtube_search(options):
     #print ("Resultant dictionary is : " +  str(res))
     
     
-    file_name = 'test.json'
+    file_name = 'beauty_fashion_videos.json'
     import os
-    file_path = 'test.json'
+    file_path = 'beauty_fashion_videos.json'
     # check if size of file is 0
     with open(file_name, 'w') as f:
        json_object = json.dumps(res, indent = 4)
