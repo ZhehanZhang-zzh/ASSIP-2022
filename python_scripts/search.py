@@ -19,11 +19,7 @@ from googleapiclient.errors import HttpError
 # tab of
 #   https://cloud.google.com/console
 # Please ensure that you have enabled the YouTube Data API for your project.
-<<<<<<< HEAD
-DEVELOPER_KEY = 'AIzaSyC5KdsaF1gGmoTkygxntyQTbSmss7rqC5Q'
-=======
-DEVELOPER_KEY = 'API_KEY'
->>>>>>> 4cb7f1ebef573a56db66dd90764fd47d7365c9b3
+DEVELOPER_KEY = 'key'
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 
@@ -55,10 +51,26 @@ def youtube_search(options):
                 part='statistics'
             ).execute()
             for search_result in search_response3.get('items',[]):
-                videos.append(search_result['statistics']['viewCount'])
-                videos.append(search_result['statistics']['likeCount'])
-                videos.append(search_result['statistics']['favoriteCount'])
-                videos.append(search_result['statistics']['commentCount'])
+                try:
+                    videos.append(search_result['statistics']['viewCount'])
+                    break
+                except:
+                    videos.append("no data")
+                try:
+                    videos.append(search_result['statistics']['likeCount'])
+                    break
+                except:
+                    videos.append("no data")
+                try:
+                    videos.append(search_result['statistics']['favoriteCount'])
+                    break
+                except:
+                    videos.append("no data")
+                try:
+                    videos.append(search_result['statistics']['commentCount'])
+                    break
+                except:
+                    videos.append("no data")
     for i in range(int((len(videos)/8))-1):
         stat_names.append('title')
         stat_names.append('videoId')
@@ -86,9 +98,9 @@ def youtube_search(options):
     #print ("Resultant dictionary is : " +  str(res))
     
     
-    file_name = 'beauty_fashion_videos.json'
+    file_name = 'game_evilNun_videos.json'
     import os
-    file_path = 'beauty_fashion_videos.json'
+    file_path = 'game_evilNun_videos.json'
     # check if size of file is 0
     with open(file_name, 'w') as f:
        json_object = json.dumps(res, indent = 4)
