@@ -19,7 +19,7 @@ from googleapiclient.errors import HttpError
 # tab of
 #   https://cloud.google.com/console
 # Please ensure that you have enabled the YouTube Data API for your project.
-DEVELOPER_KEY = 'key'
+DEVELOPER_KEY = 'API_KEY'
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 
@@ -56,21 +56,25 @@ def youtube_search(options):
                     break
                 except:
                     videos.append("no data")
+            for search_result in search_response3.get('items',[]):    
                 try:
                     videos.append(search_result['statistics']['likeCount'])
                     break
                 except:
                     videos.append("no data")
+            for search_result in search_response3.get('items',[]):
                 try:
                     videos.append(search_result['statistics']['favoriteCount'])
                     break
                 except:
                     videos.append("no data")
+            for search_result in search_response3.get('items',[]):
                 try:
                     videos.append(search_result['statistics']['commentCount'])
                     break
                 except:
                     videos.append("no data")
+
     for i in range(int((len(videos)/8))-1):
         stat_names.append('title')
         stat_names.append('videoId')
