@@ -102,9 +102,9 @@ def youtube_search(options):
     #print ("Resultant dictionary is : " +  str(res))
     
     
-    file_name = 'makeup_collab_videos.json'
+    file_name = 'beauty_rareBeauty_collab.json'
     import os
-    file_path = 'makeup_collab_videos.json'
+    file_path = 'beauty_rareBeauty_collab.json'
     # check if size of file is 0
     with open(file_name, 'w') as f:
        json_object = json.dumps(res, indent = 4)
