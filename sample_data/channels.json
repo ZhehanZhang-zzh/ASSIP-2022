@@ -1,0 +1,77 @@
+{
+    "0": [
+        {
+            "kind": "youtube#channel",
+            "etag": "xx30hwoHrdRpXwrmQNC4N621ujI",
+            "id": "UCsXYYt9hmwvaIl6v73JHKWw",
+            "snippet": {
+                "title": "Brad Jacobson",
+                "description": "Follow me as I chase waves across Southern California.  Inspired by Bruce Brown. ",
+                "customUrl": "bradjacobson",
+                "publishedAt": "2008-08-11T17:01:08Z",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/SHXVpbp4jdTNryjDwzYL6U2T6jpOOYJvxz8LCGmBAVtVnTC4xYYd2FerPgHR51IM301_IBmyKOE=s88-c-k-c0x00ffffff-no-rj",
+                        "width": 88,
+                        "height": 88
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/SHXVpbp4jdTNryjDwzYL6U2T6jpOOYJvxz8LCGmBAVtVnTC4xYYd2FerPgHR51IM301_IBmyKOE=s240-c-k-c0x00ffffff-no-rj",
+                        "width": 240,
+                        "height": 240
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/SHXVpbp4jdTNryjDwzYL6U2T6jpOOYJvxz8LCGmBAVtVnTC4xYYd2FerPgHR51IM301_IBmyKOE=s800-c-k-c0x00ffffff-no-rj",
+                        "width": 800,
+                        "height": 800
+                    }
+                },
+                "localized": {
+                    "title": "Brad Jacobson",
+                    "description": "Follow me as I chase waves across Southern California.  Inspired by Bruce Brown. "
+                },
+                "country": "US"
+            },
+            "contentDetails": {
+                "relatedPlaylists": {
+                    "likes": "",
+                    "uploads": "UUsXYYt9hmwvaIl6v73JHKWw"
+                }
+            },
+            "statistics": {
+                "viewCount": "5640454",
+                "subscriberCount": "17400",
+                "hiddenSubscriberCount": false,
+                "videoCount": "653"
+            },
+            "topicDetails": {
+                "topicIds": [
+                    "/m/019_rr",
+                    "/m/06ntj"
+                ],
+                "topicCategories": [
+                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)",
+                    "https://en.wikipedia.org/wiki/Sport"
+                ]
+            },
+            "status": {
+                "privacyStatus": "public",
+                "isLinked": true,
+                "longUploadsStatus": "longUploadsUnspecified"
+            },
+            "brandingSettings": {
+                "channel": {
+                    "title": "Brad Jacobson",
+                    "description": "Follow me as I chase waves across Southern California.  Inspired by Bruce Brown. ",
+                    "keywords": "\"manhattan beach\" surfing \"hermosa beach\" \"redondo beach\" waves \"los \u00e1ngeles\"",
+                    "unsubscribedTrailer": "if_tfXG2rlc",
+                    "country": "US"
+                },
+                "image": {
+                    "bannerExternalUrl": "https://yt3.ggpht.com/fVXueTrC0DMdJuviUlcAaPkFnOvxRqADbndE2uWempibwiHJROpUwH4Pfy5B42eug5_vzl7Xqg"
+                }
+            },
+            "contentOwnerDetails": {}
+        }
+    ]
+}
