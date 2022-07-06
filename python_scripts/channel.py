@@ -21,7 +21,7 @@ from googleapiclient.errors import HttpError
 #   https://cloud.google.com/console
 # Please ensure that you have enabled the YouTube Data API for your project.
 
-DEVELOPER_KEY = 'API_KEY'
+DEVELOPER_KEY = 'AIzaSyAbWGcBtMde4dZs-kZr3-3qlIYu8-4xATM'
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 
@@ -29,48 +29,28 @@ def youtube_search(options):
     youtube = build(YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION,
     developerKey=DEVELOPER_KEY)
 
-    # Call the search.list method to retrieve results matching the specified
-    # query term.
-    search_response = youtube.search().list(
-        q=options.q,
-        part='id,snippet',
-        maxResults=options.max_results
-    ).execute()
-
-    videos = {}
-    # stat_names = ['title', 'videoId', 'channelId', 'channelTitle', 'viewCount', 'likeCount', 'favorite count', 'commentCount']
-    # Add each result to the appropriate list, and then display the lists of
-    # matching videos, channels, and playlists.
+    channels = {}
+    
     i=0
 
-    for search_result in search_response.get('items', []):
+    # this is a test script with a fixed Channel ID
+    # For-loop is need by reading Channel IDs from a separate file, and make this call for all the IDs
+    search_response = youtube.channels().list(
+        id="UCsXYYt9hmwvaIl6v73JHKWw",
+        part='brandingSettings,contentDetails,contentOwnerDetails,id,localizations,snippet,statistics,status,topicDetails'
+    ).execute()
 
-        if search_result['id']['kind'] == 'youtube#video':
-            
-            search_response3 = youtube.videos().list(
-                id=search_result['id']['videoId'],
-                part='statistics,contentDetails,liveStreamingDetails,localizations,snippet,player,recordingDetails,snippet,status,topicDetails'
-            ).execute()
+    channels[i] = search_response.get('items',[])
+    i = i + 1
 
-            videos[i] = search_response3.get('items',[])
-        else: 
-            videos[i] = search_result
-
-        i = i+1
-
-    res = videos
-    # print ("stat names length: " + str(len(stat_names)))
-    print ("videos length: " + str(len(videos)))
-    #print ("Resultant dictionary is : " +  str(res))
     
-    
-    file_name = 'videos.json'
+    file_name = 'channels.json'
     import os
-    file_path = 'videos.json'
+    file_path = 'channels.json'
 
     # check if size of file is 0
     with open(file_name, 'w') as f:
-       json_object = json.dumps(res, indent = 4)
+       json_object = json.dumps(channels, indent = 4)
        z = json.loads(json_object)
        json.dump(z, f, indent = 4)
     
