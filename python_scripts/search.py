@@ -2,7 +2,7 @@
 
 # This sample executes a search request for the specified search term.
 # Sample usage:
-#   python3 search.py --q=surfing --max-results=20
+#   python search.py --q=surfing --max-results=20
 # NOTE: To use the sample, you must provide a developer key obtained
 #       in the Google APIs Console. Search for "REPLACE_ME" in this code
 #       to find the correct place to provide that key..
@@ -19,11 +19,8 @@ from googleapiclient.errors import HttpError
 # tab of
 #   https://cloud.google.com/console
 # Please ensure that you have enabled the YouTube Data API for your project.
-<<<<<<< HEAD
-DEVELOPER_KEY = 'AIzaSyC_Z_VCyF6j8nWrVEtgG2WmBW3tHOwyx9A'
-=======
-DEVELOPER_KEY = 'AIzaSyDAptpTfh33KDwIuyVDB714gVVBe9yYIwE'
->>>>>>> 522dcce0c66acce422fdda2cba8f167a8dd3e4e3
+
+DEVELOPER_KEY = 'API_KEY'
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 
@@ -46,81 +43,26 @@ def youtube_search(options):
     
     for search_result in search_response.get('items', []):
         if search_result['id']['kind'] == 'youtube#video':
-            videos.append(search_result['snippet']['title'])
-            videos.append(search_result['id']['videoId'])
-            videos.append(search_result['snippet']['channelId'])
-            videos.append(search_result['snippet']['channelTitle'])
+            videos.append(search_result)
             search_response3 = youtube.videos().list(
                 id=search_result['id']['videoId'],
                 part='statistics'
             ).execute()
             for search_result in search_response3.get('items',[]):
-                try:
-                    videos.append(search_result['statistics']['viewCount'])
-                    break
-                except:
-                    videos.append("no data")
-            for search_result in search_response3.get('items',[]):    
-                try:
-                    videos.append(search_result['statistics']['likeCount'])
-                    break
-                except:
-                    videos.append("no data")
-            for search_result in search_response3.get('items',[]):
-                try:
-                    videos.append(search_result['statistics']['favoriteCount'])
-                    break
-                except:
-                    videos.append("no data")
-            for search_result in search_response3.get('items',[]):
-                try:
-                    videos.append(search_result['statistics']['commentCount'])
-                    break
-                except:
-                    videos.append("no data")
+                videos.append(search_result)
 
-    for i in range(int((len(videos)/8))-1):
-        stat_names.append('title')
-        stat_names.append('videoId')
-        stat_names.append('channelId')
-        stat_names.append('channelTitle')
-        stat_names.append('viewCount')
-        stat_names.append('likeCount')
-        stat_names.append('favoriteCount')
-        stat_names.append('commentCount')
-    
-    stat_names = np.array_split(stat_names, int((len(videos)/8)))
-    videos = np.array_split(videos, int((len(videos)/8)))
-    res = {}
-    res2 = {}
-    for i in range(len(stat_names)):
-        arr = stat_names[i]
-        arr2 = videos[i]
-        res2 = dict(zip(arr,arr2))
-        res[i] = res2
         
     
-    #res = dict(zip(stat_names, videos))
+    res = videos
     print ("stat names length: " + str(len(stat_names)))
     print ("videos length: " + str(len(videos)))
     #print ("Resultant dictionary is : " +  str(res))
     
     
-<<<<<<< HEAD
-    file_name = 'makeup_collab_videos.json'
-    import os
-    file_path = 'makeup_collab_videos.json'
-=======
-<<<<<<< HEAD
-    file_name = 'game_playerUnknown’sBattleground(pubg)_videos.json'
-    import os
-    file_path = 'game_playerUnknown’sBattleground(pubg)_videos.json'
-=======
     file_name = 'videos.json'
     import os
     file_path = 'videos.json'
->>>>>>> 522dcce0c66acce422fdda2cba8f167a8dd3e4e3
->>>>>>> 768fcba4a9012b071bb22ff497703c79ea6bdd3e
+
     # check if size of file is 0
     with open(file_name, 'w') as f:
        json_object = json.dumps(res, indent = 4)
@@ -128,9 +70,6 @@ def youtube_search(options):
        json.dump(z, f, indent = 4)
     
     print('file dumped')
-
-    
-    
 
 
 if __name__ == '__main__':
