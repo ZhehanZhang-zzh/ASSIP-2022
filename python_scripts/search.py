@@ -60,7 +60,6 @@ def youtube_search(options):
     
     file_name = 'videos.json'
     import os
-    file_path = 'videos.json'
 
     # check if size of file is 0
     with open(file_name, 'w') as f:
