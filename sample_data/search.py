@@ -38,6 +38,7 @@ def youtube_search(options):
     ).execute()
 
     videos = {}
+    channels = {}
     # stat_names = ['title', 'videoId', 'channelId', 'channelTitle', 'viewCount', 'likeCount', 'favorite count', 'commentCount']
     # Add each result to the appropriate list, and then display the lists of
     # matching videos, channels, and playlists.
@@ -54,7 +55,7 @@ def youtube_search(options):
 
             videos[i] = search_response3.get('items',[])[0]
         else: 
-            videos[i] = search_result
+            channels[i] = search_result
 
         i = i+1
 
@@ -64,15 +65,22 @@ def youtube_search(options):
     #print ("Resultant dictionary is : " +  str(res))
     
     
-    file_name = 'beauty_fenty.json'
+    file_name_videos = 'beauty_fenty.json'
+    file_name_channels = 'beauty_channels.json'
     import os
-
+    
     # check if size of file is 0
-    with open(file_name, 'w') as f:
+    with open(file_name_videos, 'w') as f:
        json_object = json.dumps(res, indent = 4)
        z = json.loads(json_object)
        json.dump(z, f, indent = 4)
     
+    with open(file_name_channels, 'r+') as f:
+       a = open(file_name_channels)
+       data = json.load(a)
+       data.update(channels)
+       json.dump(data, f, indent = 4)
+        
     print('file dumped')
 
 if __name__ == '__main__':
