@@ -20,14 +20,13 @@ from googleapiclient.errors import HttpError
 #   https://cloud.google.com/console
 # Please ensure that you have enabled the YouTube Data API for your project.
 
-DEVELOPER_KEY = 'API_KEY'
+DEVELOPER_KEY = 'AIzaSyA1qbVvM7G6xRg-pC7o4feZDrhfgxyH84c'
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 
 def youtube_search(options):
     youtube = build(YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION,
     developerKey=DEVELOPER_KEY)
-
     # Call the search.list method to retrieve results matching the specified
     # query term.
     search_response = youtube.search().list(
@@ -36,27 +35,26 @@ def youtube_search(options):
         maxResults=options.max_results
     ).execute()
 
-    videos = []
-    stat_names = ['title', 'videoId', 'channelId', 'channelTitle', 'viewCount', 'likeCount', 'favorite count', 'commentCount']
-    # Add each result to the appropriate list, and then display the lists of
-    # matching videos, channels, and playlists.
-    
+    videos = {}
+    i=0
+
     for search_result in search_response.get('items', []):
+
         if search_result['id']['kind'] == 'youtube#video':
-            videos.append(search_result)
+            
             search_response3 = youtube.videos().list(
                 id=search_result['id']['videoId'],
-                part='statistics'
+                part='statistics,contentDetails,liveStreamingDetails,localizations,snippet,player,recordingDetails,snippet,status,topicDetails'
             ).execute()
-            for search_result in search_response3.get('items',[]):
-                videos.append(search_result)
 
-        
-    
+            videos[i] = search_response3.get('items',[])
+        else: 
+            videos[i] = search_result
+
+        i = i+1
+
     res = videos
-    print ("stat names length: " + str(len(stat_names)))
     print ("videos length: " + str(len(videos)))
-    #print ("Resultant dictionary is : " +  str(res))
     
     
     file_name = 'videos.json'
