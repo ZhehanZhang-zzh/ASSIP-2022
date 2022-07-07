@@ -10,6 +10,7 @@
 import argparse
 import json
 import numpy as np
+import pandas as pd
 
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
@@ -68,7 +69,10 @@ def youtube_search(options):
        json.dump(z, f, indent = 4)
     
     print('file dumped')
+    
 
+    data = read_json("videos.json")
+    pd.json_normalize(data.values())
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
