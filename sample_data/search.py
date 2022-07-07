@@ -9,8 +9,12 @@
 
 import argparse
 import json
+<<<<<<< HEAD
 import numpy as np
 import pprint
+=======
+import pandas as pd
+>>>>>>> 4556a61e4fb8c462391a9a31788ed5020cfdbb63
 
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
@@ -21,14 +25,17 @@ from googleapiclient.errors import HttpError
 #   https://cloud.google.com/console
 # Please ensure that you have enabled the YouTube Data API for your project.
 
+<<<<<<< HEAD
 DEVELOPER_KEY = 'AIzaSyAbWGcBtMde4dZs-kZr3-3qlIYu8-4xATM'
+=======
+DEVELOPER_KEY = 'AIzaSyC_Z_VCyF6j8nWrVEtgG2WmBW3tHOwyx9A'
+>>>>>>> 4556a61e4fb8c462391a9a31788ed5020cfdbb63
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 
 def youtube_search(options):
     youtube = build(YOUTUBE_API_SERVICE_NAME, YOUTUBE_API_VERSION,
     developerKey=DEVELOPER_KEY)
-
     # Call the search.list method to retrieve results matching the specified
     # query term.
     search_response = youtube.search().list(
@@ -38,12 +45,18 @@ def youtube_search(options):
     ).execute()
 
     videos = {}
+<<<<<<< HEAD
     # stat_names = ['title', 'videoId', 'channelId', 'channelTitle', 'viewCount', 'likeCount', 'favorite count', 'commentCount']
     # Add each result to the appropriate list, and then display the lists of
     # matching videos, channels, and playlists.
     i=0
 
     for search_result in search_response.get('items'):
+=======
+    i=0
+
+    for search_result in search_response.get('items', []):
+>>>>>>> 4556a61e4fb8c462391a9a31788ed5020cfdbb63
 
         if search_result['id']['kind'] == 'youtube#video':
             
@@ -52,19 +65,29 @@ def youtube_search(options):
                 part='statistics,contentDetails,liveStreamingDetails,localizations,snippet,player,recordingDetails,snippet,status,topicDetails'
             ).execute()
 
+<<<<<<< HEAD
             videos[i] = search_response3.get('items',[])[0]
+=======
+            videos[i] = search_response3.get('items',[])
+>>>>>>> 4556a61e4fb8c462391a9a31788ed5020cfdbb63
         else: 
             videos[i] = search_result
 
         i = i+1
 
     res = videos
+<<<<<<< HEAD
     # print ("stat names length: " + str(len(stat_names)))
+=======
+>>>>>>> 4556a61e4fb8c462391a9a31788ed5020cfdbb63
     print ("videos length: " + str(len(videos)))
-    #print ("Resultant dictionary is : " +  str(res))
     
     
+<<<<<<< HEAD
     file_name = 'beauty_fenty.json'
+=======
+    file_name = 'game_phasmophobia.json'
+>>>>>>> 4556a61e4fb8c462391a9a31788ed5020cfdbb63
     import os
 
     # check if size of file is 0
@@ -74,7 +97,14 @@ def youtube_search(options):
        json.dump(z, f, indent = 4)
     
     print('file dumped')
+<<<<<<< HEAD
 
+=======
+    
+
+    data = pd.read_json("game_phasmophobia.json")
+    pd.json_normalize(data.values())
+>>>>>>> 4556a61e4fb8c462391a9a31788ed5020cfdbb63
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
