@@ -40,7 +40,7 @@ def youtube_search(options):
         part='brandingSettings,contentDetails,contentOwnerDetails,id,localizations,snippet,statistics,status,topicDetails'
     ).execute()
 
-    channels[i] = search_response.get('items',[])
+    channels[i] = search_response.get('items',[])[0]
     i = i + 1
 
     

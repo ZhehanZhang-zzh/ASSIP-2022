@@ -43,7 +43,7 @@ def youtube_search(options):
     # matching videos, channels, and playlists.
     i=0
 
-    for search_result in search_response.get('items', []):
+    for search_result in search_response.get('items'):
 
         if search_result['id']['kind'] == 'youtube#video':
             
@@ -52,9 +52,9 @@ def youtube_search(options):
                 part='statistics,contentDetails,liveStreamingDetails,localizations,snippet,player,recordingDetails,snippet,status,topicDetails'
             ).execute()
 
-            videos[i] = search_response3.get('items',[])
+            videos[i] = search_response3.get('items',[])[0]
         else: 
-            videos[i] = search_result
+            videos[i] = search_result[0]
 
         i = i+1
 

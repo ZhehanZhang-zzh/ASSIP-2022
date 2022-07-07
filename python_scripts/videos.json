@@ -1,531 +1,521 @@
 {
-    "0": [
-        {
-            "kind": "youtube#video",
-            "etag": "8c4Ie8eMEEDlIVO-YDvw5blobY8",
-            "id": "vCL2Inb7iwk",
-            "snippet": {
-                "publishedAt": "2022-07-05T23:46:47Z",
-                "channelId": "UCsXYYt9hmwvaIl6v73JHKWw",
+    "0": {
+        "kind": "youtube#video",
+        "etag": "gYrVGVqgnpPS0DmvkS-sngUMXuM",
+        "id": "vCL2Inb7iwk",
+        "snippet": {
+            "publishedAt": "2022-07-05T23:46:47Z",
+            "channelId": "UCsXYYt9hmwvaIl6v73JHKWw",
+            "title": "Is Surfing Malibu Worth the Crowd Factor?",
+            "description": "Would you surf it?\nIt's no secret that Malibu (Surfrider Beach) gets crowded but do days like this make it worth it? \nI headed to Malibu on Friday July 1st, 2022 for the holiday weekend swell. \nOne of the key factors that makes Malibu so crowded is the wave.  It's basically a fun wave for every type of surfer making it accessible to everyone. It's a non-discriminating wave. \nThanks for watching.  I'm Brad Jacobson and I'll see you on the sand. \nMusic: Lucas Pitman and the last song is OTE.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/vCL2Inb7iwk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/vCL2Inb7iwk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/vCL2Inb7iwk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Brad Jacobson",
+            "tags": [
+                "malibu",
+                "surfing malibu",
+                "surfing",
+                "brad jacobson",
+                "malibu beach",
+                "surf"
+            ],
+            "categoryId": "17",
+            "liveBroadcastContent": "none",
+            "localized": {
                 "title": "Is Surfing Malibu Worth the Crowd Factor?",
-                "description": "Would you surf it?\nIt's no secret that Malibu (Surfrider Beach) gets crowded but do days like this make it worth it? \nI headed to Malibu on Friday July 1st, 2022 for the holiday weekend swell. \nOne of the key factors that makes Malibu so crowded is the wave.  It's basically a fun wave for every type of surfer making it accessible to everyone. It's a non-discriminating wave. \nThanks for watching.  I'm Brad Jacobson and I'll see you on the sand. \nMusic: Lucas Pitman and the last song is OTE.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/vCL2Inb7iwk/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/vCL2Inb7iwk/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/vCL2Inb7iwk/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Brad Jacobson",
-                "tags": [
-                    "malibu",
-                    "surfing malibu",
-                    "surfing",
-                    "brad jacobson",
-                    "malibu beach",
-                    "surf"
-                ],
-                "categoryId": "17",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "Is Surfing Malibu Worth the Crowd Factor?",
-                    "description": "Would you surf it?\nIt's no secret that Malibu (Surfrider Beach) gets crowded but do days like this make it worth it? \nI headed to Malibu on Friday July 1st, 2022 for the holiday weekend swell. \nOne of the key factors that makes Malibu so crowded is the wave.  It's basically a fun wave for every type of surfer making it accessible to everyone. It's a non-discriminating wave. \nThanks for watching.  I'm Brad Jacobson and I'll see you on the sand. \nMusic: Lucas Pitman and the last song is OTE."
-                },
-                "defaultAudioLanguage": "en"
+                "description": "Would you surf it?\nIt's no secret that Malibu (Surfrider Beach) gets crowded but do days like this make it worth it? \nI headed to Malibu on Friday July 1st, 2022 for the holiday weekend swell. \nOne of the key factors that makes Malibu so crowded is the wave.  It's basically a fun wave for every type of surfer making it accessible to everyone. It's a non-discriminating wave. \nThanks for watching.  I'm Brad Jacobson and I'll see you on the sand. \nMusic: Lucas Pitman and the last song is OTE."
             },
-            "contentDetails": {
-                "duration": "PT11M4S",
-                "dimension": "2d",
-                "definition": "hd",
-                "caption": "false",
-                "licensedContent": true,
-                "contentRating": {},
-                "projection": "rectangular"
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT11M4S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "5460",
+            "likeCount": "152",
+            "favoriteCount": "0",
+            "commentCount": "52"
+        },
+        "player": {
+            "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/vCL2Inb7iwk\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+        },
+        "topicDetails": {
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "recordingDetails": {
+            "locationDescription": "Malibu",
+            "location": {
+                "latitude": 34.0259216,
+                "longitude": -118.7797571,
+                "altitude": 0
             },
-            "status": {
-                "uploadStatus": "processed",
-                "privacyStatus": "public",
-                "license": "youtube",
-                "embeddable": true,
-                "publicStatsViewable": true,
-                "madeForKids": false
-            },
-            "statistics": {
-                "viewCount": "3593",
-                "likeCount": "122",
-                "favoriteCount": "0",
-                "commentCount": "44"
-            },
-            "player": {
-                "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/vCL2Inb7iwk\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
-            },
-            "topicDetails": {
-                "topicCategories": [
-                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
-                ]
-            },
-            "recordingDetails": {
-                "locationDescription": "Malibu",
-                "location": {
-                    "latitude": 34.0259216,
-                    "longitude": -118.7797571,
-                    "altitude": 0
-                },
-                "recordingDate": "2022-07-01T00:00:00Z"
-            }
+            "recordingDate": "2022-07-01T00:00:00Z"
         }
-    ],
-    "1": [
-        {
-            "kind": "youtube#video",
-            "etag": "zeNV2dNW5M5juzmD_XCc_1ZXvwM",
-            "id": "il_MaXXl8Iw",
-            "snippet": {
-                "publishedAt": "2022-07-04T19:00:24Z",
-                "channelId": "UCo_q6aOlvPH7M-j_XGWVgXg",
+    },
+    "1": {
+        "kind": "youtube#video",
+        "etag": "aRdv2P_bZnc-eQ8IwPhhBGJnkok",
+        "id": "il_MaXXl8Iw",
+        "snippet": {
+            "publishedAt": "2022-07-04T19:00:24Z",
+            "channelId": "UCo_q6aOlvPH7M-j_XGWVgXg",
+            "title": "PIPELINE - BIGGEST AND BEST WIPEOUTS!! WINTER 2022",
+            "description": "- STAY PSYCHED MERCHANDISE: https://www.jamieobrienshop.com\n\n- JAMIE O'BRIEN SURF SCHOOL TURTLE BAY HAWAII\n https://www.jobsurfexperience.com/\n\n- CATCH SURF JOB COLLECTION: https:https://catchsurf.com/collections/jamie-obrien-collection\n- BUELL WETSUITS JOB COLLECTION: https://buellsurf.com/collections/job-collection?ref=job\n- BLENDERS EYEWEAR\nhttps://www.blenderseyewear.com/?rfsn=5208522.312d03&utm_source=refersion&utm_medium=affiliate&utm_campaign=5208522.312d03\n- MURF BIKES https://murfelectricbikes.com/pages/job\n- CARVER SKATEBOARDS https://carverskateboards.com/search.php?search_query=jamie%20o%27brien&section=product\n\nOUR MOST POPULAR VIDEOS:\n- STORM DRAIN SURFING https://www.youtube.com/watch?v=29dL2hztP8A&t=29s\n- DANGEROUS SEWER DRAIN SURFING! https://www.youtube.com/watch?v=2nX5Sjsd5To\n- ALL TIME WAIMEA RIVER SURFING https://www.youtube.com/watch?v=wJUfu4ZjlnE\n- Couch Surfing Giant Shorebreak https://www.youtube.com/watch?v=i2HZDQ9JaQc\n- I ALMOST DIED AT PIPELINE https://www.youtube.com/watch?v=vQsTP1X5W00\n\nFOLLOW US:\nhttps://www.instagram.com/WHOISJOB/\nhttps://www.instagram.com/SYNCITY/\nhttps://www.instagram.com/TINA.COHEN/\n\n\nFILMERS:\nhttps://www.instagram.com/BILLYJAWNN/\nhttps://www.instagram.com/JACOBTMOSS/\n\n\nEDITOR:\nhttps://www.instagram.com/BILLYJAWNN/",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/il_MaXXl8Iw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/il_MaXXl8Iw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/il_MaXXl8Iw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Jamie O'Brien",
+            "tags": [
+                "JAMIE OBRIEN",
+                "wipeouts",
+                "PIPELINE",
+                "PIPELINE MASTERS",
+                "surfing",
+                "surf trip",
+                "redbull surfing",
+                "wsl",
+                "catch surf",
+                "pro surfer",
+                "surfing videos",
+                "big waves",
+                "big wave surfing",
+                "redbull",
+                "vlog",
+                "kelly slater",
+                "john john florence",
+                "travel",
+                "surfline",
+                "jamie obrien",
+                "hawaii",
+                "river",
+                "river surfing",
+                "REDBULL",
+                "pipeline masters",
+                "Waimea bay",
+                "Big waves",
+                "ITALO FERREIRA",
+                "pipeline cam",
+                "HUGE WAVES",
+                "waimea shorebreak",
+                "river break",
+                "best wipeouts 2022",
+                "surfing wipeouts"
+            ],
+            "categoryId": "17",
+            "liveBroadcastContent": "none",
+            "localized": {
                 "title": "PIPELINE - BIGGEST AND BEST WIPEOUTS!! WINTER 2022",
-                "description": "- STAY PSYCHED MERCHANDISE: https://www.jamieobrienshop.com\n\n- JAMIE O'BRIEN SURF SCHOOL TURTLE BAY HAWAII\n https://www.jobsurfexperience.com/\n\n- CATCH SURF JOB COLLECTION: https:https://catchsurf.com/collections/jamie-obrien-collection\n- BUELL WETSUITS JOB COLLECTION: https://buellsurf.com/collections/job-collection?ref=job\n- BLENDERS EYEWEAR\nhttps://www.blenderseyewear.com/?rfsn=5208522.312d03&utm_source=refersion&utm_medium=affiliate&utm_campaign=5208522.312d03\n- MURF BIKES https://murfelectricbikes.com/pages/job\n- CARVER SKATEBOARDS https://carverskateboards.com/search.php?search_query=jamie%20o%27brien&section=product\n\nOUR MOST POPULAR VIDEOS:\n- STORM DRAIN SURFING https://www.youtube.com/watch?v=29dL2hztP8A&t=29s\n- DANGEROUS SEWER DRAIN SURFING! https://www.youtube.com/watch?v=2nX5Sjsd5To\n- ALL TIME WAIMEA RIVER SURFING https://www.youtube.com/watch?v=wJUfu4ZjlnE\n- Couch Surfing Giant Shorebreak https://www.youtube.com/watch?v=i2HZDQ9JaQc\n- I ALMOST DIED AT PIPELINE https://www.youtube.com/watch?v=vQsTP1X5W00\n\nFOLLOW US:\nhttps://www.instagram.com/WHOISJOB/\nhttps://www.instagram.com/SYNCITY/\nhttps://www.instagram.com/TINA.COHEN/\n\n\nFILMERS:\nhttps://www.instagram.com/BILLYJAWNN/\nhttps://www.instagram.com/JACOBTMOSS/\n\n\nEDITOR:\nhttps://www.instagram.com/BILLYJAWNN/",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/il_MaXXl8Iw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/il_MaXXl8Iw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/il_MaXXl8Iw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Jamie O'Brien",
-                "tags": [
-                    "JAMIE OBRIEN",
-                    "wipeouts",
-                    "PIPELINE",
-                    "PIPELINE MASTERS",
-                    "surfing",
-                    "surf trip",
-                    "redbull surfing",
-                    "wsl",
-                    "catch surf",
-                    "pro surfer",
-                    "surfing videos",
-                    "big waves",
-                    "big wave surfing",
-                    "redbull",
-                    "vlog",
-                    "kelly slater",
-                    "john john florence",
-                    "travel",
-                    "surfline",
-                    "jamie obrien",
-                    "hawaii",
-                    "river",
-                    "river surfing",
-                    "REDBULL",
-                    "pipeline masters",
-                    "Waimea bay",
-                    "Big waves",
-                    "ITALO FERREIRA",
-                    "pipeline cam",
-                    "HUGE WAVES",
-                    "waimea shorebreak",
-                    "river break",
-                    "best wipeouts 2022",
-                    "surfing wipeouts"
-                ],
-                "categoryId": "17",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "PIPELINE - BIGGEST AND BEST WIPEOUTS!! WINTER 2022",
-                    "description": "- STAY PSYCHED MERCHANDISE: https://www.jamieobrienshop.com\n\n- JAMIE O'BRIEN SURF SCHOOL TURTLE BAY HAWAII\n https://www.jobsurfexperience.com/\n\n- CATCH SURF JOB COLLECTION: https:https://catchsurf.com/collections/jamie-obrien-collection\n- BUELL WETSUITS JOB COLLECTION: https://buellsurf.com/collections/job-collection?ref=job\n- BLENDERS EYEWEAR\nhttps://www.blenderseyewear.com/?rfsn=5208522.312d03&utm_source=refersion&utm_medium=affiliate&utm_campaign=5208522.312d03\n- MURF BIKES https://murfelectricbikes.com/pages/job\n- CARVER SKATEBOARDS https://carverskateboards.com/search.php?search_query=jamie%20o%27brien&section=product\n\nOUR MOST POPULAR VIDEOS:\n- STORM DRAIN SURFING https://www.youtube.com/watch?v=29dL2hztP8A&t=29s\n- DANGEROUS SEWER DRAIN SURFING! https://www.youtube.com/watch?v=2nX5Sjsd5To\n- ALL TIME WAIMEA RIVER SURFING https://www.youtube.com/watch?v=wJUfu4ZjlnE\n- Couch Surfing Giant Shorebreak https://www.youtube.com/watch?v=i2HZDQ9JaQc\n- I ALMOST DIED AT PIPELINE https://www.youtube.com/watch?v=vQsTP1X5W00\n\nFOLLOW US:\nhttps://www.instagram.com/WHOISJOB/\nhttps://www.instagram.com/SYNCITY/\nhttps://www.instagram.com/TINA.COHEN/\n\n\nFILMERS:\nhttps://www.instagram.com/BILLYJAWNN/\nhttps://www.instagram.com/JACOBTMOSS/\n\n\nEDITOR:\nhttps://www.instagram.com/BILLYJAWNN/"
-                },
-                "defaultAudioLanguage": "en"
+                "description": "- STAY PSYCHED MERCHANDISE: https://www.jamieobrienshop.com\n\n- JAMIE O'BRIEN SURF SCHOOL TURTLE BAY HAWAII\n https://www.jobsurfexperience.com/\n\n- CATCH SURF JOB COLLECTION: https:https://catchsurf.com/collections/jamie-obrien-collection\n- BUELL WETSUITS JOB COLLECTION: https://buellsurf.com/collections/job-collection?ref=job\n- BLENDERS EYEWEAR\nhttps://www.blenderseyewear.com/?rfsn=5208522.312d03&utm_source=refersion&utm_medium=affiliate&utm_campaign=5208522.312d03\n- MURF BIKES https://murfelectricbikes.com/pages/job\n- CARVER SKATEBOARDS https://carverskateboards.com/search.php?search_query=jamie%20o%27brien&section=product\n\nOUR MOST POPULAR VIDEOS:\n- STORM DRAIN SURFING https://www.youtube.com/watch?v=29dL2hztP8A&t=29s\n- DANGEROUS SEWER DRAIN SURFING! https://www.youtube.com/watch?v=2nX5Sjsd5To\n- ALL TIME WAIMEA RIVER SURFING https://www.youtube.com/watch?v=wJUfu4ZjlnE\n- Couch Surfing Giant Shorebreak https://www.youtube.com/watch?v=i2HZDQ9JaQc\n- I ALMOST DIED AT PIPELINE https://www.youtube.com/watch?v=vQsTP1X5W00\n\nFOLLOW US:\nhttps://www.instagram.com/WHOISJOB/\nhttps://www.instagram.com/SYNCITY/\nhttps://www.instagram.com/TINA.COHEN/\n\n\nFILMERS:\nhttps://www.instagram.com/BILLYJAWNN/\nhttps://www.instagram.com/JACOBTMOSS/\n\n\nEDITOR:\nhttps://www.instagram.com/BILLYJAWNN/"
             },
-            "contentDetails": {
-                "duration": "PT18M22S",
-                "dimension": "2d",
-                "definition": "hd",
-                "caption": "false",
-                "licensedContent": true,
-                "contentRating": {},
-                "projection": "rectangular"
-            },
-            "status": {
-                "uploadStatus": "processed",
-                "privacyStatus": "public",
-                "license": "youtube",
-                "embeddable": true,
-                "publicStatsViewable": true,
-                "madeForKids": false
-            },
-            "statistics": {
-                "viewCount": "56228",
-                "likeCount": "2128",
-                "favoriteCount": "0",
-                "commentCount": "196"
-            },
-            "player": {
-                "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/il_MaXXl8Iw\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
-            },
-            "topicDetails": {
-                "topicCategories": [
-                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
-                ]
-            },
-            "recordingDetails": {
-                "locationDescription": "Hawaii",
-                "location": {
-                    "latitude": 19.8967662,
-                    "longitude": -155.5827818,
-                    "altitude": 0
-                }
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT18M22S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "66088",
+            "likeCount": "2292",
+            "favoriteCount": "0",
+            "commentCount": "203"
+        },
+        "player": {
+            "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/il_MaXXl8Iw\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+        },
+        "topicDetails": {
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "recordingDetails": {
+            "locationDescription": "Hawaii",
+            "location": {
+                "latitude": 19.8967662,
+                "longitude": -155.5827818,
+                "altitude": 0
             }
         }
-    ],
-    "2": [
-        {
-            "kind": "youtube#video",
-            "etag": "cVUxwJxGVoCFLqgvgzBQxYjhLV0",
-            "id": "eSWST13stO4",
-            "snippet": {
-                "publishedAt": "2022-03-27T15:00:32Z",
-                "channelId": "UCVo06dBGK9VBBhq15wJxZHQ",
-                "title": "\ud83d\udd354k (ASMR) 10 Hour Store Loop - Hawaii Surfing - With Relaxing Music\u2611\ufe0f",
-                "description": "Waves of the World Filmers:\nChris Kincade: https://www.instagram.com/chriskincade.wotw \nAndre Botha: https://www.instagram.com/andre_botha_662 \nJustin Mack: https://www.instagram.com/jmack808 \nJr Maosi: https://www.instagram.com/jrmaosi\nAndy Potts: https://www.instagram.com/apotts\nBoris Martinet: https://www.instagram.com/bogus689\nSteven Tiralongo: https://www.instagram.com/stories/tiralongo\n\ud83d\udd354k (ASMR) 10 Hour Store Loop - Hawaii Surfing - With Relaxing Music\u2611\ufe0f\n\ud83d\udcbb Connect with Waves of the World on social media:\nFacebook \u25b6\ufe0f https://www.facebook.com/groups/wavesoftheworld\nInstagram \u25b6\ufe0f https://www.instagram.com/chriskincade.wotw/\nThe reef at Pipe is a flat tabletop reef, with several caverns on the inside, creating a giant air bubble that pops on the front of the wave when the wave lurches upwards just before breaking.[3] There are also several jagged, underwater lava spires that can injure fallen surfers. When sand accumulates on the reef at Pipeline, the waves can become unpredictable and violently \"close out,\" (break all at once instead of peeling in a way that allows a surfer to ride the wave). A strong swell (a formation of long-wavelength surface waves) from the west clears out the sand in the reef, and after that, a strong north swell can give rise to the best waves.[4]\n\nThere are four waves associated with Pipeline. The left (which means the wave breaks from left to right from the perspective of a watcher on shore) known as Pipeline (a.k.a. First Reef) is the most commonly surfed and photographed. When the reef is hit by a north swell, the peak (the highest tipping-point of the wave where it begins to curl) becomes an A-frame shaped wave, with Pipe closing out a bit and peeling off left, and the equally famous Backdoor Pipeline peeling away to the right at the same time. As the size at Pipe increases, over 12 feet usually, Second Reef on the outside (further out into the deeper ocean waters) starts breaking, with longer walls (the unbroken face of the wave that the surfer slides across), and more size. At an extreme size, an area called Third Reef even further outside starts to break with giant waves.[5]\n\nSurfers\nNumerous surfers and photographers have been killed at Pipeline, including Jon Mozo and Tahitian Malik Joyeux, who was famous for his heavy charging (gutsy surfing) at Teahupo'o.[6] Many people have died or been seriously injured at Pipeline. Pipeline has been called one of the world's deadliest waves.[7] Its average wave is 9 feet (3 m), but it can be as tall as 20 feet.[8] Especially perilous are sections of shallow reef known as \"Off the Wall\" and \"Backdoor\".[9]\n\nA few of the notable surfers at Pipeline are Phil Edwards (surfer) (who is credited as the first person to surf it),[10] Butch Van Artsdalen, Gerry Lopez, Mike Stewart, Shaun Tomson, Mark Richards, Wayne 'Rabbit' Bartholomew, Peter Townend, Michael Ho, Simon Anderson, Tom Carroll, Sunny Garcia, Kelly Slater, Danny Fuller, Jamie O'Brien, Rob Machado, Andy Irons, Mick Fanning, Gabriel Medina, John John Florence and Italo Ferreira.[11][12][13]\n\nCompetitions\nThe top surfing competitions at this spot include the Pipe Masters (board surfing), the Volcom Pipe Pro, the IBA Pipeline Pro (bodyboarding), and the Pipeline Bodysurfing Classic.[14] Surfers can also submit videos to Surfline's Wave of the Winter competition. The competition focuses on beaches on Oahu's north shore, including Pipeline.[15]\n\ud83d\udcacLet me know what you thought of today's video comment section down below.  \n\n\u2728  And if you like this video, consider subscribing to Waves of the World using this Link! \u2935\ufe0f\nhttps://www.youtube.com/channel/UCVo06dBGK9VBBhq15wJxZHQ?sub_confirmation=1\n\nThank you for watching!! \n\n********************\n\ud83c\udfa5 Welcome and Aloha to the Official Youtube Channel of Chris Kincade Media - Waves of the World \ud83c\udfac\n\nDo you like watching relaxing surfing videos, with soothing music and ocean sounds in the background? \ud83c\udfc4\u200d\u2642\ufe0f If so, you\u2019ve come to the right channel!\n\n\u27a1\ufe0f My name is Chris Kincade and my videos focus primarily on surfing, bodyboarding, and lifestyle. Videos are shot at the best surfing spots around the world and are accompanied by relaxing music and ocean sounds. \n\nYou can put my videos in the background and listen to them while you do your work or study.  My videos can also be played in the background of offices, stores, and restaurants. Or, you can simply mute the videos and watch the surfing compilations. \ud83d\uddc3\nSubscribe to my channel to stay up to date and hit the bell to never miss a video! \ud83d\udd14\n********************\nAnd don\u2019t forget to check out our website:\n\ud83d\udcbb www.chriskincade.com\n********************\n#10HourStoreLoop#ASMR#Surfing#ChrisKincadeMedia",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/eSWST13stO4/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/eSWST13stO4/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/eSWST13stO4/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/eSWST13stO4/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/eSWST13stO4/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
+    },
+    "2": {
+        "kind": "youtube#video",
+        "etag": "UfiW2WQbKNyZ84kQVgQkcSW_MYQ",
+        "id": "c6lU-xYRjFA",
+        "snippet": {
+            "publishedAt": "2022-03-28T18:58:35Z",
+            "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+            "title": "The World Loves Surfing | Best Of Red Bull Surfing 2021",
+            "description": "What a year. 2021 was packed to the gills with everything the surfing world has to offer. Whether it be world title races, the biggest Teahupoo in recent memory or JOB charging pipeline on 5 inches of foam, 2021 surely had Its aquatic moments in the sun. Not to forget moments from life on tour with Caroline Marks and Kanoa Igarashi or Indonesian perfection from Kolohe Andino and Bronson Meydi. We think we can speak for the masses when we say 2021 shined a lot brighter all around than 2020\n\nChapters:\n\n00:00 - 00:20 - Intro\n\n00:21 - 01:47 - Sessions\n\n01:48 - 02:28 - Life of Kai\n\n02:29 - 03:58 - Following\n\n03:59 - 04:58 - No Contest\n\n04:59 - 06:09 - People Watching\n\n06:10 - 06:43 - That\u2019s Caroline\n\n06:44 - 06:51 - Searching Peru\n\n06:52 - 07:10 - Wild Beauty\n\n07:11 - 07:54 - Shaping Jordy\n\n07:55 - 08:34 - Reckless Isolation\n\n08:35 - 08:59 - Becoming Bronson\n\n09:00 - 09:32 - The Curious Tales of Italo Ferreira\n\nDive in now for a full look at the edits we've sampled in the 2021 Best of Surf clip:\n\nSESSIONS: https://win.gs/3i9d1px\n\nLIFE OF KAI | SEASON 2: https://win.gs/LifeOfKaiSeason2\n\nFOLLOWING: http://win.gs/Following\n\nCHAPTERS | KANOA IGARASHI: https://win.gs/Chapters\n\nNO CONTEST: https://win.gs/3I6OhZH\n\nPEOPLE WATCHING: http://win.gs/PeopleWatching\n\nNO SMALL FEAT: https://win.gs/34I02YI\n\nTHAT'S CAROLINE: https://win.gs/3IcR3fK\n\nSEARCHING PERU: https://win.gs/SearchingPeruFilm\n\nMATHEA OLIN: WILD BEAUTY http://win.gs/WildBeauty\n\nRECKLESS ISOLATION: http://win.gs/RecklessIsolation\n\nBECOMING BRONSON: https://win.gs/3HJV0tp\n\nTHE CURIOUS TALES OF ITALO FERREIRA: https://win.gs/3iqGawJ\n\n___\r\n\r\nExperience the world of Red Bull like you have never seen it before. With the best action sports clips on the web and original series, prepare for your \"stoke factor\" to be at an all time high.\r\n\r\nSubscribe to Red Bull Surfing on Youtube: https://win.gs/SubToRedBullSurfing\r\n\r\nGet the FREE Red Bull TV apps for all your devices: http://onelink.to/yfbct7\r\n\r\nWatch Red Bull TV: http://win.gs/WatchRBTV\r\n\r\nRed Bull on Facebook: http://win.gs/redbullfb\r\n\r\nRed Bull on Instagram: http://win.gs/RedBullInstagram\n\n#RedBullSurfing #Surfing #RBSurfing",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/c6lU-xYRjFA/default.jpg",
+                    "width": 120,
+                    "height": 90
                 },
-                "channelTitle": "Chris Kincade Media - Waves of the World ",
-                "tags": [
-                    "Hawaii",
-                    "Bodyboarding",
-                    "Surfing",
-                    "Oahu",
-                    "ChrisKincade",
-                    "Trending",
-                    "waves of the world",
-                    "store loop",
-                    "hawaii vlog",
-                    "surfing big waves",
-                    "surfing videos",
-                    "ocean sounds",
-                    "banzai pipeline",
-                    "slow motion",
-                    "surf pipeline",
-                    "hawaii pipeline surfing",
-                    "big wave surfing",
-                    "10 hour store loop",
-                    "pipeline hawaii",
-                    "big waves",
-                    "relaxing sounds for sleep",
-                    "4k asmr",
-                    "4k surfing",
-                    "4k 60",
-                    "4k video",
-                    "hawaii vlog 2021",
-                    "hawaii vlog 2022",
-                    "hawaii vlog oahu",
-                    "4k 60fps movie scene",
-                    "10 HOUR SURFING VIDEO",
-                    "4K SURFING VIDEO",
-                    "WHOISJOB"
-                ],
-                "categoryId": "24",
-                "liveBroadcastContent": "none",
-                "defaultLanguage": "en-US",
-                "localized": {
-                    "title": "\ud83d\udd354k (ASMR) 10 Hour Store Loop - Hawaii Surfing - With Relaxing Music\u2611\ufe0f",
-                    "description": "Waves of the World Filmers:\nChris Kincade: https://www.instagram.com/chriskincade.wotw \nAndre Botha: https://www.instagram.com/andre_botha_662 \nJustin Mack: https://www.instagram.com/jmack808 \nJr Maosi: https://www.instagram.com/jrmaosi\nAndy Potts: https://www.instagram.com/apotts\nBoris Martinet: https://www.instagram.com/bogus689\nSteven Tiralongo: https://www.instagram.com/stories/tiralongo\n\ud83d\udd354k (ASMR) 10 Hour Store Loop - Hawaii Surfing - With Relaxing Music\u2611\ufe0f\n\ud83d\udcbb Connect with Waves of the World on social media:\nFacebook \u25b6\ufe0f https://www.facebook.com/groups/wavesoftheworld\nInstagram \u25b6\ufe0f https://www.instagram.com/chriskincade.wotw/\nThe reef at Pipe is a flat tabletop reef, with several caverns on the inside, creating a giant air bubble that pops on the front of the wave when the wave lurches upwards just before breaking.[3] There are also several jagged, underwater lava spires that can injure fallen surfers. When sand accumulates on the reef at Pipeline, the waves can become unpredictable and violently \"close out,\" (break all at once instead of peeling in a way that allows a surfer to ride the wave). A strong swell (a formation of long-wavelength surface waves) from the west clears out the sand in the reef, and after that, a strong north swell can give rise to the best waves.[4]\n\nThere are four waves associated with Pipeline. The left (which means the wave breaks from left to right from the perspective of a watcher on shore) known as Pipeline (a.k.a. First Reef) is the most commonly surfed and photographed. When the reef is hit by a north swell, the peak (the highest tipping-point of the wave where it begins to curl) becomes an A-frame shaped wave, with Pipe closing out a bit and peeling off left, and the equally famous Backdoor Pipeline peeling away to the right at the same time. As the size at Pipe increases, over 12 feet usually, Second Reef on the outside (further out into the deeper ocean waters) starts breaking, with longer walls (the unbroken face of the wave that the surfer slides across), and more size. At an extreme size, an area called Third Reef even further outside starts to break with giant waves.[5]\n\nSurfers\nNumerous surfers and photographers have been killed at Pipeline, including Jon Mozo and Tahitian Malik Joyeux, who was famous for his heavy charging (gutsy surfing) at Teahupo'o.[6] Many people have died or been seriously injured at Pipeline. Pipeline has been called one of the world's deadliest waves.[7] Its average wave is 9 feet (3 m), but it can be as tall as 20 feet.[8] Especially perilous are sections of shallow reef known as \"Off the Wall\" and \"Backdoor\".[9]\n\nA few of the notable surfers at Pipeline are Phil Edwards (surfer) (who is credited as the first person to surf it),[10] Butch Van Artsdalen, Gerry Lopez, Mike Stewart, Shaun Tomson, Mark Richards, Wayne 'Rabbit' Bartholomew, Peter Townend, Michael Ho, Simon Anderson, Tom Carroll, Sunny Garcia, Kelly Slater, Danny Fuller, Jamie O'Brien, Rob Machado, Andy Irons, Mick Fanning, Gabriel Medina, John John Florence and Italo Ferreira.[11][12][13]\n\nCompetitions\nThe top surfing competitions at this spot include the Pipe Masters (board surfing), the Volcom Pipe Pro, the IBA Pipeline Pro (bodyboarding), and the Pipeline Bodysurfing Classic.[14] Surfers can also submit videos to Surfline's Wave of the Winter competition. The competition focuses on beaches on Oahu's north shore, including Pipeline.[15]\n\ud83d\udcacLet me know what you thought of today's video comment section down below.  \n\n\u2728  And if you like this video, consider subscribing to Waves of the World using this Link! \u2935\ufe0f\nhttps://www.youtube.com/channel/UCVo06dBGK9VBBhq15wJxZHQ?sub_confirmation=1\n\nThank you for watching!! \n\n********************\n\ud83c\udfa5 Welcome and Aloha to the Official Youtube Channel of Chris Kincade Media - Waves of the World \ud83c\udfac\n\nDo you like watching relaxing surfing videos, with soothing music and ocean sounds in the background? \ud83c\udfc4\u200d\u2642\ufe0f If so, you\u2019ve come to the right channel!\n\n\u27a1\ufe0f My name is Chris Kincade and my videos focus primarily on surfing, bodyboarding, and lifestyle. Videos are shot at the best surfing spots around the world and are accompanied by relaxing music and ocean sounds. \n\nYou can put my videos in the background and listen to them while you do your work or study.  My videos can also be played in the background of offices, stores, and restaurants. Or, you can simply mute the videos and watch the surfing compilations. \ud83d\uddc3\nSubscribe to my channel to stay up to date and hit the bell to never miss a video! \ud83d\udd14\n********************\nAnd don\u2019t forget to check out our website:\n\ud83d\udcbb www.chriskincade.com\n********************\n#10HourStoreLoop#ASMR#Surfing#ChrisKincadeMedia"
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/c6lU-xYRjFA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
                 },
-                "defaultAudioLanguage": "en"
-            },
-            "contentDetails": {
-                "duration": "PT10H32S",
-                "dimension": "2d",
-                "definition": "hd",
-                "caption": "false",
-                "licensedContent": true,
-                "contentRating": {},
-                "projection": "rectangular"
-            },
-            "status": {
-                "uploadStatus": "processed",
-                "privacyStatus": "public",
-                "license": "youtube",
-                "embeddable": true,
-                "publicStatsViewable": true,
-                "madeForKids": false
-            },
-            "statistics": {
-                "viewCount": "55684",
-                "likeCount": "243",
-                "favoriteCount": "0",
-                "commentCount": "11"
-            },
-            "player": {
-                "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/eSWST13stO4\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
-            },
-            "topicDetails": {
-                "topicCategories": [
-                    "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
-                ]
-            },
-            "recordingDetails": {},
-            "localizations": {
-                "en-US": {
-                    "title": "\ud83d\udd354k (ASMR) 10 Hour Store Loop - Hawaii Surfing - With Relaxing Music\u2611\ufe0f",
-                    "description": "Waves of the World Filmers:\nChris Kincade: https://www.instagram.com/chriskincade.wotw \nAndre Botha: https://www.instagram.com/andre_botha_662 \nJustin Mack: https://www.instagram.com/jmack808 \nJr Maosi: https://www.instagram.com/jrmaosi\nAndy Potts: https://www.instagram.com/apotts\nBoris Martinet: https://www.instagram.com/bogus689\nSteven Tiralongo: https://www.instagram.com/stories/tiralongo\n\ud83d\udd354k (ASMR) 10 Hour Store Loop - Hawaii Surfing - With Relaxing Music\u2611\ufe0f\n\ud83d\udcbb Connect with Waves of the World on social media:\nFacebook \u25b6\ufe0f https://www.facebook.com/groups/wavesoftheworld\nInstagram \u25b6\ufe0f https://www.instagram.com/chriskincade.wotw/\nThe reef at Pipe is a flat tabletop reef, with several caverns on the inside, creating a giant air bubble that pops on the front of the wave when the wave lurches upwards just before breaking.[3] There are also several jagged, underwater lava spires that can injure fallen surfers. When sand accumulates on the reef at Pipeline, the waves can become unpredictable and violently \"close out,\" (break all at once instead of peeling in a way that allows a surfer to ride the wave). A strong swell (a formation of long-wavelength surface waves) from the west clears out the sand in the reef, and after that, a strong north swell can give rise to the best waves.[4]\n\nThere are four waves associated with Pipeline. The left (which means the wave breaks from left to right from the perspective of a watcher on shore) known as Pipeline (a.k.a. First Reef) is the most commonly surfed and photographed. When the reef is hit by a north swell, the peak (the highest tipping-point of the wave where it begins to curl) becomes an A-frame shaped wave, with Pipe closing out a bit and peeling off left, and the equally famous Backdoor Pipeline peeling away to the right at the same time. As the size at Pipe increases, over 12 feet usually, Second Reef on the outside (further out into the deeper ocean waters) starts breaking, with longer walls (the unbroken face of the wave that the surfer slides across), and more size. At an extreme size, an area called Third Reef even further outside starts to break with giant waves.[5]\n\nSurfers\nNumerous surfers and photographers have been killed at Pipeline, including Jon Mozo and Tahitian Malik Joyeux, who was famous for his heavy charging (gutsy surfing) at Teahupo'o.[6] Many people have died or been seriously injured at Pipeline. Pipeline has been called one of the world's deadliest waves.[7] Its average wave is 9 feet (3 m), but it can be as tall as 20 feet.[8] Especially perilous are sections of shallow reef known as \"Off the Wall\" and \"Backdoor\".[9]\n\nA few of the notable surfers at Pipeline are Phil Edwards (surfer) (who is credited as the first person to surf it),[10] Butch Van Artsdalen, Gerry Lopez, Mike Stewart, Shaun Tomson, Mark Richards, Wayne 'Rabbit' Bartholomew, Peter Townend, Michael Ho, Simon Anderson, Tom Carroll, Sunny Garcia, Kelly Slater, Danny Fuller, Jamie O'Brien, Rob Machado, Andy Irons, Mick Fanning, Gabriel Medina, John John Florence and Italo Ferreira.[11][12][13]\n\nCompetitions\nThe top surfing competitions at this spot include the Pipe Masters (board surfing), the Volcom Pipe Pro, the IBA Pipeline Pro (bodyboarding), and the Pipeline Bodysurfing Classic.[14] Surfers can also submit videos to Surfline's Wave of the Winter competition. The competition focuses on beaches on Oahu's north shore, including Pipeline.[15]\n\ud83d\udcacLet me know what you thought of today's video comment section down below.  \n\n\u2728  And if you like this video, consider subscribing to Waves of the World using this Link! \u2935\ufe0f\nhttps://www.youtube.com/channel/UCVo06dBGK9VBBhq15wJxZHQ?sub_confirmation=1\n\nThank you for watching!! \n\n********************\n\ud83c\udfa5 Welcome and Aloha to the Official Youtube Channel of Chris Kincade Media - Waves of the World \ud83c\udfac\n\nDo you like watching relaxing surfing videos, with soothing music and ocean sounds in the background? \ud83c\udfc4\u200d\u2642\ufe0f If so, you\u2019ve come to the right channel!\n\n\u27a1\ufe0f My name is Chris Kincade and my videos focus primarily on surfing, bodyboarding, and lifestyle. Videos are shot at the best surfing spots around the world and are accompanied by relaxing music and ocean sounds. \n\nYou can put my videos in the background and listen to them while you do your work or study.  My videos can also be played in the background of offices, stores, and restaurants. Or, you can simply mute the videos and watch the surfing compilations. \ud83d\uddc3\nSubscribe to my channel to stay up to date and hit the bell to never miss a video! \ud83d\udd14\n********************\nAnd don\u2019t forget to check out our website:\n\ud83d\udcbb www.chriskincade.com\n********************\n#10HourStoreLoop#ASMR#Surfing#ChrisKincadeMedia"
+                "high": {
+                    "url": "https://i.ytimg.com/vi/c6lU-xYRjFA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/c6lU-xYRjFA/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/c6lU-xYRjFA/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
                 }
-            }
-        }
-    ],
-    "3": [
-        {
-            "kind": "youtube#video",
-            "etag": "TL_ScaYp9xCubCNEr109OTOGfAQ",
-            "id": "c6lU-xYRjFA",
-            "snippet": {
-                "publishedAt": "2022-03-28T18:58:35Z",
-                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+            },
+            "channelTitle": "Red Bull Surfing",
+            "tags": [
+                "red bull surfing",
+                "red bull",
+                "surf",
+                "surfing",
+                "surfboarding",
+                "big wave",
+                "waves",
+                "swell"
+            ],
+            "categoryId": "17",
+            "liveBroadcastContent": "none",
+            "localized": {
                 "title": "The World Loves Surfing | Best Of Red Bull Surfing 2021",
-                "description": "What a year. 2021 was packed to the gills with everything the surfing world has to offer. Whether it be world title races, the biggest Teahupoo in recent memory or JOB charging pipeline on 5 inches of foam, 2021 surely had Its aquatic moments in the sun. Not to forget moments from life on tour with Caroline Marks and Kanoa Igarashi or Indonesian perfection from Kolohe Andino and Bronson Meydi. We think we can speak for the masses when we say 2021 shined a lot brighter all around than 2020\n\nChapters:\n\n00:00 - 00:20 - Intro\n\n00:21 - 01:47 - Sessions\n\n01:48 - 02:28 - Life of Kai\n\n02:29 - 03:58 - Following\n\n03:59 - 04:58 - No Contest\n\n04:59 - 06:09 - People Watching\n\n06:10 - 06:43 - That\u2019s Caroline\n\n06:44 - 06:51 - Searching Peru\n\n06:52 - 07:10 - Wild Beauty\n\n07:11 - 07:54 - Shaping Jordy\n\n07:55 - 08:34 - Reckless Isolation\n\n08:35 - 08:59 - Becoming Bronson\n\n09:00 - 09:32 - The Curious Tales of Italo Ferreira\n\nDive in now for a full look at the edits we've sampled in the 2021 Best of Surf clip:\n\nSESSIONS: https://win.gs/3i9d1px\n\nLIFE OF KAI | SEASON 2: https://win.gs/LifeOfKaiSeason2\n\nFOLLOWING: http://win.gs/Following\n\nCHAPTERS | KANOA IGARASHI: https://win.gs/Chapters\n\nNO CONTEST: https://win.gs/3I6OhZH\n\nPEOPLE WATCHING: http://win.gs/PeopleWatching\n\nNO SMALL FEAT: https://win.gs/34I02YI\n\nTHAT'S CAROLINE: https://win.gs/3IcR3fK\n\nSEARCHING PERU: https://win.gs/SearchingPeruFilm\n\nMATHEA OLIN: WILD BEAUTY http://win.gs/WildBeauty\n\nRECKLESS ISOLATION: http://win.gs/RecklessIsolation\n\nBECOMING BRONSON: https://win.gs/3HJV0tp\n\nTHE CURIOUS TALES OF ITALO FERREIRA: https://win.gs/3iqGawJ\n\n___\r\n\r\nExperience the world of Red Bull like you have never seen it before. With the best action sports clips on the web and original series, prepare for your \"stoke factor\" to be at an all time high.\r\n\r\nSubscribe to Red Bull Surfing on Youtube: https://win.gs/SubToRedBullSurfing\r\n\r\nGet the FREE Red Bull TV apps for all your devices: http://onelink.to/yfbct7\r\n\r\nWatch Red Bull TV: http://win.gs/WatchRBTV\r\n\r\nRed Bull on Facebook: http://win.gs/redbullfb\r\n\r\nRed Bull on Instagram: http://win.gs/RedBullInstagram\n\n#RedBullSurfing #Surfing #RBSurfing",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/c6lU-xYRjFA/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/c6lU-xYRjFA/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/c6lU-xYRjFA/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/c6lU-xYRjFA/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/c6lU-xYRjFA/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
+                "description": "What a year. 2021 was packed to the gills with everything the surfing world has to offer. Whether it be world title races, the biggest Teahupoo in recent memory or JOB charging pipeline on 5 inches of foam, 2021 surely had Its aquatic moments in the sun. Not to forget moments from life on tour with Caroline Marks and Kanoa Igarashi or Indonesian perfection from Kolohe Andino and Bronson Meydi. We think we can speak for the masses when we say 2021 shined a lot brighter all around than 2020\n\nChapters:\n\n00:00 - 00:20 - Intro\n\n00:21 - 01:47 - Sessions\n\n01:48 - 02:28 - Life of Kai\n\n02:29 - 03:58 - Following\n\n03:59 - 04:58 - No Contest\n\n04:59 - 06:09 - People Watching\n\n06:10 - 06:43 - That\u2019s Caroline\n\n06:44 - 06:51 - Searching Peru\n\n06:52 - 07:10 - Wild Beauty\n\n07:11 - 07:54 - Shaping Jordy\n\n07:55 - 08:34 - Reckless Isolation\n\n08:35 - 08:59 - Becoming Bronson\n\n09:00 - 09:32 - The Curious Tales of Italo Ferreira\n\nDive in now for a full look at the edits we've sampled in the 2021 Best of Surf clip:\n\nSESSIONS: https://win.gs/3i9d1px\n\nLIFE OF KAI | SEASON 2: https://win.gs/LifeOfKaiSeason2\n\nFOLLOWING: http://win.gs/Following\n\nCHAPTERS | KANOA IGARASHI: https://win.gs/Chapters\n\nNO CONTEST: https://win.gs/3I6OhZH\n\nPEOPLE WATCHING: http://win.gs/PeopleWatching\n\nNO SMALL FEAT: https://win.gs/34I02YI\n\nTHAT'S CAROLINE: https://win.gs/3IcR3fK\n\nSEARCHING PERU: https://win.gs/SearchingPeruFilm\n\nMATHEA OLIN: WILD BEAUTY http://win.gs/WildBeauty\n\nRECKLESS ISOLATION: http://win.gs/RecklessIsolation\n\nBECOMING BRONSON: https://win.gs/3HJV0tp\n\nTHE CURIOUS TALES OF ITALO FERREIRA: https://win.gs/3iqGawJ\n\n___\r\n\r\nExperience the world of Red Bull like you have never seen it before. With the best action sports clips on the web and original series, prepare for your \"stoke factor\" to be at an all time high.\r\n\r\nSubscribe to Red Bull Surfing on Youtube: https://win.gs/SubToRedBullSurfing\r\n\r\nGet the FREE Red Bull TV apps for all your devices: http://onelink.to/yfbct7\r\n\r\nWatch Red Bull TV: http://win.gs/WatchRBTV\r\n\r\nRed Bull on Facebook: http://win.gs/redbullfb\r\n\r\nRed Bull on Instagram: http://win.gs/RedBullInstagram\n\n#RedBullSurfing #Surfing #RBSurfing"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT9M43S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "87552",
+            "likeCount": "826",
+            "favoriteCount": "0",
+            "commentCount": "34"
+        },
+        "player": {
+            "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/c6lU-xYRjFA\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+        },
+        "topicDetails": {
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Sport"
+            ]
+        },
+        "recordingDetails": {}
+    },
+    "3": {
+        "kind": "youtube#video",
+        "etag": "iFYRV5YZ4wI5DiX-MH1wCkpae60",
+        "id": "ma67yOdMQfs",
+        "snippet": {
+            "publishedAt": "2021-01-23T17:00:15Z",
+            "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+            "title": "These Were The All-Time Surfing Moments Of The Year | Best Of 2020",
+            "description": "Well, that was a weird ride. Though it hasn't been easy, at least when we fixed our gaze on the ocean \u2014 or favorite place in the world \u2013 very little had changed. \n\nFrom Justine Dupont, Kai Lenny, Lucas Chumbo, and Conor Maguire's mind-blowing antics at Nazar\u00e9, Jaws and Mullaghmore to Carissa Moore, Caroline Marks, Jamie O'Brien, and Kanoa Igarashi's footwork on the world's most high-performance waves, we packed it all in here \u2014 and then some. \n\nFor a full look at the edits we've sampled in the 2020 Best Of clip, check out the list below:\n\n- Life of Kai: https://www.redbull.com/int-en/shows/life-of-kai\n\n- Sessions: Nazar\u00e9: https://youtu.be/DRGdZJxZyJA\n\n- Following: Julian Wilson: https://youtu.be/1EeLlx3jshM\n\n- Chasing The Shot: Iceland: https://youtu.be/R2MXQFCLU1M\n\n- The Other Side of Fear: https://www.redbull.com/int-en/films/the-other-side-of-fear\n\n- Following: Kanoa Igarashi: https://youtu.be/xiaRs8LBfPM\n\n- Sessions: Mundaka: https://youtu.be/YyQLN6WEBfI\n\n- No Contest: https://youtu.be/w9zWqNu2vB8\n\n- RAW: Mick Fanning: https://youtu.be/j30hptT5mm0\n\n- No Contest: https://youtu.be/8sSbUg_qDQo\n\n- Sessions: Bali: https://youtu.be/xvAsHHbrv1E\n\n- The Rail Project: https://youtu.be/y2CTZ5GtMUA\n\n- Sessions: Desert Point: https://youtu.be/e4MwBIOYypU\n\n- Sessions: Jaws, Nov. 2020: https://youtu.be/agR1R0E72fo\n\n- Sessions: Jaws, Jan. 2020: https://youtu.be/4Cgo5RZTcWk\n\n- Taking Off: Broome: https://youtu.be/SYJgREKDYWk\n\n- No Small Feat: https://youtu.be/i6kMDOEteqc\n\n- RISS: https://youtu.be/plAtm41ewGk\n\n- Following: Carissa Moore: https://youtu.be/d7kJlXJHZPY\n\n- RAW: Eli Hanneman: https://youtu.be/_05vj_nUJv0\n\n- Shaping Jordy: https://www.redbull.com/int-en/films/shaping-jordy\n\n___\r\n\r\nExperience the world of Red Bull like you have never seen it before. With the best action sports clips on the web and original series, prepare for your \"stoke factor\" to be at an all time high.\r\n\r\nSubscribe to Red Bull Surfing on Youtube: https://win.gs/SubToRedBullSurfing\r\n\r\nGet the FREE Red Bull TV apps for all your devices: http://onelink.to/yfbct7\r\n\r\nWatch Red Bull TV: http://win.gs/WatchRBTV\r\n\r\nRed Bull on Facebook: http://win.gs/redbullfb\r\n\r\nRed Bull on Instagram: http://win.gs/RedBullInstagram",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ma67yOdMQfs/default.jpg",
+                    "width": 120,
+                    "height": 90
                 },
-                "channelTitle": "Red Bull Surfing",
-                "tags": [
-                    "red bull surfing",
-                    "red bull",
-                    "surf",
-                    "surfing",
-                    "surfboarding",
-                    "big wave",
-                    "waves",
-                    "swell"
-                ],
-                "categoryId": "17",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "The World Loves Surfing | Best Of Red Bull Surfing 2021",
-                    "description": "What a year. 2021 was packed to the gills with everything the surfing world has to offer. Whether it be world title races, the biggest Teahupoo in recent memory or JOB charging pipeline on 5 inches of foam, 2021 surely had Its aquatic moments in the sun. Not to forget moments from life on tour with Caroline Marks and Kanoa Igarashi or Indonesian perfection from Kolohe Andino and Bronson Meydi. We think we can speak for the masses when we say 2021 shined a lot brighter all around than 2020\n\nChapters:\n\n00:00 - 00:20 - Intro\n\n00:21 - 01:47 - Sessions\n\n01:48 - 02:28 - Life of Kai\n\n02:29 - 03:58 - Following\n\n03:59 - 04:58 - No Contest\n\n04:59 - 06:09 - People Watching\n\n06:10 - 06:43 - That\u2019s Caroline\n\n06:44 - 06:51 - Searching Peru\n\n06:52 - 07:10 - Wild Beauty\n\n07:11 - 07:54 - Shaping Jordy\n\n07:55 - 08:34 - Reckless Isolation\n\n08:35 - 08:59 - Becoming Bronson\n\n09:00 - 09:32 - The Curious Tales of Italo Ferreira\n\nDive in now for a full look at the edits we've sampled in the 2021 Best of Surf clip:\n\nSESSIONS: https://win.gs/3i9d1px\n\nLIFE OF KAI | SEASON 2: https://win.gs/LifeOfKaiSeason2\n\nFOLLOWING: http://win.gs/Following\n\nCHAPTERS | KANOA IGARASHI: https://win.gs/Chapters\n\nNO CONTEST: https://win.gs/3I6OhZH\n\nPEOPLE WATCHING: http://win.gs/PeopleWatching\n\nNO SMALL FEAT: https://win.gs/34I02YI\n\nTHAT'S CAROLINE: https://win.gs/3IcR3fK\n\nSEARCHING PERU: https://win.gs/SearchingPeruFilm\n\nMATHEA OLIN: WILD BEAUTY http://win.gs/WildBeauty\n\nRECKLESS ISOLATION: http://win.gs/RecklessIsolation\n\nBECOMING BRONSON: https://win.gs/3HJV0tp\n\nTHE CURIOUS TALES OF ITALO FERREIRA: https://win.gs/3iqGawJ\n\n___\r\n\r\nExperience the world of Red Bull like you have never seen it before. With the best action sports clips on the web and original series, prepare for your \"stoke factor\" to be at an all time high.\r\n\r\nSubscribe to Red Bull Surfing on Youtube: https://win.gs/SubToRedBullSurfing\r\n\r\nGet the FREE Red Bull TV apps for all your devices: http://onelink.to/yfbct7\r\n\r\nWatch Red Bull TV: http://win.gs/WatchRBTV\r\n\r\nRed Bull on Facebook: http://win.gs/redbullfb\r\n\r\nRed Bull on Instagram: http://win.gs/RedBullInstagram\n\n#RedBullSurfing #Surfing #RBSurfing"
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ma67yOdMQfs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
                 },
-                "defaultAudioLanguage": "en"
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ma67yOdMQfs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ma67yOdMQfs/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/ma67yOdMQfs/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
             },
-            "contentDetails": {
-                "duration": "PT9M43S",
-                "dimension": "2d",
-                "definition": "hd",
-                "caption": "false",
-                "licensedContent": false,
-                "contentRating": {},
-                "projection": "rectangular"
-            },
-            "status": {
-                "uploadStatus": "processed",
-                "privacyStatus": "public",
-                "license": "youtube",
-                "embeddable": true,
-                "publicStatsViewable": true,
-                "madeForKids": false
-            },
-            "statistics": {
-                "viewCount": "87188",
-                "likeCount": "821",
-                "favoriteCount": "0",
-                "commentCount": "34"
-            },
-            "player": {
-                "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/c6lU-xYRjFA\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
-            },
-            "topicDetails": {
-                "topicCategories": [
-                    "https://en.wikipedia.org/wiki/Sport"
-                ]
-            },
-            "recordingDetails": {}
-        }
-    ],
-    "4": [
-        {
-            "kind": "youtube#video",
-            "etag": "iLuiPBtMAkmclDpGMdudGSCR7TY",
-            "id": "ma67yOdMQfs",
-            "snippet": {
-                "publishedAt": "2021-01-23T17:00:15Z",
-                "channelId": "UC--3c8RqSfAqYBdDjIG3UNA",
+            "channelTitle": "Red Bull Surfing",
+            "tags": [
+                "red bull surfing",
+                "red bull",
+                "surf",
+                "surfing",
+                "surfboarding",
+                "big wave",
+                "waves",
+                "swell",
+                "big wave surfing",
+                "best of",
+                "best of surfing",
+                "best waves",
+                "mick fanning",
+                "julian wilson",
+                "carissa moore",
+                "caroline marks",
+                "kanoa igarashi",
+                "kai lenny",
+                "justine dupont",
+                "izzie gomez",
+                "kolohe andino",
+                "jamie o'brien",
+                "who is job",
+                "pipeline",
+                "big waves",
+                "ocean",
+                "extreme sports",
+                "extreme weather",
+                "rogue waves",
+                "jaws",
+                "nazare",
+                "world surfing league",
+                "wave pool",
+                "kelly slater",
+                "no contest",
+                "surf ranch",
+                "extreme athletes"
+            ],
+            "categoryId": "17",
+            "liveBroadcastContent": "none",
+            "localized": {
                 "title": "These Were The All-Time Surfing Moments Of The Year | Best Of 2020",
-                "description": "Well, that was a weird ride. Though it hasn't been easy, at least when we fixed our gaze on the ocean \u2014 or favorite place in the world \u2013 very little had changed. \n\nFrom Justine Dupont, Kai Lenny, Lucas Chumbo, and Conor Maguire's mind-blowing antics at Nazar\u00e9, Jaws and Mullaghmore to Carissa Moore, Caroline Marks, Jamie O'Brien, and Kanoa Igarashi's footwork on the world's most high-performance waves, we packed it all in here \u2014 and then some. \n\nFor a full look at the edits we've sampled in the 2020 Best Of clip, check out the list below:\n\n- Life of Kai: https://www.redbull.com/int-en/shows/life-of-kai\n\n- Sessions: Nazar\u00e9: https://youtu.be/DRGdZJxZyJA\n\n- Following: Julian Wilson: https://youtu.be/1EeLlx3jshM\n\n- Chasing The Shot: Iceland: https://youtu.be/R2MXQFCLU1M\n\n- The Other Side of Fear: https://www.redbull.com/int-en/films/the-other-side-of-fear\n\n- Following: Kanoa Igarashi: https://youtu.be/xiaRs8LBfPM\n\n- Sessions: Mundaka: https://youtu.be/YyQLN6WEBfI\n\n- No Contest: https://youtu.be/w9zWqNu2vB8\n\n- RAW: Mick Fanning: https://youtu.be/j30hptT5mm0\n\n- No Contest: https://youtu.be/8sSbUg_qDQo\n\n- Sessions: Bali: https://youtu.be/xvAsHHbrv1E\n\n- The Rail Project: https://youtu.be/y2CTZ5GtMUA\n\n- Sessions: Desert Point: https://youtu.be/e4MwBIOYypU\n\n- Sessions: Jaws, Nov. 2020: https://youtu.be/agR1R0E72fo\n\n- Sessions: Jaws, Jan. 2020: https://youtu.be/4Cgo5RZTcWk\n\n- Taking Off: Broome: https://youtu.be/SYJgREKDYWk\n\n- No Small Feat: https://youtu.be/i6kMDOEteqc\n\n- RISS: https://youtu.be/plAtm41ewGk\n\n- Following: Carissa Moore: https://youtu.be/d7kJlXJHZPY\n\n- RAW: Eli Hanneman: https://youtu.be/_05vj_nUJv0\n\n- Shaping Jordy: https://www.redbull.com/int-en/films/shaping-jordy\n\n___\r\n\r\nExperience the world of Red Bull like you have never seen it before. With the best action sports clips on the web and original series, prepare for your \"stoke factor\" to be at an all time high.\r\n\r\nSubscribe to Red Bull Surfing on Youtube: https://win.gs/SubToRedBullSurfing\r\n\r\nGet the FREE Red Bull TV apps for all your devices: http://onelink.to/yfbct7\r\n\r\nWatch Red Bull TV: http://win.gs/WatchRBTV\r\n\r\nRed Bull on Facebook: http://win.gs/redbullfb\r\n\r\nRed Bull on Instagram: http://win.gs/RedBullInstagram",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ma67yOdMQfs/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ma67yOdMQfs/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ma67yOdMQfs/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    },
-                    "standard": {
-                        "url": "https://i.ytimg.com/vi/ma67yOdMQfs/sddefault.jpg",
-                        "width": 640,
-                        "height": 480
-                    },
-                    "maxres": {
-                        "url": "https://i.ytimg.com/vi/ma67yOdMQfs/maxresdefault.jpg",
-                        "width": 1280,
-                        "height": 720
-                    }
+                "description": "Well, that was a weird ride. Though it hasn't been easy, at least when we fixed our gaze on the ocean \u2014 or favorite place in the world \u2013 very little had changed. \n\nFrom Justine Dupont, Kai Lenny, Lucas Chumbo, and Conor Maguire's mind-blowing antics at Nazar\u00e9, Jaws and Mullaghmore to Carissa Moore, Caroline Marks, Jamie O'Brien, and Kanoa Igarashi's footwork on the world's most high-performance waves, we packed it all in here \u2014 and then some. \n\nFor a full look at the edits we've sampled in the 2020 Best Of clip, check out the list below:\n\n- Life of Kai: https://www.redbull.com/int-en/shows/life-of-kai\n\n- Sessions: Nazar\u00e9: https://youtu.be/DRGdZJxZyJA\n\n- Following: Julian Wilson: https://youtu.be/1EeLlx3jshM\n\n- Chasing The Shot: Iceland: https://youtu.be/R2MXQFCLU1M\n\n- The Other Side of Fear: https://www.redbull.com/int-en/films/the-other-side-of-fear\n\n- Following: Kanoa Igarashi: https://youtu.be/xiaRs8LBfPM\n\n- Sessions: Mundaka: https://youtu.be/YyQLN6WEBfI\n\n- No Contest: https://youtu.be/w9zWqNu2vB8\n\n- RAW: Mick Fanning: https://youtu.be/j30hptT5mm0\n\n- No Contest: https://youtu.be/8sSbUg_qDQo\n\n- Sessions: Bali: https://youtu.be/xvAsHHbrv1E\n\n- The Rail Project: https://youtu.be/y2CTZ5GtMUA\n\n- Sessions: Desert Point: https://youtu.be/e4MwBIOYypU\n\n- Sessions: Jaws, Nov. 2020: https://youtu.be/agR1R0E72fo\n\n- Sessions: Jaws, Jan. 2020: https://youtu.be/4Cgo5RZTcWk\n\n- Taking Off: Broome: https://youtu.be/SYJgREKDYWk\n\n- No Small Feat: https://youtu.be/i6kMDOEteqc\n\n- RISS: https://youtu.be/plAtm41ewGk\n\n- Following: Carissa Moore: https://youtu.be/d7kJlXJHZPY\n\n- RAW: Eli Hanneman: https://youtu.be/_05vj_nUJv0\n\n- Shaping Jordy: https://www.redbull.com/int-en/films/shaping-jordy\n\n___\r\n\r\nExperience the world of Red Bull like you have never seen it before. With the best action sports clips on the web and original series, prepare for your \"stoke factor\" to be at an all time high.\r\n\r\nSubscribe to Red Bull Surfing on Youtube: https://win.gs/SubToRedBullSurfing\r\n\r\nGet the FREE Red Bull TV apps for all your devices: http://onelink.to/yfbct7\r\n\r\nWatch Red Bull TV: http://win.gs/WatchRBTV\r\n\r\nRed Bull on Facebook: http://win.gs/redbullfb\r\n\r\nRed Bull on Instagram: http://win.gs/RedBullInstagram"
+            },
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT6M2S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "1538720",
+            "likeCount": "13419",
+            "favoriteCount": "0",
+            "commentCount": "300"
+        },
+        "player": {
+            "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/ma67yOdMQfs\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+        },
+        "topicDetails": {
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Sport"
+            ]
+        },
+        "recordingDetails": {}
+    },
+    "4": {
+        "kind": "youtube#video",
+        "etag": "PhbV6AdCVTaS9T47xaL9Lz16jSE",
+        "id": "eSWST13stO4",
+        "snippet": {
+            "publishedAt": "2022-03-27T15:00:32Z",
+            "channelId": "UCVo06dBGK9VBBhq15wJxZHQ",
+            "title": "\ud83d\udd354k (ASMR) 10 Hour Store Loop - Hawaii Surfing - With Relaxing Music\u2611\ufe0f",
+            "description": "Waves of the World Filmers:\nChris Kincade: https://www.instagram.com/chriskincade.wotw \nAndre Botha: https://www.instagram.com/andre_botha_662 \nJustin Mack: https://www.instagram.com/jmack808 \nJr Maosi: https://www.instagram.com/jrmaosi\nAndy Potts: https://www.instagram.com/apotts\nBoris Martinet: https://www.instagram.com/bogus689\nSteven Tiralongo: https://www.instagram.com/stories/tiralongo\n\ud83d\udd354k (ASMR) 10 Hour Store Loop - Hawaii Surfing - With Relaxing Music\u2611\ufe0f\n\ud83d\udcbb Connect with Waves of the World on social media:\nFacebook \u25b6\ufe0f https://www.facebook.com/groups/wavesoftheworld\nInstagram \u25b6\ufe0f https://www.instagram.com/chriskincade.wotw/\nThe reef at Pipe is a flat tabletop reef, with several caverns on the inside, creating a giant air bubble that pops on the front of the wave when the wave lurches upwards just before breaking.[3] There are also several jagged, underwater lava spires that can injure fallen surfers. When sand accumulates on the reef at Pipeline, the waves can become unpredictable and violently \"close out,\" (break all at once instead of peeling in a way that allows a surfer to ride the wave). A strong swell (a formation of long-wavelength surface waves) from the west clears out the sand in the reef, and after that, a strong north swell can give rise to the best waves.[4]\n\nThere are four waves associated with Pipeline. The left (which means the wave breaks from left to right from the perspective of a watcher on shore) known as Pipeline (a.k.a. First Reef) is the most commonly surfed and photographed. When the reef is hit by a north swell, the peak (the highest tipping-point of the wave where it begins to curl) becomes an A-frame shaped wave, with Pipe closing out a bit and peeling off left, and the equally famous Backdoor Pipeline peeling away to the right at the same time. As the size at Pipe increases, over 12 feet usually, Second Reef on the outside (further out into the deeper ocean waters) starts breaking, with longer walls (the unbroken face of the wave that the surfer slides across), and more size. At an extreme size, an area called Third Reef even further outside starts to break with giant waves.[5]\n\nSurfers\nNumerous surfers and photographers have been killed at Pipeline, including Jon Mozo and Tahitian Malik Joyeux, who was famous for his heavy charging (gutsy surfing) at Teahupo'o.[6] Many people have died or been seriously injured at Pipeline. Pipeline has been called one of the world's deadliest waves.[7] Its average wave is 9 feet (3 m), but it can be as tall as 20 feet.[8] Especially perilous are sections of shallow reef known as \"Off the Wall\" and \"Backdoor\".[9]\n\nA few of the notable surfers at Pipeline are Phil Edwards (surfer) (who is credited as the first person to surf it),[10] Butch Van Artsdalen, Gerry Lopez, Mike Stewart, Shaun Tomson, Mark Richards, Wayne 'Rabbit' Bartholomew, Peter Townend, Michael Ho, Simon Anderson, Tom Carroll, Sunny Garcia, Kelly Slater, Danny Fuller, Jamie O'Brien, Rob Machado, Andy Irons, Mick Fanning, Gabriel Medina, John John Florence and Italo Ferreira.[11][12][13]\n\nCompetitions\nThe top surfing competitions at this spot include the Pipe Masters (board surfing), the Volcom Pipe Pro, the IBA Pipeline Pro (bodyboarding), and the Pipeline Bodysurfing Classic.[14] Surfers can also submit videos to Surfline's Wave of the Winter competition. The competition focuses on beaches on Oahu's north shore, including Pipeline.[15]\n\ud83d\udcacLet me know what you thought of today's video comment section down below.  \n\n\u2728  And if you like this video, consider subscribing to Waves of the World using this Link! \u2935\ufe0f\nhttps://www.youtube.com/channel/UCVo06dBGK9VBBhq15wJxZHQ?sub_confirmation=1\n\nThank you for watching!! \n\n********************\n\ud83c\udfa5 Welcome and Aloha to the Official Youtube Channel of Chris Kincade Media - Waves of the World \ud83c\udfac\n\nDo you like watching relaxing surfing videos, with soothing music and ocean sounds in the background? \ud83c\udfc4\u200d\u2642\ufe0f If so, you\u2019ve come to the right channel!\n\n\u27a1\ufe0f My name is Chris Kincade and my videos focus primarily on surfing, bodyboarding, and lifestyle. Videos are shot at the best surfing spots around the world and are accompanied by relaxing music and ocean sounds. \n\nYou can put my videos in the background and listen to them while you do your work or study.  My videos can also be played in the background of offices, stores, and restaurants. Or, you can simply mute the videos and watch the surfing compilations. \ud83d\uddc3\nSubscribe to my channel to stay up to date and hit the bell to never miss a video! \ud83d\udd14\n********************\nAnd don\u2019t forget to check out our website:\n\ud83d\udcbb www.chriskincade.com\n********************\n#10HourStoreLoop#ASMR#Surfing#ChrisKincadeMedia",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/eSWST13stO4/default.jpg",
+                    "width": 120,
+                    "height": 90
                 },
-                "channelTitle": "Red Bull Surfing",
-                "tags": [
-                    "red bull surfing",
-                    "red bull",
-                    "surf",
-                    "surfing",
-                    "surfboarding",
-                    "big wave",
-                    "waves",
-                    "swell",
-                    "big wave surfing",
-                    "best of",
-                    "best of surfing",
-                    "best waves",
-                    "mick fanning",
-                    "julian wilson",
-                    "carissa moore",
-                    "caroline marks",
-                    "kanoa igarashi",
-                    "kai lenny",
-                    "justine dupont",
-                    "izzie gomez",
-                    "kolohe andino",
-                    "jamie o'brien",
-                    "who is job",
-                    "pipeline",
-                    "big waves",
-                    "ocean",
-                    "extreme sports",
-                    "extreme weather",
-                    "rogue waves",
-                    "jaws",
-                    "nazare",
-                    "world surfing league",
-                    "wave pool",
-                    "kelly slater",
-                    "no contest",
-                    "surf ranch",
-                    "extreme athletes"
-                ],
-                "categoryId": "17",
-                "liveBroadcastContent": "none",
-                "localized": {
-                    "title": "These Were The All-Time Surfing Moments Of The Year | Best Of 2020",
-                    "description": "Well, that was a weird ride. Though it hasn't been easy, at least when we fixed our gaze on the ocean \u2014 or favorite place in the world \u2013 very little had changed. \n\nFrom Justine Dupont, Kai Lenny, Lucas Chumbo, and Conor Maguire's mind-blowing antics at Nazar\u00e9, Jaws and Mullaghmore to Carissa Moore, Caroline Marks, Jamie O'Brien, and Kanoa Igarashi's footwork on the world's most high-performance waves, we packed it all in here \u2014 and then some. \n\nFor a full look at the edits we've sampled in the 2020 Best Of clip, check out the list below:\n\n- Life of Kai: https://www.redbull.com/int-en/shows/life-of-kai\n\n- Sessions: Nazar\u00e9: https://youtu.be/DRGdZJxZyJA\n\n- Following: Julian Wilson: https://youtu.be/1EeLlx3jshM\n\n- Chasing The Shot: Iceland: https://youtu.be/R2MXQFCLU1M\n\n- The Other Side of Fear: https://www.redbull.com/int-en/films/the-other-side-of-fear\n\n- Following: Kanoa Igarashi: https://youtu.be/xiaRs8LBfPM\n\n- Sessions: Mundaka: https://youtu.be/YyQLN6WEBfI\n\n- No Contest: https://youtu.be/w9zWqNu2vB8\n\n- RAW: Mick Fanning: https://youtu.be/j30hptT5mm0\n\n- No Contest: https://youtu.be/8sSbUg_qDQo\n\n- Sessions: Bali: https://youtu.be/xvAsHHbrv1E\n\n- The Rail Project: https://youtu.be/y2CTZ5GtMUA\n\n- Sessions: Desert Point: https://youtu.be/e4MwBIOYypU\n\n- Sessions: Jaws, Nov. 2020: https://youtu.be/agR1R0E72fo\n\n- Sessions: Jaws, Jan. 2020: https://youtu.be/4Cgo5RZTcWk\n\n- Taking Off: Broome: https://youtu.be/SYJgREKDYWk\n\n- No Small Feat: https://youtu.be/i6kMDOEteqc\n\n- RISS: https://youtu.be/plAtm41ewGk\n\n- Following: Carissa Moore: https://youtu.be/d7kJlXJHZPY\n\n- RAW: Eli Hanneman: https://youtu.be/_05vj_nUJv0\n\n- Shaping Jordy: https://www.redbull.com/int-en/films/shaping-jordy\n\n___\r\n\r\nExperience the world of Red Bull like you have never seen it before. With the best action sports clips on the web and original series, prepare for your \"stoke factor\" to be at an all time high.\r\n\r\nSubscribe to Red Bull Surfing on Youtube: https://win.gs/SubToRedBullSurfing\r\n\r\nGet the FREE Red Bull TV apps for all your devices: http://onelink.to/yfbct7\r\n\r\nWatch Red Bull TV: http://win.gs/WatchRBTV\r\n\r\nRed Bull on Facebook: http://win.gs/redbullfb\r\n\r\nRed Bull on Instagram: http://win.gs/RedBullInstagram"
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/eSWST13stO4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
                 },
-                "defaultAudioLanguage": "en"
+                "high": {
+                    "url": "https://i.ytimg.com/vi/eSWST13stO4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/eSWST13stO4/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/eSWST13stO4/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
             },
-            "contentDetails": {
-                "duration": "PT6M2S",
-                "dimension": "2d",
-                "definition": "hd",
-                "caption": "false",
-                "licensedContent": false,
-                "contentRating": {},
-                "projection": "rectangular"
+            "channelTitle": "Chris Kincade Media - Waves of the World ",
+            "tags": [
+                "Hawaii",
+                "Bodyboarding",
+                "Surfing",
+                "Oahu",
+                "ChrisKincade",
+                "Trending",
+                "waves of the world",
+                "store loop",
+                "hawaii vlog",
+                "surfing big waves",
+                "surfing videos",
+                "ocean sounds",
+                "banzai pipeline",
+                "slow motion",
+                "surf pipeline",
+                "hawaii pipeline surfing",
+                "big wave surfing",
+                "10 hour store loop",
+                "pipeline hawaii",
+                "big waves",
+                "relaxing sounds for sleep",
+                "4k asmr",
+                "4k surfing",
+                "4k 60",
+                "4k video",
+                "hawaii vlog 2021",
+                "hawaii vlog 2022",
+                "hawaii vlog oahu",
+                "4k 60fps movie scene",
+                "10 HOUR SURFING VIDEO",
+                "4K SURFING VIDEO",
+                "WHOISJOB"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en-US",
+            "localized": {
+                "title": "\ud83d\udd354k (ASMR) 10 Hour Store Loop - Hawaii Surfing - With Relaxing Music\u2611\ufe0f",
+                "description": "Waves of the World Filmers:\nChris Kincade: https://www.instagram.com/chriskincade.wotw \nAndre Botha: https://www.instagram.com/andre_botha_662 \nJustin Mack: https://www.instagram.com/jmack808 \nJr Maosi: https://www.instagram.com/jrmaosi\nAndy Potts: https://www.instagram.com/apotts\nBoris Martinet: https://www.instagram.com/bogus689\nSteven Tiralongo: https://www.instagram.com/stories/tiralongo\n\ud83d\udd354k (ASMR) 10 Hour Store Loop - Hawaii Surfing - With Relaxing Music\u2611\ufe0f\n\ud83d\udcbb Connect with Waves of the World on social media:\nFacebook \u25b6\ufe0f https://www.facebook.com/groups/wavesoftheworld\nInstagram \u25b6\ufe0f https://www.instagram.com/chriskincade.wotw/\nThe reef at Pipe is a flat tabletop reef, with several caverns on the inside, creating a giant air bubble that pops on the front of the wave when the wave lurches upwards just before breaking.[3] There are also several jagged, underwater lava spires that can injure fallen surfers. When sand accumulates on the reef at Pipeline, the waves can become unpredictable and violently \"close out,\" (break all at once instead of peeling in a way that allows a surfer to ride the wave). A strong swell (a formation of long-wavelength surface waves) from the west clears out the sand in the reef, and after that, a strong north swell can give rise to the best waves.[4]\n\nThere are four waves associated with Pipeline. The left (which means the wave breaks from left to right from the perspective of a watcher on shore) known as Pipeline (a.k.a. First Reef) is the most commonly surfed and photographed. When the reef is hit by a north swell, the peak (the highest tipping-point of the wave where it begins to curl) becomes an A-frame shaped wave, with Pipe closing out a bit and peeling off left, and the equally famous Backdoor Pipeline peeling away to the right at the same time. As the size at Pipe increases, over 12 feet usually, Second Reef on the outside (further out into the deeper ocean waters) starts breaking, with longer walls (the unbroken face of the wave that the surfer slides across), and more size. At an extreme size, an area called Third Reef even further outside starts to break with giant waves.[5]\n\nSurfers\nNumerous surfers and photographers have been killed at Pipeline, including Jon Mozo and Tahitian Malik Joyeux, who was famous for his heavy charging (gutsy surfing) at Teahupo'o.[6] Many people have died or been seriously injured at Pipeline. Pipeline has been called one of the world's deadliest waves.[7] Its average wave is 9 feet (3 m), but it can be as tall as 20 feet.[8] Especially perilous are sections of shallow reef known as \"Off the Wall\" and \"Backdoor\".[9]\n\nA few of the notable surfers at Pipeline are Phil Edwards (surfer) (who is credited as the first person to surf it),[10] Butch Van Artsdalen, Gerry Lopez, Mike Stewart, Shaun Tomson, Mark Richards, Wayne 'Rabbit' Bartholomew, Peter Townend, Michael Ho, Simon Anderson, Tom Carroll, Sunny Garcia, Kelly Slater, Danny Fuller, Jamie O'Brien, Rob Machado, Andy Irons, Mick Fanning, Gabriel Medina, John John Florence and Italo Ferreira.[11][12][13]\n\nCompetitions\nThe top surfing competitions at this spot include the Pipe Masters (board surfing), the Volcom Pipe Pro, the IBA Pipeline Pro (bodyboarding), and the Pipeline Bodysurfing Classic.[14] Surfers can also submit videos to Surfline's Wave of the Winter competition. The competition focuses on beaches on Oahu's north shore, including Pipeline.[15]\n\ud83d\udcacLet me know what you thought of today's video comment section down below.  \n\n\u2728  And if you like this video, consider subscribing to Waves of the World using this Link! \u2935\ufe0f\nhttps://www.youtube.com/channel/UCVo06dBGK9VBBhq15wJxZHQ?sub_confirmation=1\n\nThank you for watching!! \n\n********************\n\ud83c\udfa5 Welcome and Aloha to the Official Youtube Channel of Chris Kincade Media - Waves of the World \ud83c\udfac\n\nDo you like watching relaxing surfing videos, with soothing music and ocean sounds in the background? \ud83c\udfc4\u200d\u2642\ufe0f If so, you\u2019ve come to the right channel!\n\n\u27a1\ufe0f My name is Chris Kincade and my videos focus primarily on surfing, bodyboarding, and lifestyle. Videos are shot at the best surfing spots around the world and are accompanied by relaxing music and ocean sounds. \n\nYou can put my videos in the background and listen to them while you do your work or study.  My videos can also be played in the background of offices, stores, and restaurants. Or, you can simply mute the videos and watch the surfing compilations. \ud83d\uddc3\nSubscribe to my channel to stay up to date and hit the bell to never miss a video! \ud83d\udd14\n********************\nAnd don\u2019t forget to check out our website:\n\ud83d\udcbb www.chriskincade.com\n********************\n#10HourStoreLoop#ASMR#Surfing#ChrisKincadeMedia"
             },
-            "status": {
-                "uploadStatus": "processed",
-                "privacyStatus": "public",
-                "license": "youtube",
-                "embeddable": true,
-                "publicStatsViewable": true,
-                "madeForKids": false
-            },
-            "statistics": {
-                "viewCount": "1537538",
-                "likeCount": "13415",
-                "favoriteCount": "0",
-                "commentCount": "300"
-            },
-            "player": {
-                "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/ma67yOdMQfs\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
-            },
-            "topicDetails": {
-                "topicCategories": [
-                    "https://en.wikipedia.org/wiki/Sport"
-                ]
-            },
-            "recordingDetails": {}
+            "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+            "duration": "PT10H32S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+        },
+        "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+        },
+        "statistics": {
+            "viewCount": "56282",
+            "likeCount": "244",
+            "favoriteCount": "0",
+            "commentCount": "11"
+        },
+        "player": {
+            "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/eSWST13stO4\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+        },
+        "topicDetails": {
+            "topicCategories": [
+                "https://en.wikipedia.org/wiki/Lifestyle_(sociology)"
+            ]
+        },
+        "recordingDetails": {},
+        "localizations": {
+            "en-US": {
+                "title": "\ud83d\udd354k (ASMR) 10 Hour Store Loop - Hawaii Surfing - With Relaxing Music\u2611\ufe0f",
+                "description": "Waves of the World Filmers:\nChris Kincade: https://www.instagram.com/chriskincade.wotw \nAndre Botha: https://www.instagram.com/andre_botha_662 \nJustin Mack: https://www.instagram.com/jmack808 \nJr Maosi: https://www.instagram.com/jrmaosi\nAndy Potts: https://www.instagram.com/apotts\nBoris Martinet: https://www.instagram.com/bogus689\nSteven Tiralongo: https://www.instagram.com/stories/tiralongo\n\ud83d\udd354k (ASMR) 10 Hour Store Loop - Hawaii Surfing - With Relaxing Music\u2611\ufe0f\n\ud83d\udcbb Connect with Waves of the World on social media:\nFacebook \u25b6\ufe0f https://www.facebook.com/groups/wavesoftheworld\nInstagram \u25b6\ufe0f https://www.instagram.com/chriskincade.wotw/\nThe reef at Pipe is a flat tabletop reef, with several caverns on the inside, creating a giant air bubble that pops on the front of the wave when the wave lurches upwards just before breaking.[3] There are also several jagged, underwater lava spires that can injure fallen surfers. When sand accumulates on the reef at Pipeline, the waves can become unpredictable and violently \"close out,\" (break all at once instead of peeling in a way that allows a surfer to ride the wave). A strong swell (a formation of long-wavelength surface waves) from the west clears out the sand in the reef, and after that, a strong north swell can give rise to the best waves.[4]\n\nThere are four waves associated with Pipeline. The left (which means the wave breaks from left to right from the perspective of a watcher on shore) known as Pipeline (a.k.a. First Reef) is the most commonly surfed and photographed. When the reef is hit by a north swell, the peak (the highest tipping-point of the wave where it begins to curl) becomes an A-frame shaped wave, with Pipe closing out a bit and peeling off left, and the equally famous Backdoor Pipeline peeling away to the right at the same time. As the size at Pipe increases, over 12 feet usually, Second Reef on the outside (further out into the deeper ocean waters) starts breaking, with longer walls (the unbroken face of the wave that the surfer slides across), and more size. At an extreme size, an area called Third Reef even further outside starts to break with giant waves.[5]\n\nSurfers\nNumerous surfers and photographers have been killed at Pipeline, including Jon Mozo and Tahitian Malik Joyeux, who was famous for his heavy charging (gutsy surfing) at Teahupo'o.[6] Many people have died or been seriously injured at Pipeline. Pipeline has been called one of the world's deadliest waves.[7] Its average wave is 9 feet (3 m), but it can be as tall as 20 feet.[8] Especially perilous are sections of shallow reef known as \"Off the Wall\" and \"Backdoor\".[9]\n\nA few of the notable surfers at Pipeline are Phil Edwards (surfer) (who is credited as the first person to surf it),[10] Butch Van Artsdalen, Gerry Lopez, Mike Stewart, Shaun Tomson, Mark Richards, Wayne 'Rabbit' Bartholomew, Peter Townend, Michael Ho, Simon Anderson, Tom Carroll, Sunny Garcia, Kelly Slater, Danny Fuller, Jamie O'Brien, Rob Machado, Andy Irons, Mick Fanning, Gabriel Medina, John John Florence and Italo Ferreira.[11][12][13]\n\nCompetitions\nThe top surfing competitions at this spot include the Pipe Masters (board surfing), the Volcom Pipe Pro, the IBA Pipeline Pro (bodyboarding), and the Pipeline Bodysurfing Classic.[14] Surfers can also submit videos to Surfline's Wave of the Winter competition. The competition focuses on beaches on Oahu's north shore, including Pipeline.[15]\n\ud83d\udcacLet me know what you thought of today's video comment section down below.  \n\n\u2728  And if you like this video, consider subscribing to Waves of the World using this Link! \u2935\ufe0f\nhttps://www.youtube.com/channel/UCVo06dBGK9VBBhq15wJxZHQ?sub_confirmation=1\n\nThank you for watching!! \n\n********************\n\ud83c\udfa5 Welcome and Aloha to the Official Youtube Channel of Chris Kincade Media - Waves of the World \ud83c\udfac\n\nDo you like watching relaxing surfing videos, with soothing music and ocean sounds in the background? \ud83c\udfc4\u200d\u2642\ufe0f If so, you\u2019ve come to the right channel!\n\n\u27a1\ufe0f My name is Chris Kincade and my videos focus primarily on surfing, bodyboarding, and lifestyle. Videos are shot at the best surfing spots around the world and are accompanied by relaxing music and ocean sounds. \n\nYou can put my videos in the background and listen to them while you do your work or study.  My videos can also be played in the background of offices, stores, and restaurants. Or, you can simply mute the videos and watch the surfing compilations. \ud83d\uddc3\nSubscribe to my channel to stay up to date and hit the bell to never miss a video! \ud83d\udd14\n********************\nAnd don\u2019t forget to check out our website:\n\ud83d\udcbb www.chriskincade.com\n********************\n#10HourStoreLoop#ASMR#Surfing#ChrisKincadeMedia"
+            }
         }
-    ]
+    }
 }
