@@ -1,8 +1,8 @@
 import json
 import pandas as pd
 
-with open('beauty_nikkieTutorials.json') as json_file:
+with open('game_valorant_videos.json') as json_file:
     data = json.load(json_file)
 
     df = pd.json_normalize(data.values())
-    df.to_csv("beauty_nikkieTutorials.csv", index=False)
+    df.to_csv("game_valorant.csv", index=False)
