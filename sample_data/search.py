@@ -65,7 +65,7 @@ def youtube_search(options):
     #print ("Resultant dictionary is : " +  str(res))
     
     
-    file_name_videos = 'beauty_fenty.json'
+    file_name_videos = 'beauty_sephora.json'
     file_name_channels = 'beauty_channels.json'
     import os
     
