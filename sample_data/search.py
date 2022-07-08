@@ -21,7 +21,7 @@ from googleapiclient.errors import HttpError
 #   https://cloud.google.com/console
 # Please ensure that you have enabled the YouTube Data API for your project.
 
-DEVELOPER_KEY = 'AIzaSyAbWGcBtMde4dZs-kZr3-3qlIYu8-4xATM'
+DEVELOPER_KEY = 'AIzaSyC_Z_VCyF6j8nWrVEtgG2WmBW3tHOwyx9A'
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 
@@ -65,8 +65,8 @@ def youtube_search(options):
     #print ("Resultant dictionary is : " +  str(res))
     
     
-    file_name_videos = 'beauty_fenty.json'
-    file_name_channels = 'beauty_channels.json'
+    file_name_videos = 'game_phasmophobia_videos.json'
+    file_name_channels = 'game_channels.json'
     import os
     
     # check if size of file is 0
