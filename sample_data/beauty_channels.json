@@ -1,0 +1,58 @@
+{
+    "0": {
+        "kind": "youtube#searchResult",
+        "etag": "u0_nE_i1Y7AZjmSBThrhXoEv09I",
+        "id": {
+            "kind": "youtube#channel",
+            "channelId": "UCRSvEADlY-caz3sfDNwvR1A"
+        },
+        "snippet": {
+            "publishedAt": "2007-01-14T04:34:22Z",
+            "channelId": "UCRSvEADlY-caz3sfDNwvR1A",
+            "title": "Huda Beauty",
+            "description": "Hello Beautiful People!! Thanks for visiting :) I'm Huda, the Founder and CEO of Huda Beauty! For me, makeup has always been ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRJ_IHOgW6fxAmlMs8xUuNs5HxiWEvDOzg3xglGnQ=s88-c-k-c0xffffffff-no-rj-mo"
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRJ_IHOgW6fxAmlMs8xUuNs5HxiWEvDOzg3xglGnQ=s240-c-k-c0xffffffff-no-rj-mo"
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRJ_IHOgW6fxAmlMs8xUuNs5HxiWEvDOzg3xglGnQ=s800-c-k-c0xffffffff-no-rj-mo"
+                }
+            },
+            "channelTitle": "Huda Beauty",
+            "liveBroadcastContent": "upcoming",
+            "publishTime": "2007-01-14T04:34:22Z"
+        }
+    },
+    "1": {
+        "kind": "youtube#searchResult",
+        "etag": "m8JLSBEUBI_yYG5AK6eUHUZX4dc",
+        "id": {
+            "kind": "youtube#channel",
+            "channelId": "UC0HVR9T6oFS3veefhGCGEsw"
+        },
+        "snippet": {
+            "publishedAt": "2016-12-01T21:26:10Z",
+            "channelId": "UC0HVR9T6oFS3veefhGCGEsw",
+            "title": "Fenty Beauty By Rihanna",
+            "description": "Available online & worldwide at Sephora, Harvey Nichols, Boots & select Asia duty free shops #crueltyfree Shop Fenty Beauty: ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRCwZFqAT37Mvl8Z9sihCsKyQSfdHwVH0CpOfGnQw=s88-c-k-c0xffffffff-no-rj-mo"
+                },
+                "medium": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRCwZFqAT37Mvl8Z9sihCsKyQSfdHwVH0CpOfGnQw=s240-c-k-c0xffffffff-no-rj-mo"
+                },
+                "high": {
+                    "url": "https://yt3.ggpht.com/ytc/AKedOLRCwZFqAT37Mvl8Z9sihCsKyQSfdHwVH0CpOfGnQw=s800-c-k-c0xffffffff-no-rj-mo"
+                }
+            },
+            "channelTitle": "Fenty Beauty By Rihanna",
+            "liveBroadcastContent": "none",
+            "publishTime": "2016-12-01T21:26:10Z"
+        }
+    }
+}
