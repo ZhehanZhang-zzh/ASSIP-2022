@@ -11,6 +11,7 @@ import argparse
 import json
 import numpy as np
 import pprint
+import csv
 
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
@@ -21,7 +22,7 @@ from googleapiclient.errors import HttpError
 #   https://cloud.google.com/console
 # Please ensure that you have enabled the YouTube Data API for your project.
 
-DEVELOPER_KEY = 'API_KEY'
+DEVELOPER_KEY = 'AIzaSyDAptpTfh33KDwIuyVDB714gVVBe9yYIwE'
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 
@@ -35,13 +36,17 @@ def youtube_search(options):
 
     # this is a test script with a fixed Channel ID
     # For-loop is need by reading Channel IDs from a separate file, and make this call for all the IDs
-    search_response = youtube.channels().list(
-        id="UCsXYYt9hmwvaIl6v73JHKWw",
-        part='brandingSettings,contentDetails,contentOwnerDetails,id,localizations,snippet,statistics,status,topicDetails'
-    ).execute()
-
-    channels[i] = search_response.get('items',[])[0]
-    i = i + 1
+    
+    with open('channel_ids.csv', 'r') as csvfile:
+        datareader = csv.reader(csvfile)
+        for row in datareader:
+            search_response = youtube.channels().list(
+                id=row,
+                part='brandingSettings,contentDetails,contentOwnerDetails,id,localizations,snippet,statistics,status,topicDetails'
+            ).execute()
+            channels[i] = search_response.get('items',[i+1])[0]
+            i = i+1    
+            
 
     
     file_name = 'channels.json'
@@ -53,7 +58,7 @@ def youtube_search(options):
        json_object = json.dumps(channels, indent = 4)
        z = json.loads(json_object)
        json.dump(z, f, indent = 4)
-    
+    print(type(channels[1]))
     print('file dumped')
 
 
