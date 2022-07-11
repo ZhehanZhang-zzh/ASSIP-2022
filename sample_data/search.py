@@ -2,7 +2,7 @@
 
 # This sample executes a search request for the specified search term.
 # Sample usage:
-#   python search.py --q=surfing --max-results=20
+#   python search.py --q=makeup --max-results=50
 # NOTE: To use the sample, you must provide a developer key obtained
 #       in the Google APIs Console. Search for "REPLACE_ME" in this code
 #       to find the correct place to provide that key..
@@ -65,13 +65,10 @@ def youtube_search(options):
     #print ("Resultant dictionary is : " +  str(res))
     
     
-<<<<<<< HEAD
-    file_name_videos = 'game_phasmophobia_videos.json'
-    file_name_channels = 'game_channels.json'
-=======
-    file_name_videos = 'beauty_sephora.json'
+
+    file_name_videos = 'beauty_makeup.json'
     file_name_channels = 'beauty_channels.json'
->>>>>>> 06c56c11aea0eeabf8db6a2d30a34e2e0987cc57
+
     import os
     
     # check if size of file is 0
