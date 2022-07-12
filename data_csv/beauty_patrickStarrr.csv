@@ -1,5 +1,5 @@
-kind,etag,id,snippet.publishedAt,snippet.channelId,snippet.title,snippet.description,snippet.thumbnails.default.url,snippet.thumbnails.default.width,snippet.thumbnails.default.height,snippet.thumbnails.medium.url,snippet.thumbnails.medium.width,snippet.thumbnails.medium.height,snippet.thumbnails.high.url,snippet.thumbnails.high.width,snippet.thumbnails.high.height,snippet.thumbnails.standard.url,snippet.thumbnails.standard.width,snippet.thumbnails.standard.height,snippet.thumbnails.maxres.url,snippet.thumbnails.maxres.width,snippet.thumbnails.maxres.height,snippet.channelTitle,snippet.tags,snippet.categoryId,snippet.liveBroadcastContent,snippet.localized.title,snippet.localized.description,snippet.defaultAudioLanguage,contentDetails.duration,contentDetails.dimension,contentDetails.definition,contentDetails.caption,contentDetails.licensedContent,contentDetails.projection,status.uploadStatus,status.privacyStatus,status.license,status.embeddable,status.publicStatsViewable,status.madeForKids,statistics.viewCount,statistics.likeCount,statistics.favoriteCount,statistics.commentCount,player.embedHtml,topicDetails.topicCategories,liveStreamingDetails.actualStartTime,liveStreamingDetails.actualEndTime,liveStreamingDetails.scheduledStartTime,snippet.defaultLanguage,localizations.en.title,localizations.en.description
-youtube#video,HrLTs_1XhiCdKMMNo5WHWqMkdFg,zylQYLEjqLM,2022-05-10T14:00:34Z,UCDHQbU57NZilrhbuZNbQcRA,DOMINIQUE JACKSON TRANSFORMATION | PatrickStarrr,"An actress, entertainer, mother and ICON! Dominique Jackson!!! Queen on Pose as Elektra!! I am so honored to have her spill gems and wisdom on my channel today! Do you love?! 
+kind,relevancy,etag,id,snippet.publishedAt,snippet.channelId,snippet.title,snippet.description,snippet.thumbnails.default.url,snippet.thumbnails.default.width,snippet.thumbnails.default.height,snippet.thumbnails.medium.url,snippet.thumbnails.medium.width,snippet.thumbnails.medium.height,snippet.thumbnails.high.url,snippet.thumbnails.high.width,snippet.thumbnails.high.height,snippet.thumbnails.standard.url,snippet.thumbnails.standard.width,snippet.thumbnails.standard.height,snippet.thumbnails.maxres.url,snippet.thumbnails.maxres.width,snippet.thumbnails.maxres.height,snippet.channelTitle,snippet.tags,snippet.categoryId,snippet.liveBroadcastContent,snippet.localized.title,snippet.localized.description,snippet.defaultAudioLanguage,contentDetails.duration,contentDetails.dimension,contentDetails.definition,contentDetails.caption,contentDetails.licensedContent,contentDetails.projection,status.uploadStatus,status.privacyStatus,status.license,status.embeddable,status.publicStatsViewable,status.madeForKids,statistics.viewCount,statistics.likeCount,statistics.favoriteCount,statistics.commentCount,player.embedHtml,topicDetails.topicCategories,liveStreamingDetails.actualStartTime,liveStreamingDetails.actualEndTime,liveStreamingDetails.scheduledStartTime,snippet.defaultLanguage,localizations.en.title,localizations.en.description
+youtube#video,yes,HrLTs_1XhiCdKMMNo5WHWqMkdFg,zylQYLEjqLM,2022-05-10T14:00:34Z,UCDHQbU57NZilrhbuZNbQcRA,DOMINIQUE JACKSON TRANSFORMATION | PatrickStarrr,"An actress, entertainer, mother and ICON! Dominique Jackson!!! Queen on Pose as Elektra!! I am so honored to have her spill gems and wisdom on my channel today! Do you love?! 
 
 Xoxo
 PatrickStarrr 
@@ -86,7 +86,7 @@ DON’T
 https://spoti.fi/2MaR1Lr
 
 GO OFF 
-https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",https://i.ytimg.com/vi/zylQYLEjqLM/default.jpg,120,90,https://i.ytimg.com/vi/zylQYLEjqLM/mqdefault.jpg,320,180,https://i.ytimg.com/vi/zylQYLEjqLM/hqdefault.jpg,480,360,https://i.ytimg.com/vi/zylQYLEjqLM/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/zylQYLEjqLM/maxresdefault.jpg,1280.0,720.0,PatrickStarrr,"['Patrick starrr', 'Patrick', 'starrr', 'makeup', 'patrickstarrr', 'Patrick star', 'mua', 'tutorials', 'theepatrickstarrr', 'one size beauty', 'o/s', 'visionary', 'go off', 'beauty', 'beautyyoutuber', 'dominique jackson', 'pose']",26,none,DOMINIQUE JACKSON TRANSFORMATION | PatrickStarrr,"An actress, entertainer, mother and ICON! Dominique Jackson!!! Queen on Pose as Elektra!! I am so honored to have her spill gems and wisdom on my channel today! Do you love?! 
+https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",https://i.ytimg.com/vi/zylQYLEjqLM/default.jpg,120,90,https://i.ytimg.com/vi/zylQYLEjqLM/mqdefault.jpg,320,180,https://i.ytimg.com/vi/zylQYLEjqLM/hqdefault.jpg,480,360,https://i.ytimg.com/vi/zylQYLEjqLM/sddefault.jpg,640,480,https://i.ytimg.com/vi/zylQYLEjqLM/maxresdefault.jpg,1280,720,PatrickStarrr,"['Patrick starrr', 'Patrick', 'starrr', 'makeup', 'patrickstarrr', 'Patrick star', 'mua', 'tutorials', 'theepatrickstarrr', 'one size beauty', 'o/s', 'visionary', 'go off', 'beauty', 'beautyyoutuber', 'dominique jackson', 'pose']",26,none,DOMINIQUE JACKSON TRANSFORMATION | PatrickStarrr,"An actress, entertainer, mother and ICON! Dominique Jackson!!! Queen on Pose as Elektra!! I am so honored to have her spill gems and wisdom on my channel today! Do you love?! 
 
 Xoxo
 PatrickStarrr 
@@ -173,8 +173,8 @@ DON’T
 https://spoti.fi/2MaR1Lr
 
 GO OFF 
-https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT41M13S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,112653,7474,0,486,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/zylQYLEjqLM"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,xVQHqip1R0imIXnrxUY3xAP0xZk,N5O8LhhTLi8,2021-05-18T22:44:59Z,UCDHQbU57NZilrhbuZNbQcRA,Kylie Jenner’s Makeup Artist MakeupByAriel Does My Makeup | PatrickStarrr,"THIS IS A FREAKING MASTERCLASS by the one and only MakeupbyAriel!! He is one of the greatest of our generation and I’m so honored he was able to gift all of us with his amazing talent! Follow Ariel and check out his Morphe COLLAB launching May 27!
+https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT41M13S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,112653,7474,0,486,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/zylQYLEjqLM"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,yes,xVQHqip1R0imIXnrxUY3xAP0xZk,N5O8LhhTLi8,2021-05-18T22:44:59Z,UCDHQbU57NZilrhbuZNbQcRA,Kylie Jenner’s Makeup Artist MakeupByAriel Does My Makeup | PatrickStarrr,"THIS IS A FREAKING MASTERCLASS by the one and only MakeupbyAriel!! He is one of the greatest of our generation and I’m so honored he was able to gift all of us with his amazing talent! Follow Ariel and check out his Morphe COLLAB launching May 27!
 
 MakeupbyAriel has done makeup on the celebrities Kim Kardashian, Kylie Jenner, Kris Jenner, Shay Mitchell, Nikita Dragun and more! 
 
@@ -251,7 +251,7 @@ DON’T
 https://spoti.fi/2MaR1Lr
 
 GO OFF 
-https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",https://i.ytimg.com/vi/N5O8LhhTLi8/default.jpg,120,90,https://i.ytimg.com/vi/N5O8LhhTLi8/mqdefault.jpg,320,180,https://i.ytimg.com/vi/N5O8LhhTLi8/hqdefault.jpg,480,360,https://i.ytimg.com/vi/N5O8LhhTLi8/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/N5O8LhhTLi8/maxresdefault.jpg,1280.0,720.0,PatrickStarrr,"['Patrick starrr', 'Patrick', 'starrr', 'makeup', 'patrickstarrr', 'Patrick star', 'mua', 'tutorials', 'theepatrickstarrr', 'one size beauty', 'o/s', 'visionary', 'go off', 'beauty', 'beautyyoutuber']",26,none,Kylie Jenner’s Makeup Artist MakeupByAriel Does My Makeup | PatrickStarrr,"THIS IS A FREAKING MASTERCLASS by the one and only MakeupbyAriel!! He is one of the greatest of our generation and I’m so honored he was able to gift all of us with his amazing talent! Follow Ariel and check out his Morphe COLLAB launching May 27!
+https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",https://i.ytimg.com/vi/N5O8LhhTLi8/default.jpg,120,90,https://i.ytimg.com/vi/N5O8LhhTLi8/mqdefault.jpg,320,180,https://i.ytimg.com/vi/N5O8LhhTLi8/hqdefault.jpg,480,360,https://i.ytimg.com/vi/N5O8LhhTLi8/sddefault.jpg,640,480,https://i.ytimg.com/vi/N5O8LhhTLi8/maxresdefault.jpg,1280,720,PatrickStarrr,"['Patrick starrr', 'Patrick', 'starrr', 'makeup', 'patrickstarrr', 'Patrick star', 'mua', 'tutorials', 'theepatrickstarrr', 'one size beauty', 'o/s', 'visionary', 'go off', 'beauty', 'beautyyoutuber']",26,none,Kylie Jenner’s Makeup Artist MakeupByAriel Does My Makeup | PatrickStarrr,"THIS IS A FREAKING MASTERCLASS by the one and only MakeupbyAriel!! He is one of the greatest of our generation and I’m so honored he was able to gift all of us with his amazing talent! Follow Ariel and check out his Morphe COLLAB launching May 27!
 
 MakeupbyAriel has done makeup on the celebrities Kim Kardashian, Kylie Jenner, Kris Jenner, Shay Mitchell, Nikita Dragun and more! 
 
@@ -328,8 +328,8 @@ DON’T
 https://spoti.fi/2MaR1Lr
 
 GO OFF 
-https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT57M38S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,1269008,40374,0,1453,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/N5O8LhhTLi8"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,qhuR1i4hGy_qLTVD04su8fZUS8Q,r3gBV7RMOWo,2022-04-29T14:00:25Z,UCDHQbU57NZilrhbuZNbQcRA,Kylie Jenner Makeup Tutorial | PatrickStarrr,"Gotcha! We got the amazing Holly Scarfone today to transform into Kylie Jenner! This was totally my idea and we had so much fun together playing with makeup! One/Size beauty just launched Cheek Clapper Blush Trios and Made for Shade Sculpting Bronzers- so check it out!
+https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT57M38S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,1269008,40374,0,1453,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/N5O8LhhTLi8"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,yes,qhuR1i4hGy_qLTVD04su8fZUS8Q,r3gBV7RMOWo,2022-04-29T14:00:25Z,UCDHQbU57NZilrhbuZNbQcRA,Kylie Jenner Makeup Tutorial | PatrickStarrr,"Gotcha! We got the amazing Holly Scarfone today to transform into Kylie Jenner! This was totally my idea and we had so much fun together playing with makeup! One/Size beauty just launched Cheek Clapper Blush Trios and Made for Shade Sculpting Bronzers- so check it out!
 
 Product Details:
 B A S E
@@ -513,8 +513,8 @@ DON’T
 https://spoti.fi/2MaR1Lr
 
 GO OFF 
-https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT18M49S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,363627,10152,0,394,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/r3gBV7RMOWo"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,HRUeFhcvlsDL03AR7vY800zeLDs,iUCyIq6_HHI,2022-05-20T14:00:31Z,UCDHQbU57NZilrhbuZNbQcRA,North Star Boys Drag Transformation | PatrickStarrr,"Listen to the new single here! https://hitco.lnk.to/youaremystar
+https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT18M49S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,363627,10152,0,394,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/r3gBV7RMOWo"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,yes,HRUeFhcvlsDL03AR7vY800zeLDs,iUCyIq6_HHI,2022-05-20T14:00:31Z,UCDHQbU57NZilrhbuZNbQcRA,North Star Boys Drag Transformation | PatrickStarrr,"Listen to the new single here! https://hitco.lnk.to/youaremystar
 
 Check out the North Star Boys YouTube Channel: https://www.youtube.com/c/NorthStarBoys
 Follow the NorthStarBoys: https://www.instagram.com/northstarboys/
@@ -630,8 +630,8 @@ DON’T
 https://spoti.fi/2MaR1Lr
 
 GO OFF 
-https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT22M50S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,434687,34825,0,1720,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/iUCyIq6_HHI"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,yN_9FyVZ1XFuk6KA-VvF0twJiw4,Ry0B6vyX_3s,2022-05-08T14:00:51Z,UCDHQbU57NZilrhbuZNbQcRA,I TURNED AMBER SCHOLL INTO KIM KARDASHIAN (MET GALA 2022) | PatrickStarrr,"We even got the Marilyn Monroe dress Kim Kardashian wore to the Met Gala! It’s giving Guilded Glamour! We shopped everything from downtown LA! Check out out video on Amber Scholls channel!!! 
+https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT22M50S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,434687,34825,0,1720,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/iUCyIq6_HHI"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,yes,yN_9FyVZ1XFuk6KA-VvF0twJiw4,Ry0B6vyX_3s,2022-05-08T14:00:51Z,UCDHQbU57NZilrhbuZNbQcRA,I TURNED AMBER SCHOLL INTO KIM KARDASHIAN (MET GALA 2022) | PatrickStarrr,"We even got the Marilyn Monroe dress Kim Kardashian wore to the Met Gala! It’s giving Guilded Glamour! We shopped everything from downtown LA! Check out out video on Amber Scholls channel!!! 
 
 Check out Amber's YouTube https://www.youtube.com/c/AmberScholl
 Follow Amber https://www.instagram.com/amberscholl/
@@ -815,8 +815,8 @@ DON’T
 https://spoti.fi/2MaR1Lr
 
 GO OFF 
-https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT20M57S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,135113,9067,0,684,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/Ry0B6vyX_3s"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,5LyfDP65M54c3KhvTcr20T6KW3w,tyjk0fq2pG4,2022-04-12T18:00:30Z,UCDHQbU57NZilrhbuZNbQcRA,OSCAR'S MAKEUP ON LORI HARVEY | PatrickStarrr,"What a babe! Thank you so much to Lori Harvey for coming on my channel. I had so much fun!
+https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT20M57S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,135113,9067,0,684,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/Ry0B6vyX_3s"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,yes,5LyfDP65M54c3KhvTcr20T6KW3w,tyjk0fq2pG4,2022-04-12T18:00:30Z,UCDHQbU57NZilrhbuZNbQcRA,OSCAR'S MAKEUP ON LORI HARVEY | PatrickStarrr,"What a babe! Thank you so much to Lori Harvey for coming on my channel. I had so much fun!
 
 Who do you guys want me to transform next?
 
@@ -980,8 +980,8 @@ DON’T
 https://spoti.fi/2MaR1Lr
 
 GO OFF 
-https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT37M4S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,213629,9305,0,442,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/tyjk0fq2pG4"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,xlVlmvg11BfZyCmBvyYPLHR-ovQ,0tn8HVfTTMY,2021-04-26T19:17:27Z,UCDHQbU57NZilrhbuZNbQcRA,UPDATED FULL COVERAGE Foundation Routine | PatrickStarrr,"Woah! I have my first ever powder foundation!! I think I’ll do a natural 5 minute foundation routine next! 
+https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT37M4S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,213629,9305,0,442,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/tyjk0fq2pG4"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,yes,xlVlmvg11BfZyCmBvyYPLHR-ovQ,0tn8HVfTTMY,2021-04-26T19:17:27Z,UCDHQbU57NZilrhbuZNbQcRA,UPDATED FULL COVERAGE Foundation Routine | PatrickStarrr,"Woah! I have my first ever powder foundation!! I think I’ll do a natural 5 minute foundation routine next! 
 
 Xoxo
 PatrickStarrr
@@ -1044,7 +1044,7 @@ DON’T
 https://spoti.fi/2MaR1Lr
 
 GO OFF 
-https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",https://i.ytimg.com/vi/0tn8HVfTTMY/default.jpg,120,90,https://i.ytimg.com/vi/0tn8HVfTTMY/mqdefault.jpg,320,180,https://i.ytimg.com/vi/0tn8HVfTTMY/hqdefault.jpg,480,360,https://i.ytimg.com/vi/0tn8HVfTTMY/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/0tn8HVfTTMY/maxresdefault.jpg,1280.0,720.0,PatrickStarrr,"['Patrick starrr', 'Patrick', 'starrr', 'makeup', 'patrickstarrr', 'Patrick star', 'mua', 'tutorials', 'theepatrickstarrr', 'one size beauty', 'o/s', 'visionary', 'go off', 'beauty', 'beautyyoutuber', 'foundation', 'updated foundation routine']",26,none,UPDATED FULL COVERAGE Foundation Routine | PatrickStarrr,"Woah! I have my first ever powder foundation!! I think I’ll do a natural 5 minute foundation routine next! 
+https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",https://i.ytimg.com/vi/0tn8HVfTTMY/default.jpg,120,90,https://i.ytimg.com/vi/0tn8HVfTTMY/mqdefault.jpg,320,180,https://i.ytimg.com/vi/0tn8HVfTTMY/hqdefault.jpg,480,360,https://i.ytimg.com/vi/0tn8HVfTTMY/sddefault.jpg,640,480,https://i.ytimg.com/vi/0tn8HVfTTMY/maxresdefault.jpg,1280,720,PatrickStarrr,"['Patrick starrr', 'Patrick', 'starrr', 'makeup', 'patrickstarrr', 'Patrick star', 'mua', 'tutorials', 'theepatrickstarrr', 'one size beauty', 'o/s', 'visionary', 'go off', 'beauty', 'beautyyoutuber', 'foundation', 'updated foundation routine']",26,none,UPDATED FULL COVERAGE Foundation Routine | PatrickStarrr,"Woah! I have my first ever powder foundation!! I think I’ll do a natural 5 minute foundation routine next! 
 
 Xoxo
 PatrickStarrr
@@ -1107,8 +1107,8 @@ DON’T
 https://spoti.fi/2MaR1Lr
 
 GO OFF 
-https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT20M10S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,191276,6954,0,366,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/0tn8HVfTTMY"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,LXs9Uy6PlayUCqJ-8ltP58dtNhM,pILP9KSA_Cc,2022-04-12T16:00:11Z,UCb0tMboxhHE8Jx6-nhJmRPw,Patrick Starrr's Jaw-Dropping Makeup Room Tour | Beauty Spaces | Allure,"Beauty guru Patrick Starrr is here to show off his glorious makeup storeroom, filled with each and every type of makeup you could possibly imagine. With drawers chock full of beauty blenders and concealer, Patrick has just about everything. Just wait until you see the lipstick drawer!
+https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT20M10S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,191276,6954,0,366,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/0tn8HVfTTMY"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,yes,LXs9Uy6PlayUCqJ-8ltP58dtNhM,pILP9KSA_Cc,2022-04-12T16:00:11Z,UCb0tMboxhHE8Jx6-nhJmRPw,Patrick Starrr's Jaw-Dropping Makeup Room Tour | Beauty Spaces | Allure,"Beauty guru Patrick Starrr is here to show off his glorious makeup storeroom, filled with each and every type of makeup you could possibly imagine. With drawers chock full of beauty blenders and concealer, Patrick has just about everything. Just wait until you see the lipstick drawer!
 
 Patrick Starrr is the founder of ONE/SIZE Beauty. The brand's newest products, the Cheek Clapper and Made For Shade, are available at http://onesizebeauty.com.
 
@@ -1124,8 +1124,8 @@ Still haven’t subscribed to Allure on YouTube? ►► http://bit.ly/AllureYouT
 Sign up for our monthly Allure Beauty Box ►► https://bit.ly/3itsPmG
 
 ABOUT ALLURE
-The best daily makeup tips, skin-care advice, hair tutorials, product reviews, and videos from beauty experts.",en-US,PT11M47S,2d,hd,true,True,rectangular,processed,public,youtube,True,False,False,170231,4875,0,238,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/pILP9KSA_Cc"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,v-ZMOC8sHbPg551SLDaFtj5BCXo,P8uzbvg0Zlk,2022-05-17T14:00:17Z,UCDHQbU57NZilrhbuZNbQcRA,North Star Boys Do My Makeup | PatrickStarrr,"Check out the North Star Boys YouTube Channel: https://www.youtube.com/c/NorthStarBoys
+The best daily makeup tips, skin-care advice, hair tutorials, product reviews, and videos from beauty experts.",en-US,PT11M47S,2d,hd,TRUE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,170231,4875,0,238,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/pILP9KSA_Cc"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,yes,v-ZMOC8sHbPg551SLDaFtj5BCXo,P8uzbvg0Zlk,2022-05-17T14:00:17Z,UCDHQbU57NZilrhbuZNbQcRA,North Star Boys Do My Makeup | PatrickStarrr,"Check out the North Star Boys YouTube Channel: https://www.youtube.com/c/NorthStarBoys
 Follow the NorthStarBoys: https://www.instagram.com/northstarboys/
 
 --------------------------------------------------
@@ -1237,8 +1237,8 @@ DON’T
 https://spoti.fi/2MaR1Lr
 
 GO OFF 
-https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT33M2S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,135235,9975,0,232,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/P8uzbvg0Zlk"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,j1v1m63Bv9avpOvjtlJq1ZrTkyg,OBX38JSeITg,2017-08-02T17:01:51Z,UCDHQbU57NZilrhbuZNbQcRA,KIM KARDASHIAN WEST MAKEUP TUTORIAL | PatrickStarrr,"I PRESENT TO YOU KIM KARDASHIAN WEST ON MY CHANNEL! This is so surreal to have Kim with me in a video! We met at her home and chatted about doing a makeup tutorial...and here we are GLAMMING and giving you all a full coverage natural glam beat face slayed to the gawds hunty. So happy to have used the KKW BEAUTY highlight and contour sticks on KIM herself! She officially stated that she would be coming out with a LARGER kabuki brush official for blending out the contour! 
+https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT33M2S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,135235,9975,0,232,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/P8uzbvg0Zlk"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,yes,j1v1m63Bv9avpOvjtlJq1ZrTkyg,OBX38JSeITg,2017-08-02T17:01:51Z,UCDHQbU57NZilrhbuZNbQcRA,KIM KARDASHIAN WEST MAKEUP TUTORIAL | PatrickStarrr,"I PRESENT TO YOU KIM KARDASHIAN WEST ON MY CHANNEL! This is so surreal to have Kim with me in a video! We met at her home and chatted about doing a makeup tutorial...and here we are GLAMMING and giving you all a full coverage natural glam beat face slayed to the gawds hunty. So happy to have used the KKW BEAUTY highlight and contour sticks on KIM herself! She officially stated that she would be coming out with a LARGER kabuki brush official for blending out the contour! 
 
 To Kim Kardashian West... thank you so much for inspiring millions of us to snatch our face like yours alongside you many talented makeup artists throughout the years. When I pretended to do play on your wax figure...I never thought Id have the chance to do the REAL YOU! 
 
@@ -1295,7 +1295,7 @@ Los Angeles, CA 90064-2109
 MORPHE BRUSHES | 10% OFF 
 Use Coupon Code: PSTARRR
 *Make sure you use ALL CAPS*
-http://goo.gl/VDrqlT",https://i.ytimg.com/vi/OBX38JSeITg/default.jpg,120,90,https://i.ytimg.com/vi/OBX38JSeITg/mqdefault.jpg,320,180,https://i.ytimg.com/vi/OBX38JSeITg/hqdefault.jpg,480,360,https://i.ytimg.com/vi/OBX38JSeITg/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/OBX38JSeITg/maxresdefault.jpg,1280.0,720.0,PatrickStarrr,"['KIM KARDASHIAN', 'KKW BEAUTY', 'PATRICKSTARRR', 'PATRICK', 'STARRR', 'KIM KARDASHIAN WEST', 'KYLIE COSMETICS', 'KYLIE JENNER', 'KENDALL JENNER', 'KARDASHIAN', 'KHLOE', 'KKW', 'KOURTNEY', 'ROB', 'YOUTUBE', 'KANYE WEST', 'NORTH', 'SAINT', 'WEST', 'KEEPING UP WITH THE KARDASHIANS', 'LADY GAGA']",26,none,KIM KARDASHIAN WEST MAKEUP TUTORIAL | PatrickStarrr,"I PRESENT TO YOU KIM KARDASHIAN WEST ON MY CHANNEL! This is so surreal to have Kim with me in a video! We met at her home and chatted about doing a makeup tutorial...and here we are GLAMMING and giving you all a full coverage natural glam beat face slayed to the gawds hunty. So happy to have used the KKW BEAUTY highlight and contour sticks on KIM herself! She officially stated that she would be coming out with a LARGER kabuki brush official for blending out the contour! 
+http://goo.gl/VDrqlT",https://i.ytimg.com/vi/OBX38JSeITg/default.jpg,120,90,https://i.ytimg.com/vi/OBX38JSeITg/mqdefault.jpg,320,180,https://i.ytimg.com/vi/OBX38JSeITg/hqdefault.jpg,480,360,https://i.ytimg.com/vi/OBX38JSeITg/sddefault.jpg,640,480,https://i.ytimg.com/vi/OBX38JSeITg/maxresdefault.jpg,1280,720,PatrickStarrr,"['KIM KARDASHIAN', 'KKW BEAUTY', 'PATRICKSTARRR', 'PATRICK', 'STARRR', 'KIM KARDASHIAN WEST', 'KYLIE COSMETICS', 'KYLIE JENNER', 'KENDALL JENNER', 'KARDASHIAN', 'KHLOE', 'KKW', 'KOURTNEY', 'ROB', 'YOUTUBE', 'KANYE WEST', 'NORTH', 'SAINT', 'WEST', 'KEEPING UP WITH THE KARDASHIANS', 'LADY GAGA']",26,none,KIM KARDASHIAN WEST MAKEUP TUTORIAL | PatrickStarrr,"I PRESENT TO YOU KIM KARDASHIAN WEST ON MY CHANNEL! This is so surreal to have Kim with me in a video! We met at her home and chatted about doing a makeup tutorial...and here we are GLAMMING and giving you all a full coverage natural glam beat face slayed to the gawds hunty. So happy to have used the KKW BEAUTY highlight and contour sticks on KIM herself! She officially stated that she would be coming out with a LARGER kabuki brush official for blending out the contour! 
 
 To Kim Kardashian West... thank you so much for inspiring millions of us to snatch our face like yours alongside you many talented makeup artists throughout the years. When I pretended to do play on your wax figure...I never thought Id have the chance to do the REAL YOU! 
 
@@ -1352,8 +1352,8 @@ Los Angeles, CA 90064-2109
 MORPHE BRUSHES | 10% OFF 
 Use Coupon Code: PSTARRR
 *Make sure you use ALL CAPS*
-http://goo.gl/VDrqlT",,PT33M37S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,15210450,464825,0,18181,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/OBX38JSeITg"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,OVrP-kLU-LL54nMf8te5tvtXkvo,xDM-V_zbXCk,2022-05-13T14:00:32Z,UCDHQbU57NZilrhbuZNbQcRA,FULL COVERAGE FOUNDATION ROUTINE and REVERSE BAKING | PatrickStarrr,"Here is my updated Full Coverage Foundation Routine with REVERSE BAKING!
+http://goo.gl/VDrqlT",,PT33M37S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,15210450,464825,0,18181,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/OBX38JSeITg"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,yes,OVrP-kLU-LL54nMf8te5tvtXkvo,xDM-V_zbXCk,2022-05-13T14:00:32Z,UCDHQbU57NZilrhbuZNbQcRA,FULL COVERAGE FOUNDATION ROUTINE and REVERSE BAKING | PatrickStarrr,"Here is my updated Full Coverage Foundation Routine with REVERSE BAKING!
 
 xoxo
 PatrickStarrr
@@ -1424,7 +1424,7 @@ DON’T
 https://spoti.fi/2MaR1Lr
 
 GO OFF 
-https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",https://i.ytimg.com/vi/xDM-V_zbXCk/default.jpg,120,90,https://i.ytimg.com/vi/xDM-V_zbXCk/mqdefault.jpg,320,180,https://i.ytimg.com/vi/xDM-V_zbXCk/hqdefault.jpg,480,360,https://i.ytimg.com/vi/xDM-V_zbXCk/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/xDM-V_zbXCk/maxresdefault.jpg,1280.0,720.0,PatrickStarrr,"['Patrick starrr', 'Patrick', 'starrr', 'makeup', 'patrickstarrr', 'Patrick star', 'mua', 'tutorials', 'theepatrickstarrr', 'one size beauty', 'o/s', 'visionary', 'go off', 'beauty', 'beautyyoutuber', 'full coverage foundation', 'foundation', 'full coverage']",26,none,FULL COVERAGE FOUNDATION ROUTINE and REVERSE BAKING | PatrickStarrr,"Here is my updated Full Coverage Foundation Routine with REVERSE BAKING!
+https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",https://i.ytimg.com/vi/xDM-V_zbXCk/default.jpg,120,90,https://i.ytimg.com/vi/xDM-V_zbXCk/mqdefault.jpg,320,180,https://i.ytimg.com/vi/xDM-V_zbXCk/hqdefault.jpg,480,360,https://i.ytimg.com/vi/xDM-V_zbXCk/sddefault.jpg,640,480,https://i.ytimg.com/vi/xDM-V_zbXCk/maxresdefault.jpg,1280,720,PatrickStarrr,"['Patrick starrr', 'Patrick', 'starrr', 'makeup', 'patrickstarrr', 'Patrick star', 'mua', 'tutorials', 'theepatrickstarrr', 'one size beauty', 'o/s', 'visionary', 'go off', 'beauty', 'beautyyoutuber', 'full coverage foundation', 'foundation', 'full coverage']",26,none,FULL COVERAGE FOUNDATION ROUTINE and REVERSE BAKING | PatrickStarrr,"Here is my updated Full Coverage Foundation Routine with REVERSE BAKING!
 
 xoxo
 PatrickStarrr
@@ -1495,8 +1495,8 @@ DON’T
 https://spoti.fi/2MaR1Lr
 
 GO OFF 
-https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT27M49S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,38384,2005,0,158,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/xDM-V_zbXCk"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,hATyxaTeZzysnipE8F0ucEKWDOQ,dCPn2ooOr-I,2019-08-21T17:59:49Z,UCDHQbU57NZilrhbuZNbQcRA,I GAVE MY BROTHER A FACIAL - ASMR | PatrickStarrr,"Woah! All products are listed down below! I gave my brother Peter a facial! I am NOT a licensed esthetician so I did NOT do any extractions! I’m so glad Peter got into a regimen and his skin is looking great. He has eczema and some dry spots, so this works for his unique skin type! Let me know what you think!  
+https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT27M49S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,38384,2005,0,158,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/xDM-V_zbXCk"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,yes,hATyxaTeZzysnipE8F0ucEKWDOQ,dCPn2ooOr-I,2019-08-21T17:59:49Z,UCDHQbU57NZilrhbuZNbQcRA,I GAVE MY BROTHER A FACIAL - ASMR | PatrickStarrr,"Woah! All products are listed down below! I gave my brother Peter a facial! I am NOT a licensed esthetician so I did NOT do any extractions! I’m so glad Peter got into a regimen and his skin is looking great. He has eczema and some dry spots, so this works for his unique skin type! Let me know what you think!  
 
 Follow Peter! 
 https://www.instagram.com/heyitspeterrr_/?hl=en
@@ -1603,7 +1603,7 @@ http://goo.gl/0GFmOy
  
 Use Coupon code: patrickstarrr  for 25% OFF sitewide!!!
 http://www.gerardcosmetics.com/
-http://whiteninglightning.com/",https://i.ytimg.com/vi/dCPn2ooOr-I/default.jpg,120,90,https://i.ytimg.com/vi/dCPn2ooOr-I/mqdefault.jpg,320,180,https://i.ytimg.com/vi/dCPn2ooOr-I/hqdefault.jpg,480,360,https://i.ytimg.com/vi/dCPn2ooOr-I/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/dCPn2ooOr-I/maxresdefault.jpg,1280.0,720.0,PatrickStarrr,"['makeup', 'transformation', 'theepatrickstarrr', 'patrickstarrr', 'patrick', 'starrr', 'full', 'coverage', 'foundation', 'routine', 'Tati', 'star', 'James', 'Charles', 'mannymua', 'jaclyn', 'hill', 'kim', 'kardashian', 'west', 'Kylie', 'Jenner', 'Khloe', 'kris', 'jeffree', 'nikkietutorials', 'fenty', 'beauty', 'kylie skin', 'jackie aina', 'ASMR', 'heyitspeterrr', 'peter simondac', 'facial asmr', 'facial', 'i gave my brother a facial']",26,none,I GAVE MY BROTHER A FACIAL - ASMR | PatrickStarrr,"Woah! All products are listed down below! I gave my brother Peter a facial! I am NOT a licensed esthetician so I did NOT do any extractions! I’m so glad Peter got into a regimen and his skin is looking great. He has eczema and some dry spots, so this works for his unique skin type! Let me know what you think!  
+http://whiteninglightning.com/",https://i.ytimg.com/vi/dCPn2ooOr-I/default.jpg,120,90,https://i.ytimg.com/vi/dCPn2ooOr-I/mqdefault.jpg,320,180,https://i.ytimg.com/vi/dCPn2ooOr-I/hqdefault.jpg,480,360,https://i.ytimg.com/vi/dCPn2ooOr-I/sddefault.jpg,640,480,https://i.ytimg.com/vi/dCPn2ooOr-I/maxresdefault.jpg,1280,720,PatrickStarrr,"['makeup', 'transformation', 'theepatrickstarrr', 'patrickstarrr', 'patrick', 'starrr', 'full', 'coverage', 'foundation', 'routine', 'Tati', 'star', 'James', 'Charles', 'mannymua', 'jaclyn', 'hill', 'kim', 'kardashian', 'west', 'Kylie', 'Jenner', 'Khloe', 'kris', 'jeffree', 'nikkietutorials', 'fenty', 'beauty', 'kylie skin', 'jackie aina', 'ASMR', 'heyitspeterrr', 'peter simondac', 'facial asmr', 'facial', 'i gave my brother a facial']",26,none,I GAVE MY BROTHER A FACIAL - ASMR | PatrickStarrr,"Woah! All products are listed down below! I gave my brother Peter a facial! I am NOT a licensed esthetician so I did NOT do any extractions! I’m so glad Peter got into a regimen and his skin is looking great. He has eczema and some dry spots, so this works for his unique skin type! Let me know what you think!  
 
 Follow Peter! 
 https://www.instagram.com/heyitspeterrr_/?hl=en
@@ -1710,8 +1710,8 @@ http://goo.gl/0GFmOy
  
 Use Coupon code: patrickstarrr  for 25% OFF sitewide!!!
 http://www.gerardcosmetics.com/
-http://whiteninglightning.com/",,PT13M18S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,1009622,33297,0,1135,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/dCPn2ooOr-I"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,OasnQ4ygVWopG1mmRcMYFD-UIe8,PUBQye5xJOI,2022-05-03T14:00:07Z,UCDHQbU57NZilrhbuZNbQcRA,Kim Kardashian Vanity Fair Oscar’s Makeup Tutorial | PatrickStarrr,"This KIM KARDASHIAN look by MakeupbyAriel snapped at the Oscars! Apart from learning tips from Tiktok- YouTube is the place to be for DETAILSSSS! Shoutout to the beautiful Naressa Valdez for sitting in this glam! Follow her on Instagram!
+http://whiteninglightning.com/",,PT13M18S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,1009622,33297,0,1135,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/dCPn2ooOr-I"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,yes,OasnQ4ygVWopG1mmRcMYFD-UIe8,PUBQye5xJOI,2022-05-03T14:00:07Z,UCDHQbU57NZilrhbuZNbQcRA,Kim Kardashian Vanity Fair Oscar’s Makeup Tutorial | PatrickStarrr,"This KIM KARDASHIAN look by MakeupbyAriel snapped at the Oscars! Apart from learning tips from Tiktok- YouTube is the place to be for DETAILSSSS! Shoutout to the beautiful Naressa Valdez for sitting in this glam! Follow her on Instagram!
 
 PRODUCTS
 B A S E
@@ -1883,8 +1883,8 @@ DON’T
 https://spoti.fi/2MaR1Lr
 
 GO OFF 
-https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT22M17S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,59138,2486,0,128,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/PUBQye5xJOI"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,wAVDQCZ0e7CGBOzW8WlQMwkihdw,Kl00K76xayI,2022-05-06T23:44:14Z,UCCmY_sdad4tGaF1OErDCyJA,NSB Extreme Makeup Transformation (Ft. Patrick Starrr),"Watch as NSB takes on the challenge of makeup as they all team up to give a glam make over to beauty star, Patrick Starr!!
+https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT22M17S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,59138,2486,0,128,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/PUBQye5xJOI"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,yes,wAVDQCZ0e7CGBOzW8WlQMwkihdw,Kl00K76xayI,2022-05-06T23:44:14Z,UCCmY_sdad4tGaF1OErDCyJA,NSB Extreme Makeup Transformation (Ft. Patrick Starrr),"Watch as NSB takes on the challenge of makeup as they all team up to give a glam make over to beauty star, Patrick Starr!!
 
 Pre-Save ""you are my star"" by NSB!!! https://laylo.com/nsb/K8bzc
 
@@ -1986,8 +1986,8 @@ Media Team:
 https://www.instagram.com/baemerola/
 https://www.instagram.com/ayescobar/
 
-#NorthStarBoys #NSB",en,PT16M21S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,198392,16943,0,661,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/Kl00K76xayI"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,bAunm8DlCLSPXqjeq9jTlO4Gccw,dJ3EAq6Jesg,2016-08-30T20:56:06Z,UCDHQbU57NZilrhbuZNbQcRA,FULL COVERAGE FOUNDATION ROUTINE | PatrickStarrr,"MORPHE BRUSHES DISCOUNT CODE: ""PSTARRR"" for 10% off! Finally an updated FULL COVERAGE FOUNDATION ROUTINE! I love me some full ass coverage so I thought I would film how EXACTLY I apply my full coverage cake face for my daily makeup transformations! This cake process is pretty much what I stick to on the daily and I hope this routine helps you cover what you want to cover! It is not always about the product- its also about the APPLICATION! Thank you so much for watching! I love you all so so much! 
+#NorthStarBoys #NSB",en,PT16M21S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,198392,16943,0,661,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/Kl00K76xayI"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,yes,bAunm8DlCLSPXqjeq9jTlO4Gccw,dJ3EAq6Jesg,2016-08-30T20:56:06Z,UCDHQbU57NZilrhbuZNbQcRA,FULL COVERAGE FOUNDATION ROUTINE | PatrickStarrr,"MORPHE BRUSHES DISCOUNT CODE: ""PSTARRR"" for 10% off! Finally an updated FULL COVERAGE FOUNDATION ROUTINE! I love me some full ass coverage so I thought I would film how EXACTLY I apply my full coverage cake face for my daily makeup transformations! This cake process is pretty much what I stick to on the daily and I hope this routine helps you cover what you want to cover! It is not always about the product- its also about the APPLICATION! Thank you so much for watching! I love you all so so much! 
 
 xoxo
 PatrickStarrr
@@ -2067,7 +2067,7 @@ http://goo.gl/0GFmOy
  
 Use Coupon code: patrickstarrr  for 25% OFF sitewide!!!
 http://www.gerardcosmetics.com/
-http://whiteninglightning.com/",https://i.ytimg.com/vi/dJ3EAq6Jesg/default.jpg,120,90,https://i.ytimg.com/vi/dJ3EAq6Jesg/mqdefault.jpg,320,180,https://i.ytimg.com/vi/dJ3EAq6Jesg/hqdefault.jpg,480,360,https://i.ytimg.com/vi/dJ3EAq6Jesg/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/dJ3EAq6Jesg/maxresdefault.jpg,1280.0,720.0,PatrickStarrr,"['makeup', 'transformation', 'tutorial', 'beauty', 'how to style', 'fashion', 'full coverage', 'foundation', 'routine', 'patrick', 'patrick starrr', 'patrickstarrr', 'starrr', 'starr', 'patrickstar', 'boy', 'male', 'mua', 'artist', 'mac cosmetics', 'make up for ever', 'morphe brushes', 'makeup challenge', 'how to', 'youtube', 'products', 'review', 'guru', 'vlogger', 'cosmetics']",26,none,FULL COVERAGE FOUNDATION ROUTINE | PatrickStarrr,"MORPHE BRUSHES DISCOUNT CODE: ""PSTARRR"" for 10% off! Finally an updated FULL COVERAGE FOUNDATION ROUTINE! I love me some full ass coverage so I thought I would film how EXACTLY I apply my full coverage cake face for my daily makeup transformations! This cake process is pretty much what I stick to on the daily and I hope this routine helps you cover what you want to cover! It is not always about the product- its also about the APPLICATION! Thank you so much for watching! I love you all so so much! 
+http://whiteninglightning.com/",https://i.ytimg.com/vi/dJ3EAq6Jesg/default.jpg,120,90,https://i.ytimg.com/vi/dJ3EAq6Jesg/mqdefault.jpg,320,180,https://i.ytimg.com/vi/dJ3EAq6Jesg/hqdefault.jpg,480,360,https://i.ytimg.com/vi/dJ3EAq6Jesg/sddefault.jpg,640,480,https://i.ytimg.com/vi/dJ3EAq6Jesg/maxresdefault.jpg,1280,720,PatrickStarrr,"['makeup', 'transformation', 'tutorial', 'beauty', 'how to style', 'fashion', 'full coverage', 'foundation', 'routine', 'patrick', 'patrick starrr', 'patrickstarrr', 'starrr', 'starr', 'patrickstar', 'boy', 'male', 'mua', 'artist', 'mac cosmetics', 'make up for ever', 'morphe brushes', 'makeup challenge', 'how to', 'youtube', 'products', 'review', 'guru', 'vlogger', 'cosmetics']",26,none,FULL COVERAGE FOUNDATION ROUTINE | PatrickStarrr,"MORPHE BRUSHES DISCOUNT CODE: ""PSTARRR"" for 10% off! Finally an updated FULL COVERAGE FOUNDATION ROUTINE! I love me some full ass coverage so I thought I would film how EXACTLY I apply my full coverage cake face for my daily makeup transformations! This cake process is pretty much what I stick to on the daily and I hope this routine helps you cover what you want to cover! It is not always about the product- its also about the APPLICATION! Thank you so much for watching! I love you all so so much! 
 
 xoxo
 PatrickStarrr
@@ -2147,8 +2147,8 @@ http://goo.gl/0GFmOy
  
 Use Coupon code: patrickstarrr  for 25% OFF sitewide!!!
 http://www.gerardcosmetics.com/
-http://whiteninglightning.com/",,PT15M50S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,6060537,97823,0,6579,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/dJ3EAq6Jesg"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,C5Ch5At6OyTQDVw6cE1bUtfSRWM,7mL11cvorsc,2022-02-21T19:17:59Z,UCDHQbU57NZilrhbuZNbQcRA,Im giving up on social media | PatrickStarrr,"Im learning to adjust to this new life of mine here online. I love you all so much! 
+http://whiteninglightning.com/",,PT15M50S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,6060537,97823,0,6579,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/dJ3EAq6Jesg"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,no,C5Ch5At6OyTQDVw6cE1bUtfSRWM,7mL11cvorsc,2022-02-21T19:17:59Z,UCDHQbU57NZilrhbuZNbQcRA,Im giving up on social media | PatrickStarrr,"Im learning to adjust to this new life of mine here online. I love you all so much! 
 
 xoxo
 PatrickStarrr
@@ -2278,8 +2278,8 @@ DON’T
 https://spoti.fi/2MaR1Lr
 
 GO OFF 
-https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT13M44S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,91389,4794,0,323,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/7mL11cvorsc"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,1ZrdDOAnGek-Wy8lW_ljWTktXWg,LRkcadxPtaY,2021-07-13T18:00:06Z,UCDHQbU57NZilrhbuZNbQcRA,TYRA BANKS MAKEUP TRANSFORMATION | PatrickStarrr,"I can’t believe I’m doing TYRA BANKS makeup!!!! 
+https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT13M44S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,91389,4794,0,323,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/7mL11cvorsc"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,yes,1ZrdDOAnGek-Wy8lW_ljWTktXWg,LRkcadxPtaY,2021-07-13T18:00:06Z,UCDHQbU57NZilrhbuZNbQcRA,TYRA BANKS MAKEUP TRANSFORMATION | PatrickStarrr,"I can’t believe I’m doing TYRA BANKS makeup!!!! 
 Follow Tyra and check out SMiZE CREAM!
 https://www.instagram.com/tyrabanks
 https://www.instagram.com/smizecream
@@ -2421,8 +2421,8 @@ DON’T
 https://spoti.fi/2MaR1Lr
 
 GO OFF 
-https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT47M1S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,516672,19017,0,869,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/LRkcadxPtaY"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,gjaLBx2KB8Clp2BhrEdiJCN9gMc,OCDmIVRRwSQ,2019-05-28T18:29:53Z,UCDHQbU57NZilrhbuZNbQcRA,KYLIE SKIN REVIEW AND FIRST IMPRESSIONS | PatrickStarrr,"OMG I finally got my hands on KYLIE SKIN! I recently attended her party and saw all the girls! I got to see Kim Kardashian West, Kourtney Kardashian, Khloe Kardashian, Kris Jenner and Kaitlyn Jenner too! Kylie Jenner has created an empire and I am excited for you to see my thoughts on her skin care! Be sure to check out Kylie Skin at https://kylieskin.com/
+https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT47M1S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,516672,19017,0,869,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/LRkcadxPtaY"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,yes,gjaLBx2KB8Clp2BhrEdiJCN9gMc,OCDmIVRRwSQ,2019-05-28T18:29:53Z,UCDHQbU57NZilrhbuZNbQcRA,KYLIE SKIN REVIEW AND FIRST IMPRESSIONS | PatrickStarrr,"OMG I finally got my hands on KYLIE SKIN! I recently attended her party and saw all the girls! I got to see Kim Kardashian West, Kourtney Kardashian, Khloe Kardashian, Kris Jenner and Kaitlyn Jenner too! Kylie Jenner has created an empire and I am excited for you to see my thoughts on her skin care! Be sure to check out Kylie Skin at https://kylieskin.com/
 
 xoxo
 PatrickStarrr
@@ -2483,7 +2483,7 @@ http://goo.gl/0GFmOy
  
 Use Coupon code: patrickstarrr  for 25% OFF sitewide!!!
 http://www.gerardcosmetics.com/
-http://whiteninglightning.com/",https://i.ytimg.com/vi/OCDmIVRRwSQ/default.jpg,120,90,https://i.ytimg.com/vi/OCDmIVRRwSQ/mqdefault.jpg,320,180,https://i.ytimg.com/vi/OCDmIVRRwSQ/hqdefault.jpg,480,360,https://i.ytimg.com/vi/OCDmIVRRwSQ/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/OCDmIVRRwSQ/maxresdefault.jpg,1280.0,720.0,PatrickStarrr,"['makeup', 'transformation', 'theepatrickstarrr', 'patrickstarrr', 'patrick', 'starrr', 'full', 'coverage', 'foundation', 'routine', 'KYLIE SKIN', 'kim kardashian west', 'khloe kardashian', 'keeping up with the kardashians', 'kourtney kardashian', 'kris jenner', 'kylie jenner', 'stormy', 'kaitlyn jenner', 'james charles', 'nikita dragun', 'gabriel zamora', 'jeffree star', 'mannymua', 'dragconla']",26,none,KYLIE SKIN REVIEW AND FIRST IMPRESSIONS | PatrickStarrr,"OMG I finally got my hands on KYLIE SKIN! I recently attended her party and saw all the girls! I got to see Kim Kardashian West, Kourtney Kardashian, Khloe Kardashian, Kris Jenner and Kaitlyn Jenner too! Kylie Jenner has created an empire and I am excited for you to see my thoughts on her skin care! Be sure to check out Kylie Skin at https://kylieskin.com/
+http://whiteninglightning.com/",https://i.ytimg.com/vi/OCDmIVRRwSQ/default.jpg,120,90,https://i.ytimg.com/vi/OCDmIVRRwSQ/mqdefault.jpg,320,180,https://i.ytimg.com/vi/OCDmIVRRwSQ/hqdefault.jpg,480,360,https://i.ytimg.com/vi/OCDmIVRRwSQ/sddefault.jpg,640,480,https://i.ytimg.com/vi/OCDmIVRRwSQ/maxresdefault.jpg,1280,720,PatrickStarrr,"['makeup', 'transformation', 'theepatrickstarrr', 'patrickstarrr', 'patrick', 'starrr', 'full', 'coverage', 'foundation', 'routine', 'KYLIE SKIN', 'kim kardashian west', 'khloe kardashian', 'keeping up with the kardashians', 'kourtney kardashian', 'kris jenner', 'kylie jenner', 'stormy', 'kaitlyn jenner', 'james charles', 'nikita dragun', 'gabriel zamora', 'jeffree star', 'mannymua', 'dragconla']",26,none,KYLIE SKIN REVIEW AND FIRST IMPRESSIONS | PatrickStarrr,"OMG I finally got my hands on KYLIE SKIN! I recently attended her party and saw all the girls! I got to see Kim Kardashian West, Kourtney Kardashian, Khloe Kardashian, Kris Jenner and Kaitlyn Jenner too! Kylie Jenner has created an empire and I am excited for you to see my thoughts on her skin care! Be sure to check out Kylie Skin at https://kylieskin.com/
 
 xoxo
 PatrickStarrr
@@ -2544,8 +2544,8 @@ http://goo.gl/0GFmOy
  
 Use Coupon code: patrickstarrr  for 25% OFF sitewide!!!
 http://www.gerardcosmetics.com/
-http://whiteninglightning.com/",,PT15M52S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,4400258,87350,0,7231,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/OCDmIVRRwSQ"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,semOfrgr-JPFOjbWRlHTfqndY2k,Bjvr6O_i2Eo,2022-02-05T18:00:11Z,UCDHQbU57NZilrhbuZNbQcRA,SMALL LAUDE TRANSFORMATION into JLO!! | PatrickStarrr,"It’s a Small Laude world after all! I am so honored to have the fabulous Small Laude on my channel today to transform her into Jennifer Lopez! This was so fun! Be sure to check out her vlog and channel here! https://youtu.be/p-ayXbkGs8Y 
+http://whiteninglightning.com/",,PT15M52S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,4400258,87350,0,7231,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/OCDmIVRRwSQ"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,yes,semOfrgr-JPFOjbWRlHTfqndY2k,Bjvr6O_i2Eo,2022-02-05T18:00:11Z,UCDHQbU57NZilrhbuZNbQcRA,SMALL LAUDE TRANSFORMATION into JLO!! | PatrickStarrr,"It’s a Small Laude world after all! I am so honored to have the fabulous Small Laude on my channel today to transform her into Jennifer Lopez! This was so fun! Be sure to check out her vlog and channel here! https://youtu.be/p-ayXbkGs8Y 
 
 --------------------------------------------------
 PRODUCTS
@@ -2705,8 +2705,8 @@ DON’T
 https://spoti.fi/2MaR1Lr
 
 GO OFF 
-https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT33M7S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,259851,16407,0,779,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/Bjvr6O_i2Eo"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],2022-02-05T18:00:11Z,2022-02-05T18:35:12Z,2022-02-05T18:00:00Z,,,
-youtube#video,3hoYJkTb-tx7vLppp93elUSpMhc,WPiLz4WX7-0,2022-02-14T17:54:58Z,UCDHQbU57NZilrhbuZNbQcRA,MY NEW COMPLEXION PRODUCT by One/Size Beauty | PatrickStarrr,"Check out the new Turn Up The Base BBB Beauty Blur Balm at Sephora and OneSizeBeauty.com
+https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT33M7S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,259851,16407,0,779,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/Bjvr6O_i2Eo"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],2022-02-05T18:00:11Z,2022-02-05T18:35:12Z,2022-02-05T18:00:00Z,,,
+youtube#video,yes,3hoYJkTb-tx7vLppp93elUSpMhc,WPiLz4WX7-0,2022-02-14T17:54:58Z,UCDHQbU57NZilrhbuZNbQcRA,MY NEW COMPLEXION PRODUCT by One/Size Beauty | PatrickStarrr,"Check out the new Turn Up The Base BBB Beauty Blur Balm at Sephora and OneSizeBeauty.com
 
 https://www.sephora.com/product/turn-up-base-beauty-blur-balm-foundation-P478536
 
@@ -2826,8 +2826,8 @@ DON’T
 https://spoti.fi/2MaR1Lr
 
 GO OFF 
-https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT11M44S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,46410,2858,0,160,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/WPiLz4WX7-0"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,tVsglc5OtmTE_73H0Cl-LtaK97o,GmoVC4ylTU8,2018-08-02T00:14:31Z,UCDHQbU57NZilrhbuZNbQcRA,BRETMAN ROCK DRAG TRANSFORMATION | PatrickStarrr,"HAPPY BIRTHDAY BRETMAN ROCK! Here she is with her full coverage Ru Pauls Drag Race inspired drag makeup transformation! Everyone welcome LEO to this earth and wish her a HAPPY BIRTHDAY! I hope you all enjoy this wonderful model and make wonderful memes of her! 
+https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT11M44S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,46410,2858,0,160,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/WPiLz4WX7-0"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,yes,tVsglc5OtmTE_73H0Cl-LtaK97o,GmoVC4ylTU8,2018-08-02T00:14:31Z,UCDHQbU57NZilrhbuZNbQcRA,BRETMAN ROCK DRAG TRANSFORMATION | PatrickStarrr,"HAPPY BIRTHDAY BRETMAN ROCK! Here she is with her full coverage Ru Pauls Drag Race inspired drag makeup transformation! Everyone welcome LEO to this earth and wish her a HAPPY BIRTHDAY! I hope you all enjoy this wonderful model and make wonderful memes of her! 
 
 Follow Bretman & ""LEO""
 https://www.instagram.com/bretmanrock/?hl=en
@@ -2891,7 +2891,7 @@ http://goo.gl/0GFmOy
  
 Use Coupon code: patrickstarrr  for 25% OFF sitewide!!!
 http://www.gerardcosmetics.com/
-http://whiteninglightning.com/",https://i.ytimg.com/vi/GmoVC4ylTU8/default.jpg,120,90,https://i.ytimg.com/vi/GmoVC4ylTU8/mqdefault.jpg,320,180,https://i.ytimg.com/vi/GmoVC4ylTU8/hqdefault.jpg,480,360,https://i.ytimg.com/vi/GmoVC4ylTU8/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/GmoVC4ylTU8/maxresdefault.jpg,1280.0,720.0,PatrickStarrr,"['makeup', 'transformation', 'theepatrickstarrr', 'patrickstarrr', 'patrick', 'starrr', 'full', 'coverage', 'foundation', 'routine', 'bretman', 'bretman rock', 'jeffree star', 'nikkie tutorials', 'mannymua', 'jaclyn hill', 'james charles', 'dolan twins', 'instagram', 'mtv', 'trl', 'liza koshy']",26,none,BRETMAN ROCK DRAG TRANSFORMATION | PatrickStarrr,"HAPPY BIRTHDAY BRETMAN ROCK! Here she is with her full coverage Ru Pauls Drag Race inspired drag makeup transformation! Everyone welcome LEO to this earth and wish her a HAPPY BIRTHDAY! I hope you all enjoy this wonderful model and make wonderful memes of her! 
+http://whiteninglightning.com/",https://i.ytimg.com/vi/GmoVC4ylTU8/default.jpg,120,90,https://i.ytimg.com/vi/GmoVC4ylTU8/mqdefault.jpg,320,180,https://i.ytimg.com/vi/GmoVC4ylTU8/hqdefault.jpg,480,360,https://i.ytimg.com/vi/GmoVC4ylTU8/sddefault.jpg,640,480,https://i.ytimg.com/vi/GmoVC4ylTU8/maxresdefault.jpg,1280,720,PatrickStarrr,"['makeup', 'transformation', 'theepatrickstarrr', 'patrickstarrr', 'patrick', 'starrr', 'full', 'coverage', 'foundation', 'routine', 'bretman', 'bretman rock', 'jeffree star', 'nikkie tutorials', 'mannymua', 'jaclyn hill', 'james charles', 'dolan twins', 'instagram', 'mtv', 'trl', 'liza koshy']",26,none,BRETMAN ROCK DRAG TRANSFORMATION | PatrickStarrr,"HAPPY BIRTHDAY BRETMAN ROCK! Here she is with her full coverage Ru Pauls Drag Race inspired drag makeup transformation! Everyone welcome LEO to this earth and wish her a HAPPY BIRTHDAY! I hope you all enjoy this wonderful model and make wonderful memes of her! 
 
 Follow Bretman & ""LEO""
 https://www.instagram.com/bretmanrock/?hl=en
@@ -2955,9 +2955,9 @@ http://goo.gl/0GFmOy
  
 Use Coupon code: patrickstarrr  for 25% OFF sitewide!!!
 http://www.gerardcosmetics.com/
-http://whiteninglightning.com/",,PT15M13S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,3401512,139925,0,5224,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/GmoVC4ylTU8"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,n0IdXLuj_uFjFSr-UiPXJkgRH0o,3NgU9KoBuXA,2022-07-03T20:05:23Z,UCDHQbU57NZilrhbuZNbQcRA,Weightloss Update: 53lbs Down,,https://i.ytimg.com/vi/3NgU9KoBuXA/default.jpg,120,90,https://i.ytimg.com/vi/3NgU9KoBuXA/mqdefault.jpg,320,180,https://i.ytimg.com/vi/3NgU9KoBuXA/hqdefault.jpg,480,360,,,,,,,PatrickStarrr,,26,none,Weightloss Update: 53lbs Down,,en,PT59S,2d,hd,false,False,rectangular,processed,public,youtube,True,False,False,24425,,0,175,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/3NgU9KoBuXA"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,5PZAvHY3vizsADRX5ndb1ijE8gg,CRUD9zT8DPk,2022-03-10T22:26:23Z,UCDHQbU57NZilrhbuZNbQcRA,My Everyday Natural Glam Makeup | PatrickStarrr,"This is my go to every natural makeup that’s super quick and easy!! Check out the new Beauty Blur Balm at Sephora and OneSizeBeauty.com 
+http://whiteninglightning.com/",,PT15M13S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,3401512,139925,0,5224,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/GmoVC4ylTU8"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,no,n0IdXLuj_uFjFSr-UiPXJkgRH0o,3NgU9KoBuXA,2022-07-03T20:05:23Z,UCDHQbU57NZilrhbuZNbQcRA,Weightloss Update: 53lbs Down,,https://i.ytimg.com/vi/3NgU9KoBuXA/default.jpg,120,90,https://i.ytimg.com/vi/3NgU9KoBuXA/mqdefault.jpg,320,180,https://i.ytimg.com/vi/3NgU9KoBuXA/hqdefault.jpg,480,360,,,,,,,PatrickStarrr,,26,none,Weightloss Update: 53lbs Down,,en,PT59S,2d,hd,FALSE,FALSE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,24425,,0,175,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/3NgU9KoBuXA"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,yes,5PZAvHY3vizsADRX5ndb1ijE8gg,CRUD9zT8DPk,2022-03-10T22:26:23Z,UCDHQbU57NZilrhbuZNbQcRA,My Everyday Natural Glam Makeup | PatrickStarrr,"This is my go to every natural makeup that’s super quick and easy!! Check out the new Beauty Blur Balm at Sephora and OneSizeBeauty.com 
 
 Xoxo
 PatrickStarrr
@@ -3069,8 +3069,8 @@ DON’T
 https://spoti.fi/2MaR1Lr
 
 GO OFF 
-https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT13M3S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,40065,2463,0,170,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/CRUD9zT8DPk"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,_9F6ONRjZ4jn629duni4sfHTmqU,n9XrYMdeVEs,2022-03-28T18:03:22Z,UCDHQbU57NZilrhbuZNbQcRA,IM LAUNCHING BLUSH and SCULPTING BRONZERS! Cheek Clapper and Made for Shade | PatrickStarrr,"I am gagging! TWERK with my newest One/Size Beauty Cheek Clapper 3D Blush Trio and Made for Shade Bronze and Sculpt Trio!!! 
+https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT13M3S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,40065,2463,0,170,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/CRUD9zT8DPk"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,yes,_9F6ONRjZ4jn629duni4sfHTmqU,n9XrYMdeVEs,2022-03-28T18:03:22Z,UCDHQbU57NZilrhbuZNbQcRA,IM LAUNCHING BLUSH and SCULPTING BRONZERS! Cheek Clapper and Made for Shade | PatrickStarrr,"I am gagging! TWERK with my newest One/Size Beauty Cheek Clapper 3D Blush Trio and Made for Shade Bronze and Sculpt Trio!!! 
 
 LAUNCHES April 1 in Sephora and OneSizeBeauty.com
 
@@ -3144,8 +3144,8 @@ MAIL ME STUFF!
 PatrickStarrr
 2355 Westwood Blvd.
 430 
-Los Angeles, CA 90064-2109",en,PT23M32S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,49348,3180,0,235,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/n9XrYMdeVEs"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],2022-03-28T18:03:22Z,2022-03-28T18:28:55Z,2022-03-28T18:03:01Z,,,
-youtube#video,p4Z3rVZsKKuaqfaZvMkD5RORSu0,JOvCOQBiczM,2022-06-10T14:00:14Z,UCDHQbU57NZilrhbuZNbQcRA,I TURNED MY MOM INTO A DRAG QUEEN! | PatrickStarrr,"HAPPY PRIDE! 
+Los Angeles, CA 90064-2109",en,PT23M32S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,49348,3180,0,235,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/n9XrYMdeVEs"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],2022-03-28T18:03:22Z,2022-03-28T18:28:55Z,2022-03-28T18:03:01Z,,,
+youtube#video,yes,p4Z3rVZsKKuaqfaZvMkD5RORSu0,JOvCOQBiczM,2022-06-10T14:00:14Z,UCDHQbU57NZilrhbuZNbQcRA,I TURNED MY MOM INTO A DRAG QUEEN! | PatrickStarrr,"HAPPY PRIDE! 
 
 --------------------------------------------------
 
@@ -3325,8 +3325,8 @@ DON’T
 https://spoti.fi/2MaR1Lr
 
 GO OFF 
-https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT18M23S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,18956,1048,0,88,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/JOvCOQBiczM"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,6hgvmOgefUGJNaQzKuM1VEqFaHU,wO_wFb7G9b0,2022-06-07T14:00:33Z,UCDHQbU57NZilrhbuZNbQcRA,Cindy Crawford 90's Realness on Kensington | PatrickStarrr,"OMG! Kensington looks SICKENING!
+https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT18M23S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,18956,1048,0,88,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/JOvCOQBiczM"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,no,6hgvmOgefUGJNaQzKuM1VEqFaHU,wO_wFb7G9b0,2022-06-07T14:00:33Z,UCDHQbU57NZilrhbuZNbQcRA,Cindy Crawford 90's Realness on Kensington | PatrickStarrr,"OMG! Kensington looks SICKENING!
 
 Follow Kensington: https://www.tiktok.com/@kensnation
 
@@ -3536,8 +3536,8 @@ DON’T
 https://spoti.fi/2MaR1Lr
 
 GO OFF 
-https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT21M26S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,24148,1272,0,94,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/wO_wFb7G9b0"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,fbP4bpmynIRK9PXnK-xFM10bTZ4,T00e8YGBTew,2019-04-11T18:41:08Z,UCDHQbU57NZilrhbuZNbQcRA,RAVEN SYMONE MAKEUP TRANSFORMATION  | PatrickStarrr,"WOW! Finally got to recover this video from my hard drive that was not working- but here we are with this amazing video with one of my idols Raven Symoné!! I have been such a long time fan like most of you and here we are with the amazing funny video! Hope you all enjoy this makeup tutorial and conversation! All hail this Disney channel queen! 
+https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT21M26S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,24148,1272,0,94,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/wO_wFb7G9b0"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,yes,fbP4bpmynIRK9PXnK-xFM10bTZ4,T00e8YGBTew,2019-04-11T18:41:08Z,UCDHQbU57NZilrhbuZNbQcRA,RAVEN SYMONE MAKEUP TRANSFORMATION  | PatrickStarrr,"WOW! Finally got to recover this video from my hard drive that was not working- but here we are with this amazing video with one of my idols Raven Symoné!! I have been such a long time fan like most of you and here we are with the amazing funny video! Hope you all enjoy this makeup tutorial and conversation! All hail this Disney channel queen! 
 
 Xoxo
 PatrickStarrr
@@ -3607,7 +3607,7 @@ http://goo.gl/0GFmOy
  
 Use Coupon code: patrickstarrr  for 25% OFF sitewide!!!
 http://www.gerardcosmetics.com/
-http://whiteninglightning.com/",https://i.ytimg.com/vi/T00e8YGBTew/default.jpg,120,90,https://i.ytimg.com/vi/T00e8YGBTew/mqdefault.jpg,320,180,https://i.ytimg.com/vi/T00e8YGBTew/hqdefault.jpg,480,360,https://i.ytimg.com/vi/T00e8YGBTew/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/T00e8YGBTew/maxresdefault.jpg,1280.0,720.0,PatrickStarrr,"['makeup', 'transformation', 'theepatrickstarrr', 'patrickstarrr', 'patrick', 'starrr', 'full', 'coverage', 'foundation', 'routine', 'raven symone', 'disney', 'disney makeup tutorial', 'RAVENS HOME', 'THATS SO RAVEN', 'disney channel']",26,none,RAVEN SYMONE MAKEUP TRANSFORMATION  | PatrickStarrr,"WOW! Finally got to recover this video from my hard drive that was not working- but here we are with this amazing video with one of my idols Raven Symoné!! I have been such a long time fan like most of you and here we are with the amazing funny video! Hope you all enjoy this makeup tutorial and conversation! All hail this Disney channel queen! 
+http://whiteninglightning.com/",https://i.ytimg.com/vi/T00e8YGBTew/default.jpg,120,90,https://i.ytimg.com/vi/T00e8YGBTew/mqdefault.jpg,320,180,https://i.ytimg.com/vi/T00e8YGBTew/hqdefault.jpg,480,360,https://i.ytimg.com/vi/T00e8YGBTew/sddefault.jpg,640,480,https://i.ytimg.com/vi/T00e8YGBTew/maxresdefault.jpg,1280,720,PatrickStarrr,"['makeup', 'transformation', 'theepatrickstarrr', 'patrickstarrr', 'patrick', 'starrr', 'full', 'coverage', 'foundation', 'routine', 'raven symone', 'disney', 'disney makeup tutorial', 'RAVENS HOME', 'THATS SO RAVEN', 'disney channel']",26,none,RAVEN SYMONE MAKEUP TRANSFORMATION  | PatrickStarrr,"WOW! Finally got to recover this video from my hard drive that was not working- but here we are with this amazing video with one of my idols Raven Symoné!! I have been such a long time fan like most of you and here we are with the amazing funny video! Hope you all enjoy this makeup tutorial and conversation! All hail this Disney channel queen! 
 
 Xoxo
 PatrickStarrr
@@ -3677,8 +3677,8 @@ http://goo.gl/0GFmOy
  
 Use Coupon code: patrickstarrr  for 25% OFF sitewide!!!
 http://www.gerardcosmetics.com/
-http://whiteninglightning.com/",,PT35M25S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,1073415,43124,0,2536,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/T00e8YGBTew"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,dQarWMspZWbUedg1qtgG6LvqHpw,OcOkqdV5XPk,2022-04-24T14:00:19Z,UCDHQbU57NZilrhbuZNbQcRA,I'M A HOARDER | PatrickStarrr,"PRODUCTS
+http://whiteninglightning.com/",,PT35M25S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,1073415,43124,0,2536,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/T00e8YGBTew"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,no,dQarWMspZWbUedg1qtgG6LvqHpw,OcOkqdV5XPk,2022-04-24T14:00:19Z,UCDHQbU57NZilrhbuZNbQcRA,I'M A HOARDER | PatrickStarrr,"PRODUCTS
 
 BROR Shelving Unit $89
 https://www.ikea.com/us/en/p/bror-shelving-unit-s09471977/
@@ -3830,8 +3830,8 @@ DON’T
 https://spoti.fi/2MaR1Lr
 
 GO OFF 
-https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT43M35S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,92740,3547,0,531,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/OcOkqdV5XPk"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,_77CfjjVjmon_6lHWP64EQR5qek,2awTgK-tCvI,2018-05-13T16:01:09Z,UCDHQbU57NZilrhbuZNbQcRA,KRIS JENNER MAKEUP TUTORIAL | PatrickStarrr,"I present to you the MOTHER BO$$ LADY...KRIS JENNER! We are here having a kiki showing you all the official Kylie Cosmetics / Kris Cosmetics collection! I myself have done transformations into Kim Kardashian West, Kylie Jenner, Kendall Jenner and Khloe Kardashian...but never would I have ever thought I would have the queen herself on my channel! I hope you all enjoy this video! Dont forget to subscribe and check out the collection! SUBSCRIBE! 
+https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT43M35S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,92740,3547,0,531,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/OcOkqdV5XPk"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,yes,_77CfjjVjmon_6lHWP64EQR5qek,2awTgK-tCvI,2018-05-13T16:01:09Z,UCDHQbU57NZilrhbuZNbQcRA,KRIS JENNER MAKEUP TUTORIAL | PatrickStarrr,"I present to you the MOTHER BO$$ LADY...KRIS JENNER! We are here having a kiki showing you all the official Kylie Cosmetics / Kris Cosmetics collection! I myself have done transformations into Kim Kardashian West, Kylie Jenner, Kendall Jenner and Khloe Kardashian...but never would I have ever thought I would have the queen herself on my channel! I hope you all enjoy this video! Dont forget to subscribe and check out the collection! SUBSCRIBE! 
 
 xoxo
 PatrickStarrr
@@ -3892,7 +3892,7 @@ http://goo.gl/0GFmOy
  
 Use Coupon code: patrickstarrr  for 25% OFF sitewide!!!
 http://www.gerardcosmetics.com/
-http://whiteninglightning.com/",https://i.ytimg.com/vi/2awTgK-tCvI/default.jpg,120,90,https://i.ytimg.com/vi/2awTgK-tCvI/mqdefault.jpg,320,180,https://i.ytimg.com/vi/2awTgK-tCvI/hqdefault.jpg,480,360,https://i.ytimg.com/vi/2awTgK-tCvI/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/2awTgK-tCvI/maxresdefault.jpg,1280.0,720.0,PatrickStarrr,"['makeup', 'transformation', 'theepatrickstarrr', 'patrickstarrr', 'patrick', 'starrr', 'full', 'coverage', 'foundation', 'routine', 'KRIS JENNER', 'KYLIE JENNER', 'KIM KARDASHIAN WEST', 'KHLOE KARDASHIAN', 'KOURTNEY KARDASHIAN', 'MAKEUP TUTORIAL', 'KYLIE COSMETICS', 'KRIS COSMETICS', 'REVIEW', 'KEEPING UP WITH THE KARDASHIANS', 'KENDALL JENNER']",26,none,KRIS JENNER MAKEUP TUTORIAL | PatrickStarrr,"I present to you the MOTHER BO$$ LADY...KRIS JENNER! We are here having a kiki showing you all the official Kylie Cosmetics / Kris Cosmetics collection! I myself have done transformations into Kim Kardashian West, Kylie Jenner, Kendall Jenner and Khloe Kardashian...but never would I have ever thought I would have the queen herself on my channel! I hope you all enjoy this video! Dont forget to subscribe and check out the collection! SUBSCRIBE! 
+http://whiteninglightning.com/",https://i.ytimg.com/vi/2awTgK-tCvI/default.jpg,120,90,https://i.ytimg.com/vi/2awTgK-tCvI/mqdefault.jpg,320,180,https://i.ytimg.com/vi/2awTgK-tCvI/hqdefault.jpg,480,360,https://i.ytimg.com/vi/2awTgK-tCvI/sddefault.jpg,640,480,https://i.ytimg.com/vi/2awTgK-tCvI/maxresdefault.jpg,1280,720,PatrickStarrr,"['makeup', 'transformation', 'theepatrickstarrr', 'patrickstarrr', 'patrick', 'starrr', 'full', 'coverage', 'foundation', 'routine', 'KRIS JENNER', 'KYLIE JENNER', 'KIM KARDASHIAN WEST', 'KHLOE KARDASHIAN', 'KOURTNEY KARDASHIAN', 'MAKEUP TUTORIAL', 'KYLIE COSMETICS', 'KRIS COSMETICS', 'REVIEW', 'KEEPING UP WITH THE KARDASHIANS', 'KENDALL JENNER']",26,none,KRIS JENNER MAKEUP TUTORIAL | PatrickStarrr,"I present to you the MOTHER BO$$ LADY...KRIS JENNER! We are here having a kiki showing you all the official Kylie Cosmetics / Kris Cosmetics collection! I myself have done transformations into Kim Kardashian West, Kylie Jenner, Kendall Jenner and Khloe Kardashian...but never would I have ever thought I would have the queen herself on my channel! I hope you all enjoy this video! Dont forget to subscribe and check out the collection! SUBSCRIBE! 
 
 xoxo
 PatrickStarrr
@@ -3953,8 +3953,8 @@ http://goo.gl/0GFmOy
  
 Use Coupon code: patrickstarrr  for 25% OFF sitewide!!!
 http://www.gerardcosmetics.com/
-http://whiteninglightning.com/",,PT24M2S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,4348290,177664,0,6790,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/2awTgK-tCvI"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,HmPnJpHyMw4y-aBz7WOKaDDM7M0,INhzgtqdEsc,2020-08-02T16:59:26Z,UCzTKskwIc_-a0cGvCXA848Q,Testing PATRICK STARRR One/Size Beauty! THE TRUTH! | NikkieTutorials,"In today’s video, I’m finally sitting down to try Patrick Starrr’s NEW beauty brand One/Size! Patrick launched an eyeshadow palette, eyeliners, and even a makeup removal SPRAY?! I’m putting all these products to the test to find out if they’re any good! Let’s go! Enjoy and don't forget to thumbs up and subscribe!
+http://whiteninglightning.com/",,PT24M2S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,4348290,177664,0,6790,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/2awTgK-tCvI"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,yes,HmPnJpHyMw4y-aBz7WOKaDDM7M0,INhzgtqdEsc,2020-08-02T16:59:26Z,UCzTKskwIc_-a0cGvCXA848Q,Testing PATRICK STARRR One/Size Beauty! THE TRUTH! | NikkieTutorials,"In today’s video, I’m finally sitting down to try Patrick Starrr’s NEW beauty brand One/Size! Patrick launched an eyeshadow palette, eyeliners, and even a makeup removal SPRAY?! I’m putting all these products to the test to find out if they’re any good! Let’s go! Enjoy and don't forget to thumbs up and subscribe!
 
 🔥 PREVIOUS VIDEO • DMing Celebrities To Pick My Makeup Routine! → https://youtu.be/Lc7nG3imufc 🔥
 
@@ -3984,7 +3984,7 @@ Disclaimer ‣ This video is NOT sponsored. All thoughts mentioned are my own. N
 
 Visuals & sound by Studio Beng Beng: https://www.instagram.com/studiobengbeng/
 
-ʕ•ᴥ•ʔ I love you.",https://i.ytimg.com/vi/INhzgtqdEsc/default.jpg,120,90,https://i.ytimg.com/vi/INhzgtqdEsc/mqdefault.jpg,320,180,https://i.ytimg.com/vi/INhzgtqdEsc/hqdefault.jpg,480,360,https://i.ytimg.com/vi/INhzgtqdEsc/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/INhzgtqdEsc/maxresdefault.jpg,1280.0,720.0,NikkieTutorials,"['patrick starrr makeup review', 'patrick star', 'patrick starrr', 'one size', 'one size beauty', 'one size beauty review', 'makeup review', 'review', 'truth', 'drama', 'nikkietutorials', 'nikkie tutorials', 'nikkitutorials', 'nikki tutorials', 'go off', 'wipes', 'patrick starrr eyeshadow palette', 'eyeshadow palette', 'eyeshadow', 'palette', 'makeup tutorial', 'tutorial', 'how to', 'how to apply', 'eyeliner', 'jeffree star', 'james charles', 'removing makeup', 'makeup removal', 'skin care', 'makeup hacks', 'easy makeup']",26,none,Testing PATRICK STARRR One/Size Beauty! THE TRUTH! | NikkieTutorials,"In today’s video, I’m finally sitting down to try Patrick Starrr’s NEW beauty brand One/Size! Patrick launched an eyeshadow palette, eyeliners, and even a makeup removal SPRAY?! I’m putting all these products to the test to find out if they’re any good! Let’s go! Enjoy and don't forget to thumbs up and subscribe!
+ʕ•ᴥ•ʔ I love you.",https://i.ytimg.com/vi/INhzgtqdEsc/default.jpg,120,90,https://i.ytimg.com/vi/INhzgtqdEsc/mqdefault.jpg,320,180,https://i.ytimg.com/vi/INhzgtqdEsc/hqdefault.jpg,480,360,https://i.ytimg.com/vi/INhzgtqdEsc/sddefault.jpg,640,480,https://i.ytimg.com/vi/INhzgtqdEsc/maxresdefault.jpg,1280,720,NikkieTutorials,"['patrick starrr makeup review', 'patrick star', 'patrick starrr', 'one size', 'one size beauty', 'one size beauty review', 'makeup review', 'review', 'truth', 'drama', 'nikkietutorials', 'nikkie tutorials', 'nikkitutorials', 'nikki tutorials', 'go off', 'wipes', 'patrick starrr eyeshadow palette', 'eyeshadow palette', 'eyeshadow', 'palette', 'makeup tutorial', 'tutorial', 'how to', 'how to apply', 'eyeliner', 'jeffree star', 'james charles', 'removing makeup', 'makeup removal', 'skin care', 'makeup hacks', 'easy makeup']",26,none,Testing PATRICK STARRR One/Size Beauty! THE TRUTH! | NikkieTutorials,"In today’s video, I’m finally sitting down to try Patrick Starrr’s NEW beauty brand One/Size! Patrick launched an eyeshadow palette, eyeliners, and even a makeup removal SPRAY?! I’m putting all these products to the test to find out if they’re any good! Let’s go! Enjoy and don't forget to thumbs up and subscribe!
 
 🔥 PREVIOUS VIDEO • DMing Celebrities To Pick My Makeup Routine! → https://youtu.be/Lc7nG3imufc 🔥
 
@@ -4014,8 +4014,8 @@ Disclaimer ‣ This video is NOT sponsored. All thoughts mentioned are my own. N
 
 Visuals & sound by Studio Beng Beng: https://www.instagram.com/studiobengbeng/
 
-ʕ•ᴥ•ʔ I love you.",en,PT16M53S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,1132722,59744,0,2791,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/INhzgtqdEsc"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,wk_M2VRgjOLt3QP-2QSl44Cl7zs,zb9a4hfOu88,2018-09-01T21:05:52Z,UCDHQbU57NZilrhbuZNbQcRA,PARIS HILTON MAKEUP TRANSFORMATION | PatrickStarrr,"OMG THATS HOT! I am here with the bestie PARIS HILTON in Las Vegas! Thank you so much to Paris for having me! This is the bestest day every and I am so happy to give you this fun epic tutorial with the queen herself! Paris is so beautiful inside and out and I am so happy to have gotten the chance to glam this OG SOCIAL MEDIA STARRR! Let me know who I should glam next?! Subscribe now!
+ʕ•ᴥ•ʔ I love you.",en,PT16M53S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,1132722,59744,0,2791,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/INhzgtqdEsc"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,yes,wk_M2VRgjOLt3QP-2QSl44Cl7zs,zb9a4hfOu88,2018-09-01T21:05:52Z,UCDHQbU57NZilrhbuZNbQcRA,PARIS HILTON MAKEUP TRANSFORMATION | PatrickStarrr,"OMG THATS HOT! I am here with the bestie PARIS HILTON in Las Vegas! Thank you so much to Paris for having me! This is the bestest day every and I am so happy to give you this fun epic tutorial with the queen herself! Paris is so beautiful inside and out and I am so happy to have gotten the chance to glam this OG SOCIAL MEDIA STARRR! Let me know who I should glam next?! Subscribe now!
 
 xoxo
 PatrickStarrr
@@ -4081,7 +4081,7 @@ http://goo.gl/0GFmOy
  
 Use Coupon code: patrickstarrr  for 25% OFF sitewide!!!
 http://www.gerardcosmetics.com/
-http://whiteninglightning.com/",https://i.ytimg.com/vi/zb9a4hfOu88/default.jpg,120,90,https://i.ytimg.com/vi/zb9a4hfOu88/mqdefault.jpg,320,180,https://i.ytimg.com/vi/zb9a4hfOu88/hqdefault.jpg,480,360,https://i.ytimg.com/vi/zb9a4hfOu88/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/zb9a4hfOu88/maxresdefault.jpg,1280.0,720.0,PatrickStarrr,"['makeup', 'transformation', 'theepatrickstarrr', 'patrickstarrr', 'patrick', 'starrr', 'full', 'coverage', 'foundation', 'routine', 'manny mua', 'laura lee', 'jeffree star', 'jaclyn hill', 'iluvsarahii', 'carlibel', 'vegas', 'las vegas', 'mariah carey', 'e news', 'jlo', 'jennifer lopez', 'residency', 'kardashians', 'kim kardashian west', 'kylie jenner', 'kylie cosmetics', 'ulta', 'sephora', 'beauty']",26,none,PARIS HILTON MAKEUP TRANSFORMATION | PatrickStarrr,"OMG THATS HOT! I am here with the bestie PARIS HILTON in Las Vegas! Thank you so much to Paris for having me! This is the bestest day every and I am so happy to give you this fun epic tutorial with the queen herself! Paris is so beautiful inside and out and I am so happy to have gotten the chance to glam this OG SOCIAL MEDIA STARRR! Let me know who I should glam next?! Subscribe now!
+http://whiteninglightning.com/",https://i.ytimg.com/vi/zb9a4hfOu88/default.jpg,120,90,https://i.ytimg.com/vi/zb9a4hfOu88/mqdefault.jpg,320,180,https://i.ytimg.com/vi/zb9a4hfOu88/hqdefault.jpg,480,360,https://i.ytimg.com/vi/zb9a4hfOu88/sddefault.jpg,640,480,https://i.ytimg.com/vi/zb9a4hfOu88/maxresdefault.jpg,1280,720,PatrickStarrr,"['makeup', 'transformation', 'theepatrickstarrr', 'patrickstarrr', 'patrick', 'starrr', 'full', 'coverage', 'foundation', 'routine', 'manny mua', 'laura lee', 'jeffree star', 'jaclyn hill', 'iluvsarahii', 'carlibel', 'vegas', 'las vegas', 'mariah carey', 'e news', 'jlo', 'jennifer lopez', 'residency', 'kardashians', 'kim kardashian west', 'kylie jenner', 'kylie cosmetics', 'ulta', 'sephora', 'beauty']",26,none,PARIS HILTON MAKEUP TRANSFORMATION | PatrickStarrr,"OMG THATS HOT! I am here with the bestie PARIS HILTON in Las Vegas! Thank you so much to Paris for having me! This is the bestest day every and I am so happy to give you this fun epic tutorial with the queen herself! Paris is so beautiful inside and out and I am so happy to have gotten the chance to glam this OG SOCIAL MEDIA STARRR! Let me know who I should glam next?! Subscribe now!
 
 xoxo
 PatrickStarrr
@@ -4147,8 +4147,8 @@ http://goo.gl/0GFmOy
  
 Use Coupon code: patrickstarrr  for 25% OFF sitewide!!!
 http://www.gerardcosmetics.com/
-http://whiteninglightning.com/",,PT22M6S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,4077685,137008,0,11878,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/zb9a4hfOu88"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,XAA1uUJZJGcBziibwFY9PFHL3lo,YlkF9FfecUM,2022-03-01T23:23:37Z,UCDHQbU57NZilrhbuZNbQcRA,Ugly to Baddie Tutorial | PatrickStarrr,"This euphoria inspired drag race inspired look was so much fun! I feel like I’m back! 
+http://whiteninglightning.com/",,PT22M6S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,4077685,137008,0,11878,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/zb9a4hfOu88"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,yes,XAA1uUJZJGcBziibwFY9PFHL3lo,YlkF9FfecUM,2022-03-01T23:23:37Z,UCDHQbU57NZilrhbuZNbQcRA,Ugly to Baddie Tutorial | PatrickStarrr,"This euphoria inspired drag race inspired look was so much fun! I feel like I’m back! 
 
 Xoxo
 PatrickStarrr
@@ -4308,8 +4308,8 @@ DON’T
 https://spoti.fi/2MaR1Lr
 
 GO OFF 
-https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT29M45S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,37566,2079,0,170,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/YlkF9FfecUM"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,jvM5WJ-KX-iZ_SwZoc5P-7Wv5OY,GudKfZUE_UE,2016-11-15T00:51:58Z,UCDHQbU57NZilrhbuZNbQcRA,MY WEDDING MAKEUP TUTORIAL | PatrickStarrr,"OMG! I got married!! I cant believe this special day has come! This is a huge Wedding Series I am having on my channel and I wanted to be the FIRST glam bride! I will be having different brides on my channel- beach brides, vintage brides and many more! Huge thanks to GLAMGLOW for allowing me to film at their beautiful office! So surreal to be married to MANNYMUA.....SIKE! Lmao we are just friends!!! Thanks to everyone in the video!!!
+https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT29M45S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,37566,2079,0,170,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/YlkF9FfecUM"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,yes,jvM5WJ-KX-iZ_SwZoc5P-7Wv5OY,GudKfZUE_UE,2016-11-15T00:51:58Z,UCDHQbU57NZilrhbuZNbQcRA,MY WEDDING MAKEUP TUTORIAL | PatrickStarrr,"OMG! I got married!! I cant believe this special day has come! This is a huge Wedding Series I am having on my channel and I wanted to be the FIRST glam bride! I will be having different brides on my channel- beach brides, vintage brides and many more! Huge thanks to GLAMGLOW for allowing me to film at their beautiful office! So surreal to be married to MANNYMUA.....SIKE! Lmao we are just friends!!! Thanks to everyone in the video!!!
 
 *Don't forget to use my discount code GLAMP20 at http://bit.ly/GLAMGLOWPS for 20% off to try out the SUPERMUD or other GLAMGLOW products!
 
@@ -4421,7 +4421,7 @@ http://goo.gl/0GFmOy
  
 Use Coupon code: patrickstarrr  for 25% OFF sitewide!!!
 http://www.gerardcosmetics.com/
-http://whiteninglightning.com/",https://i.ytimg.com/vi/GudKfZUE_UE/default.jpg,120,90,https://i.ytimg.com/vi/GudKfZUE_UE/mqdefault.jpg,320,180,https://i.ytimg.com/vi/GudKfZUE_UE/hqdefault.jpg,480,360,https://i.ytimg.com/vi/GudKfZUE_UE/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/GudKfZUE_UE/maxresdefault.jpg,1280.0,720.0,PatrickStarrr,"['makeup', 'transformation', 'theepatrickstarrr', 'patrickstarrr', 'patrick', 'starrr', 'full', 'coverage', 'foundation', 'routine', 'mannymua733', 'mannymua', 'jeffreestar', 'jaclynhill', 'nikkietutorials', 'Christen Dominique', 'Arika Sato', 'MUARONI']",26,none,MY WEDDING MAKEUP TUTORIAL | PatrickStarrr,"OMG! I got married!! I cant believe this special day has come! This is a huge Wedding Series I am having on my channel and I wanted to be the FIRST glam bride! I will be having different brides on my channel- beach brides, vintage brides and many more! Huge thanks to GLAMGLOW for allowing me to film at their beautiful office! So surreal to be married to MANNYMUA.....SIKE! Lmao we are just friends!!! Thanks to everyone in the video!!!
+http://whiteninglightning.com/",https://i.ytimg.com/vi/GudKfZUE_UE/default.jpg,120,90,https://i.ytimg.com/vi/GudKfZUE_UE/mqdefault.jpg,320,180,https://i.ytimg.com/vi/GudKfZUE_UE/hqdefault.jpg,480,360,https://i.ytimg.com/vi/GudKfZUE_UE/sddefault.jpg,640,480,https://i.ytimg.com/vi/GudKfZUE_UE/maxresdefault.jpg,1280,720,PatrickStarrr,"['makeup', 'transformation', 'theepatrickstarrr', 'patrickstarrr', 'patrick', 'starrr', 'full', 'coverage', 'foundation', 'routine', 'mannymua733', 'mannymua', 'jeffreestar', 'jaclynhill', 'nikkietutorials', 'Christen Dominique', 'Arika Sato', 'MUARONI']",26,none,MY WEDDING MAKEUP TUTORIAL | PatrickStarrr,"OMG! I got married!! I cant believe this special day has come! This is a huge Wedding Series I am having on my channel and I wanted to be the FIRST glam bride! I will be having different brides on my channel- beach brides, vintage brides and many more! Huge thanks to GLAMGLOW for allowing me to film at their beautiful office! So surreal to be married to MANNYMUA.....SIKE! Lmao we are just friends!!! Thanks to everyone in the video!!!
 
 *Don't forget to use my discount code GLAMP20 at http://bit.ly/GLAMGLOWPS for 20% off to try out the SUPERMUD or other GLAMGLOW products!
 
@@ -4533,8 +4533,8 @@ http://goo.gl/0GFmOy
  
 Use Coupon code: patrickstarrr  for 25% OFF sitewide!!!
 http://www.gerardcosmetics.com/
-http://whiteninglightning.com/",,PT16M4S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,8482598,162128,0,13361,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/GudKfZUE_UE"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,_9Y5GAqTSSO5AxDKvGPAcPUmdzY,i_Fxs4l0fvo,2017-06-26T16:18:27Z,UCDHQbU57NZilrhbuZNbQcRA,KATY PERRY MAKEUP TUTORIAL | PatrickStarrr,"OMG KATY PERRY!!! I am so honored to have done her makeup for her Witness World Wide on Youtube Live and also for my channel!!! Her album is everything---snatch it NOW!! Thank you Katy and Chris and Michael for welcoming me with open arms into your glam fam! I hope to work with you again! 
+http://whiteninglightning.com/",,PT16M4S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,8482598,162128,0,13361,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/GudKfZUE_UE"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,yes,_9Y5GAqTSSO5AxDKvGPAcPUmdzY,i_Fxs4l0fvo,2017-06-26T16:18:27Z,UCDHQbU57NZilrhbuZNbQcRA,KATY PERRY MAKEUP TUTORIAL | PatrickStarrr,"OMG KATY PERRY!!! I am so honored to have done her makeup for her Witness World Wide on Youtube Live and also for my channel!!! Her album is everything---snatch it NOW!! Thank you Katy and Chris and Michael for welcoming me with open arms into your glam fam! I hope to work with you again! 
 
 xoxo
 PatrickStarrr
@@ -4604,7 +4604,7 @@ http://goo.gl/0GFmOy
  
 Use Coupon code: patrickstarrr  for 25% OFF sitewide!!!
 http://www.gerardcosmetics.com/
-http://whiteninglightning.com/",https://i.ytimg.com/vi/i_Fxs4l0fvo/default.jpg,120,90,https://i.ytimg.com/vi/i_Fxs4l0fvo/mqdefault.jpg,320,180,https://i.ytimg.com/vi/i_Fxs4l0fvo/hqdefault.jpg,480,360,https://i.ytimg.com/vi/i_Fxs4l0fvo/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/i_Fxs4l0fvo/maxresdefault.jpg,1280.0,720.0,PatrickStarrr,"['makeup', 'transformation', 'theepatrickstarrr', 'patrickstarrr', 'patrick', 'starrr', 'full', 'coverage', 'foundation', 'routine']",26,none,KATY PERRY MAKEUP TUTORIAL | PatrickStarrr,"OMG KATY PERRY!!! I am so honored to have done her makeup for her Witness World Wide on Youtube Live and also for my channel!!! Her album is everything---snatch it NOW!! Thank you Katy and Chris and Michael for welcoming me with open arms into your glam fam! I hope to work with you again! 
+http://whiteninglightning.com/",https://i.ytimg.com/vi/i_Fxs4l0fvo/default.jpg,120,90,https://i.ytimg.com/vi/i_Fxs4l0fvo/mqdefault.jpg,320,180,https://i.ytimg.com/vi/i_Fxs4l0fvo/hqdefault.jpg,480,360,https://i.ytimg.com/vi/i_Fxs4l0fvo/sddefault.jpg,640,480,https://i.ytimg.com/vi/i_Fxs4l0fvo/maxresdefault.jpg,1280,720,PatrickStarrr,"['makeup', 'transformation', 'theepatrickstarrr', 'patrickstarrr', 'patrick', 'starrr', 'full', 'coverage', 'foundation', 'routine']",26,none,KATY PERRY MAKEUP TUTORIAL | PatrickStarrr,"OMG KATY PERRY!!! I am so honored to have done her makeup for her Witness World Wide on Youtube Live and also for my channel!!! Her album is everything---snatch it NOW!! Thank you Katy and Chris and Michael for welcoming me with open arms into your glam fam! I hope to work with you again! 
 
 xoxo
 PatrickStarrr
@@ -4674,8 +4674,8 @@ http://goo.gl/0GFmOy
  
 Use Coupon code: patrickstarrr  for 25% OFF sitewide!!!
 http://www.gerardcosmetics.com/
-http://whiteninglightning.com/",,PT39M48S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,7496411,213063,0,6715,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/i_Fxs4l0fvo"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,9inuMWVjW3JRuVtgM2z155f_eQY,6MhrJI7Aapg,2020-03-26T18:00:02Z,UCDHQbU57NZilrhbuZNbQcRA,JESSICA ALBA ASKED ME TO DO HER MAKEUP! | PatrickStarrr,"Is this real life? Jessica Alba slid into the DMs and asked me if I wanted to do a video! She has been such a big style influence for me over the years, I am shooketh! Thank you Jessica for being so amazing!
+http://whiteninglightning.com/",,PT39M48S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,7496411,213063,0,6715,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/i_Fxs4l0fvo"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,yes,9inuMWVjW3JRuVtgM2z155f_eQY,6MhrJI7Aapg,2020-03-26T18:00:02Z,UCDHQbU57NZilrhbuZNbQcRA,JESSICA ALBA ASKED ME TO DO HER MAKEUP! | PatrickStarrr,"Is this real life? Jessica Alba slid into the DMs and asked me if I wanted to do a video! She has been such a big style influence for me over the years, I am shooketh! Thank you Jessica for being so amazing!
 
 Make sure you check out the video on her channel where she does MY makeup! 
 
@@ -4755,7 +4755,7 @@ GOT THE GLAM
 https://spoti.fi/2Z0zpH8
 
 DON’T
-https://spoti.fi/2MaR1Lr",https://i.ytimg.com/vi/6MhrJI7Aapg/default.jpg,120,90,https://i.ytimg.com/vi/6MhrJI7Aapg/mqdefault.jpg,320,180,https://i.ytimg.com/vi/6MhrJI7Aapg/hqdefault.jpg,480,360,https://i.ytimg.com/vi/6MhrJI7Aapg/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/6MhrJI7Aapg/maxresdefault.jpg,1280.0,720.0,PatrickStarrr,"['Patrick starrr', 'Patrick', 'starrr', 'makeup', 'patrickstarrr', 'Patrick star', 'mua', 'tutorials', 'Pstarrr', 'beauty community', 'theepatrickstarrr', 'James Charles', 'Manny Mua', 'Nikkietutorials', 'jaclyn hill', 'jeffree star', 'cosmetics', 'Shane Dawson', 'David dorbik', 'desi Perkins', 'Jackie aina', 'Kim kardashian', 'Kylie Jenner', 'Nikita dragun', 'morphe', 'nyx', 'Tati beauty', 'Rihanna', 'fenty', 'bretman rock', 'Emma chamberlain', 'makeup challenge', 'recreating', 'easy makeup', 'full coverage', 'reviews', 'lgbtq', 'vlog', 'lifestyle', 'kkw', 'jessica alba']",26,none,JESSICA ALBA ASKED ME TO DO HER MAKEUP! | PatrickStarrr,"Is this real life? Jessica Alba slid into the DMs and asked me if I wanted to do a video! She has been such a big style influence for me over the years, I am shooketh! Thank you Jessica for being so amazing!
+https://spoti.fi/2MaR1Lr",https://i.ytimg.com/vi/6MhrJI7Aapg/default.jpg,120,90,https://i.ytimg.com/vi/6MhrJI7Aapg/mqdefault.jpg,320,180,https://i.ytimg.com/vi/6MhrJI7Aapg/hqdefault.jpg,480,360,https://i.ytimg.com/vi/6MhrJI7Aapg/sddefault.jpg,640,480,https://i.ytimg.com/vi/6MhrJI7Aapg/maxresdefault.jpg,1280,720,PatrickStarrr,"['Patrick starrr', 'Patrick', 'starrr', 'makeup', 'patrickstarrr', 'Patrick star', 'mua', 'tutorials', 'Pstarrr', 'beauty community', 'theepatrickstarrr', 'James Charles', 'Manny Mua', 'Nikkietutorials', 'jaclyn hill', 'jeffree star', 'cosmetics', 'Shane Dawson', 'David dorbik', 'desi Perkins', 'Jackie aina', 'Kim kardashian', 'Kylie Jenner', 'Nikita dragun', 'morphe', 'nyx', 'Tati beauty', 'Rihanna', 'fenty', 'bretman rock', 'Emma chamberlain', 'makeup challenge', 'recreating', 'easy makeup', 'full coverage', 'reviews', 'lgbtq', 'vlog', 'lifestyle', 'kkw', 'jessica alba']",26,none,JESSICA ALBA ASKED ME TO DO HER MAKEUP! | PatrickStarrr,"Is this real life? Jessica Alba slid into the DMs and asked me if I wanted to do a video! She has been such a big style influence for me over the years, I am shooketh! Thank you Jessica for being so amazing!
 
 Make sure you check out the video on her channel where she does MY makeup! 
 
@@ -4835,8 +4835,8 @@ GOT THE GLAM
 https://spoti.fi/2Z0zpH8
 
 DON’T
-https://spoti.fi/2MaR1Lr",en,PT31M18S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,525390,19457,0,1121,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/6MhrJI7Aapg"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,IJfShOn1goZt5lXD2G37kMZL8wo,qBpAvXgocFo,2022-03-26T21:28:13Z,UCDHQbU57NZilrhbuZNbQcRA,My Home Renovation!!! | PatrickStarrr,"This is my dream home renovation, transformation, remodel come true! I am so excited for you to be a part of the journey! I didn’t get to document or vlog the first floor because of the pandemic and living in LA! So hopefully this time I can keep you all as involved and updated! I love you all so much! 
+https://spoti.fi/2MaR1Lr",en,PT31M18S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,525390,19457,0,1121,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/6MhrJI7Aapg"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,no,IJfShOn1goZt5lXD2G37kMZL8wo,qBpAvXgocFo,2022-03-26T21:28:13Z,UCDHQbU57NZilrhbuZNbQcRA,My Home Renovation!!! | PatrickStarrr,"This is my dream home renovation, transformation, remodel come true! I am so excited for you to be a part of the journey! I didn’t get to document or vlog the first floor because of the pandemic and living in LA! So hopefully this time I can keep you all as involved and updated! I love you all so much! 
 
 Xoxo
 PatrickStarrr
@@ -4948,8 +4948,8 @@ DON’T
 https://spoti.fi/2MaR1Lr
 
 GO OFF 
-https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT37M39S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,81296,3110,0,141,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/qBpAvXgocFo"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Hobby', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",,,,,,
-youtube#video,0vIdKcmJKkmQsc8wV5pWDG5y4J8,sZiNH-_Y3aM,2018-10-01T22:00:25Z,UCDHQbU57NZilrhbuZNbQcRA,HOW TO SLAY A DRAG QUEEN WIG feat PLASTIQUE TIARA  | PatrickStarrr,"Welcome to the first episode of Drag 101 where I teach you some tips and tricks on what it takes to be a drag queen! 
+https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT37M39S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,81296,3110,0,141,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/qBpAvXgocFo"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Hobby', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",,,,,,
+youtube#video,yes,0vIdKcmJKkmQsc8wV5pWDG5y4J8,sZiNH-_Y3aM,2018-10-01T22:00:25Z,UCDHQbU57NZilrhbuZNbQcRA,HOW TO SLAY A DRAG QUEEN WIG feat PLASTIQUE TIARA  | PatrickStarrr,"Welcome to the first episode of Drag 101 where I teach you some tips and tricks on what it takes to be a drag queen! 
 
 xoxo
 PatrickStarrr
@@ -4990,7 +4990,7 @@ http://goo.gl/VDrqlT
 
 SIGMA BRUSHES | 10% OFF
 Use Code: patrickstarrr
-http://goo.gl/LhMPVo",https://i.ytimg.com/vi/sZiNH-_Y3aM/default.jpg,120,90,https://i.ytimg.com/vi/sZiNH-_Y3aM/mqdefault.jpg,320,180,https://i.ytimg.com/vi/sZiNH-_Y3aM/hqdefault.jpg,480,360,https://i.ytimg.com/vi/sZiNH-_Y3aM/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/sZiNH-_Y3aM/maxresdefault.jpg,1280.0,720.0,PatrickStarrr,"['makeup', 'transformation', 'theepatrickstarrr', 'patrickstarrr', 'patrick', 'starrr', 'full', 'coverage', 'foundation', 'routine', ""ru paul's drag race"", 'rpdr', 'all stars', 'drag', 'queen', 'drag queen', 'wig', 'snatch', 'hair', 'how to', 'style', 'slay']",26,none,HOW TO SLAY A DRAG QUEEN WIG feat PLASTIQUE TIARA  | PatrickStarrr,"Welcome to the first episode of Drag 101 where I teach you some tips and tricks on what it takes to be a drag queen! 
+http://goo.gl/LhMPVo",https://i.ytimg.com/vi/sZiNH-_Y3aM/default.jpg,120,90,https://i.ytimg.com/vi/sZiNH-_Y3aM/mqdefault.jpg,320,180,https://i.ytimg.com/vi/sZiNH-_Y3aM/hqdefault.jpg,480,360,https://i.ytimg.com/vi/sZiNH-_Y3aM/sddefault.jpg,640,480,https://i.ytimg.com/vi/sZiNH-_Y3aM/maxresdefault.jpg,1280,720,PatrickStarrr,"['makeup', 'transformation', 'theepatrickstarrr', 'patrickstarrr', 'patrick', 'starrr', 'full', 'coverage', 'foundation', 'routine', ""ru paul's drag race"", 'rpdr', 'all stars', 'drag', 'queen', 'drag queen', 'wig', 'snatch', 'hair', 'how to', 'style', 'slay']",26,none,HOW TO SLAY A DRAG QUEEN WIG feat PLASTIQUE TIARA  | PatrickStarrr,"Welcome to the first episode of Drag 101 where I teach you some tips and tricks on what it takes to be a drag queen! 
 
 xoxo
 PatrickStarrr
@@ -5031,8 +5031,8 @@ http://goo.gl/VDrqlT
 
 SIGMA BRUSHES | 10% OFF
 Use Code: patrickstarrr
-http://goo.gl/LhMPVo",,PT16M57S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,1322193,46177,0,1730,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/sZiNH-_Y3aM"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,rNzSwH6qyK7vKcX-wrFSTXseUjw,Nk5dJSPk5M4,2021-12-05T02:44:01Z,UCDHQbU57NZilrhbuZNbQcRA,Meet my FAMILY! kinda VLOGMAS | PatrickStarrr,"TBH these vlogs are for me to look back on for the amazing memories with my family! This vlog includes events and moments from Thanksgiving! Proud to be Filipino! Click the parents! 
+http://goo.gl/LhMPVo",,PT16M57S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,1322193,46177,0,1730,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/sZiNH-_Y3aM"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,no,rNzSwH6qyK7vKcX-wrFSTXseUjw,Nk5dJSPk5M4,2021-12-05T02:44:01Z,UCDHQbU57NZilrhbuZNbQcRA,Meet my FAMILY! kinda VLOGMAS | PatrickStarrr,"TBH these vlogs are for me to look back on for the amazing memories with my family! This vlog includes events and moments from Thanksgiving! Proud to be Filipino! Click the parents! 
 
 Xoxo
 PatrickStarrr
@@ -5088,7 +5088,7 @@ DON’T
 https://spoti.fi/2MaR1Lr
 
 GO OFF 
-https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",https://i.ytimg.com/vi/Nk5dJSPk5M4/default.jpg,120,90,https://i.ytimg.com/vi/Nk5dJSPk5M4/mqdefault.jpg,320,180,https://i.ytimg.com/vi/Nk5dJSPk5M4/hqdefault.jpg,480,360,https://i.ytimg.com/vi/Nk5dJSPk5M4/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/Nk5dJSPk5M4/maxresdefault.jpg,1280.0,720.0,PatrickStarrr,"['Patrick starrr', 'Patrick', 'starrr', 'makeup', 'patrickstarrr', 'Patrick star', 'mua', 'tutorials', 'theepatrickstarrr', 'one size beauty', 'o/s', 'visionary', 'go off', 'beauty', 'beautyyoutuber']",26,none,Meet my FAMILY! kinda VLOGMAS | PatrickStarrr,"TBH these vlogs are for me to look back on for the amazing memories with my family! This vlog includes events and moments from Thanksgiving! Proud to be Filipino! Click the parents! 
+https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",https://i.ytimg.com/vi/Nk5dJSPk5M4/default.jpg,120,90,https://i.ytimg.com/vi/Nk5dJSPk5M4/mqdefault.jpg,320,180,https://i.ytimg.com/vi/Nk5dJSPk5M4/hqdefault.jpg,480,360,https://i.ytimg.com/vi/Nk5dJSPk5M4/sddefault.jpg,640,480,https://i.ytimg.com/vi/Nk5dJSPk5M4/maxresdefault.jpg,1280,720,PatrickStarrr,"['Patrick starrr', 'Patrick', 'starrr', 'makeup', 'patrickstarrr', 'Patrick star', 'mua', 'tutorials', 'theepatrickstarrr', 'one size beauty', 'o/s', 'visionary', 'go off', 'beauty', 'beautyyoutuber']",26,none,Meet my FAMILY! kinda VLOGMAS | PatrickStarrr,"TBH these vlogs are for me to look back on for the amazing memories with my family! This vlog includes events and moments from Thanksgiving! Proud to be Filipino! Click the parents! 
 
 Xoxo
 PatrickStarrr
@@ -5144,8 +5144,8 @@ DON’T
 https://spoti.fi/2MaR1Lr
 
 GO OFF 
-https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT30M22S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,127665,3703,0,216,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/Nk5dJSPk5M4"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Food', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",,,,,,
-youtube#video,IzKTVl1JyaVZ0eowmbvnLQNiD-E,k3PmrveRQAo,2019-01-19T02:36:32Z,UCDHQbU57NZilrhbuZNbQcRA,Everyday Makeup Routine | PatrickStarrr,"Omg this is my daily glam routine for 2019! It’s literally my go to look for events, photos and videos! I hope you all enjoy these longer vids! I’m having so much fun filming these and I hope you love watching them! 
+https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT30M22S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,127665,3703,0,216,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/Nk5dJSPk5M4"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Food', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",,,,,,
+youtube#video,yes,IzKTVl1JyaVZ0eowmbvnLQNiD-E,k3PmrveRQAo,2019-01-19T02:36:32Z,UCDHQbU57NZilrhbuZNbQcRA,Everyday Makeup Routine | PatrickStarrr,"Omg this is my daily glam routine for 2019! It’s literally my go to look for events, photos and videos! I hope you all enjoy these longer vids! I’m having so much fun filming these and I hope you love watching them! 
 
 Xoxo
 PatrickStarrr
@@ -5224,7 +5224,7 @@ http://goo.gl/0GFmOy
  
 Use Coupon code: patrickstarrr  for 25% OFF sitewide!!!
 http://www.gerardcosmetics.com/
-http://whiteninglightning.com/",https://i.ytimg.com/vi/k3PmrveRQAo/default.jpg,120,90,https://i.ytimg.com/vi/k3PmrveRQAo/mqdefault.jpg,320,180,https://i.ytimg.com/vi/k3PmrveRQAo/hqdefault.jpg,480,360,https://i.ytimg.com/vi/k3PmrveRQAo/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/k3PmrveRQAo/maxresdefault.jpg,1280.0,720.0,PatrickStarrr,"['makeup', 'transformation', 'theepatrickstarrr', 'patrickstarrr', 'patrick', 'starrr', 'full', 'coverage', 'foundation', 'routine', 'everyday makeup routine', 'everyday makeup', 'glow up', 'skin care', 'everyday', 'glam', 'patrick starrr']",26,none,Everyday Makeup Routine | PatrickStarrr,"Omg this is my daily glam routine for 2019! It’s literally my go to look for events, photos and videos! I hope you all enjoy these longer vids! I’m having so much fun filming these and I hope you love watching them! 
+http://whiteninglightning.com/",https://i.ytimg.com/vi/k3PmrveRQAo/default.jpg,120,90,https://i.ytimg.com/vi/k3PmrveRQAo/mqdefault.jpg,320,180,https://i.ytimg.com/vi/k3PmrveRQAo/hqdefault.jpg,480,360,https://i.ytimg.com/vi/k3PmrveRQAo/sddefault.jpg,640,480,https://i.ytimg.com/vi/k3PmrveRQAo/maxresdefault.jpg,1280,720,PatrickStarrr,"['makeup', 'transformation', 'theepatrickstarrr', 'patrickstarrr', 'patrick', 'starrr', 'full', 'coverage', 'foundation', 'routine', 'everyday makeup routine', 'everyday makeup', 'glow up', 'skin care', 'everyday', 'glam', 'patrick starrr']",26,none,Everyday Makeup Routine | PatrickStarrr,"Omg this is my daily glam routine for 2019! It’s literally my go to look for events, photos and videos! I hope you all enjoy these longer vids! I’m having so much fun filming these and I hope you love watching them! 
 
 Xoxo
 PatrickStarrr
@@ -5303,8 +5303,8 @@ http://goo.gl/0GFmOy
  
 Use Coupon code: patrickstarrr  for 25% OFF sitewide!!!
 http://www.gerardcosmetics.com/
-http://whiteninglightning.com/",,PT27M18S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,470806,16067,0,2120,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/k3PmrveRQAo"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,q1-4BzLIRliPOC_jYtbKwwFz96o,BOgsfdMOHWI,2018-06-04T17:00:56Z,UCDHQbU57NZilrhbuZNbQcRA,GOT THE GLAM OFFICIAL MUSIC VIDEO | PatrickStarrr,"BUY THE COLLECTION NOW https://www.maccosmetics.com/collections-mac-patrick-starrr-3
+http://whiteninglightning.com/",,PT27M18S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,470806,16067,0,2120,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/k3PmrveRQAo"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,no,q1-4BzLIRliPOC_jYtbKwwFz96o,BOgsfdMOHWI,2018-06-04T17:00:56Z,UCDHQbU57NZilrhbuZNbQcRA,GOT THE GLAM OFFICIAL MUSIC VIDEO | PatrickStarrr,"BUY THE COLLECTION NOW https://www.maccosmetics.com/collections-mac-patrick-starrr-3
 
 DOWNLOAD ""GOT THE GLAM"" NOW https://itunes.apple.com/us/album/got-the-glam-single/1385859926
 
@@ -5501,7 +5501,7 @@ http://goo.gl/0GFmOy
  
 Use Coupon code: patrickstarrr  for 25% OFF sitewide!!!
 http://www.gerardcosmetics.com/
-http://whiteninglightning.com/",https://i.ytimg.com/vi/BOgsfdMOHWI/default.jpg,120,90,https://i.ytimg.com/vi/BOgsfdMOHWI/mqdefault.jpg,320,180,https://i.ytimg.com/vi/BOgsfdMOHWI/hqdefault.jpg,480,360,https://i.ytimg.com/vi/BOgsfdMOHWI/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/BOgsfdMOHWI/maxresdefault.jpg,1280.0,720.0,PatrickStarrr,"['makeup', 'transformation', 'theepatrickstarrr', 'patrickstarrr', 'patrick', 'starrr', 'full', 'coverage', 'foundation', 'routine', 'got the glam', 'dinero', 'patrick mac', 'diva feva', 'mac cosmetics', 'morphe', 'lunar beauty', 'thirsty', 'music', 'i got the glam']",10,none,GOT THE GLAM OFFICIAL MUSIC VIDEO | PatrickStarrr,"BUY THE COLLECTION NOW https://www.maccosmetics.com/collections-mac-patrick-starrr-3
+http://whiteninglightning.com/",https://i.ytimg.com/vi/BOgsfdMOHWI/default.jpg,120,90,https://i.ytimg.com/vi/BOgsfdMOHWI/mqdefault.jpg,320,180,https://i.ytimg.com/vi/BOgsfdMOHWI/hqdefault.jpg,480,360,https://i.ytimg.com/vi/BOgsfdMOHWI/sddefault.jpg,640,480,https://i.ytimg.com/vi/BOgsfdMOHWI/maxresdefault.jpg,1280,720,PatrickStarrr,"['makeup', 'transformation', 'theepatrickstarrr', 'patrickstarrr', 'patrick', 'starrr', 'full', 'coverage', 'foundation', 'routine', 'got the glam', 'dinero', 'patrick mac', 'diva feva', 'mac cosmetics', 'morphe', 'lunar beauty', 'thirsty', 'music', 'i got the glam']",10,none,GOT THE GLAM OFFICIAL MUSIC VIDEO | PatrickStarrr,"BUY THE COLLECTION NOW https://www.maccosmetics.com/collections-mac-patrick-starrr-3
 
 DOWNLOAD ""GOT THE GLAM"" NOW https://itunes.apple.com/us/album/got-the-glam-single/1385859926
 
@@ -5698,8 +5698,8 @@ http://goo.gl/0GFmOy
  
 Use Coupon code: patrickstarrr  for 25% OFF sitewide!!!
 http://www.gerardcosmetics.com/
-http://whiteninglightning.com/",,PT3M13S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,3669741,130001,0,11067,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/BOgsfdMOHWI"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Electronic_music', 'https://en.wikipedia.org/wiki/Hip_hop_music', 'https://en.wikipedia.org/wiki/Music', 'https://en.wikipedia.org/wiki/Pop_music']",,,,,,
-youtube#video,AWAOnukaJLY3_v-33hxVn1AlU2A,yh6cYABTBgA,2020-07-17T19:00:11Z,UCDHQbU57NZilrhbuZNbQcRA,Go Off Official Music Video | PatrickStarrr,"Shop GO OFF Now! https://www.sephora.com/beauty/patrick-starrr
+http://whiteninglightning.com/",,PT3M13S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,3669741,130001,0,11067,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/BOgsfdMOHWI"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Electronic_music', 'https://en.wikipedia.org/wiki/Hip_hop_music', 'https://en.wikipedia.org/wiki/Music', 'https://en.wikipedia.org/wiki/Pop_music']",,,,,,
+youtube#video,no,AWAOnukaJLY3_v-33hxVn1AlU2A,yh6cYABTBgA,2020-07-17T19:00:11Z,UCDHQbU57NZilrhbuZNbQcRA,Go Off Official Music Video | PatrickStarrr,"Shop GO OFF Now! https://www.sephora.com/beauty/patrick-starrr
 https://www.onesizebeauty.com/collections/makeup-removers
 Download GO OFF Now! https://music.apple.com/us/album/go-off-single/1522475931 
 
@@ -5817,7 +5817,7 @@ GOT THE GLAM
 https://spoti.fi/2Z0zpH8
 
 DON’T
-https://spoti.fi/2MaR1Lr",https://i.ytimg.com/vi/yh6cYABTBgA/default.jpg,120,90,https://i.ytimg.com/vi/yh6cYABTBgA/mqdefault.jpg,320,180,https://i.ytimg.com/vi/yh6cYABTBgA/hqdefault.jpg,480,360,https://i.ytimg.com/vi/yh6cYABTBgA/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/yh6cYABTBgA/maxresdefault.jpg,1280.0,720.0,PatrickStarrr,"['Patrick starrr', 'Patrick', 'starrr', 'makeup', 'patrickstarrr', 'Patrick star', 'mua', 'tutorials', 'Pstarrr', 'beauty community', 'theepatrickstarrr', 'James Charles', 'Manny Mua', 'Nikkietutorials', 'jaclyn hill', 'cosmetics', 'desi Perkins', 'Jackie aina', 'Kim kardashian', 'Kylie Jenner', 'Nikita dragun', 'morphe', 'nyx', 'Rihanna', 'fenty', 'bretman rock', 'makeup challenge', 'easy makeup', 'full coverage', 'reviews', 'lgbtq', 'vlog', 'plus size', 'kkw', 'Go Off', 'music video', 'official', 'one size', 'makeup is a one size fits all', 'sephora', 'legendary', 'hbo', 'vogue']",10,none,Go Off Official Music Video | PatrickStarrr,"Shop GO OFF Now! https://www.sephora.com/beauty/patrick-starrr
+https://spoti.fi/2MaR1Lr",https://i.ytimg.com/vi/yh6cYABTBgA/default.jpg,120,90,https://i.ytimg.com/vi/yh6cYABTBgA/mqdefault.jpg,320,180,https://i.ytimg.com/vi/yh6cYABTBgA/hqdefault.jpg,480,360,https://i.ytimg.com/vi/yh6cYABTBgA/sddefault.jpg,640,480,https://i.ytimg.com/vi/yh6cYABTBgA/maxresdefault.jpg,1280,720,PatrickStarrr,"['Patrick starrr', 'Patrick', 'starrr', 'makeup', 'patrickstarrr', 'Patrick star', 'mua', 'tutorials', 'Pstarrr', 'beauty community', 'theepatrickstarrr', 'James Charles', 'Manny Mua', 'Nikkietutorials', 'jaclyn hill', 'cosmetics', 'desi Perkins', 'Jackie aina', 'Kim kardashian', 'Kylie Jenner', 'Nikita dragun', 'morphe', 'nyx', 'Rihanna', 'fenty', 'bretman rock', 'makeup challenge', 'easy makeup', 'full coverage', 'reviews', 'lgbtq', 'vlog', 'plus size', 'kkw', 'Go Off', 'music video', 'official', 'one size', 'makeup is a one size fits all', 'sephora', 'legendary', 'hbo', 'vogue']",10,none,Go Off Official Music Video | PatrickStarrr,"Shop GO OFF Now! https://www.sephora.com/beauty/patrick-starrr
 https://www.onesizebeauty.com/collections/makeup-removers
 Download GO OFF Now! https://music.apple.com/us/album/go-off-single/1522475931 
 
@@ -5935,8 +5935,8 @@ GOT THE GLAM
 https://spoti.fi/2Z0zpH8
 
 DON’T
-https://spoti.fi/2MaR1Lr",en,PT5M49S,2d,hd,false,False,rectangular,processed,public,youtube,True,False,False,572840,42375,0,2809,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/yh6cYABTBgA"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Hip_hop_music', 'https://en.wikipedia.org/wiki/Music', 'https://en.wikipedia.org/wiki/Pop_music', 'https://en.wikipedia.org/wiki/Rhythm_and_blues']",2020-07-17T19:00:11Z,2020-07-17T19:07:57Z,2020-07-17T19:00:00Z,,,
-youtube#video,bPt6tL8kdA_RdX_QL27scpsbMEI,IJIYfviuCrM,2017-06-18T00:49:44Z,UCDHQbU57NZilrhbuZNbQcRA,MADDIE ZIEGLER MAKEUP TUTORIAL | PatrickStarrr,"Maddie and I did a video here https://www.youtube.com/watch?v=WGMVLShul5g MADDIE ZIEGLER YASSS!!! She is the most amazing young woman I have ever met! I am so excited to share with you this easy glam makeup tutorial! Anyone can wear this look!! You can wear this to your next prom, homecoming, party or wedding you are attending! Try this and tag me on instagram!
+https://spoti.fi/2MaR1Lr",en,PT5M49S,2d,hd,FALSE,FALSE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,572840,42375,0,2809,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/yh6cYABTBgA"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Hip_hop_music', 'https://en.wikipedia.org/wiki/Music', 'https://en.wikipedia.org/wiki/Pop_music', 'https://en.wikipedia.org/wiki/Rhythm_and_blues']",2020-07-17T19:00:11Z,2020-07-17T19:07:57Z,2020-07-17T19:00:00Z,,,
+youtube#video,yes,bPt6tL8kdA_RdX_QL27scpsbMEI,IJIYfviuCrM,2017-06-18T00:49:44Z,UCDHQbU57NZilrhbuZNbQcRA,MADDIE ZIEGLER MAKEUP TUTORIAL | PatrickStarrr,"Maddie and I did a video here https://www.youtube.com/watch?v=WGMVLShul5g MADDIE ZIEGLER YASSS!!! She is the most amazing young woman I have ever met! I am so excited to share with you this easy glam makeup tutorial! Anyone can wear this look!! You can wear this to your next prom, homecoming, party or wedding you are attending! Try this and tag me on instagram!
 
 Hair by Steven Tabimba
 https://www.instagram.com/glamtechstevent/
@@ -6001,7 +6001,7 @@ http://goo.gl/0GFmOy
  
 Use Coupon code: patrickstarrr  for 25% OFF sitewide!!!
 http://www.gerardcosmetics.com/
-http://whiteninglightning.com/",https://i.ytimg.com/vi/IJIYfviuCrM/default.jpg,120,90,https://i.ytimg.com/vi/IJIYfviuCrM/mqdefault.jpg,320,180,https://i.ytimg.com/vi/IJIYfviuCrM/hqdefault.jpg,480,360,https://i.ytimg.com/vi/IJIYfviuCrM/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/IJIYfviuCrM/maxresdefault.jpg,1280.0,720.0,PatrickStarrr,"['makeup', 'transformation', 'theepatrickstarrr', 'patrickstarrr', 'patrick', 'starrr', 'full', 'coverage', 'foundation', 'routine', 'MADDIE ZIEGLER', 'jeffree star', 'nikkie tutorials', 'morphe', 'jaclyn hill palette', 'jaclyn hill', 'sia', 'dance moms', 'kylie jenner', 'kkw palette', 'kendall jenner']",26,none,MADDIE ZIEGLER MAKEUP TUTORIAL | PatrickStarrr,"Maddie and I did a video here https://www.youtube.com/watch?v=WGMVLShul5g MADDIE ZIEGLER YASSS!!! She is the most amazing young woman I have ever met! I am so excited to share with you this easy glam makeup tutorial! Anyone can wear this look!! You can wear this to your next prom, homecoming, party or wedding you are attending! Try this and tag me on instagram!
+http://whiteninglightning.com/",https://i.ytimg.com/vi/IJIYfviuCrM/default.jpg,120,90,https://i.ytimg.com/vi/IJIYfviuCrM/mqdefault.jpg,320,180,https://i.ytimg.com/vi/IJIYfviuCrM/hqdefault.jpg,480,360,https://i.ytimg.com/vi/IJIYfviuCrM/sddefault.jpg,640,480,https://i.ytimg.com/vi/IJIYfviuCrM/maxresdefault.jpg,1280,720,PatrickStarrr,"['makeup', 'transformation', 'theepatrickstarrr', 'patrickstarrr', 'patrick', 'starrr', 'full', 'coverage', 'foundation', 'routine', 'MADDIE ZIEGLER', 'jeffree star', 'nikkie tutorials', 'morphe', 'jaclyn hill palette', 'jaclyn hill', 'sia', 'dance moms', 'kylie jenner', 'kkw palette', 'kendall jenner']",26,none,MADDIE ZIEGLER MAKEUP TUTORIAL | PatrickStarrr,"Maddie and I did a video here https://www.youtube.com/watch?v=WGMVLShul5g MADDIE ZIEGLER YASSS!!! She is the most amazing young woman I have ever met! I am so excited to share with you this easy glam makeup tutorial! Anyone can wear this look!! You can wear this to your next prom, homecoming, party or wedding you are attending! Try this and tag me on instagram!
 
 Hair by Steven Tabimba
 https://www.instagram.com/glamtechstevent/
@@ -6066,8 +6066,8 @@ http://goo.gl/0GFmOy
  
 Use Coupon code: patrickstarrr  for 25% OFF sitewide!!!
 http://www.gerardcosmetics.com/
-http://whiteninglightning.com/",,PT13M55S,2d,hd,false,False,rectangular,processed,public,youtube,True,False,False,6364896,218105,0,5909,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/IJIYfviuCrM"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,EhuaDb6T_88HvX0O_MsENMOUAtc,dIzTk-Bz52A,2021-10-16T18:13:47Z,UCYaW8i4ULhVoFPjC8uSRmsQ,"Dark Skin Woman Tries ONE SIZE by Patrick Starrr......Does ""ONE SIZE"" Truly Fit All?! | Ohemaa","Well the time is finally here to try the One Size makeup Line by Patrick Starr. We have enough to do a full face so let us see what this is all about.
+http://whiteninglightning.com/",,PT13M55S,2d,hd,FALSE,FALSE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,6364896,218105,0,5909,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/IJIYfviuCrM"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,yes,EhuaDb6T_88HvX0O_MsENMOUAtc,dIzTk-Bz52A,2021-10-16T18:13:47Z,UCYaW8i4ULhVoFPjC8uSRmsQ,"Dark Skin Woman Tries ONE SIZE by Patrick Starrr......Does ""ONE SIZE"" Truly Fit All?! | Ohemaa","Well the time is finally here to try the One Size makeup Line by Patrick Starr. We have enough to do a full face so let us see what this is all about.
 
 Mentionables
 --------------
@@ -6126,7 +6126,7 @@ There are affiliate links listed here. If you are going to buy a product I recom
 
 Music from EPIDEMIC Sounds - https://www.epidemicsound.com/referral/p08x9h/
 
-#ohemaabonsu #colouredraine #creamblush",https://i.ytimg.com/vi/dIzTk-Bz52A/default.jpg,120,90,https://i.ytimg.com/vi/dIzTk-Bz52A/mqdefault.jpg,320,180,https://i.ytimg.com/vi/dIzTk-Bz52A/hqdefault.jpg,480,360,https://i.ytimg.com/vi/dIzTk-Bz52A/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/dIzTk-Bz52A/maxresdefault.jpg,1280.0,720.0,OHEMAA,"['dark skin makeup', 'dark skin setting powder', 'dark skin foundation', 'dark skin contour', 'dark skin concealer', 'dark skin highlighter', 'dark skin beginner makeup', 'beginner makeup', 'setting powder for dark skin', 'ohemaa', 'Ohemaa Bonsu', 'makeup for dark skin', 'patrick starr', 'patrick starr one size makeup line', 'patrick starr makeupline', 'one size makeup', 'one size 6n foundation powder', 'powder foundation', 'one size powder foundation', 'one size butter silk conceler', 'on till dawn setting spray']",26,none,"Dark Skin Woman Tries ONE SIZE by Patrick Starrr......Does ""ONE SIZE"" Truly Fit All?! | Ohemaa","Well the time is finally here to try the One Size makeup Line by Patrick Starr. We have enough to do a full face so let us see what this is all about.
+#ohemaabonsu #colouredraine #creamblush",https://i.ytimg.com/vi/dIzTk-Bz52A/default.jpg,120,90,https://i.ytimg.com/vi/dIzTk-Bz52A/mqdefault.jpg,320,180,https://i.ytimg.com/vi/dIzTk-Bz52A/hqdefault.jpg,480,360,https://i.ytimg.com/vi/dIzTk-Bz52A/sddefault.jpg,640,480,https://i.ytimg.com/vi/dIzTk-Bz52A/maxresdefault.jpg,1280,720,OHEMAA,"['dark skin makeup', 'dark skin setting powder', 'dark skin foundation', 'dark skin contour', 'dark skin concealer', 'dark skin highlighter', 'dark skin beginner makeup', 'beginner makeup', 'setting powder for dark skin', 'ohemaa', 'Ohemaa Bonsu', 'makeup for dark skin', 'patrick starr', 'patrick starr one size makeup line', 'patrick starr makeupline', 'one size makeup', 'one size 6n foundation powder', 'powder foundation', 'one size powder foundation', 'one size butter silk conceler', 'on till dawn setting spray']",26,none,"Dark Skin Woman Tries ONE SIZE by Patrick Starrr......Does ""ONE SIZE"" Truly Fit All?! | Ohemaa","Well the time is finally here to try the One Size makeup Line by Patrick Starr. We have enough to do a full face so let us see what this is all about.
 
 Mentionables
 --------------
@@ -6185,7 +6185,7 @@ There are affiliate links listed here. If you are going to buy a product I recom
 
 Music from EPIDEMIC Sounds - https://www.epidemicsound.com/referral/p08x9h/
 
-#ohemaabonsu #colouredraine #creamblush",en,PT21M4S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,316558,13263,0,620,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/dIzTk-Bz52A"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,en,"Dark Skin Woman Tries ONE SIZE by Patrick Starrr......Does ""ONE SIZE"" Truly Fit All?! | Ohemaa","Well the time is finally here to try the One Size makeup Line by Patrick Starr. We have enough to do a full face so let us see what this is all about.
+#ohemaabonsu #colouredraine #creamblush",en,PT21M4S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,316558,13263,0,620,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/dIzTk-Bz52A"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,en,"Dark Skin Woman Tries ONE SIZE by Patrick Starrr......Does ""ONE SIZE"" Truly Fit All?! | Ohemaa","Well the time is finally here to try the One Size makeup Line by Patrick Starr. We have enough to do a full face so let us see what this is all about.
 
 Mentionables
 --------------
@@ -6245,7 +6245,7 @@ There are affiliate links listed here. If you are going to buy a product I recom
 Music from EPIDEMIC Sounds - https://www.epidemicsound.com/referral/p08x9h/
 
 #ohemaabonsu #colouredraine #creamblush"
-youtube#video,HYikfDdftkY-EtcIfWwJ3I9HUFY,SxgG0-2B3_8,2021-04-10T15:00:13Z,UCg4h2uo4j_2QXynuFCF30Pg,ONE/SIZE by Patrick Starrr Turn Up The Base Powder Foundation on ACNE + 9HR WEAR TEST,"So excited to be testing out the Patrick Starrr Base Powder Foundation! This is the 2nd powder foundation I have tried on my textured skin, and I honestly didn't have the highest of expectations for this, but wow this surprised me!
+youtube#video,yes,HYikfDdftkY-EtcIfWwJ3I9HUFY,SxgG0-2B3_8,2021-04-10T15:00:13Z,UCg4h2uo4j_2QXynuFCF30Pg,ONE/SIZE by Patrick Starrr Turn Up The Base Powder Foundation on ACNE + 9HR WEAR TEST,"So excited to be testing out the Patrick Starrr Base Powder Foundation! This is the 2nd powder foundation I have tried on my textured skin, and I honestly didn't have the highest of expectations for this, but wow this surprised me!
 
 I received this product complimentary from ONE/SIZE. 
 Find the product here: https://www.octoly.com/c/hatz5/r/hb9zf 
@@ -6340,7 +6340,7 @@ Camera: Canon t6i
 Editing Software: Adobe Premiere Pro
 Ethnicity: Burmese & Alsatian 
 
-**This is not a sponsored video, some links are affiliate, thank you for using them and supporting this channel!",https://i.ytimg.com/vi/SxgG0-2B3_8/default.jpg,120,90,https://i.ytimg.com/vi/SxgG0-2B3_8/mqdefault.jpg,320,180,https://i.ytimg.com/vi/SxgG0-2B3_8/hqdefault.jpg,480,360,https://i.ytimg.com/vi/SxgG0-2B3_8/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/SxgG0-2B3_8/maxresdefault.jpg,1280.0,720.0,Shweihninzy Rose,"['Acne', 'foundation for acne', 'makeup for acne prone skin', 'makeup for sensitive skin', 'foundation', 'Makeup', 'Beauty', 'Makeup Tutorial', 'Severe Acne', 'foundation on acne', 'patrick starrr', 'one size beauty', 'one size setting powder', 'new makeup', 'one/size beauty', 'new makeup releases 2021', 'testing new makeup 2021', 'new at sephora', 'ONE/SIZE by Patrick Starrr Turn Up The Base Powder Foundation on ACNE', 'one size patrick star', 'one size patrick star powder', 'one size patrick star review']",26,none,ONE/SIZE by Patrick Starrr Turn Up The Base Powder Foundation on ACNE + 9HR WEAR TEST,"So excited to be testing out the Patrick Starrr Base Powder Foundation! This is the 2nd powder foundation I have tried on my textured skin, and I honestly didn't have the highest of expectations for this, but wow this surprised me!
+**This is not a sponsored video, some links are affiliate, thank you for using them and supporting this channel!",https://i.ytimg.com/vi/SxgG0-2B3_8/default.jpg,120,90,https://i.ytimg.com/vi/SxgG0-2B3_8/mqdefault.jpg,320,180,https://i.ytimg.com/vi/SxgG0-2B3_8/hqdefault.jpg,480,360,https://i.ytimg.com/vi/SxgG0-2B3_8/sddefault.jpg,640,480,https://i.ytimg.com/vi/SxgG0-2B3_8/maxresdefault.jpg,1280,720,Shweihninzy Rose,"['Acne', 'foundation for acne', 'makeup for acne prone skin', 'makeup for sensitive skin', 'foundation', 'Makeup', 'Beauty', 'Makeup Tutorial', 'Severe Acne', 'foundation on acne', 'patrick starrr', 'one size beauty', 'one size setting powder', 'new makeup', 'one/size beauty', 'new makeup releases 2021', 'testing new makeup 2021', 'new at sephora', 'ONE/SIZE by Patrick Starrr Turn Up The Base Powder Foundation on ACNE', 'one size patrick star', 'one size patrick star powder', 'one size patrick star review']",26,none,ONE/SIZE by Patrick Starrr Turn Up The Base Powder Foundation on ACNE + 9HR WEAR TEST,"So excited to be testing out the Patrick Starrr Base Powder Foundation! This is the 2nd powder foundation I have tried on my textured skin, and I honestly didn't have the highest of expectations for this, but wow this surprised me!
 
 I received this product complimentary from ONE/SIZE. 
 Find the product here: https://www.octoly.com/c/hatz5/r/hb9zf 
@@ -6435,8 +6435,8 @@ Camera: Canon t6i
 Editing Software: Adobe Premiere Pro
 Ethnicity: Burmese & Alsatian 
 
-**This is not a sponsored video, some links are affiliate, thank you for using them and supporting this channel!",,PT12M27S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,109510,1607,0,131,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/SxgG0-2B3_8"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],2021-04-10T15:00:13Z,2021-04-10T15:14:33Z,2021-04-10T15:00:00Z,,,
-youtube#video,VNi-A8NJCoWv-tc18DoEXDLBbOQ,0J5wKvjuyNM,2017-12-20T01:39:29Z,UCDHQbU57NZilrhbuZNbQcRA,MISS UNIVERSE PIA WURTZBACH MAKEUP TUTORIAL | PatrickStarrr,"BUY MY MAC COLLECTION NOW https://www.maccosmetics.com/
+**This is not a sponsored video, some links are affiliate, thank you for using them and supporting this channel!",,PT12M27S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,109510,1607,0,131,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/SxgG0-2B3_8"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],2021-04-10T15:00:13Z,2021-04-10T15:14:33Z,2021-04-10T15:00:00Z,,,
+youtube#video,yes,VNi-A8NJCoWv-tc18DoEXDLBbOQ,0J5wKvjuyNM,2017-12-20T01:39:29Z,UCDHQbU57NZilrhbuZNbQcRA,MISS UNIVERSE PIA WURTZBACH MAKEUP TUTORIAL | PatrickStarrr,"BUY MY MAC COLLECTION NOW https://www.maccosmetics.com/
 It has been a dream of mine to do makeup for the one and only Miss Universe PIA WURTZBACH! She messaged me on instagram and asked me to glam her for Miss Universe 2017 with her role as a judge! I am so honored to have glammed such an iconic beauty queen! Yes we are both from the Philippines and I am so excited to share a little piece of home with you all on my channel! Be sure to follow Pia and don't forget to subscribe!
 
 This look is beautiful for this holiday season for Christmas or New Years! It is such an evergreen classic look....fit for a QUEEN!
@@ -6502,7 +6502,7 @@ http://goo.gl/0GFmOy
  
 Use Coupon code: patrickstarrr  for 25% OFF sitewide!!!
 http://www.gerardcosmetics.com/
-http://whiteninglightning.com/",https://i.ytimg.com/vi/0J5wKvjuyNM/default.jpg,120,90,https://i.ytimg.com/vi/0J5wKvjuyNM/mqdefault.jpg,320,180,https://i.ytimg.com/vi/0J5wKvjuyNM/hqdefault.jpg,480,360,https://i.ytimg.com/vi/0J5wKvjuyNM/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/0J5wKvjuyNM/maxresdefault.jpg,1280.0,720.0,PatrickStarrr,"['makeup', 'transformation', 'theepatrickstarrr', 'patrickstarrr', 'patrick', 'starrr', 'full', 'coverage', 'foundation', 'routine', 'holiday', 'christmas', 'pia wurtzbach', 'miss philippines', 'miss universe', 'abs cbn', 'steve harvey', 'south africa', 'smokey eye', 'red lip', 'beauty queen']",26,none,MISS UNIVERSE PIA WURTZBACH MAKEUP TUTORIAL | PatrickStarrr,"BUY MY MAC COLLECTION NOW https://www.maccosmetics.com/
+http://whiteninglightning.com/",https://i.ytimg.com/vi/0J5wKvjuyNM/default.jpg,120,90,https://i.ytimg.com/vi/0J5wKvjuyNM/mqdefault.jpg,320,180,https://i.ytimg.com/vi/0J5wKvjuyNM/hqdefault.jpg,480,360,https://i.ytimg.com/vi/0J5wKvjuyNM/sddefault.jpg,640,480,https://i.ytimg.com/vi/0J5wKvjuyNM/maxresdefault.jpg,1280,720,PatrickStarrr,"['makeup', 'transformation', 'theepatrickstarrr', 'patrickstarrr', 'patrick', 'starrr', 'full', 'coverage', 'foundation', 'routine', 'holiday', 'christmas', 'pia wurtzbach', 'miss philippines', 'miss universe', 'abs cbn', 'steve harvey', 'south africa', 'smokey eye', 'red lip', 'beauty queen']",26,none,MISS UNIVERSE PIA WURTZBACH MAKEUP TUTORIAL | PatrickStarrr,"BUY MY MAC COLLECTION NOW https://www.maccosmetics.com/
 It has been a dream of mine to do makeup for the one and only Miss Universe PIA WURTZBACH! She messaged me on instagram and asked me to glam her for Miss Universe 2017 with her role as a judge! I am so honored to have glammed such an iconic beauty queen! Yes we are both from the Philippines and I am so excited to share a little piece of home with you all on my channel! Be sure to follow Pia and don't forget to subscribe!
 
 This look is beautiful for this holiday season for Christmas or New Years! It is such an evergreen classic look....fit for a QUEEN!
@@ -6568,8 +6568,8 @@ http://goo.gl/0GFmOy
  
 Use Coupon code: patrickstarrr  for 25% OFF sitewide!!!
 http://www.gerardcosmetics.com/
-http://whiteninglightning.com/",,PT19M50S,2d,hd,false,False,rectangular,processed,public,youtube,True,False,False,3363494,146356,0,6505,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/0J5wKvjuyNM"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,qvL8eRtrvFn5FshFMnNEh_vEKDo,2GjJ85MImlo,2018-03-18T20:10:53Z,UCDHQbU57NZilrhbuZNbQcRA,HOW I SHAVE MY FACE FOR PERFECT SKIN | PatrickStarrr,"I do this EVERY DAY and EVERY TIME I wear makeup. I have done laser a few times..but my chin and beard area are super thick! I hope you all get a takeaway on shaving your face! These shaving products and techniques work for me and for those that do theatre or drag! It is full proof! You have to invest in good products for good skin! I hope you all enjoy!
+http://whiteninglightning.com/",,PT19M50S,2d,hd,FALSE,FALSE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,3363494,146356,0,6505,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/0J5wKvjuyNM"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,no,qvL8eRtrvFn5FshFMnNEh_vEKDo,2GjJ85MImlo,2018-03-18T20:10:53Z,UCDHQbU57NZilrhbuZNbQcRA,HOW I SHAVE MY FACE FOR PERFECT SKIN | PatrickStarrr,"I do this EVERY DAY and EVERY TIME I wear makeup. I have done laser a few times..but my chin and beard area are super thick! I hope you all get a takeaway on shaving your face! These shaving products and techniques work for me and for those that do theatre or drag! It is full proof! You have to invest in good products for good skin! I hope you all enjoy!
 
 xoxo
 PatrickStarrr
@@ -6637,7 +6637,7 @@ http://goo.gl/0GFmOy
  
 Use Coupon code: patrickstarrr  for 25% OFF sitewide!!!
 http://www.gerardcosmetics.com/
-http://whiteninglightning.com/",https://i.ytimg.com/vi/2GjJ85MImlo/default.jpg,120,90,https://i.ytimg.com/vi/2GjJ85MImlo/mqdefault.jpg,320,180,https://i.ytimg.com/vi/2GjJ85MImlo/hqdefault.jpg,480,360,https://i.ytimg.com/vi/2GjJ85MImlo/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/2GjJ85MImlo/maxresdefault.jpg,1280.0,720.0,PatrickStarrr,"['makeup', 'transformation', 'theepatrickstarrr', 'patrickstarrr', 'patrick', 'starrr', 'full', 'coverage', 'foundation', 'routine', 'jeffree star', 'james charles', 'nikkie tutorials', 'mannymua', 'manny mua 733', 'morphe', 'shea moisture', 'creamo', 'murad', 'drag race', 'all stars', 'miss fame', 'trixie', 'ben de la cream', 'ru paul', 'wow presents']",26,none,HOW I SHAVE MY FACE FOR PERFECT SKIN | PatrickStarrr,"I do this EVERY DAY and EVERY TIME I wear makeup. I have done laser a few times..but my chin and beard area are super thick! I hope you all get a takeaway on shaving your face! These shaving products and techniques work for me and for those that do theatre or drag! It is full proof! You have to invest in good products for good skin! I hope you all enjoy!
+http://whiteninglightning.com/",https://i.ytimg.com/vi/2GjJ85MImlo/default.jpg,120,90,https://i.ytimg.com/vi/2GjJ85MImlo/mqdefault.jpg,320,180,https://i.ytimg.com/vi/2GjJ85MImlo/hqdefault.jpg,480,360,https://i.ytimg.com/vi/2GjJ85MImlo/sddefault.jpg,640,480,https://i.ytimg.com/vi/2GjJ85MImlo/maxresdefault.jpg,1280,720,PatrickStarrr,"['makeup', 'transformation', 'theepatrickstarrr', 'patrickstarrr', 'patrick', 'starrr', 'full', 'coverage', 'foundation', 'routine', 'jeffree star', 'james charles', 'nikkie tutorials', 'mannymua', 'manny mua 733', 'morphe', 'shea moisture', 'creamo', 'murad', 'drag race', 'all stars', 'miss fame', 'trixie', 'ben de la cream', 'ru paul', 'wow presents']",26,none,HOW I SHAVE MY FACE FOR PERFECT SKIN | PatrickStarrr,"I do this EVERY DAY and EVERY TIME I wear makeup. I have done laser a few times..but my chin and beard area are super thick! I hope you all get a takeaway on shaving your face! These shaving products and techniques work for me and for those that do theatre or drag! It is full proof! You have to invest in good products for good skin! I hope you all enjoy!
 
 xoxo
 PatrickStarrr
@@ -6705,8 +6705,8 @@ http://goo.gl/0GFmOy
  
 Use Coupon code: patrickstarrr  for 25% OFF sitewide!!!
 http://www.gerardcosmetics.com/
-http://whiteninglightning.com/",,PT9M19S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,5344805,112986,0,7647,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/2GjJ85MImlo"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,xBL1B_ngLA7a-DwYsKcQPni_uhI,pS89zZdAJMc,2022-02-23T23:00:21Z,UCWIj8e2_-uK1m886ADSYO6g,Patrick Starrr's Parents Describe What He Was Like as A Child,"@PatrickStarrr  is an iconic beauty guru, but what inspired him to start his career? He explains the story behind his line, One Size, and his parents drop in on his conversation with Drew to spill some details about his energy as a child.
+http://whiteninglightning.com/",,PT9M19S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,5344805,112986,0,7647,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/2GjJ85MImlo"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,no,xBL1B_ngLA7a-DwYsKcQPni_uhI,pS89zZdAJMc,2022-02-23T23:00:21Z,UCWIj8e2_-uK1m886ADSYO6g,Patrick Starrr's Parents Describe What He Was Like as A Child,"@PatrickStarrr  is an iconic beauty guru, but what inspired him to start his career? He explains the story behind his line, One Size, and his parents drop in on his conversation with Drew to spill some details about his energy as a child.
 
 #DrewBarrymoreShow #PatrickStarrr
 
@@ -6733,7 +6733,7 @@ Pinterest: https://www.pinterest.com/drewbarrymoreshow
 The Drew Barrymore Show is daytime’s brightest destination for intelligent optimism and maximum fun, featuring everyone’s favorite actor, businessperson, mom and cultural icon, Drew Barrymore! From news to pop culture, human interest to comedy - you’ll discover it here with Drew along with the beauty and wisdom, as well as the heart and humor in life.
 
 Patrick Starrr's Parents Describe What He Was Like as A Child
-http://www.youtube.com/thedrewbarrymoreshow",https://i.ytimg.com/vi/pS89zZdAJMc/default.jpg,120,90,https://i.ytimg.com/vi/pS89zZdAJMc/mqdefault.jpg,320,180,https://i.ytimg.com/vi/pS89zZdAJMc/hqdefault.jpg,480,360,https://i.ytimg.com/vi/pS89zZdAJMc/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/pS89zZdAJMc/maxresdefault.jpg,1280.0,720.0,The Drew Barrymore Show,"['drew barrymore', 'drew barrymore show', 'drew barrymore talk show', 'drew show', 'interview', 'drew barrymore news', 'daytime show', 'Parents', 'Child', 'Patrick Starrr']",24,none,Patrick Starrr's Parents Describe What He Was Like as A Child,"@PatrickStarrr  is an iconic beauty guru, but what inspired him to start his career? He explains the story behind his line, One Size, and his parents drop in on his conversation with Drew to spill some details about his energy as a child.
+http://www.youtube.com/thedrewbarrymoreshow",https://i.ytimg.com/vi/pS89zZdAJMc/default.jpg,120,90,https://i.ytimg.com/vi/pS89zZdAJMc/mqdefault.jpg,320,180,https://i.ytimg.com/vi/pS89zZdAJMc/hqdefault.jpg,480,360,https://i.ytimg.com/vi/pS89zZdAJMc/sddefault.jpg,640,480,https://i.ytimg.com/vi/pS89zZdAJMc/maxresdefault.jpg,1280,720,The Drew Barrymore Show,"['drew barrymore', 'drew barrymore show', 'drew barrymore talk show', 'drew show', 'interview', 'drew barrymore news', 'daytime show', 'Parents', 'Child', 'Patrick Starrr']",24,none,Patrick Starrr's Parents Describe What He Was Like as A Child,"@PatrickStarrr  is an iconic beauty guru, but what inspired him to start his career? He explains the story behind his line, One Size, and his parents drop in on his conversation with Drew to spill some details about his energy as a child.
 
 #DrewBarrymoreShow #PatrickStarrr
 
@@ -6760,8 +6760,8 @@ Pinterest: https://www.pinterest.com/drewbarrymoreshow
 The Drew Barrymore Show is daytime’s brightest destination for intelligent optimism and maximum fun, featuring everyone’s favorite actor, businessperson, mom and cultural icon, Drew Barrymore! From news to pop culture, human interest to comedy - you’ll discover it here with Drew along with the beauty and wisdom, as well as the heart and humor in life.
 
 Patrick Starrr's Parents Describe What He Was Like as A Child
-http://www.youtube.com/thedrewbarrymoreshow",en,PT5M56S,2d,hd,true,True,rectangular,processed,public,youtube,True,True,False,5973,295,0,19,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/pS89zZdAJMc"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Film', 'https://en.wikipedia.org/wiki/Television_program']",,,,,,
-youtube#video,6E8HUJb_iGRnBaaH7uB2ywIuZMs,e-DeMnKNsTg,2022-05-06T14:00:18Z,UCDHQbU57NZilrhbuZNbQcRA,MAKEUP ON MATURE SKIN | PatrickStarrr,"Happy Mother’s Day!
+http://www.youtube.com/thedrewbarrymoreshow",en,PT5M56S,2d,hd,TRUE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,5973,295,0,19,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/pS89zZdAJMc"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Entertainment', 'https://en.wikipedia.org/wiki/Film', 'https://en.wikipedia.org/wiki/Television_program']",,,,,,
+youtube#video,yes,6E8HUJb_iGRnBaaH7uB2ywIuZMs,e-DeMnKNsTg,2022-05-06T14:00:18Z,UCDHQbU57NZilrhbuZNbQcRA,MAKEUP ON MATURE SKIN | PatrickStarrr,"Happy Mother’s Day!
 Use code: “MAMA10” to save some coin!
 
 PRODUCTS
@@ -6843,7 +6843,7 @@ DON’T
 https://spoti.fi/2MaR1Lr
 
 GO OFF 
-https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",https://i.ytimg.com/vi/e-DeMnKNsTg/default.jpg,120,90,https://i.ytimg.com/vi/e-DeMnKNsTg/mqdefault.jpg,320,180,https://i.ytimg.com/vi/e-DeMnKNsTg/hqdefault.jpg,480,360,https://i.ytimg.com/vi/e-DeMnKNsTg/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/e-DeMnKNsTg/maxresdefault.jpg,1280.0,720.0,PatrickStarrr,"['Patrick starrr', 'Patrick', 'starrr', 'makeup', 'patrickstarrr', 'Patrick star', 'mua', 'tutorials', 'theepatrickstarrr', 'one size beauty', 'o/s', 'visionary', 'go off', 'beauty', 'beautyyoutuber', 'makeup on mature skin', 'mature skin', 'mothers day', 'mom makeup', 'mom']",26,none,MAKEUP ON MATURE SKIN | PatrickStarrr,"Happy Mother’s Day!
+https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",https://i.ytimg.com/vi/e-DeMnKNsTg/default.jpg,120,90,https://i.ytimg.com/vi/e-DeMnKNsTg/mqdefault.jpg,320,180,https://i.ytimg.com/vi/e-DeMnKNsTg/hqdefault.jpg,480,360,https://i.ytimg.com/vi/e-DeMnKNsTg/sddefault.jpg,640,480,https://i.ytimg.com/vi/e-DeMnKNsTg/maxresdefault.jpg,1280,720,PatrickStarrr,"['Patrick starrr', 'Patrick', 'starrr', 'makeup', 'patrickstarrr', 'Patrick star', 'mua', 'tutorials', 'theepatrickstarrr', 'one size beauty', 'o/s', 'visionary', 'go off', 'beauty', 'beautyyoutuber', 'makeup on mature skin', 'mature skin', 'mothers day', 'mom makeup', 'mom']",26,none,MAKEUP ON MATURE SKIN | PatrickStarrr,"Happy Mother’s Day!
 Use code: “MAMA10” to save some coin!
 
 PRODUCTS
@@ -6925,8 +6925,8 @@ DON’T
 https://spoti.fi/2MaR1Lr
 
 GO OFF 
-https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT15M12S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,22338,1398,0,140,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/e-DeMnKNsTg"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
-youtube#video,Ua03LYpCGHvBFklwrh7gmYUeKrg,4EHovuyHhes,2021-02-10T23:00:03Z,UCPeWTX_SM61hJ7IWjy4bzNg,The Downfall of Patrick Starr...,"Go to https://expressvpn.com/SMOKEYGLOW and find out how you can get 3 months of ExpressVPN free!
+https://open.spotify.com/track/5n89VhKeZXO9Z0f24fzt0c?si=zXQ0psrQQMmn_kOO4q_T9A",en,PT15M12S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,22338,1398,0,140,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/e-DeMnKNsTg"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,
+youtube#video,no,Ua03LYpCGHvBFklwrh7gmYUeKrg,4EHovuyHhes,2021-02-10T23:00:03Z,UCPeWTX_SM61hJ7IWjy4bzNg,The Downfall of Patrick Starr...,"Go to https://expressvpn.com/SMOKEYGLOW and find out how you can get 3 months of ExpressVPN free!
 
 Hi friends! So today's video we are talking about what has been happening recently with Patrick Starr and how sometimes being an ""unproblematic"" guru can lead to your down fall. I am really interested in hearing what you guys think about this topic and I will see you in the next one! 
 
@@ -6969,7 +6969,7 @@ WRITE ME LETTERS!
 P.O BOX 93013, 
 Rochester NY, 14692 
 
-BUSINESS EMAIL: contact@tablerockmanagement.com",https://i.ytimg.com/vi/4EHovuyHhes/default.jpg,120,90,https://i.ytimg.com/vi/4EHovuyHhes/mqdefault.jpg,320,180,https://i.ytimg.com/vi/4EHovuyHhes/hqdefault.jpg,480,360,https://i.ytimg.com/vi/4EHovuyHhes/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/4EHovuyHhes/maxresdefault.jpg,1280.0,720.0,Smokey Glow,"['Smokey Glow', 'Patrick Starr', 'Nikita Dragun', 'Patrick Starr Nikita Dragun', 'Patrick Starr Drama', 'Patrick Starr Tana Mongeau', 'Tana Mongeau', 'Jeffree Star', 'James Chalres', 'Makeup', 'Youtube', 'Beauty Youtuber', 'Makeup influencer', 'Patrick Starr Smokey Glow']",26,none,The Downfall of Patrick Starr...,"Go to https://expressvpn.com/SMOKEYGLOW and find out how you can get 3 months of ExpressVPN free!
+BUSINESS EMAIL: contact@tablerockmanagement.com",https://i.ytimg.com/vi/4EHovuyHhes/default.jpg,120,90,https://i.ytimg.com/vi/4EHovuyHhes/mqdefault.jpg,320,180,https://i.ytimg.com/vi/4EHovuyHhes/hqdefault.jpg,480,360,https://i.ytimg.com/vi/4EHovuyHhes/sddefault.jpg,640,480,https://i.ytimg.com/vi/4EHovuyHhes/maxresdefault.jpg,1280,720,Smokey Glow,"['Smokey Glow', 'Patrick Starr', 'Nikita Dragun', 'Patrick Starr Nikita Dragun', 'Patrick Starr Drama', 'Patrick Starr Tana Mongeau', 'Tana Mongeau', 'Jeffree Star', 'James Chalres', 'Makeup', 'Youtube', 'Beauty Youtuber', 'Makeup influencer', 'Patrick Starr Smokey Glow']",26,none,The Downfall of Patrick Starr...,"Go to https://expressvpn.com/SMOKEYGLOW and find out how you can get 3 months of ExpressVPN free!
 
 Hi friends! So today's video we are talking about what has been happening recently with Patrick Starr and how sometimes being an ""unproblematic"" guru can lead to your down fall. I am really interested in hearing what you guys think about this topic and I will see you in the next one! 
 
@@ -7012,4 +7012,4 @@ WRITE ME LETTERS!
 P.O BOX 93013, 
 Rochester NY, 14692 
 
-BUSINESS EMAIL: contact@tablerockmanagement.com",en-US,PT18M30S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,511223,20095,0,1908,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/4EHovuyHhes"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Technology']",,,,,,
+BUSINESS EMAIL: contact@tablerockmanagement.com",en-US,PT18M30S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,511223,20095,0,1908,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/4EHovuyHhes"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Technology']",,,,,,

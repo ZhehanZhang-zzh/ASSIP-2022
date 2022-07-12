@@ -21,7 +21,7 @@ from googleapiclient.errors import HttpError
 #   https://cloud.google.com/console
 # Please ensure that you have enabled the YouTube Data API for your project.
 
-DEVELOPER_KEY = 'YOUR_KEY'
+DEVELOPER_KEY = 'AIzaSyDAptpTfh33KDwIuyVDB714gVVBe9yYIwE'
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 
@@ -66,7 +66,7 @@ def youtube_search(options):
     
     
 
-    file_name_videos = 'beauty_makeup.json'
+    file_name_videos = 'beauty_makeupCollab.json'
     file_name_channels = 'beauty_channels.json'
 
     import os
@@ -77,11 +77,7 @@ def youtube_search(options):
        z = json.loads(json_object)
        json.dump(z, f, indent = 4)
     
-    with open(file_name_channels, 'r+') as f:
-       a = open(file_name_channels)
-       data = json.load(a)
-       data.update(channels)
-       json.dump(data, f, indent = 4)
+    
         
     print('file dumped')
 
