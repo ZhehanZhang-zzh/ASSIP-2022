@@ -1,6 +1,6 @@
-kind,etag,id,snippet.publishedAt,snippet.channelId,snippet.title,snippet.description,snippet.thumbnails.default.url,snippet.thumbnails.default.width,snippet.thumbnails.default.height,snippet.thumbnails.medium.url,snippet.thumbnails.medium.width,snippet.thumbnails.medium.height,snippet.thumbnails.high.url,snippet.thumbnails.high.width,snippet.thumbnails.high.height,snippet.channelTitle,snippet.tags,snippet.categoryId,snippet.liveBroadcastContent,snippet.defaultLanguage,snippet.localized.title,snippet.localized.description,snippet.defaultAudioLanguage,contentDetails.duration,contentDetails.dimension,contentDetails.definition,contentDetails.caption,contentDetails.licensedContent,contentDetails.projection,status.uploadStatus,status.privacyStatus,status.license,status.embeddable,status.publicStatsViewable,status.madeForKids,statistics.viewCount,statistics.likeCount,statistics.favoriteCount,statistics.commentCount,player.embedHtml,topicDetails.topicCategories,localizations.en.title,localizations.en.description,localizations.es-419.title,localizations.es-419.description,snippet.thumbnails.standard.url,snippet.thumbnails.standard.width,snippet.thumbnails.standard.height,snippet.thumbnails.maxres.url,snippet.thumbnails.maxres.width,snippet.thumbnails.maxres.height,liveStreamingDetails.actualStartTime,liveStreamingDetails.actualEndTime,liveStreamingDetails.scheduledStartTime
-youtube#video,R4x6afA9IOK5zFA5BvXlh8gjDDc,jqdwM7DldHM,2022-06-21T18:45:13Z,UCuYx81nzzz4OFQrhbKDzTng,Life Update,🧘🏻,https://i.ytimg.com/vi/jqdwM7DldHM/default.jpg,120,90,https://i.ytimg.com/vi/jqdwM7DldHM/mqdefault.jpg,320,180,https://i.ytimg.com/vi/jqdwM7DldHM/hqdefault.jpg,480,360,Michelle Phan,"['Michelle Phan', 'Life Update', 'Michelle Phan Life Update', 'AMA', 'Ask Me Anything', 'Q&A', 'Michelle Phan Q&A', 'Michelle Phan Makeup', 'Michelle Phan Vlog', 'Makeup', 'Makeup Tutorial', 'Vlog', 'Meditation', 'Michelle Phan Cult', 'Michelle Phan Controversy', 'Cult', 'Reddit', 'Controversy', 'Rumors', 'Personal', 'Retreat', 'Spirituality', 'Religion', 'Journey', 'Joe Dispenza', 'Vietnamese', 'Childhood', 'Family', 'Self Exploration', 'Trauma', 'Beauty', 'Breathwork', 'Technique', 'Energy', 'Aries', 'Mental Health', 'Life', 'Update', 'New Me', 'MichellePhan']",26,none,en,Life Update,🧘🏻,en,PT37M38S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,183767,4895,0,1897,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/jqdwM7DldHM"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Life Update,🧘🏻,,,,,,,,,,,
-youtube#video,6xswswt1CBj2dJU920GgjivP4_E,J4-GRH2nDvw,2009-10-07T21:06:16Z,UCuYx81nzzz4OFQrhbKDzTng,Barbie Transformation Tutorial,"This tutorial is going to show you how to look like the glamourous Barbie doll. Perfect for Halloween. I just moved into a new place, thus no furniture. I also did this tutorial with no mirror, just the reflection of my camera...so please bear with me =/
+kind,relevance,etag,id,snippet.publishedAt,snippet.channelId,snippet.title,snippet.description,snippet.thumbnails.default.url,snippet.thumbnails.default.width,snippet.thumbnails.default.height,snippet.thumbnails.medium.url,snippet.thumbnails.medium.width,snippet.thumbnails.medium.height,snippet.thumbnails.high.url,snippet.thumbnails.high.width,snippet.thumbnails.high.height,snippet.channelTitle,snippet.tags,snippet.categoryId,snippet.liveBroadcastContent,snippet.defaultLanguage,snippet.localized.title,snippet.localized.description,snippet.defaultAudioLanguage,contentDetails.duration,contentDetails.dimension,contentDetails.definition,contentDetails.caption,contentDetails.licensedContent,contentDetails.projection,status.uploadStatus,status.privacyStatus,status.license,status.embeddable,status.publicStatsViewable,status.madeForKids,statistics.viewCount,statistics.likeCount,statistics.favoriteCount,statistics.commentCount,player.embedHtml,topicDetails.topicCategories,localizations.en.title,localizations.en.description,localizations.es-419.title,localizations.es-419.description,snippet.thumbnails.standard.url,snippet.thumbnails.standard.width,snippet.thumbnails.standard.height,snippet.thumbnails.maxres.url,snippet.thumbnails.maxres.width,snippet.thumbnails.maxres.height,liveStreamingDetails.actualStartTime,liveStreamingDetails.actualEndTime,liveStreamingDetails.scheduledStartTime
+youtube#video,no,R4x6afA9IOK5zFA5BvXlh8gjDDc,jqdwM7DldHM,2022-06-21T18:45:13Z,UCuYx81nzzz4OFQrhbKDzTng,Life Update,🧘🏻,https://i.ytimg.com/vi/jqdwM7DldHM/default.jpg,120,90,https://i.ytimg.com/vi/jqdwM7DldHM/mqdefault.jpg,320,180,https://i.ytimg.com/vi/jqdwM7DldHM/hqdefault.jpg,480,360,Michelle Phan,"['Michelle Phan', 'Life Update', 'Michelle Phan Life Update', 'AMA', 'Ask Me Anything', 'Q&A', 'Michelle Phan Q&A', 'Michelle Phan Makeup', 'Michelle Phan Vlog', 'Makeup', 'Makeup Tutorial', 'Vlog', 'Meditation', 'Michelle Phan Cult', 'Michelle Phan Controversy', 'Cult', 'Reddit', 'Controversy', 'Rumors', 'Personal', 'Retreat', 'Spirituality', 'Religion', 'Journey', 'Joe Dispenza', 'Vietnamese', 'Childhood', 'Family', 'Self Exploration', 'Trauma', 'Beauty', 'Breathwork', 'Technique', 'Energy', 'Aries', 'Mental Health', 'Life', 'Update', 'New Me', 'MichellePhan']",26,none,en,Life Update,🧘🏻,en,PT37M38S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,183767,4895,0,1897,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/jqdwM7DldHM"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Life Update,🧘🏻,,,,,,,,,,,
+youtube#video,yes,6xswswt1CBj2dJU920GgjivP4_E,J4-GRH2nDvw,2009-10-07T21:06:16Z,UCuYx81nzzz4OFQrhbKDzTng,Barbie Transformation Tutorial,"This tutorial is going to show you how to look like the glamourous Barbie doll. Perfect for Halloween. I just moved into a new place, thus no furniture. I also did this tutorial with no mirror, just the reflection of my camera...so please bear with me =/
 
 Watch more of my makeup tutorials and videos: http://goo.gl/bEJzI9
 
@@ -106,7 +106,7 @@ NYX Eyeshadow Trio in Candy, Discontinued, Similar here: http://amzn.to/1o9ytEx
 
 Lancome Rock Icon Fuchsia Lipstick, Discontinued, Similar here (Pink Bonbon) http://bit.ly/1qIZuGU
 
-To get WHITE eyes like this, I Use Rohto Redness Relief http://amzn.to/1qIZG98",en,PT8M40S,2d,sd,true,False,rectangular,processed,public,youtube,True,False,False,68789747,187968,0,34688,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/J4-GRH2nDvw"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Barbie Transformation Tutorial,"This tutorial is going to show you how to look like the glamourous Barbie doll. Perfect for Halloween. I just moved into a new place, thus no furniture. I also did this tutorial with no mirror, just the reflection of my camera...so please bear with me =/
+To get WHITE eyes like this, I Use Rohto Redness Relief http://amzn.to/1qIZG98",en,PT8M40S,2d,sd,TRUE,FALSE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,68789747,187968,0,34688,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/J4-GRH2nDvw"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Barbie Transformation Tutorial,"This tutorial is going to show you how to look like the glamourous Barbie doll. Perfect for Halloween. I just moved into a new place, thus no furniture. I also did this tutorial with no mirror, just the reflection of my camera...so please bear with me =/
 
 Watch more of my makeup tutorials and videos: http://goo.gl/bEJzI9
 
@@ -213,7 +213,7 @@ Trío de sombras de NYX, descontinuado, similar aquí: http://amzn.to/1o9ytEx
 Pintalabios Rock Icon Fuchsia de Lancome, descontinuado, similar aquí (Pink Bonbon): http://bit.ly/1qIZuGU
 
 Para conseguir ojos BLANCOS, uso las gotas Rohto Redness Relief http://amzn.to/1qIZG98",,,,,,,,,
-youtube#video,NoQAwS6P2OpBrAwTlq41UWkrHR4,UuGpm01SPcA,2017-06-01T19:45:34Z,UCuYx81nzzz4OFQrhbKDzTng,Why I Left,"I wanted to share my side of the story to my viewers who has been supporting me since day 1. This video is dedicated to you. Thank you for all your support and inspiration you have given me during my 10 years on YT. I'll return when I'm inspired to share new ideas :)
+youtube#video,no,NoQAwS6P2OpBrAwTlq41UWkrHR4,UuGpm01SPcA,2017-06-01T19:45:34Z,UCuYx81nzzz4OFQrhbKDzTng,Why I Left,"I wanted to share my side of the story to my viewers who has been supporting me since day 1. This video is dedicated to you. Thank you for all your support and inspiration you have given me during my 10 years on YT. I'll return when I'm inspired to share new ideas :)
 
 My IG : https://www.instagram.com/michellephan/
 
@@ -257,7 +257,7 @@ Artist : https://www.instagram.com/averyota/
 Video editor : Me 
 
 
-This video is not sponsored.",en,PT11M12S,2d,hd,true,True,rectangular,processed,public,youtube,True,False,False,14223789,655740,0,45879,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/UuGpm01SPcA"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Hobby', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Why I Left,"I wanted to share my side of the story to my viewers who has been supporting me since day 1. This video is dedicated to you. Thank you for all your support and inspiration you have given me during my 10 years on YT. I'll return when I'm inspired to share new ideas :)
+This video is not sponsored.",en,PT11M12S,2d,hd,TRUE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,14223789,655740,0,45879,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/UuGpm01SPcA"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Hobby', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Why I Left,"I wanted to share my side of the story to my viewers who has been supporting me since day 1. This video is dedicated to you. Thank you for all your support and inspiration you have given me during my 10 years on YT. I'll return when I'm inspired to share new ideas :)
 
 My IG : https://www.instagram.com/michellephan/
 
@@ -279,8 +279,8 @@ Artist : https://www.instagram.com/averyota/
 Video editor : Me 
 
 
-This video is not sponsored.",,,https://i.ytimg.com/vi/UuGpm01SPcA/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/UuGpm01SPcA/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,H_Yoyt-WmNiGNJTAJJ0ch5HBzyM,05KqZEqQJ40,2013-05-19T21:31:09Z,UCuYx81nzzz4OFQrhbKDzTng,Draw My Life - Michelle Phan,"Thank you for being my inspiration. I put my heart into this video, and I hope my story inspires you to reach for the sunlight. 
+This video is not sponsored.",,,https://i.ytimg.com/vi/UuGpm01SPcA/sddefault.jpg,640,480,https://i.ytimg.com/vi/UuGpm01SPcA/maxresdefault.jpg,1280,720,,,
+youtube#video,no,H_Yoyt-WmNiGNJTAJJ0ch5HBzyM,05KqZEqQJ40,2013-05-19T21:31:09Z,UCuYx81nzzz4OFQrhbKDzTng,Draw My Life - Michelle Phan,"Thank you for being my inspiration. I put my heart into this video, and I hope my story inspires you to reach for the sunlight. 
 
 ♥ Please Subscribe! http://bit.ly/MPsubscribe
 ♥ My Twitter: http://twitter.com/MichellePhan
@@ -310,7 +310,7 @@ Music by
 
 Yiruma - Kiss the Rain (String Version) & Do You?
 
-this is not a sponsored video",,PT11M25S,2d,hd,true,True,rectangular,processed,public,youtube,True,True,False,12081918,404510,0,65515,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/05KqZEqQJ40"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Hobby', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Draw My Life - Michelle Phan,"Thank you for being my inspiration. I put my heart into this video, and I hope my story inspires you to reach for the sunlight. 
+this is not a sponsored video",,PT11M25S,2d,hd,TRUE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,12081918,404510,0,65515,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/05KqZEqQJ40"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Hobby', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Draw My Life - Michelle Phan,"Thank you for being my inspiration. I put my heart into this video, and I hope my story inspires you to reach for the sunlight. 
 
 ♥ Please Subscribe! http://bit.ly/MPsubscribe
 ♥ My Twitter: http://twitter.com/MichellePhan
@@ -340,8 +340,8 @@ Música de
 
 Yiruma - Kiss the Rain (String Version) & Do You?
 
-Este video no tiene patrocinadores.",https://i.ytimg.com/vi/05KqZEqQJ40/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/05KqZEqQJ40/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,HxLrLRez6KJ3NRQiNZ7J8AZAO6g,hBizWelISFE,2022-02-04T23:39:55Z,UCuYx81nzzz4OFQrhbKDzTng,Natural Soft Definition Makeup For 30s & Up,"It's crazy to think how much my makeup routine has changed since my 20s. This routine shows you how I approach makeup now in my 30s. I wonder what it'll be like in my 40s. I hope you enjoyed this video. It was very relaxing for me to film :)
+Este video no tiene patrocinadores.",https://i.ytimg.com/vi/05KqZEqQJ40/sddefault.jpg,640,480,https://i.ytimg.com/vi/05KqZEqQJ40/maxresdefault.jpg,1280,720,,,
+youtube#video,yes,HxLrLRez6KJ3NRQiNZ7J8AZAO6g,hBizWelISFE,2022-02-04T23:39:55Z,UCuYx81nzzz4OFQrhbKDzTng,Natural Soft Definition Makeup For 30s & Up,"It's crazy to think how much my makeup routine has changed since my 20s. This routine shows you how I approach makeup now in my 30s. I wonder what it'll be like in my 40s. I hope you enjoyed this video. It was very relaxing for me to film :)
 
 Follow Me @
 ✧ https://www.instagram.com/michellephan/
@@ -513,7 +513,7 @@ https://amzn.to/35RJxcT
 First Honey Manuka Honey Cream - 
 https://amzn.to/3slguFY
 
-This video was not sponsored",en,PT18M43S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,472385,19702,0,768,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/hBizWelISFE"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Physical_attractiveness']",Natural Soft Definition Makeup For 30s & Up,"It's crazy to think how much my makeup routine has changed since my 20s. This routine shows you how I approach makeup now in my 30s. I wonder what it'll be like in my 40s. I hope you enjoyed this video. It was very relaxing for me to film :)
+This video was not sponsored",en,PT18M43S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,472385,19702,0,768,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/hBizWelISFE"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Physical_attractiveness']",Natural Soft Definition Makeup For 30s & Up,"It's crazy to think how much my makeup routine has changed since my 20s. This routine shows you how I approach makeup now in my 30s. I wonder what it'll be like in my 40s. I hope you enjoyed this video. It was very relaxing for me to film :)
 
 Follow Me @
 ✧ https://www.instagram.com/michellephan/
@@ -599,8 +599,8 @@ https://amzn.to/35RJxcT
 First Honey Manuka Honey Cream - 
 https://amzn.to/3slguFY
 
-This video was not sponsored",,,https://i.ytimg.com/vi/hBizWelISFE/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/hBizWelISFE/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,YU7QKRwLJb03_d9DLb0KowlZ1Sg,y7hWMN3RhC8,2019-03-19T17:05:14Z,UCzsF1ghKHeif7AmTNlRYAzQ,@Michelle Phan's Nighttime Skincare Routine | Go To Bed With Me | Harper's BAZAAR,"Michelle Phan is one of the first beauty stars of YouTube—she started creating makeup tutorials in 2007 and has since gained a loyal following with nearly 9 million subscribers. Outside of Youtube, she's also the founder of Ipsy, the creator of Em Cosmetics, and recently launched Thematic, a site that links musicians and free music with content creators. In this episode of #GoToBedWithMe, Michelle walks us through exactly how she keeps her skin glowing sans a drop of foundation.
+This video was not sponsored",,,https://i.ytimg.com/vi/hBizWelISFE/sddefault.jpg,640,480,https://i.ytimg.com/vi/hBizWelISFE/maxresdefault.jpg,1280,720,,,
+youtube#video,yes,YU7QKRwLJb03_d9DLb0KowlZ1Sg,y7hWMN3RhC8,2019-03-19T17:05:14Z,UCzsF1ghKHeif7AmTNlRYAzQ,@Michelle Phan's Nighttime Skincare Routine | Go To Bed With Me | Harper's BAZAAR,"Michelle Phan is one of the first beauty stars of YouTube—she started creating makeup tutorials in 2007 and has since gained a loyal following with nearly 9 million subscribers. Outside of Youtube, she's also the founder of Ipsy, the creator of Em Cosmetics, and recently launched Thematic, a site that links musicians and free music with content creators. In this episode of #GoToBedWithMe, Michelle walks us through exactly how she keeps her skin glowing sans a drop of foundation.
 
 ""Good Luck!"" 
 
@@ -666,8 +666,8 @@ https://www.pinterest.com/harpersbazaar/?auto_follow=1
 
 #skincare #michellephan
 
-Not sponsored. Some of the above links are affiliate links, meaning we earn a small percentage of sales made via those links, but it doesn’t cost you anything extra ✨",en,PT11M50S,2d,hd,true,True,rectangular,processed,public,youtube,True,True,False,2544044,101709,0,5628,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/y7hWMN3RhC8"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,https://i.ytimg.com/vi/y7hWMN3RhC8/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/y7hWMN3RhC8/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,p1XY9CqxSkZcFqi_sXDzMGLR7-k,u11tX1kjvYE,2022-05-29T22:52:58Z,UCxtwcPVhVNg6CyrwRZlmsrw,Did Michelle Phan Join A Cult? (A summary of scandals),"Today's video is a deep dive into Michelle Phan, an OG Beauty Guru, possibly joining and promoting a cult??? We’re also gonna talk about some of her previous scandals and dramas.
+Not sponsored. Some of the above links are affiliate links, meaning we earn a small percentage of sales made via those links, but it doesn’t cost you anything extra ✨",en,PT11M50S,2d,hd,TRUE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,2544044,101709,0,5628,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/y7hWMN3RhC8"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,https://i.ytimg.com/vi/y7hWMN3RhC8/sddefault.jpg,640,480,https://i.ytimg.com/vi/y7hWMN3RhC8/maxresdefault.jpg,1280,720,,,
+youtube#video,no,p1XY9CqxSkZcFqi_sXDzMGLR7-k,u11tX1kjvYE,2022-05-29T22:52:58Z,UCxtwcPVhVNg6CyrwRZlmsrw,Did Michelle Phan Join A Cult? (A summary of scandals),"Today's video is a deep dive into Michelle Phan, an OG Beauty Guru, possibly joining and promoting a cult??? We’re also gonna talk about some of her previous scandals and dramas.
 
 The reason why we took a deep dive on Michelle - a few weeks ago she posted some questionable stories on her Instagram. She talked about spiritual enlightenment, healing disabled people with her thoughts, seeing angels... Lots of her fans were confused and concerned about her and speculated she might have joined a cult. 
  
@@ -741,7 +741,7 @@ For business inquiries: reyhanehrahimi2@gmail.com
 
 ✨✨✨✨✨✨✨✨✨✨✨
 
-Welcome to hot tea, where we spill all the tea in the YouTuber/ influencer community. We are more than just your regular ol' tea channel, we also provide commentary here so if you like channels like tea spill, spill sesh, Anna Oop and Angelika Oles, you'll like it here!",en,PT14M32S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,29733,796,0,176,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/u11tX1kjvYE"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Hobby', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Did Michelle Phan Join A Cult? (A summary of scandals),"Today's video is a deep dive into Michelle Phan, an OG Beauty Guru, possibly joining and promoting a cult??? We’re also gonna talk about some of her previous scandals and dramas.
+Welcome to hot tea, where we spill all the tea in the YouTuber/ influencer community. We are more than just your regular ol' tea channel, we also provide commentary here so if you like channels like tea spill, spill sesh, Anna Oop and Angelika Oles, you'll like it here!",en,PT14M32S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,29733,796,0,176,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/u11tX1kjvYE"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Hobby', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Did Michelle Phan Join A Cult? (A summary of scandals),"Today's video is a deep dive into Michelle Phan, an OG Beauty Guru, possibly joining and promoting a cult??? We’re also gonna talk about some of her previous scandals and dramas.
 
 The reason why we took a deep dive on Michelle - a few weeks ago she posted some questionable stories on her Instagram. She talked about spiritual enlightenment, healing disabled people with her thoughts, seeing angels... Lots of her fans were confused and concerned about her and speculated she might have joined a cult. 
  
@@ -778,8 +778,8 @@ For business inquiries: reyhanehrahimi2@gmail.com
 
 ✨✨✨✨✨✨✨✨✨✨✨
 
-Welcome to hot tea, where we spill all the tea in the YouTuber/ influencer community. We are more than just your regular ol' tea channel, we also provide commentary here so if you like channels like tea spill, spill sesh, Anna Oop and Angelika Oles, you'll like it here!",,,https://i.ytimg.com/vi/u11tX1kjvYE/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/u11tX1kjvYE/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,qKmzKQtSn3LwVXTDIJ1_IW9euZs,p7kQx4JJfEk,2012-10-23T02:53:27Z,UCuYx81nzzz4OFQrhbKDzTng,How to Look Like a K-Pop Star,"Need a costume for Halloween? Look no further, not only is this a great costume look for you and your K-Pop man, but it's wearable too! My look was inspired by Girls' Generation. Dominique Capraro's look was inspired by TVXQ. If you'd like for us to do more K-Pop looks, please tell us your favorite artists for us to draw inspiration from :) Props to Dominique for learning how to do the Hulk Dance in 2 hours! 
+Welcome to hot tea, where we spill all the tea in the YouTuber/ influencer community. We are more than just your regular ol' tea channel, we also provide commentary here so if you like channels like tea spill, spill sesh, Anna Oop and Angelika Oles, you'll like it here!",,,https://i.ytimg.com/vi/u11tX1kjvYE/sddefault.jpg,640,480,https://i.ytimg.com/vi/u11tX1kjvYE/maxresdefault.jpg,1280,720,,,
+youtube#video,yes,qKmzKQtSn3LwVXTDIJ1_IW9euZs,p7kQx4JJfEk,2012-10-23T02:53:27Z,UCuYx81nzzz4OFQrhbKDzTng,How to Look Like a K-Pop Star,"Need a costume for Halloween? Look no further, not only is this a great costume look for you and your K-Pop man, but it's wearable too! My look was inspired by Girls' Generation. Dominique Capraro's look was inspired by TVXQ. If you'd like for us to do more K-Pop looks, please tell us your favorite artists for us to draw inspiration from :) Props to Dominique for learning how to do the Hulk Dance in 2 hours! 
 
 Most of the products used in this video were all just $10! All from Ipsy's October Glam Bag.  http://ipsy.com/theglambag   
 Ipsy is a company I own. Wanna see a sneak peek of November's Ipsy Glam Bag! http://on.fb.me/P3lecS
@@ -919,7 +919,7 @@ Tank top is from American Apparel in sheer black
 Military motorcycle pants is from ZARA men
 Shoes from Balmain
 gloves from Army Surplus store from this store
-http://www.youtube.com/watch?v=vwM0nI3bcOc",,PT6M13S,2d,hd,true,False,rectangular,processed,public,youtube,True,True,False,8516416,107514,0,18867,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/p7kQx4JJfEk"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Music_of_Asia', 'https://en.wikipedia.org/wiki/Pop_music']",How to Look Like a K-Pop Star,"Need a costume for Halloween? Look no further, not only is this a great costume look for you and your K-Pop man, but it's wearable too! My look was inspired by Girls' Generation. Dominique Capraro's look was inspired by TVXQ. If you'd like for us to do more K-Pop looks, please tell us your favorite artists for us to draw inspiration from :) Props to Dominique for learning how to do the Hulk Dance in 2 hours! 
+http://www.youtube.com/watch?v=vwM0nI3bcOc",,PT6M13S,2d,hd,TRUE,FALSE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,8516416,107514,0,18867,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/p7kQx4JJfEk"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Music_of_Asia', 'https://en.wikipedia.org/wiki/Pop_music']",How to Look Like a K-Pop Star,"Need a costume for Halloween? Look no further, not only is this a great costume look for you and your K-Pop man, but it's wearable too! My look was inspired by Girls' Generation. Dominique Capraro's look was inspired by TVXQ. If you'd like for us to do more K-Pop looks, please tell us your favorite artists for us to draw inspiration from :) Props to Dominique for learning how to do the Hulk Dance in 2 hours! 
 
 Most of the products used in this video were all just $10! All from Ipsy's October Glam Bag.  http://ipsy.com/theglambag   
 Ipsy is a company I own. Wanna see a sneak peek of November's Ipsy Glam Bag! http://on.fb.me/P3lecS
@@ -1059,8 +1059,8 @@ Camiseta sin mangas de American Apparel
 Pantalones militares de ZARA hombre
 Zapatos de Balmain
 Guantes de Army Surplus store de esta tienda
-http://www.youtube.com/watch?v=vwM0nI...",https://i.ytimg.com/vi/p7kQx4JJfEk/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/p7kQx4JJfEk/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,mf1qmDtzPUey6Lb8O3OjtfaY2X0,qg-2rDnWCJA,2009-10-12T22:56:29Z,UCuYx81nzzz4OFQrhbKDzTng,Seductive Vampire,"This tutorial will show you how to look like a haunting vampire. Inspired by Anne Rice's beautiful vampires. They're evocative, bewitching, desirable and haunting. Read Interview With The Vampire..I love Vampires. From anime like Vampire Hunter D, Blood: The Last Vampire and the games Castlevania Symphony of the Nights.
+http://www.youtube.com/watch?v=vwM0nI...",https://i.ytimg.com/vi/p7kQx4JJfEk/sddefault.jpg,640,480,https://i.ytimg.com/vi/p7kQx4JJfEk/maxresdefault.jpg,1280,720,,,
+youtube#video,yes,mf1qmDtzPUey6Lb8O3OjtfaY2X0,qg-2rDnWCJA,2009-10-12T22:56:29Z,UCuYx81nzzz4OFQrhbKDzTng,Seductive Vampire,"This tutorial will show you how to look like a haunting vampire. Inspired by Anne Rice's beautiful vampires. They're evocative, bewitching, desirable and haunting. Read Interview With The Vampire..I love Vampires. From anime like Vampire Hunter D, Blood: The Last Vampire and the games Castlevania Symphony of the Nights.
 
 Watch more of my Halloween tutorials and costume looks: http://goo.gl/HkhlzO 
 
@@ -1210,7 +1210,7 @@ Denture Adhesive Cream http://amzn.to/1nEIn63
 
 Outfit- Forever dress, it's off shoulders
 Mask - I made myself using lace and plastic
-Ribbon Necklace - Urban Outfitters",,PT8M23S,2d,sd,true,False,rectangular,processed,public,youtube,True,False,False,19347675,104136,0,20978,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/qg-2rDnWCJA"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Seductive Vampire,"This tutorial will show you how to look like a haunting vampire. Inspired by Anne Rice's beautiful vampires. They're evocative, bewitching, desirable and haunting. Read Interview With The Vampire..I love Vampires. From anime like Vampire Hunter D, Blood: The Last Vampire and the games Castlevania Symphony of the Nights.
+Ribbon Necklace - Urban Outfitters",,PT8M23S,2d,sd,TRUE,FALSE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,19347675,104136,0,20978,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/qg-2rDnWCJA"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Seductive Vampire,"This tutorial will show you how to look like a haunting vampire. Inspired by Anne Rice's beautiful vampires. They're evocative, bewitching, desirable and haunting. Read Interview With The Vampire..I love Vampires. From anime like Vampire Hunter D, Blood: The Last Vampire and the games Castlevania Symphony of the Nights.
 
 Watch more of my Halloween tutorials and costume looks: http://goo.gl/HkhlzO 
 
@@ -1361,7 +1361,7 @@ Crema adhesiva dental http://amzn.to/1nEIn63
 Ropa: vestido Forever.
 Máscara: la hice yo misma usando cinta y plástico
 Collar de cinta de Urban Outfitters",,,,,,,,,
-youtube#video,iWDfTj1k5XcviOePtWihZIxYR-o,rG7Y-vhyUZY,2022-03-26T00:08:26Z,UCuYx81nzzz4OFQrhbKDzTng,CHERUB CHEEKS : Innocent Looking Makeup,"Ahhhh, they're finally here! I've been waiting so long to use these angelic blush colors. 
+youtube#video,yes,iWDfTj1k5XcviOePtWihZIxYR-o,rG7Y-vhyUZY,2022-03-26T00:08:26Z,UCuYx81nzzz4OFQrhbKDzTng,CHERUB CHEEKS : Innocent Looking Makeup,"Ahhhh, they're finally here! I've been waiting so long to use these angelic blush colors. 
 I'll show you in this video why they're so special.
 
 ✧ https://www.emcosmetics.com/collections/heirloom ✧
@@ -1595,7 +1595,7 @@ https://linktr.ee/singtoconley
 
 DISCLAIMERS -
 No Skin Filter was used in this video
-This video was not sponsored",en,PT33M55S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,225165,9428,0,524,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/rG7Y-vhyUZY"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],CHERUB CHEEKS : Innocent Looking Makeup,"Ahhhh, they're finally here! I've been waiting so long to use these angelic blush colors. 
+This video was not sponsored",en,PT33M55S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,225165,9428,0,524,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/rG7Y-vhyUZY"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],CHERUB CHEEKS : Innocent Looking Makeup,"Ahhhh, they're finally here! I've been waiting so long to use these angelic blush colors. 
 I'll show you in this video why they're so special.
 
 ✧ https://www.emcosmetics.com/collections/heirloom ✧
@@ -1712,8 +1712,8 @@ https://linktr.ee/singtoconley
 
 DISCLAIMERS -
 No Skin Filter was used in this video
-This video was not sponsored",,,https://i.ytimg.com/vi/rG7Y-vhyUZY/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/rG7Y-vhyUZY/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,3eDnvtVs1iuIY6WurgmmbEKdhbI,nF0lbAP3We8,2013-08-24T01:59:09Z,UCuYx81nzzz4OFQrhbKDzTng,Wake Up With Me in NYC,"http://www.emcosmetics.com/ This is another day at work in NYC. Everyday is a different adventure. It's never the same :) Let me know if you'd like to see my LA day life :)  
+This video was not sponsored",,,https://i.ytimg.com/vi/rG7Y-vhyUZY/sddefault.jpg,640,480,https://i.ytimg.com/vi/rG7Y-vhyUZY/maxresdefault.jpg,1280,720,,,
+youtube#video,no,3eDnvtVs1iuIY6WurgmmbEKdhbI,nF0lbAP3We8,2013-08-24T01:59:09Z,UCuYx81nzzz4OFQrhbKDzTng,Wake Up With Me in NYC,"http://www.emcosmetics.com/ This is another day at work in NYC. Everyday is a different adventure. It's never the same :) Let me know if you'd like to see my LA day life :)  
 
 check out my new makeup line em michelle phan at http://www.emcosmetics.com/ 
 If you have any additional questions, you can chat with em's beauty gurus at http://www.emcosmetics.com/, and they'll be more than happy to assist you.
@@ -1747,7 +1747,7 @@ http://www.youtube.com/user/DanielaSings
 ♥ My Blog: http://michellephan.com
 ♥ ICON Network: http://youtube.com/ICONnetwork
 
-this is not a sponsored video.",en,PT13M53S,2d,sd,true,True,rectangular,processed,public,youtube,True,True,False,5980413,151102,0,14759,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/nF0lbAP3We8"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Wake Up With Me in NYC,"http://www.emcosmetics.com/ This is another day at work in NYC. Everyday is a different adventure. It's never the same :) Let me know if you'd like to see my LA day life :)  
+this is not a sponsored video.",en,PT13M53S,2d,sd,TRUE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,5980413,151102,0,14759,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/nF0lbAP3We8"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Wake Up With Me in NYC,"http://www.emcosmetics.com/ This is another day at work in NYC. Everyday is a different adventure. It's never the same :) Let me know if you'd like to see my LA day life :)  
 
 check out my new makeup line em michelle phan at http://www.emcosmetics.com/ 
 If you have any additional questions, you can chat with em's beauty gurus at http://www.emcosmetics.com/, and they'll be more than happy to assist you.
@@ -1781,8 +1781,8 @@ http://www.youtube.com/user/DanielaSings
 ♥ Mi Blog: http://michellephan.com
 ♥ Cadena ICON: http://youtube.com/ICONnetwork
 
-Este video no tiene patrocinadores.",https://i.ytimg.com/vi/nF0lbAP3We8/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/nF0lbAP3We8/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,SqMmi9oxDUFtsV724toJpc64kCA,Mw5iac-B2ak,2022-05-10T19:53:12Z,UCOM2XPfbmb5tRRiHNyl9KjQ,BEAUTY YOUTUBE OG MICHELLE PHAN JOINED A CULT,"You are so valuable. Stay Spicy and Assertive.
+Este video no tiene patrocinadores.",https://i.ytimg.com/vi/nF0lbAP3We8/sddefault.jpg,640,480,https://i.ytimg.com/vi/nF0lbAP3We8/maxresdefault.jpg,1280,720,,,
+youtube#video,no,SqMmi9oxDUFtsV724toJpc64kCA,Mw5iac-B2ak,2022-05-10T19:53:12Z,UCOM2XPfbmb5tRRiHNyl9KjQ,BEAUTY YOUTUBE OG MICHELLE PHAN JOINED A CULT,"You are so valuable. Stay Spicy and Assertive.
  Please Subscribe! Everything mentioned is listed and linked below, Click Show More. 
 
 
@@ -1884,7 +1884,7 @@ All footage and clips shown are protected under the Fair Use Act under section 1
 All content on this channel is meant for entertainment purposes, as well as, at times, educational purposes. All opinions are my own and do not reflect the opinions of my channel sponsors. This content is not intended to incite hate towards any individual or entity. Do not seek out any individual featured in my videos. Bullying will not be tolerated. 
 
 FTC-
-**This video is NOT sponsored. All Amazon, LikeToKnowIT and RewardStyle (Rstyle) links are affiliate links. I do earn a small commission when you purchase through these links or when using affiliate codes at checkout. This helps me improve my channel & content overall.**",en,PT18M54S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,248398,10454,0,1530,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/Mw5iac-B2ak"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],BEAUTY YOUTUBE OG MICHELLE PHAN JOINED A CULT,"You are so valuable. Stay Spicy and Assertive.
+**This video is NOT sponsored. All Amazon, LikeToKnowIT and RewardStyle (Rstyle) links are affiliate links. I do earn a small commission when you purchase through these links or when using affiliate codes at checkout. This helps me improve my channel & content overall.**",en,PT18M54S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,248398,10454,0,1530,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/Mw5iac-B2ak"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],BEAUTY YOUTUBE OG MICHELLE PHAN JOINED A CULT,"You are so valuable. Stay Spicy and Assertive.
  Please Subscribe! Everything mentioned is listed and linked below, Click Show More. 
 
 
@@ -1936,7 +1936,7 @@ All content on this channel is meant for entertainment purposes, as well as, at 
 
 FTC-
 **This video is NOT sponsored. All Amazon, LikeToKnowIT and RewardStyle (Rstyle) links are affiliate links. I do earn a small commission when you purchase through these links or when using affiliate codes at checkout. This helps me improve my channel & content overall.**",,,,,,,,,,,
-youtube#video,EXlGOMPAbH3NN47RU3hz2zPNpyM,-lOayrZRwvI,2022-03-06T16:00:01Z,UCuYx81nzzz4OFQrhbKDzTng,SOFT & SULTRY MAKEUP,"SOFT & SULTRY MAKEUP - This is an updated smokey eye look that I can wear everyday.
+youtube#video,yes,EXlGOMPAbH3NN47RU3hz2zPNpyM,#NAME?,2022-03-06T16:00:01Z,UCuYx81nzzz4OFQrhbKDzTng,SOFT & SULTRY MAKEUP,"SOFT & SULTRY MAKEUP - This is an updated smokey eye look that I can wear everyday.
 
 Follow Me @
 ✧ https://www.instagram.com/michellephan/
@@ -2108,7 +2108,7 @@ https://amzn.to/35RJxcT
 Baccarat Rouge 540 -
 https://www.franciskurkdjian.com/int-en/p/baccarat-rouge-540-extrait-de-parfum-10423021.html
 
-This video was not sponsored",en,PT18M51S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,566286,26507,0,762,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/-lOayrZRwvI"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],SOFT & SULTRY MAKEUP,"SOFT & SULTRY MAKEUP - This is an updated smokey eye look that I can wear everyday.
+This video was not sponsored",en,PT18M51S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,566286,26507,0,762,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/-lOayrZRwvI"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],SOFT & SULTRY MAKEUP,"SOFT & SULTRY MAKEUP - This is an updated smokey eye look that I can wear everyday.
 
 Follow Me @
 ✧ https://www.instagram.com/michellephan/
@@ -2194,8 +2194,8 @@ https://amzn.to/35RJxcT
 Baccarat Rouge 540 -
 https://www.franciskurkdjian.com/int-en/p/baccarat-rouge-540-extrait-de-parfum-10423021.html
 
-This video was not sponsored",,,https://i.ytimg.com/vi/-lOayrZRwvI/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/-lOayrZRwvI/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,54YK9DEGxW0BgKLmCxBejZ20u_Y,bHVOxhEpjp0,2010-01-18T17:17:32Z,UCuYx81nzzz4OFQrhbKDzTng,Lady Gaga Bad Romance Look,"Who isn't Gaga crazy? This ""Bad Romance"" look was requested, and I apologize for taking so long to do it, I was terribly busy over the holidays, but here it is! Enjoy! I know the video was short, but the look was so easy to do that I did not see a reason for it to be super long. =)
+This video was not sponsored",,,https://i.ytimg.com/vi/-lOayrZRwvI/sddefault.jpg,640,480,https://i.ytimg.com/vi/-lOayrZRwvI/maxresdefault.jpg,1280,720,,,
+youtube#video,yes,54YK9DEGxW0BgKLmCxBejZ20u_Y,bHVOxhEpjp0,2010-01-18T17:17:32Z,UCuYx81nzzz4OFQrhbKDzTng,Lady Gaga Bad Romance Look,"Who isn't Gaga crazy? This ""Bad Romance"" look was requested, and I apologize for taking so long to do it, I was terribly busy over the holidays, but here it is! Enjoy! I know the video was short, but the look was so easy to do that I did not see a reason for it to be super long. =)
 
 Watch my Lady Gaga Poker Face Tutorial: http://youtu.be/YFMaLuI1uxc
 
@@ -2291,7 +2291,7 @@ Lens- G-201 Gray Max Pure gray
 Dress - I went to Partycity and bought a clear table cloth, cut out a dress pattern, glued it together and made my dress. Super easy!
 
 How I boiled the hair. Got the idea from here
-http://www.flickr.com/photos/veik11/4080820202/",,PT7M33S,2d,hd,true,False,rectangular,processed,public,youtube,True,False,False,56492522,219085,0,28799,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/bHVOxhEpjp0"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Lady Gaga Bad Romance Look,"Who isn't Gaga crazy? This ""Bad Romance"" look was requested, and I apologize for taking so long to do it, I was terribly busy over the holidays, but here it is! Enjoy! I know the video was short, but the look was so easy to do that I did not see a reason for it to be super long. =)
+http://www.flickr.com/photos/veik11/4080820202/",,PT7M33S,2d,hd,TRUE,FALSE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,56492522,219085,0,28799,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/bHVOxhEpjp0"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Lady Gaga Bad Romance Look,"Who isn't Gaga crazy? This ""Bad Romance"" look was requested, and I apologize for taking so long to do it, I was terribly busy over the holidays, but here it is! Enjoy! I know the video was short, but the look was so easy to do that I did not see a reason for it to be super long. =)
 
 Watch my Lady Gaga Poker Face Tutorial: http://youtu.be/YFMaLuI1uxc
 
@@ -2388,7 +2388,7 @@ Vestido: Fui a Partycity y compré un mantel, corté un patrón para un vestido,
 
 Cómo conseguí mi peinado. Saqué la idea de aquí:
 http://www.flickr.com/photos/veik11/4",,,,,,,,,
-youtube#video,yhzGksudlyN4-b15ePriMkC4TIY,wD4lNvVOJXE,2022-04-25T17:05:22Z,UCuYx81nzzz4OFQrhbKDzTng,I FOLLOW A HUNG VANNGO TUTORIAL,"I sound congested because of a cold :(
+youtube#video,yes,yhzGksudlyN4-b15ePriMkC4TIY,wD4lNvVOJXE,2022-04-25T17:05:22Z,UCuYx81nzzz4OFQrhbKDzTng,I FOLLOW A HUNG VANNGO TUTORIAL,"I sound congested because of a cold :(
 Watch the Hung Vanngo 90s Bombshell Inspired Makeup Tutorial here
 https://www.youtube.com/watch?v=q98ZaegFa_o
 
@@ -2546,7 +2546,7 @@ Lash Curler - https://rephr.com/products/eyelash-curler
 
 DISCLAIMERS -
 No Skin Filter was used in this video
-This video was not sponsored",en,PT18M44S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,155562,6371,0,364,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/wD4lNvVOJXE"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],I FOLLOW A HUNG VANNGO TUTORIAL,"I sound congested because of a cold :(
+This video was not sponsored",en,PT18M44S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,155562,6371,0,364,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/wD4lNvVOJXE"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],I FOLLOW A HUNG VANNGO TUTORIAL,"I sound congested because of a cold :(
 Watch the Hung Vanngo 90s Bombshell Inspired Makeup Tutorial here
 https://www.youtube.com/watch?v=q98ZaegFa_o
 
@@ -2626,7 +2626,7 @@ Lash Curler - https://rephr.com/products/eyelash-curler
 DISCLAIMERS -
 No Skin Filter was used in this video
 This video was not sponsored",,,,,,,,,,,
-youtube#video,f3TLei2vfAQAvo9Jlfnc70G4K4g,MtSYLIlUTYg,2021-12-12T01:29:19Z,UCuYx81nzzz4OFQrhbKDzTng,ANTI - WORK Why People Are Quitting,"Remember when you were a kid and people asked - "" What do you want to do when you grow up? ""  
+youtube#video,yes,f3TLei2vfAQAvo9Jlfnc70G4K4g,MtSYLIlUTYg,2021-12-12T01:29:19Z,UCuYx81nzzz4OFQrhbKDzTng,ANTI - WORK Why People Are Quitting,"Remember when you were a kid and people asked - "" What do you want to do when you grow up? ""  
 
 “ I want a soul sucking job “ - said no one ever.
 
@@ -2742,7 +2742,7 @@ https://trudon.com/us_en/home-fragrances/candles.html
 
 
 DISCLAIMER -  This video was not sponsored. EM is my own brand
-No skin filter was used in this video.",en,PT18M19S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,449670,25189,0,1771,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/MtSYLIlUTYg"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],ANTI - WORK Why People Are Quitting,"Remember when you were a kid and people asked - "" What do you want to do when you grow up? ""  
+No skin filter was used in this video.",en,PT18M19S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,449670,25189,0,1771,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/MtSYLIlUTYg"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],ANTI - WORK Why People Are Quitting,"Remember when you were a kid and people asked - "" What do you want to do when you grow up? ""  
 
 “ I want a soul sucking job “ - said no one ever.
 
@@ -2800,8 +2800,8 @@ https://trudon.com/us_en/home-fragrances/candles.html
 
 
 DISCLAIMER -  This video was not sponsored. EM is my own brand
-No skin filter was used in this video.",,,https://i.ytimg.com/vi/MtSYLIlUTYg/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/MtSYLIlUTYg/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,DeaooaSJO0dn-lLK1vbJ7B_ewDY,BxHGAbXjWdU,2021-11-30T05:54:14Z,UCuYx81nzzz4OFQrhbKDzTng,Recreating a Makeup Filter,"Recreating a makeup filter. What would you tell your younger self?
+No skin filter was used in this video.",,,https://i.ytimg.com/vi/MtSYLIlUTYg/sddefault.jpg,640,480,https://i.ytimg.com/vi/MtSYLIlUTYg/maxresdefault.jpg,1280,720,,,
+youtube#video,yes,DeaooaSJO0dn-lLK1vbJ7B_ewDY,BxHGAbXjWdU,2021-11-30T05:54:14Z,UCuYx81nzzz4OFQrhbKDzTng,Recreating a Makeup Filter,"Recreating a makeup filter. What would you tell your younger self?
 
 ⌑  F A C E 
 
@@ -2929,7 +2929,7 @@ Find me…
 
 
 EM is my own brand. 
-No Skin Filter except during the beauty camera shot.",en,PT24M7S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,318066,17933,0,951,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/BxHGAbXjWdU"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Recreating a Makeup Filter,"Recreating a makeup filter. What would you tell your younger self?
+No Skin Filter except during the beauty camera shot.",en,PT24M7S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,318066,17933,0,951,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/BxHGAbXjWdU"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Recreating a Makeup Filter,"Recreating a makeup filter. What would you tell your younger self?
 
 ⌑  F A C E 
 
@@ -2993,8 +2993,8 @@ Find me…
 
 
 EM is my own brand. 
-No Skin Filter except during the beauty camera shot.",,,https://i.ytimg.com/vi/BxHGAbXjWdU/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/BxHGAbXjWdU/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,BzWOJD0xF1BHb8665FVlKRFtnh0,q98ZaegFa_o,2022-04-18T13:00:32Z,UCgwzJLw4B0D3cjvS5_F_uYw,Michelle Phan 90s Bombshell Inspired Makeup | Hung Vanngo,"Follow me on instagram: https://www.instagram.com/hungvanngo
+No Skin Filter except during the beauty camera shot.",,,https://i.ytimg.com/vi/BxHGAbXjWdU/sddefault.jpg,640,480,https://i.ytimg.com/vi/BxHGAbXjWdU/maxresdefault.jpg,1280,720,,,
+youtube#video,yes,BzWOJD0xF1BHb8665FVlKRFtnh0,q98ZaegFa_o,2022-04-18T13:00:32Z,UCgwzJLw4B0D3cjvS5_F_uYw,Michelle Phan 90s Bombshell Inspired Makeup | Hung Vanngo,"Follow me on instagram: https://www.instagram.com/hungvanngo
 TALENT: https://www.instagram.com/michellephan
 FILMING: https://www.instagram.com/lillianxly
 EDITING: https://www.instagram.com/ninomars
@@ -3122,8 +3122,8 @@ FIND ME:
 Website:http://www.hungvanngo.com
 Instagram:https://www.instagram.com/hungvanngo
 Twitter:http://www.twitter.com/hungvanngo
-Facebook:http://www.facebook.com/hungvanngo",en,PT38M10S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,321596,17097,0,974,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/q98ZaegFa_o"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,https://i.ytimg.com/vi/q98ZaegFa_o/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/q98ZaegFa_o/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,Cxu_HarekjGzrnOCYRO21JsEzbM,Ds0tNbpRh5g,2021-06-13T01:58:46Z,UCuYx81nzzz4OFQrhbKDzTng,MY HEALTHY GLOWY SKIN ROUTINE,"Who else is feeling Mercury Retrograde?
+Facebook:http://www.facebook.com/hungvanngo",en,PT38M10S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,321596,17097,0,974,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/q98ZaegFa_o"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,https://i.ytimg.com/vi/q98ZaegFa_o/sddefault.jpg,640,480,https://i.ytimg.com/vi/q98ZaegFa_o/maxresdefault.jpg,1280,720,,,
+youtube#video,yes,Cxu_HarekjGzrnOCYRO21JsEzbM,Ds0tNbpRh5g,2021-06-13T01:58:46Z,UCuYx81nzzz4OFQrhbKDzTng,MY HEALTHY GLOWY SKIN ROUTINE,"Who else is feeling Mercury Retrograde?
 
 ⌑ F A C E 
 
@@ -3205,7 +3205,7 @@ EM Lip Cushion “ Quartz“ - https://www.emcosmetics.com/collections/lip-cushi
 
 ⊠ Produced at MS ROBOT studios
 
-https://www.msrobot.com",en,PT23M6S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,679571,29266,0,1481,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/Ds0tNbpRh5g"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],MY HEALTHY GLOWY SKIN ROUTINE,"Who else is feeling Mercury Retrograde?
+https://www.msrobot.com",en,PT23M6S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,679571,29266,0,1481,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/Ds0tNbpRh5g"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],MY HEALTHY GLOWY SKIN ROUTINE,"Who else is feeling Mercury Retrograde?
 
 ⌑ F A C E 
 
@@ -3246,8 +3246,8 @@ EM Lip Cushion “ Quartz“ - https://www.emcosmetics.com/collections/lip-cushi
 
 ⊠ Produced at MS ROBOT studios
 
-https://www.msrobot.com",,,https://i.ytimg.com/vi/Ds0tNbpRh5g/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/Ds0tNbpRh5g/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,ntLOOzc5QQwLROOyfwEr5hd2kKM,yeFfCATDw8o,2019-11-30T00:12:50Z,UCuYx81nzzz4OFQrhbKDzTng,Thanksgiving at my home,"I can't believe I even had the energy to edit this vlog. Happy holidays!
+https://www.msrobot.com",,,https://i.ytimg.com/vi/Ds0tNbpRh5g/sddefault.jpg,640,480,https://i.ytimg.com/vi/Ds0tNbpRh5g/maxresdefault.jpg,1280,720,,,
+youtube#video,no,ntLOOzc5QQwLROOyfwEr5hd2kKM,yeFfCATDw8o,2019-11-30T00:12:50Z,UCuYx81nzzz4OFQrhbKDzTng,Thanksgiving at my home,"I can't believe I even had the energy to edit this vlog. Happy holidays!
 
 My newest makeup tutorial
 https://youtu.be/gFVZphokaRk
@@ -3313,7 +3313,7 @@ ninjoi. - Prayers  https://thmatc.co/?l=D68AB6F1
 🎧 Music by ninjoi. - Foolish Heart [Thematic Exclusive] - https://thmatc.co/?l=488C9542
 
 
-This video is not sponsored",en,PT13M50S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,1928100,61380,0,2840,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/yeFfCATDw8o"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Food', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Thanksgiving at my home,"I can't believe I even had the energy to edit this vlog. Happy holidays!
+This video is not sponsored",en,PT13M50S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,1928100,61380,0,2840,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/yeFfCATDw8o"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Food', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Thanksgiving at my home,"I can't believe I even had the energy to edit this vlog. Happy holidays!
 
 My newest makeup tutorial
 https://youtu.be/gFVZphokaRk
@@ -3346,8 +3346,8 @@ ninjoi. - Prayers  https://thmatc.co/?l=D68AB6F1
 🎧 Music by ninjoi. - Foolish Heart [Thematic Exclusive] - https://thmatc.co/?l=488C9542
 
 
-This video is not sponsored",,,https://i.ytimg.com/vi/yeFfCATDw8o/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/yeFfCATDw8o/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,3lsqdP7ft4sSth_JzsKsud26nPg,To9aMEsJR4w,2016-01-23T00:27:08Z,UCuYx81nzzz4OFQrhbKDzTng,CASHMERE KITTY  =^・ｪ・^=,"It's time for a fresh outlook and a fresh face! Here's my take on a minimal, everyday neutral look that you can try... while still looking like a BA 👌
+This video is not sponsored",,,https://i.ytimg.com/vi/yeFfCATDw8o/sddefault.jpg,640,480,https://i.ytimg.com/vi/yeFfCATDw8o/maxresdefault.jpg,1280,720,,,
+youtube#video,yes,3lsqdP7ft4sSth_JzsKsud26nPg,To9aMEsJR4w,2016-01-23T00:27:08Z,UCuYx81nzzz4OFQrhbKDzTng,CASHMERE KITTY  =^・ｪ・^=,"It's time for a fresh outlook and a fresh face! Here's my take on a minimal, everyday neutral look that you can try... while still looking like a BA 👌
 
 Hair braided by the one and only
 http://www.instagram.com/mimi_the_hairstylist ❤
@@ -3495,8 +3495,8 @@ For more go to http://michellephan.com
 ♥ My Facebook: http://facebook.com/MichellePhanOfficial
 ♥ My Instagram: http://instagram.com/MichellePhan
 ♥ My Snapchat: hellodreamer
-♥ ICON Network: http://youtube.com/ICONnetwork",en,PT6M1S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,4245525,120673,0,6304,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/To9aMEsJR4w"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,https://i.ytimg.com/vi/To9aMEsJR4w/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/To9aMEsJR4w/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,UcjmrwHm13PmBLEUx-cJrAYpE6E,A2ADRLOPxf0,2021-11-25T04:18:56Z,UCuYx81nzzz4OFQrhbKDzTng,Minimal No Foundation Makeup Routine,"I got a new mic :) My minimal no foundation makeup routine.
+♥ ICON Network: http://youtube.com/ICONnetwork",en,PT6M1S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,4245525,120673,0,6304,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/To9aMEsJR4w"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,https://i.ytimg.com/vi/To9aMEsJR4w/sddefault.jpg,640,480,https://i.ytimg.com/vi/To9aMEsJR4w/maxresdefault.jpg,1280,720,,,
+youtube#video,yes,UcjmrwHm13PmBLEUx-cJrAYpE6E,A2ADRLOPxf0,2021-11-25T04:18:56Z,UCuYx81nzzz4OFQrhbKDzTng,Minimal No Foundation Makeup Routine,"I got a new mic :) My minimal no foundation makeup routine.
 
 From 11/22-11/29 if you purchase any ISNTREE products from Amazon you  will receive 30% off - https://www.amazon.com/isntree 
 
@@ -3624,7 +3624,7 @@ Find me…
 ✧ https://twitter.com/michellephan
 
 
-This video is in partnership with ISNTREE",en,PT17M48S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,265211,13502,0,652,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/A2ADRLOPxf0"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Minimal No Foundation Makeup Routine,"I got a new mic :) My minimal no foundation makeup routine.
+This video is in partnership with ISNTREE",en,PT17M48S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,265211,13502,0,652,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/A2ADRLOPxf0"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Minimal No Foundation Makeup Routine,"I got a new mic :) My minimal no foundation makeup routine.
 
 From 11/22-11/29 if you purchase any ISNTREE products from Amazon you  will receive 30% off - https://www.amazon.com/isntree 
 
@@ -3688,9 +3688,9 @@ Find me…
 ✧ https://twitter.com/michellephan
 
 
-This video is in partnership with ISNTREE",,,https://i.ytimg.com/vi/A2ADRLOPxf0/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/A2ADRLOPxf0/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,z2OgyMAHI21wx6vUuI-7EeqXPQw,2OGa3NBzDZM,2020-01-11T14:25:20Z,UC9k-yiEpRHMNVOnOi_aQK8w,Michelle Phan’s Life Update Since Returning to YouTube,"“I didn’t plan on it,” Michelle Phan explained of her impromptu return to YouTube, where, as one of the platform’s original beauty influencers, she built an empire of nearly 9 million subscribers. Gone from Phan’s videos is the intense production process, she said. Now, Phan is instead focused on ""just showing my life and things that I’m really interested in."" In an exclusive interview, InsideEdition.com’s Leigh Scheps sat down with Phan to discuss why she's returned to the video platform. #InsideEdition",https://i.ytimg.com/vi/2OGa3NBzDZM/default.jpg,120,90,https://i.ytimg.com/vi/2OGa3NBzDZM/mqdefault.jpg,320,180,https://i.ytimg.com/vi/2OGa3NBzDZM/hqdefault.jpg,480,360,Inside Edition,"['Inside edition', 'inside_edition', 'ie indepth', 'ie health and wellness', 'ie trending', 'ie celebrity', 'Michelle phan', 'leigh scheps', 'michelle phan net worth', 'michelle phan makeup', 'ipsy', 'michelle phan youtube', 'Michelle phan life update', 'em cosmetics', 'michelle phan what happened', 'michelle phan skin care', 'makeup', 'makeup tutorial', 'promise phan', 'michelle phan makeup tutorials']",25,none,,Michelle Phan’s Life Update Since Returning to YouTube,"“I didn’t plan on it,” Michelle Phan explained of her impromptu return to YouTube, where, as one of the platform’s original beauty influencers, she built an empire of nearly 9 million subscribers. Gone from Phan’s videos is the intense production process, she said. Now, Phan is instead focused on ""just showing my life and things that I’m really interested in."" In an exclusive interview, InsideEdition.com’s Leigh Scheps sat down with Phan to discuss why she's returned to the video platform. #InsideEdition",en,PT8M38S,2d,hd,true,True,rectangular,processed,public,youtube,True,True,False,618706,13823,0,761,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/2OGa3NBzDZM"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,https://i.ytimg.com/vi/2OGa3NBzDZM/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/2OGa3NBzDZM/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,4CbA6pD1CMDAs7xPZRGzByB5jS8,J66aZu8TTVY,2013-07-20T03:16:04Z,UCuYx81nzzz4OFQrhbKDzTng,My Boyfriend Does My Makeup,"My boyfriend does my makeup video! Special thanks to Dom for trying his best to do my makeup ♥ How do you think he did?
+This video is in partnership with ISNTREE",,,https://i.ytimg.com/vi/A2ADRLOPxf0/sddefault.jpg,640,480,https://i.ytimg.com/vi/A2ADRLOPxf0/maxresdefault.jpg,1280,720,,,
+youtube#video,no,z2OgyMAHI21wx6vUuI-7EeqXPQw,2OGa3NBzDZM,2020-01-11T14:25:20Z,UC9k-yiEpRHMNVOnOi_aQK8w,Michelle Phan’s Life Update Since Returning to YouTube,"“I didn’t plan on it,” Michelle Phan explained of her impromptu return to YouTube, where, as one of the platform’s original beauty influencers, she built an empire of nearly 9 million subscribers. Gone from Phan’s videos is the intense production process, she said. Now, Phan is instead focused on ""just showing my life and things that I’m really interested in."" In an exclusive interview, InsideEdition.com’s Leigh Scheps sat down with Phan to discuss why she's returned to the video platform. #InsideEdition",https://i.ytimg.com/vi/2OGa3NBzDZM/default.jpg,120,90,https://i.ytimg.com/vi/2OGa3NBzDZM/mqdefault.jpg,320,180,https://i.ytimg.com/vi/2OGa3NBzDZM/hqdefault.jpg,480,360,Inside Edition,"['Inside edition', 'inside_edition', 'ie indepth', 'ie health and wellness', 'ie trending', 'ie celebrity', 'Michelle phan', 'leigh scheps', 'michelle phan net worth', 'michelle phan makeup', 'ipsy', 'michelle phan youtube', 'Michelle phan life update', 'em cosmetics', 'michelle phan what happened', 'michelle phan skin care', 'makeup', 'makeup tutorial', 'promise phan', 'michelle phan makeup tutorials']",25,none,,Michelle Phan’s Life Update Since Returning to YouTube,"“I didn’t plan on it,” Michelle Phan explained of her impromptu return to YouTube, where, as one of the platform’s original beauty influencers, she built an empire of nearly 9 million subscribers. Gone from Phan’s videos is the intense production process, she said. Now, Phan is instead focused on ""just showing my life and things that I’m really interested in."" In an exclusive interview, InsideEdition.com’s Leigh Scheps sat down with Phan to discuss why she's returned to the video platform. #InsideEdition",en,PT8M38S,2d,hd,TRUE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,618706,13823,0,761,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/2OGa3NBzDZM"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,https://i.ytimg.com/vi/2OGa3NBzDZM/sddefault.jpg,640,480,https://i.ytimg.com/vi/2OGa3NBzDZM/maxresdefault.jpg,1280,720,,,
+youtube#video,yes,4CbA6pD1CMDAs7xPZRGzByB5jS8,J66aZu8TTVY,2013-07-20T03:16:04Z,UCuYx81nzzz4OFQrhbKDzTng,My Boyfriend Does My Makeup,"My boyfriend does my makeup video! Special thanks to Dom for trying his best to do my makeup ♥ How do you think he did?
 
 a Guy, a Girl Video: Mish vs Dom, see who knows each other better: http://youtu.be/qDZq8EqH9ks
 
@@ -3726,7 +3726,7 @@ Dominique Capraro
 http://facebook.com/dominic.capraro
 http://instagram.com/DominiqueCapraro
 
-this is not a sponsored video",,PT10M39S,2d,hd,true,True,rectangular,processed,public,youtube,True,True,False,11185624,223720,0,37590,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/J66aZu8TTVY"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],My Boyfriend Does My Makeup,"My boyfriend does my makeup video! Special thanks to Dom for trying his best to do my makeup ♥ How do you think he did?
+this is not a sponsored video",,PT10M39S,2d,hd,TRUE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,11185624,223720,0,37590,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/J66aZu8TTVY"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],My Boyfriend Does My Makeup,"My boyfriend does my makeup video! Special thanks to Dom for trying his best to do my makeup ♥ How do you think he did?
 
 a Guy, a Girl Video: Mish vs Dom, see who knows each other better: http://youtu.be/qDZq8EqH9ks
 
@@ -3762,8 +3762,8 @@ Dominique Capraro
 http://facebook.com/dominic.capraro
 http://instagram.com/DominiqueCapraro
 
-Este video no tiene patrocinadores.",https://i.ytimg.com/vi/J66aZu8TTVY/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/J66aZu8TTVY/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,9uHKyYhu31V3mY-6G1bo8ymY_8c,joBfpN9eMg0,2021-02-26T03:54:32Z,UCuYx81nzzz4OFQrhbKDzTng,Sultry Venetian Rose Makeup,"This makeup makes me to time travel back to the 90s when times were simpler.
+Este video no tiene patrocinadores.",https://i.ytimg.com/vi/J66aZu8TTVY/sddefault.jpg,640,480,https://i.ytimg.com/vi/J66aZu8TTVY/maxresdefault.jpg,1280,720,,,
+youtube#video,yes,9uHKyYhu31V3mY-6G1bo8ymY_8c,joBfpN9eMg0,2021-02-26T03:54:32Z,UCuYx81nzzz4OFQrhbKDzTng,Sultry Venetian Rose Makeup,"This makeup makes me to time travel back to the 90s when times were simpler.
 
 
 ⌑ F A C E 
@@ -3881,7 +3881,7 @@ https://app.hellothematic.com
 
 ⊠ Produced at MS ROBOT studios
 
-https://www.msrobot.com",en,PT7M21S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,465587,30984,0,1331,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/joBfpN9eMg0"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Sultry Venetian Rose Makeup,"This makeup makes me to time travel back to the 90s when times were simpler.
+https://www.msrobot.com",en,PT7M21S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,465587,30984,0,1331,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/joBfpN9eMg0"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Sultry Venetian Rose Makeup,"This makeup makes me to time travel back to the 90s when times were simpler.
 
 
 ⌑ F A C E 
@@ -3940,8 +3940,8 @@ https://app.hellothematic.com
 
 ⊠ Produced at MS ROBOT studios
 
-https://www.msrobot.com",,,https://i.ytimg.com/vi/joBfpN9eMg0/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/joBfpN9eMg0/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,pNYo_DDvajWAwFMc37JSNo6UYak,SHkJpjjPIvM,2012-10-26T02:15:25Z,UCuYx81nzzz4OFQrhbKDzTng,Zombie Barbie,"Halloween is coming up! Who else is going as a Zombie this year?! All you need is liquid latex, tissue paper, and fake blood to look like a Zombie Barbie! Haha!  
+https://www.msrobot.com",,,https://i.ytimg.com/vi/joBfpN9eMg0/sddefault.jpg,640,480,https://i.ytimg.com/vi/joBfpN9eMg0/maxresdefault.jpg,1280,720,,,
+youtube#video,yes,pNYo_DDvajWAwFMc37JSNo6UYak,SHkJpjjPIvM,2012-10-26T02:15:25Z,UCuYx81nzzz4OFQrhbKDzTng,Zombie Barbie,"Halloween is coming up! Who else is going as a Zombie this year?! All you need is liquid latex, tissue paper, and fake blood to look like a Zombie Barbie! Haha!  
 
 I was inspired by the sfx makeup artist on The Walking Dead. 
 
@@ -4051,7 +4051,7 @@ Liquid Laytex http://amzn.to/1pCsUjs
 
 Fake Blood http://amzn.to/UJ22FG
 
-This is not a sponsored video. Video edited by myself.",en,PT10M51S,2d,hd,true,False,rectangular,processed,public,youtube,True,True,False,27745609,164629,0,23558,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/SHkJpjjPIvM"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Zombie Barbie,"Halloween is coming up! Who else is going as a Zombie this year?! All you need is liquid latex, tissue paper, and fake blood to look like a Zombie Barbie! Haha!  
+This is not a sponsored video. Video edited by myself.",en,PT10M51S,2d,hd,TRUE,FALSE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,27745609,164629,0,23558,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/SHkJpjjPIvM"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Zombie Barbie,"Halloween is coming up! Who else is going as a Zombie this year?! All you need is liquid latex, tissue paper, and fake blood to look like a Zombie Barbie! Haha!  
 
 I was inspired by the sfx makeup artist on The Walking Dead. 
 
@@ -4161,8 +4161,8 @@ Látex líquido http://amzn.to/1pCsUjs
 
 Sangre falsa http://amzn.to/UJ22FG
 
-Este video no tiene patrocinadores. Yo misma edité el video.",https://i.ytimg.com/vi/SHkJpjjPIvM/sddefault.jpg,640.0,480.0,,,,,,
-youtube#video,X8Ghu0rgJLvowUiYmBRuqCrceEY,yur1OmPly3k,2014-11-08T04:22:34Z,UCuYx81nzzz4OFQrhbKDzTng,BEAUTY BASIC / Skin Care : Evening Routine,"ENTER MY SKIN CARE GIVEAWAY! http://michellephan.com/winter-skin-essentials-giveaway/
+Este video no tiene patrocinadores. Yo misma edité el video.",https://i.ytimg.com/vi/SHkJpjjPIvM/sddefault.jpg,640,480,,,,,,
+youtube#video,yes,X8Ghu0rgJLvowUiYmBRuqCrceEY,yur1OmPly3k,2014-11-08T04:22:34Z,UCuYx81nzzz4OFQrhbKDzTng,BEAUTY BASIC / Skin Care : Evening Routine,"ENTER MY SKIN CARE GIVEAWAY! http://michellephan.com/winter-skin-essentials-giveaway/
 My night time skincare routine :) Good luck beautiful!
 Happiness = Beauty
 
@@ -4250,7 +4250,7 @@ ROSE ABSOLUTE VITAL CREAM - http://bit.ly/1vXmZst
 
 ROSE ABSOLUTE NOURISHING FACIAL OIL - http://bit.ly/1tnT9ex
 
-This is not a sponsored video. Video edited by yours truly.",en,PT12M13S,2d,hd,true,True,rectangular,processed,public,youtube,True,False,False,7281323,149261,0,5889,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/yur1OmPly3k"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],BEAUTY BASIC / Skin Care : Evening Routine,"ENTER MY SKIN CARE GIVEAWAY! http://michellephan.com/winter-skin-essentials-giveaway/
+This is not a sponsored video. Video edited by yours truly.",en,PT12M13S,2d,hd,TRUE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,7281323,149261,0,5889,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/yur1OmPly3k"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],BEAUTY BASIC / Skin Care : Evening Routine,"ENTER MY SKIN CARE GIVEAWAY! http://michellephan.com/winter-skin-essentials-giveaway/
 My night time skincare routine :) Good luck beautiful!
 Happiness = Beauty
 
@@ -4338,8 +4338,8 @@ CREMA ROSE ABSOLUTE: http://bit.ly/1vXmZst
 
 ACEITE FACIAL NUTRITIVO ROSE ABSOLUTE: http://bit.ly/1tnT9ex
 
-Este video no tiene patrocinadores. Yo edité el video.",https://i.ytimg.com/vi/yur1OmPly3k/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/yur1OmPly3k/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,KdsV2MIYvCtQT5SG_T9oof2A-pM,AWBEG0aQRZA,2019-07-07T19:00:00Z,UCSAUGyc_xA8uYzaIVG6MESQ,Why Bitcoin? & Building a $1B Business (Ft. Michelle Phan) - Off The Pill Podcast #22,"Ryan, Paco, David, and special guest Michelle Phan discuss what Bitcoin is and why it’s important in today's society. Michelle also shares how she built her nearly Billion Dollar company Ipsy, and how she bought back her brand, Em Cosmetics, from beauty giant, L’Oréal.  Michelle also has some tips and advice for aspiring entrepreneurs. 
+Este video no tiene patrocinadores. Yo edité el video.",https://i.ytimg.com/vi/yur1OmPly3k/sddefault.jpg,640,480,https://i.ytimg.com/vi/yur1OmPly3k/maxresdefault.jpg,1280,720,,,
+youtube#video,no,KdsV2MIYvCtQT5SG_T9oof2A-pM,AWBEG0aQRZA,2019-07-07T19:00:00Z,UCSAUGyc_xA8uYzaIVG6MESQ,Why Bitcoin? & Building a $1B Business (Ft. Michelle Phan) - Off The Pill Podcast #22,"Ryan, Paco, David, and special guest Michelle Phan discuss what Bitcoin is and why it’s important in today's society. Michelle also shares how she built her nearly Billion Dollar company Ipsy, and how she bought back her brand, Em Cosmetics, from beauty giant, L’Oréal.  Michelle also has some tips and advice for aspiring entrepreneurs. 
 
 Guest: Michelle Phan
 Instagram: http://instagram.com/MichellePhan
@@ -4423,8 +4423,8 @@ http://www.higatv.com
 
 Send us mail or whatever you want here!
 PO Box 232355
-Las Vegas, NV 89105",en,PT57M40S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,766127,30682,0,3192,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/AWBEG0aQRZA"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Society'],,,,,https://i.ytimg.com/vi/AWBEG0aQRZA/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/AWBEG0aQRZA/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,4MCy2k-MzBgZTgEw3speIPPuPYw,COwWxX07qYU,2014-05-19T02:57:58Z,UCuYx81nzzz4OFQrhbKDzTng,Travel Friendly In-Flight Beauty Tips,"I'm going to show you my in-flight beauty routine for a long haul flight. You're going to survive it and look fabulous at the same time :) This is my mish-list of in-flight must have's that will leave you looking and feeling refreshed! People will think you came out of a spa, not a plane ;) Bon voyage! - Mish
+Las Vegas, NV 89105",en,PT57M40S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,766127,30682,0,3192,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/AWBEG0aQRZA"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Society'],,,,,https://i.ytimg.com/vi/AWBEG0aQRZA/sddefault.jpg,640,480,https://i.ytimg.com/vi/AWBEG0aQRZA/maxresdefault.jpg,1280,720,,,
+youtube#video,yes,4MCy2k-MzBgZTgEw3speIPPuPYw,COwWxX07qYU,2014-05-19T02:57:58Z,UCuYx81nzzz4OFQrhbKDzTng,Travel Friendly In-Flight Beauty Tips,"I'm going to show you my in-flight beauty routine for a long haul flight. You're going to survive it and look fabulous at the same time :) This is my mish-list of in-flight must have's that will leave you looking and feeling refreshed! People will think you came out of a spa, not a plane ;) Bon voyage! - Mish
 
 I'm in South Korea right now! Just got here and I am already in love with Seoul :D Can't wait to try all the awesome food and beauty products! I'm going to film a video diary of my stay :) 
 
@@ -4496,7 +4496,7 @@ Shoes are from Aldo
 White mini luggage is from Rimowa 
 ____________________________
 
-This is not a sponsored video. Em Cosmetics is my makeup line.",en,PT6M18S,2d,hd,true,True,rectangular,processed,public,youtube,True,False,False,3066976,87479,0,3103,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/COwWxX07qYU"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Travel Friendly In-Flight Beauty Tips,"I'm going to show you my in-flight beauty routine for a long haul flight. You're going to survive it and look fabulous at the same time :) This is my mish-list of in-flight must have's that will leave you looking and feeling refreshed! People will think you came out of a spa, not a plane ;) Bon voyage! - Mish
+This is not a sponsored video. Em Cosmetics is my makeup line.",en,PT6M18S,2d,hd,TRUE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,3066976,87479,0,3103,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/COwWxX07qYU"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Travel Friendly In-Flight Beauty Tips,"I'm going to show you my in-flight beauty routine for a long haul flight. You're going to survive it and look fabulous at the same time :) This is my mish-list of in-flight must have's that will leave you looking and feeling refreshed! People will think you came out of a spa, not a plane ;) Bon voyage! - Mish
 
 I'm in South Korea right now! Just got here and I am already in love with Seoul :D Can't wait to try all the awesome food and beauty products! I'm going to film a video diary of my stay :) 
 
@@ -4566,8 +4566,8 @@ ____________________________
 La bufanda el vestido rojo y el suéter son de American Apparel 
 Los zapatos son de Aldo
 La minimaleta es de Rimowa 
-____________________________",https://i.ytimg.com/vi/COwWxX07qYU/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/COwWxX07qYU/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,7lmJE6WTwPw9mk15OgAF65Sz8oE,xXU_ylBSpbw,2013-05-04T07:38:40Z,UCuYx81nzzz4OFQrhbKDzTng,Get Ready for That BIG Event!,"Hello my lovely subbies! If that special day (prom, homecoming, graduation, ...) is coming up and you wanna look your best, here are some tips and trick will do that! Sorry about my raspy voice :/ I've been doing photoshoots all all week in NY from 7 am - 7 pm. Funny enough, I do a lot of the skin care prep every night to prepare myself for every photoshoot! 
+____________________________",https://i.ytimg.com/vi/COwWxX07qYU/sddefault.jpg,640,480,https://i.ytimg.com/vi/COwWxX07qYU/maxresdefault.jpg,1280,720,,,
+youtube#video,yes,7lmJE6WTwPw9mk15OgAF65Sz8oE,xXU_ylBSpbw,2013-05-04T07:38:40Z,UCuYx81nzzz4OFQrhbKDzTng,Get Ready for That BIG Event!,"Hello my lovely subbies! If that special day (prom, homecoming, graduation, ...) is coming up and you wanna look your best, here are some tips and trick will do that! Sorry about my raspy voice :/ I've been doing photoshoots all all week in NY from 7 am - 7 pm. Funny enough, I do a lot of the skin care prep every night to prepare myself for every photoshoot! 
 
 Prom/Graduation makeup from this video can be found here!
 http://www.youtube.com/watch?v=WXuqJMqqUZM
@@ -4641,7 +4641,7 @@ Self Tanner from Tarte http://amzn.to/1oFCPFs
 Hyper Hydration Spray for the hair http://amzn.to/1puiVxd
 
 Music by Marie Digby ""Your Love""
-http://bit.ly/1gJV6SU",,PT6M42S,2d,hd,true,True,rectangular,processed,public,youtube,True,True,False,8857312,188503,0,8509,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/xXU_ylBSpbw"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Get Ready for That BIG Event!,"Hello my lovely subbies! If that special day (prom, homecoming, graduation, ...) is coming up and you wanna look your best, here are some tips and trick will do that! Sorry about my raspy voice :/ I've been doing photoshoots all all week in NY from 7 am - 7 pm. Funny enough, I do a lot of the skin care prep every night to prepare myself for every photoshoot! 
+http://bit.ly/1gJV6SU",,PT6M42S,2d,hd,TRUE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,8857312,188503,0,8509,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/xXU_ylBSpbw"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Get Ready for That BIG Event!,"Hello my lovely subbies! If that special day (prom, homecoming, graduation, ...) is coming up and you wanna look your best, here are some tips and trick will do that! Sorry about my raspy voice :/ I've been doing photoshoots all all week in NY from 7 am - 7 pm. Funny enough, I do a lot of the skin care prep every night to prepare myself for every photoshoot! 
 
 Prom/Graduation makeup from this video can be found here!
 http://www.youtube.com/watch?v=WXuqJMqqUZM
@@ -4715,8 +4715,8 @@ Bronceador de Tarte http://amzn.to/1oFCPFs
 Espray humectante para el cabello http://amzn.to/1puiVxd
 
 Música de Marie Digby ""Your Love""
-http://bit.ly/1gJV6SU",https://i.ytimg.com/vi/xXU_ylBSpbw/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/xXU_ylBSpbw/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,EKVuTN6XdsCCdOMFzU4XTE8_xWw,_VA1GW-KX6Y,2014-06-22T22:33:59Z,UCuYx81nzzz4OFQrhbKDzTng,Beach Beauty Essentials,"Time to soak up the sun! Before heading off to the beach or pool, don't forget to pack your beach beauty essentials! Here are my must haves :D
+http://bit.ly/1gJV6SU",https://i.ytimg.com/vi/xXU_ylBSpbw/sddefault.jpg,640,480,https://i.ytimg.com/vi/xXU_ylBSpbw/maxresdefault.jpg,1280,720,,,
+youtube#video,yes,EKVuTN6XdsCCdOMFzU4XTE8_xWw,_VA1GW-KX6Y,2014-06-22T22:33:59Z,UCuYx81nzzz4OFQrhbKDzTng,Beach Beauty Essentials,"Time to soak up the sun! Before heading off to the beach or pool, don't forget to pack your beach beauty essentials! Here are my must haves :D
 
 Special thanks to Rebecca Minkoff for designing June's Ipsy 2014 glambag http://mygl.am/yt-614-rebeccaminkoff-bag
 
@@ -4806,8 +4806,8 @@ Dove Pure Care Dry Oil Nourishing Treatment http://amzn.to/1pHtUIQ
 Ole Henriksen Truth Wipes http://amzn.to/1pTY0EL
 ____________________________
 
-Ipsy is a company I created and co-founded.",,PT9M23S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,2319321,56951,0,3463,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/_VA1GW-KX6Y"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,https://i.ytimg.com/vi/_VA1GW-KX6Y/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/_VA1GW-KX6Y/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,pwRO0AgeR2UpN6__9QfeFbCAdvM,yvuXZgGbNtE,2022-03-19T18:12:28Z,UCuYx81nzzz4OFQrhbKDzTng,Does SK-II Really Work?,"Does SK-II Really Work? I use the Pitera Essence everyday for almost 2 months, down to the last drop and document what happens.
+Ipsy is a company I created and co-founded.",,PT9M23S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,2319321,56951,0,3463,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/_VA1GW-KX6Y"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,https://i.ytimg.com/vi/_VA1GW-KX6Y/sddefault.jpg,640,480,https://i.ytimg.com/vi/_VA1GW-KX6Y/maxresdefault.jpg,1280,720,,,
+youtube#video,yes,pwRO0AgeR2UpN6__9QfeFbCAdvM,yvuXZgGbNtE,2022-03-19T18:12:28Z,UCuYx81nzzz4OFQrhbKDzTng,Does SK-II Really Work?,"Does SK-II Really Work? I use the Pitera Essence everyday for almost 2 months, down to the last drop and document what happens.
 
 Experience SK-II with this kit
 https://www.sk-ii.com/gift-sets/first-experience-kit
@@ -4827,7 +4827,7 @@ https://youtu.be/leoxb6KIQ58
 
 
 This video is in partnership with SK-II
-No filters were used in this video",en,PT10M9S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,170092,6427,0,357,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/yvuXZgGbNtE"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Physical_attractiveness']",Does SK-II Really Work?,"Does SK-II Really Work? I use the Pitera Essence everyday for almost 2 months, down to the last drop and document what happens.
+No filters were used in this video",en,PT10M9S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,170092,6427,0,357,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/yvuXZgGbNtE"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Physical_attractiveness']",Does SK-II Really Work?,"Does SK-II Really Work? I use the Pitera Essence everyday for almost 2 months, down to the last drop and document what happens.
 
 Experience SK-II with this kit
 https://www.sk-ii.com/gift-sets/first-experience-kit
@@ -4838,7 +4838,7 @@ https://youtu.be/leoxb6KIQ58
 
 This video is in partnership with SK-II
 No filters were used in this video",,,,,,,,,,,
-youtube#video,LzK16yAH4cQZqUBJfxFFB9GR8vA,iVmtZsr8FfA,2011-07-01T15:02:14Z,UCuYx81nzzz4OFQrhbKDzTng,Hatsune Miku Makeup,"Who has turquoise hair, can sing any Japanese songs you like and drives a Toyota Corolla? Hatsune Miku.
+youtube#video,yes,LzK16yAH4cQZqUBJfxFFB9GR8vA,iVmtZsr8FfA,2011-07-01T15:02:14Z,UCuYx81nzzz4OFQrhbKDzTng,Hatsune Miku Makeup,"Who has turquoise hair, can sing any Japanese songs you like and drives a Toyota Corolla? Hatsune Miku.
 
 You're looking at her, and this video can show you how to look like her. This video would work well for those who want to dress up like Miku at her concerts, anime events and expos and more! ( fyi, Miku doesn't wear hairbands, but I had to wear a few because I was in the desert filming this scene. It was so windy, my hair was flapping everywhere and getting all tangled. How did Rapunzel do it?! Seriously!)
 
@@ -4888,7 +4888,7 @@ Anyone else going to Anime Expo?? or to Miku's concert in America?? :D
 The costume is from Japan.
 for the wig, check out http://youtube.com/thecosplaycorner, she makes cosplay wigs! :D
 
-Car sponsored by Toyota Corolla, the official car of Hastsune Miku (yes she has a car, I know right??!)",,PT4M58S,2d,hd,true,True,rectangular,processed,public,youtube,True,False,False,9983409,88339,0,16453,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/iVmtZsr8FfA"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Hobby', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Hatsune Miku Makeup,"Who has turquoise hair, can sing any Japanese songs you like and drives a Toyota Corolla? Hatsune Miku.
+Car sponsored by Toyota Corolla, the official car of Hastsune Miku (yes she has a car, I know right??!)",,PT4M58S,2d,hd,TRUE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,9983409,88339,0,16453,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/iVmtZsr8FfA"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Hobby', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Hatsune Miku Makeup,"Who has turquoise hair, can sing any Japanese songs you like and drives a Toyota Corolla? Hatsune Miku.
 
 You're looking at her, and this video can show you how to look like her. This video would work well for those who want to dress up like Miku at her concerts, anime events and expos and more! ( fyi, Miku doesn't wear hairbands, but I had to wear a few because I was in the desert filming this scene. It was so windy, my hair was flapping everywhere and getting all tangled. How did Rapunzel do it?! Seriously!)
 
@@ -4938,8 +4938,8 @@ The World is Mine
 El disfraz es de Japón.
 Para la peluca revisa http://youtube.com/thecosplaycorner, ella hace pelucas para juegos de disfraces. :D
 
-Auto patrocinado por Toyota Corolla, el auto oficial de Hastsune Miku (sí, tiene un auto, ¿una locura, cierto?)",https://i.ytimg.com/vi/iVmtZsr8FfA/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/iVmtZsr8FfA/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,7XmQOFgG6C-UixmjaJ4gjnubN1U,_t_U00TxQCo,2013-10-05T13:57:58Z,UCuYx81nzzz4OFQrhbKDzTng,Are you Sugar or Spice?,"Follow me on Ebay to shop these looks! http://www.ebay.com/usr/michellephanshops
+Auto patrocinado por Toyota Corolla, el auto oficial de Hastsune Miku (sí, tiene un auto, ¿una locura, cierto?)",https://i.ytimg.com/vi/iVmtZsr8FfA/sddefault.jpg,640,480,https://i.ytimg.com/vi/iVmtZsr8FfA/maxresdefault.jpg,1280,720,,,
+youtube#video,yes,7XmQOFgG6C-UixmjaJ4gjnubN1U,_t_U00TxQCo,2013-10-05T13:57:58Z,UCuYx81nzzz4OFQrhbKDzTng,Are you Sugar or Spice?,"Follow me on Ebay to shop these looks! http://www.ebay.com/usr/michellephanshops
 
 Autumn inspired fashion looks! Which Nana look are you? Sweet and Romantic? Or Dark and edgy? Let me know if you'd like to see a makeup tutorial for this look! Giveaway winners have already been emailed, just waiting to hear back from them before I publish their names on my blog!
 
@@ -5013,7 +5013,7 @@ Artistic Eye Color Palette - Shanghai Lavenders http://amzn.to/1xckp2H
 
 Lip Color Mixing Palette - Mit It Up Reds http://amzn.to/WHjbBR
 
-Eye Candy's - Geolica by GEO Circle Lenses (HoliCat Barbeie Cat Hazel) http://bit.ly/19Q0HzG ",en,PT7M31S,2d,hd,true,True,rectangular,processed,public,youtube,True,False,False,3336704,64738,0,14536,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/_t_U00TxQCo"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Fashion', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Are you Sugar or Spice?,"Follow me on Ebay to shop these looks! http://www.ebay.com/usr/michellephanshops
+Eye Candy's - Geolica by GEO Circle Lenses (HoliCat Barbeie Cat Hazel) http://bit.ly/19Q0HzG ",en,PT7M31S,2d,hd,TRUE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,3336704,64738,0,14536,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/_t_U00TxQCo"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Fashion', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Are you Sugar or Spice?,"Follow me on Ebay to shop these looks! http://www.ebay.com/usr/michellephanshops
 
 Autumn inspired fashion looks! Which Nana look are you? Sweet and Romantic? Or Dark and edgy? Let me know if you'd like to see a makeup tutorial for this look! Giveaway winners have already been emailed, just waiting to hear back from them before I publish their names on my blog!
 
@@ -5087,8 +5087,8 @@ Paleta de sombras Artistic Eye Color (Shanghai Lavenders) http://amzn.to/1xckp2H
 
 Paleta de labiales (Mit It Up Reds) http://amzn.to/WHjbBR
 
-Lentes de contacto Eye Candy's, Geolica de GEO Circle Lenses (HoliCat Barbeie Cat Hazel) http://bit.ly/19Q0HzG",https://i.ytimg.com/vi/_t_U00TxQCo/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/_t_U00TxQCo/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,RSm1CtFT1egjy4cW1e8Bo6wkcQw,zd-tk-nLg-0,2020-11-28T18:00:18Z,UCuYx81nzzz4OFQrhbKDzTng,Relaxing Thanksgiving at Home,"Sorry no recipes :/ I kind of cook with my gut and whatever tastes good. 
+Lentes de contacto Eye Candy's, Geolica de GEO Circle Lenses (HoliCat Barbeie Cat Hazel) http://bit.ly/19Q0HzG",https://i.ytimg.com/vi/_t_U00TxQCo/sddefault.jpg,640,480,https://i.ytimg.com/vi/_t_U00TxQCo/maxresdefault.jpg,1280,720,,,
+youtube#video,no,RSm1CtFT1egjy4cW1e8Bo6wkcQw,zd-tk-nLg-0,2020-11-28T18:00:18Z,UCuYx81nzzz4OFQrhbKDzTng,Relaxing Thanksgiving at Home,"Sorry no recipes :/ I kind of cook with my gut and whatever tastes good. 
 
 Find me…
 ✧ https://www.instagram.com/michellephan/
@@ -5202,7 +5202,7 @@ Onistus - Clandestine - https://thmatc.co/?l=45D9A4C1
 
 12 Days of Christmas - Ninjoi. - https://thmatc.co/?l=5181FB62
 
-This video was not sponsored",en,PT9M46S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,428809,23471,0,937,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/zd-tk-nLg-0"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Food', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Relaxing Thanksgiving at Home,"Sorry no recipes :/ I kind of cook with my gut and whatever tastes good. 
+This video was not sponsored",en,PT9M46S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,428809,23471,0,937,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/zd-tk-nLg-0"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Food', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",Relaxing Thanksgiving at Home,"Sorry no recipes :/ I kind of cook with my gut and whatever tastes good. 
 
 Find me…
 ✧ https://www.instagram.com/michellephan/
@@ -5259,8 +5259,8 @@ Onistus - Clandestine - https://thmatc.co/?l=45D9A4C1
 
 12 Days of Christmas - Ninjoi. - https://thmatc.co/?l=5181FB62
 
-This video was not sponsored",,,https://i.ytimg.com/vi/zd-tk-nLg-0/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/zd-tk-nLg-0/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,NWIu9PRtm1-ZFDVkEjZCNpmh_To,uavunfbTiFQ,2014-09-22T00:47:15Z,UCuYx81nzzz4OFQrhbKDzTng,Grunge Beauty,"Hi beautiful! Excuse my voice. I caught a cold in NY :( Anyways, are you ready to rock the grunge look this fall? Pair up your distressed plaid with smoldering eyes and a dark pout. Share your grunge look with me by tagging #MishLook so I can find and like it! 
+This video was not sponsored",,,https://i.ytimg.com/vi/zd-tk-nLg-0/sddefault.jpg,640,480,https://i.ytimg.com/vi/zd-tk-nLg-0/maxresdefault.jpg,1280,720,,,
+youtube#video,yes,NWIu9PRtm1-ZFDVkEjZCNpmh_To,uavunfbTiFQ,2014-09-22T00:47:15Z,UCuYx81nzzz4OFQrhbKDzTng,Grunge Beauty,"Hi beautiful! Excuse my voice. I caught a cold in NY :( Anyways, are you ready to rock the grunge look this fall? Pair up your distressed plaid with smoldering eyes and a dark pout. Share your grunge look with me by tagging #MishLook so I can find and like it! 
 
 http://www.ipsy.com/ a beauty commmunity and sampling program I created for you :) 
 
@@ -5362,7 +5362,7 @@ Pacifical Nail Polish (Red Red Wine) http://bit.ly/ZuQ5q9
 
 Alterna Caviar CC Cream (Hair) http://amzn.to/1AVyX8J
 
-Harvey Prince Hello Fragrance http://bit.ly/1r71mY8",,PT5M27S,2d,hd,true,True,rectangular,processed,public,youtube,True,False,False,4397513,115200,0,5668,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/uavunfbTiFQ"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Grunge Beauty,"Hi beautiful! Excuse my voice. I caught a cold in NY :( Anyways, are you ready to rock the grunge look this fall? Pair up your distressed plaid with smoldering eyes and a dark pout. Share your grunge look with me by tagging #MishLook so I can find and like it! 
+Harvey Prince Hello Fragrance http://bit.ly/1r71mY8",,PT5M27S,2d,hd,TRUE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,4397513,115200,0,5668,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/uavunfbTiFQ"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],Grunge Beauty,"Hi beautiful! Excuse my voice. I caught a cold in NY :( Anyways, are you ready to rock the grunge look this fall? Pair up your distressed plaid with smoldering eyes and a dark pout. Share your grunge look with me by tagging #MishLook so I can find and like it! 
 
 http://www.ipsy.com/ a beauty commmunity and sampling program I created for you :) 
 
@@ -5464,8 +5464,8 @@ Esmalte (Red Red Wine) de Pacifical http://bit.ly/ZuQ5q9
 
 Crema CC Alterna Caviar (Cabello) http://amzn.to/1AVyX8J
 
-Fragancia Hello de Harvey Prince http://bit.ly/1r71mY8",https://i.ytimg.com/vi/uavunfbTiFQ/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/uavunfbTiFQ/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,IhZpxqvMYArgsYcLO5sOxbmp9cQ,vVdciJkmb7o,2010-02-04T23:02:14Z,UCuYx81nzzz4OFQrhbKDzTng,Squeaky Clean Brushes!,"I combined the oil painting and makeup brush cleaning technique together. This is the most effective and inexpensive (in my opinion) way to cleaning makeup brushes. I hope this is helpful, sorry for taking so long to make this video! If you are constantly breaking out, maybe you should check to see if your brushes are properly clean!
+Fragancia Hello de Harvey Prince http://bit.ly/1r71mY8",https://i.ytimg.com/vi/uavunfbTiFQ/sddefault.jpg,640,480,https://i.ytimg.com/vi/uavunfbTiFQ/maxresdefault.jpg,1280,720,,,
+youtube#video,yes,IhZpxqvMYArgsYcLO5sOxbmp9cQ,vVdciJkmb7o,2010-02-04T23:02:14Z,UCuYx81nzzz4OFQrhbKDzTng,Squeaky Clean Brushes!,"I combined the oil painting and makeup brush cleaning technique together. This is the most effective and inexpensive (in my opinion) way to cleaning makeup brushes. I hope this is helpful, sorry for taking so long to make this video! If you are constantly breaking out, maybe you should check to see if your brushes are properly clean!
 
 ♥ Please Subscribe! http://bit.ly/MPsubscribe
 ♥ My Twitter: http://twitter.com/MichellePhan
@@ -5489,8 +5489,8 @@ Disclaimer - The Brush Guard sponsored this contest. I've been a supporter of th
 Please visit 
 http://thebrushguard.com
 
-Disclaimer - The Brush Guard sponsored this contest. I've been a supporter of the brush guard, even used it for my watercolor brushes (not just makeup). Everything else I bought and I am not affiliated with.",en,PT10M16S,2d,hd,true,True,rectangular,processed,public,youtube,True,False,False,6135930,49295,0,61664,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/vVdciJkmb7o"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,,,,,,,,
-youtube#video,rzhfZZW6zExTsc7uS_WcIL4tTBw,8t3MR0qk8CU,2022-02-10T19:19:31Z,UCuYx81nzzz4OFQrhbKDzTng,"Is the Makeup Industry Dying? Bitcoin Crash, 30s?","Is the Makeup Industry Dying? Bitcoin Crash, 30s?
+Disclaimer - The Brush Guard sponsored this contest. I've been a supporter of the brush guard, even used it for my watercolor brushes (not just makeup). Everything else I bought and I am not affiliated with.",en,PT10M16S,2d,hd,TRUE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,6135930,49295,0,61664,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/vVdciJkmb7o"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,,,,,,,,
+youtube#video,no,rzhfZZW6zExTsc7uS_WcIL4tTBw,8t3MR0qk8CU,2022-02-10T19:19:31Z,UCuYx81nzzz4OFQrhbKDzTng,"Is the Makeup Industry Dying? Bitcoin Crash, 30s?","Is the Makeup Industry Dying? Bitcoin Crash, 30s?
 I forgot to mention I love League of Legends. My mains are Heimerdinger and Zyra.
 Disclaimers. Any opinions expressed are solely my own and do not express the views or opinions of my colleagues. 
 
@@ -5570,7 +5570,7 @@ https://www.youtube.com/watch?v=TpDwWQFlOgg
 https://www.youtube.com/watch?v=Xm1mF4AlcJY
 
 This video was not sponsored. 
-No Skin Filters were used in this video.",en,PT14M40S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,125251,6528,0,798,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/8t3MR0qk8CU"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],"Is the Makeup Industry Dying? Bitcoin Crash, 30s?","Is the Makeup Industry Dying? Bitcoin Crash, 30s?
+No Skin Filters were used in this video.",en,PT14M40S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,125251,6528,0,798,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/8t3MR0qk8CU"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],"Is the Makeup Industry Dying? Bitcoin Crash, 30s?","Is the Makeup Industry Dying? Bitcoin Crash, 30s?
 I forgot to mention I love League of Legends. My mains are Heimerdinger and Zyra.
 Disclaimers. Any opinions expressed are solely my own and do not express the views or opinions of my colleagues. 
 
@@ -5610,8 +5610,8 @@ https://www.youtube.com/watch?v=TpDwWQFlOgg
 https://www.youtube.com/watch?v=Xm1mF4AlcJY
 
 This video was not sponsored. 
-No Skin Filters were used in this video.",,,https://i.ytimg.com/vi/8t3MR0qk8CU/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/8t3MR0qk8CU/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,OtEAPYg3RO-fBXAe567qph_Zr7g,LKxkQ_lny0s,2015-10-11T04:07:48Z,UCuYx81nzzz4OFQrhbKDzTng,♱ My Alter Ego Look ♱,"✧ preview my comic http://heliosfemina.com ✧
+No Skin Filters were used in this video.",,,https://i.ytimg.com/vi/8t3MR0qk8CU/sddefault.jpg,640,480,https://i.ytimg.com/vi/8t3MR0qk8CU/maxresdefault.jpg,1280,720,,,
+youtube#video,yes,OtEAPYg3RO-fBXAe567qph_Zr7g,LKxkQ_lny0s,2015-10-11T04:07:48Z,UCuYx81nzzz4OFQrhbKDzTng,♱ My Alter Ego Look ♱,"✧ preview my comic http://heliosfemina.com ✧
 
 Do you ever feel like you're not yourself? Like you're someone...else? Try to step out of your comfort zone, like me, and create your own alter ego look! I decided to go with an easy-to-execute smokey eye, black lip, and body tattoos. What's your alter ego? Share your look and tag me! 
 
@@ -5799,8 +5799,8 @@ http://bit.ly/1R2Lss1
 Anastasia Beverly Hills Liquid Lipstick (Midnight)
 http://mcys.co/1OoiIrA
 
-This is not a sponsored video",en,PT9M3S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,4506521,127977,0,5400,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/LKxkQ_lny0s"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,https://i.ytimg.com/vi/LKxkQ_lny0s/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/LKxkQ_lny0s/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,mR5f7GFJkFCEe8Afmn1c0Ws7VPw,nncPAn2EtiY,2019-04-26T01:00:02Z,UC28FD2v19VZFryIjpvGIFLw,Michelle Phan’s Skincare Routine: My Reaction & Thoughts | #SKINCARE,"Check out the original video from Harper's BAZAAR here: https://www.youtube.com/watch?v=y7hWMN3RhC8&t=6s
+This is not a sponsored video",en,PT9M3S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,4506521,127977,0,5400,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/LKxkQ_lny0s"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,https://i.ytimg.com/vi/LKxkQ_lny0s/sddefault.jpg,640,480,https://i.ytimg.com/vi/LKxkQ_lny0s/maxresdefault.jpg,1280,720,,,
+youtube#video,yes,mR5f7GFJkFCEe8Afmn1c0Ws7VPw,nncPAn2EtiY,2019-04-26T01:00:02Z,UC28FD2v19VZFryIjpvGIFLw,Michelle Phan’s Skincare Routine: My Reaction & Thoughts | #SKINCARE,"Check out the original video from Harper's BAZAAR here: https://www.youtube.com/watch?v=y7hWMN3RhC8&t=6s
 
 You guys asked for a Michelle Phan skincare routine reaction video, and here it is! Michelle is one of the OG beauty YouTubers, so I expected her routine to be pretty awesome. Comment below who you want to see next!
 
@@ -5878,8 +5878,8 @@ BUSINESS INQUIRIES: Info@MixedMakeup.com
 
 DISCLAIMER: The description may contain affiliate links for a small commission on purchased products. Affiliate links support our channel, so we can continue to make fun videos for you. Thanks for watching and shopping!
 
-#SKINCARE #MichellePhan",en,PT23M22S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,890856,19038,0,1153,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/nncPAn2EtiY"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,https://i.ytimg.com/vi/nncPAn2EtiY/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/nncPAn2EtiY/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,h3p67wuaRF9S2v8qaHh4BOzHIrw,UWySPnEivtU,2014-08-15T19:10:21Z,UCuYx81nzzz4OFQrhbKDzTng,BACK 2 SCHOOL : 5 DAYS - 5 WAYS,"Hi beautifuls! It's Back 2 Cool season ;) I'm gonna hook you up with my School Care Package. Find out how to win here!
+#SKINCARE #MichellePhan",en,PT23M22S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,890856,19038,0,1153,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/nncPAn2EtiY"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,https://i.ytimg.com/vi/nncPAn2EtiY/sddefault.jpg,640,480,https://i.ytimg.com/vi/nncPAn2EtiY/maxresdefault.jpg,1280,720,,,
+youtube#video,yes,h3p67wuaRF9S2v8qaHh4BOzHIrw,UWySPnEivtU,2014-08-15T19:10:21Z,UCuYx81nzzz4OFQrhbKDzTng,BACK 2 SCHOOL : 5 DAYS - 5 WAYS,"Hi beautifuls! It's Back 2 Cool season ;) I'm gonna hook you up with my School Care Package. Find out how to win here!
 http://michellephan.com/back-to-school-giveaway/
 
 My book ""Make Up Your Life"" is now ready for pre-order! It's coming out this October! More info here 
@@ -6047,7 +6047,7 @@ Download: http://s1dm.my/itunessunshy
 Music Video: http://bit.ly/SunShyMusicVideo
 
 
-This is not a sponsored video.",en,PT8M54S,2d,hd,true,True,rectangular,processed,public,youtube,True,False,False,3715839,107563,0,15813,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/UWySPnEivtU"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],BACK 2 SCHOOL : 5 DAYS - 5 WAYS,"Hi beautifuls! It's Back 2 Cool season ;) I'm gonna hook you up with my School Care Package. Find out how to win here!
+This is not a sponsored video.",en,PT8M54S,2d,hd,TRUE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,3715839,107563,0,15813,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/UWySPnEivtU"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],BACK 2 SCHOOL : 5 DAYS - 5 WAYS,"Hi beautifuls! It's Back 2 Cool season ;) I'm gonna hook you up with my School Care Package. Find out how to win here!
 http://michellephan.com/back-to-school-giveaway/
 
 My book ""Make Up Your Life"" is now ready for pre-order! It's coming out this October! More info here 
@@ -6215,8 +6215,8 @@ Descargar: http://s1dm.my/itunessunshy
 Video: http://bit.ly/SunShyMusicVideo
 
 
-Este video no tiene patrocinadores.",https://i.ytimg.com/vi/UWySPnEivtU/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/UWySPnEivtU/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,yLS0BIrDvhfq9D3Rnna3FXKXPCA,t6GnGaJh1hs,2014-02-18T05:01:04Z,UCRXiA3h1no_PFkb1JCP0yMA,Beauty Transformation: Michelle Phan as Rihanna,"YouTube beauty queen Michelle Phan takes on the monumental task of re-creating Rihanna's look. See the video, which details every step of Phan's transformation.
+Este video no tiene patrocinadores.",https://i.ytimg.com/vi/UWySPnEivtU/sddefault.jpg,640,480,https://i.ytimg.com/vi/UWySPnEivtU/maxresdefault.jpg,1280,720,,,
+youtube#video,yes,yLS0BIrDvhfq9D3Rnna3FXKXPCA,t6GnGaJh1hs,2014-02-18T05:01:04Z,UCRXiA3h1no_PFkb1JCP0yMA,Beauty Transformation: Michelle Phan as Rihanna,"YouTube beauty queen Michelle Phan takes on the monumental task of re-creating Rihanna's look. See the video, which details every step of Phan's transformation.
 
 Still haven’t subscribed to Vogue on YouTube? ►► http://bit.ly/vogueyoutubesub
  
@@ -6252,8 +6252,8 @@ Want even more? Subscribe to The Scene: http://bit.ly/subthescene
 
 Beauty Transformation: Michelle Phan as Rihanna
 
-Starring: Michelle Phan",,PT4M18S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,650463,23606,0,631,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/t6GnGaJh1hs"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,https://i.ytimg.com/vi/t6GnGaJh1hs/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/t6GnGaJh1hs/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,S8VyvkP_2IvMBqY_45qwAVJCnFU,rOCzQ3pKGvk,2010-03-05T12:35:24Z,UCuYx81nzzz4OFQrhbKDzTng,Tim Burton Look,"I remember growing up watching Tim Burton's movies. From Batman to The Nightmare Before Christmas, I feel in love with his hauntingly beautiful characters. I know Tim Burton's Alice in Wonderland comes out today, so I wanted to create a look inspired by his romantic, dark vision. Obviously this isn't something you would wear to school or work, (unless you work for Mr. Burton himself). BTW, If you are in NYC, GO GO GO TO THE MOMA to see his Exhibit, it's up there until April I think. AMAZING.  But this look is beautiful without the crazy wig I had on. 
+Starring: Michelle Phan",,PT4M18S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,650463,23606,0,631,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/t6GnGaJh1hs"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,https://i.ytimg.com/vi/t6GnGaJh1hs/sddefault.jpg,640,480,https://i.ytimg.com/vi/t6GnGaJh1hs/maxresdefault.jpg,1280,720,,,
+youtube#video,yes,S8VyvkP_2IvMBqY_45qwAVJCnFU,rOCzQ3pKGvk,2010-03-05T12:35:24Z,UCuYx81nzzz4OFQrhbKDzTng,Tim Burton Look,"I remember growing up watching Tim Burton's movies. From Batman to The Nightmare Before Christmas, I feel in love with his hauntingly beautiful characters. I know Tim Burton's Alice in Wonderland comes out today, so I wanted to create a look inspired by his romantic, dark vision. Obviously this isn't something you would wear to school or work, (unless you work for Mr. Burton himself). BTW, If you are in NYC, GO GO GO TO THE MOMA to see his Exhibit, it's up there until April I think. AMAZING.  But this look is beautiful without the crazy wig I had on. 
 
 http://www.facebook.com/photo.php?pid=3676383&id=53754642881
 
@@ -6387,15 +6387,15 @@ Lancome Matte Color Design Lipstick in Pink Preview
 
 All products I bought except for Bobbi Brown who sent me the concealers, and Lancome.
 
-Yes I edit all my videos.",,PT9M14S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,7855333,72080,0,13733,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/rOCzQ3pKGvk"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,,,,,,,,
-youtube#video,VO2d2pZJvFM7g_lfSMkE1Gla4SI,KtnGx1jttIQ,2022-05-08T15:12:21Z,UCR96_hHJu3HE6vmu39_bRAw,LIVE CHAT - Is Michelle Phan in a cult?,"Michelle Phan is a legend in the beauty space on YouTube. For many of us, she was the first beauty creator we watched. She started Ipsy from an idea and Em Cosmetics from a dream. Now she is claiming that she healed a man in a wheelchair with the power of her mind. Let's talk about it.
+Yes I edit all my videos.",,PT9M14S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,7855333,72080,0,13733,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/rOCzQ3pKGvk"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],,,,,,,,,,,,,
+youtube#video,no,VO2d2pZJvFM7g_lfSMkE1Gla4SI,KtnGx1jttIQ,2022-05-08T15:12:21Z,UCR96_hHJu3HE6vmu39_bRAw,LIVE CHAT - Is Michelle Phan in a cult?,"Michelle Phan is a legend in the beauty space on YouTube. For many of us, she was the first beauty creator we watched. She started Ipsy from an idea and Em Cosmetics from a dream. Now she is claiming that she healed a man in a wheelchair with the power of her mind. Let's talk about it.
 
 Rolling Stone article - https://www.rollingstone.com/culture/culture-news/michelle-phan-youtube-beauty-guru-wheelchair-joe-dispenza-pseudoscience-1347580/",https://i.ytimg.com/vi/KtnGx1jttIQ/default.jpg,120,90,https://i.ytimg.com/vi/KtnGx1jttIQ/mqdefault.jpg,320,180,https://i.ytimg.com/vi/KtnGx1jttIQ/hqdefault.jpg,480,360,Jen Luv,"['michelle phan', 'is michelle phan still part of ipsy', 'michelle phan cult', 'michelle phan crypto', 'makeup', 'skincare', 'beauty', 'em cosmetics', 'michelle phan makeup', 'make up', 'mental health']",24,none,en,LIVE CHAT - Is Michelle Phan in a cult?,"Michelle Phan is a legend in the beauty space on YouTube. For many of us, she was the first beauty creator we watched. She started Ipsy from an idea and Em Cosmetics from a dream. Now she is claiming that she healed a man in a wheelchair with the power of her mind. Let's talk about it.
 
-Rolling Stone article - https://www.rollingstone.com/culture/culture-news/michelle-phan-youtube-beauty-guru-wheelchair-joe-dispenza-pseudoscience-1347580/",en,PT1H2M30S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,33862,1501,0,308,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/KtnGx1jttIQ"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],LIVE CHAT - Is Michelle Phan in a cult?,"Michelle Phan is a legend in the beauty space on YouTube. For many of us, she was the first beauty creator we watched. She started Ipsy from an idea and Em Cosmetics from a dream. Now she is claiming that she healed a man in a wheelchair with the power of her mind. Let's talk about it.
+Rolling Stone article - https://www.rollingstone.com/culture/culture-news/michelle-phan-youtube-beauty-guru-wheelchair-joe-dispenza-pseudoscience-1347580/",en,PT1H2M30S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,33862,1501,0,308,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/KtnGx1jttIQ"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],LIVE CHAT - Is Michelle Phan in a cult?,"Michelle Phan is a legend in the beauty space on YouTube. For many of us, she was the first beauty creator we watched. She started Ipsy from an idea and Em Cosmetics from a dream. Now she is claiming that she healed a man in a wheelchair with the power of her mind. Let's talk about it.
 
 Rolling Stone article - https://www.rollingstone.com/culture/culture-news/michelle-phan-youtube-beauty-guru-wheelchair-joe-dispenza-pseudoscience-1347580/",,,,,,,,,2022-05-08T14:00:51Z,2022-05-08T15:03:06Z,2022-05-08T14:00:00Z
-youtube#video,dvvniEkzoTeJ_AkdQ0ApH-b0_sE,lc8xek03ZUg,2021-02-14T18:06:07Z,UCuYx81nzzz4OFQrhbKDzTng,First Date Makeup Tutorial ✧,"Hello again 😚 What’s your first date question? Here mine. “ My sun is in Aries, Moon in Virgo, Venus in Pisces. What's yours? “ 
+youtube#video,yes,dvvniEkzoTeJ_AkdQ0ApH-b0_sE,lc8xek03ZUg,2021-02-14T18:06:07Z,UCuYx81nzzz4OFQrhbKDzTng,First Date Makeup Tutorial ✧,"Hello again 😚 What’s your first date question? Here mine. “ My sun is in Aries, Moon in Virgo, Venus in Pisces. What's yours? “ 
 
 
 ⌑ F A C E 
@@ -6527,7 +6527,7 @@ https://www.msrobot.com
 
 
 
-This video was not sponsored.",en,PT5M36S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,1031238,77642,0,3035,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/lc8xek03ZUg"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Physical_attractiveness']",First Date Makeup Tutorial ✧,"Hello again 😚 What’s your first date question? Here mine. “ My sun is in Aries, Moon in Virgo, Venus in Pisces. What's yours? “ 
+This video was not sponsored.",en,PT5M36S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,1031238,77642,0,3035,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/lc8xek03ZUg"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Lifestyle_(sociology)', 'https://en.wikipedia.org/wiki/Physical_attractiveness']",First Date Makeup Tutorial ✧,"Hello again 😚 What’s your first date question? Here mine. “ My sun is in Aries, Moon in Virgo, Venus in Pisces. What's yours? “ 
 
 
 ⌑ F A C E 
@@ -6593,8 +6593,8 @@ https://www.msrobot.com
 
 
 
-This video was not sponsored.",,,https://i.ytimg.com/vi/lc8xek03ZUg/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/lc8xek03ZUg/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,j5Bwwe5wMygpLY_VOVIot9PKPwc,jFEgST0qp1E,2019-11-21T03:27:38Z,UCuYx81nzzz4OFQrhbKDzTng,My Office Tour,"When you like your work, everyday is a holiday.
+This video was not sponsored.",,,https://i.ytimg.com/vi/lc8xek03ZUg/sddefault.jpg,640,480,https://i.ytimg.com/vi/lc8xek03ZUg/maxresdefault.jpg,1280,720,,,
+youtube#video,no,j5Bwwe5wMygpLY_VOVIot9PKPwc,jFEgST0qp1E,2019-11-21T03:27:38Z,UCuYx81nzzz4OFQrhbKDzTng,My Office Tour,"When you like your work, everyday is a holiday.
 
 Magic Hour collection is now available. 
 We also have afterpay :) 
@@ -6682,8 +6682,8 @@ Find me…
 ✦ https://twitter.com/michellephan
 
 
-This video is not sponsored",en,PT9M13S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,1202580,63506,0,2971,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/jFEgST0qp1E"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Hobby', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",,,,,https://i.ytimg.com/vi/jFEgST0qp1E/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/jFEgST0qp1E/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,zUlTJMmrFjnd8q9llvWzpF7iD5s,rFVjvD0Wasc,2012-11-30T09:07:35Z,UCuYx81nzzz4OFQrhbKDzTng,No Mirror Makeup Challenge,"The no mirror makeup challenge! Life sucks without a mirror.
+This video is not sponsored",en,PT9M13S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,1202580,63506,0,2971,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/jFEgST0qp1E"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Hobby', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",,,,,https://i.ytimg.com/vi/jFEgST0qp1E/sddefault.jpg,640,480,https://i.ytimg.com/vi/jFEgST0qp1E/maxresdefault.jpg,1280,720,,,
+youtube#video,yes,zUlTJMmrFjnd8q9llvWzpF7iD5s,rFVjvD0Wasc,2012-11-30T09:07:35Z,UCuYx81nzzz4OFQrhbKDzTng,No Mirror Makeup Challenge,"The no mirror makeup challenge! Life sucks without a mirror.
 
 ♥ Please Subscribe! http://bit.ly/MPsubscribe
 ♥ My Twitter: http://twitter.com/MichellePhan
@@ -6771,7 +6771,7 @@ http://www.shuuemura-usa.com/_us/_en/...
 
 Shu Uemura Karl Lagerfeld crazy premium handmade lashes
 
-This is not a sponsored video",en,PT12M57S,2d,sd,true,True,rectangular,processed,public,youtube,True,True,False,6914849,81552,0,17144,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/rFVjvD0Wasc"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],No Mirror Makeup Challenge,"The no mirror makeup challenge! Life sucks without a mirror.
+This is not a sponsored video",en,PT12M57S,2d,sd,TRUE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,6914849,81552,0,17144,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/rFVjvD0Wasc"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],No Mirror Makeup Challenge,"The no mirror makeup challenge! Life sucks without a mirror.
 
 ♥ Please Subscribe! http://bit.ly/MPsubscribe
 ♥ My Twitter: http://twitter.com/MichellePhan
@@ -6859,8 +6859,8 @@ http://www.shuuemura-usa.com/_us/_en/...
 
 Pestañas hechas a mano de Shu Uemura
 
-Este video no tiene patrocinadores.",https://i.ytimg.com/vi/rFVjvD0Wasc/sddefault.jpg,640.0,480.0,,,,,,
-youtube#video,GbgYITrIdV-AudEjh-Tb2AtFIGU,20p5o6QaQfg,2014-07-13T19:10:41Z,UCuYx81nzzz4OFQrhbKDzTng,How to Build Self Confidence,"We are all imperfectly perfect.
+Este video no tiene patrocinadores.",https://i.ytimg.com/vi/rFVjvD0Wasc/sddefault.jpg,640,480,,,,,,
+youtube#video,no,GbgYITrIdV-AudEjh-Tb2AtFIGU,20p5o6QaQfg,2014-07-13T19:10:41Z,UCuYx81nzzz4OFQrhbKDzTng,How to Build Self Confidence,"We are all imperfectly perfect.
 Ready to start your journey? You're not alone :) Here are my personal tips on how to build self confidence. It was a long, hard and sometimes painful journey, but I made it by staying positive. Best of luck to all of you who are looking to find self confidence. Just remember, beauty is a birthright. Everyone is born beautiful and unique. 
 
 ♥ Please Subscribe! http://bit.ly/MPsubscribe
@@ -6898,7 +6898,7 @@ Michelle Phan
 Ronit Cohn
 Kendall Rhodes
 
-Produced by FAWN and Relativity Digital (part of Relativity Media, LLC)",en,PT5M27S,2d,hd,true,True,rectangular,processed,public,youtube,True,False,False,3081970,130577,0,6313,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/20p5o6QaQfg"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Health', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",How to Build Self Confidence,"We are all imperfectly perfect.
+Produced by FAWN and Relativity Digital (part of Relativity Media, LLC)",en,PT5M27S,2d,hd,TRUE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,3081970,130577,0,6313,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/20p5o6QaQfg"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Health', 'https://en.wikipedia.org/wiki/Lifestyle_(sociology)']",How to Build Self Confidence,"We are all imperfectly perfect.
 Ready to start your journey? You're not alone :) Here are my personal tips on how to build self confidence. It was a long, hard and sometimes painful journey, but I made it by staying positive. Best of luck to all of you who are looking to find self confidence. Just remember, beauty is a birthright. Everyone is born beautiful and unique. 
 
 ♥ Please Subscribe! http://bit.ly/MPsubscribe
@@ -6936,8 +6936,8 @@ Michelle Phan
 Ronit Cohn
 Kendall Rhodes
 
-Producido por FAWN y Relativity Digital (parte de Relativity Media, LLC)",https://i.ytimg.com/vi/20p5o6QaQfg/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/20p5o6QaQfg/maxresdefault.jpg,1280.0,720.0,,,
-youtube#video,-NsanQfuAAI1jGfHmkSfqL6n7es,_-3Uw2OSiXc,2015-05-22T19:32:07Z,UCuYx81nzzz4OFQrhbKDzTng,What's In My Travel Bag + Summer Beauty Look!,"Are you planning to travel this summer? Then look no further for ideas on what to bring and how to pack for your trip! I hope these tips inspire you to plan ahead for your vacation. 
+Producido por FAWN y Relativity Digital (parte de Relativity Media, LLC)",https://i.ytimg.com/vi/20p5o6QaQfg/sddefault.jpg,640,480,https://i.ytimg.com/vi/20p5o6QaQfg/maxresdefault.jpg,1280,720,,,
+youtube#video,yes,#NAME?,_-3Uw2OSiXc,2015-05-22T19:32:07Z,UCuYx81nzzz4OFQrhbKDzTng,What's In My Travel Bag + Summer Beauty Look!,"Are you planning to travel this summer? Then look no further for ideas on what to bring and how to pack for your trip! I hope these tips inspire you to plan ahead for your vacation. 
 
 WIN THE HELLO KITTY INSTAX CAM! Go here ➡  https://instagram.com/michellephan/
 
@@ -7197,7 +7197,7 @@ http://amzn.to/1KfaJPR
 Jin Soon Top Gloss
 http://amzn.to/1EVvXeH
 
-Ipsy is a beauty community I founded and created :)",en,PT6M45S,2d,hd,true,True,rectangular,processed,public,youtube,True,False,False,2309412,51483,0,1848,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/_-3Uw2OSiXc"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],What's In My Travel Bag + Summer Beauty Look!,"Are you planning to travel this summer? Then look no further for ideas on what to bring and how to pack for your trip! I hope these tips inspire you to plan ahead for your vacation. 
+Ipsy is a beauty community I founded and created :)",en,PT6M45S,2d,hd,TRUE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,2309412,51483,0,1848,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/_-3Uw2OSiXc"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>",['https://en.wikipedia.org/wiki/Lifestyle_(sociology)'],What's In My Travel Bag + Summer Beauty Look!,"Are you planning to travel this summer? Then look no further for ideas on what to bring and how to pack for your trip! I hope these tips inspire you to plan ahead for your vacation. 
 
 WIN THE HELLO KITTY INSTAX CAM! Go here ➡  https://instagram.com/michellephan/
 
@@ -7457,4 +7457,4 @@ http://amzn.to/1KfaJPR
 Esmalte Jin Soon
 http://amzn.to/1EVvXeH
 
-Ipsy es una comunidad de belleza fundada y creada por mí :)",https://i.ytimg.com/vi/_-3Uw2OSiXc/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/_-3Uw2OSiXc/maxresdefault.jpg,1280.0,720.0,,,
+Ipsy es una comunidad de belleza fundada y creada por mí :)",https://i.ytimg.com/vi/_-3Uw2OSiXc/sddefault.jpg,640,480,https://i.ytimg.com/vi/_-3Uw2OSiXc/maxresdefault.jpg,1280,720,,,
