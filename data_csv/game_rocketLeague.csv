@@ -1,4 +1,4 @@
-kind,etag,id,snippet.publishedAt,snippet.channelId,snippet.title,snippet.description,snippet.thumbnails.default.url,snippet.thumbnails.default.width,snippet.thumbnails.default.height,snippet.thumbnails.medium.url,snippet.thumbnails.medium.width,snippet.thumbnails.medium.height,snippet.thumbnails.high.url,snippet.thumbnails.high.width,snippet.thumbnails.high.height,snippet.thumbnails.standard.url,snippet.thumbnails.standard.width,snippet.thumbnails.standard.height,snippet.thumbnails.maxres.url,snippet.thumbnails.maxres.width,snippet.thumbnails.maxres.height,snippet.channelTitle,snippet.tags,snippet.categoryId,snippet.liveBroadcastContent,snippet.localized.title,snippet.localized.description,contentDetails.duration,contentDetails.dimension,contentDetails.definition,contentDetails.caption,contentDetails.licensedContent,contentDetails.projection,status.uploadStatus,status.privacyStatus,status.license,status.embeddable,status.publicStatsViewable,status.madeForKids,statistics.viewCount,statistics.likeCount,statistics.favoriteCount,statistics.commentCount,player.embedHtml,topicDetails.topicCategories,snippet.defaultAudioLanguage,snippet.defaultLanguage,localizations.de.title,localizations.de.description,liveStreamingDetails.actualStartTime,liveStreamingDetails.actualEndTime,liveStreamingDetails.scheduledStartTime,localizations.en.title,localizations.en.description,localizations.en-US.title,localizations.en-US.description,localizations.pt-BR.title,localizations.pt-BR.description,localizations.de-DE.title,localizations.de-DE.description
+kind,etag,id,snippet.publishedAt,snippet.channelId,snippet.title,snippet.description,snippet.thumbnails.default.url,snippet.thumbnails.default.width,snippet.thumbnails.default.height,snippet.thumbnails.medium.url,snippet.thumbnails.medium.width,snippet.thumbnails.medium.height,snippet.thumbnails.high.url,snippet.thumbnails.high.width,snippet.thumbnails.high.height,snippet.thumbnails.standard.url,snippet.thumbnails.standard.width,snippet.thumbnails.standard.height,snippet.thumbnails.maxres.url,snippet.thumbnails.maxres.width,snippet.thumbnails.maxres.height,snippet.channelTitle,snippet.tags,snippet.categoryId,snippet.liveBroadcastContent,snippet.localized.title,snippet.localized.description,contentDetails.duration,contentDetails.dimension,contentDetails.definition,contentDetails.caption,contentDetails.licensedContent,contentDetails.projection,status.uploadStatus,status.privacyStatus,status.license,status.embeddable,status.publicStatsViewable,status.madeForKids,statistics.viewCount,statistics.likeCount,statistics.favoriteCount,statistics.commentCount,player.embedHtml,topicDetails.topicCategories,snippet.defaultAudioLanguage,snippet.defaultLanguage,localizations.de.title,localizations.de.description,liveStreamingDetails.actualStartTime,liveStreamingDetails.actualEndTime,liveStreamingDetails.scheduledStartTime,localizations.en.title,localizations.en.description,localizations.en-US.title,localizations.en-US.description,localizations.pt-BR.title,localizations.pt-BR.description,localizations.de-DE.title,localizations.de-DE.description,,relevance
 youtube#video,7hFE0guwnoSbaX2TSF_1OByWS0M,-mycmvApTM8,2022-07-07T14:30:00Z,UCJI-evgSEVjMHu_kDi-Buew,I tested every myth in Rocket League and learned something INSANE,"You don't know as much about Rocket League as you think you do and I'm going to prove it. Rocket League has tons of myths and I'm going to test them all with @Wayton Pilkin to see if they are real or busted. This led me to find some insane facts about the game that are actually useful! 
 
 If you like this video, check out @Mr-Napkin!
@@ -45,7 +45,7 @@ Production Music: https://www.epidemicsound.com
 Thumbnail Artist: http://twitter.com/Totema_art
 
 
-#RocketLeague #Striped",https://i.ytimg.com/vi/-mycmvApTM8/default.jpg,120,90,https://i.ytimg.com/vi/-mycmvApTM8/mqdefault.jpg,320,180,https://i.ytimg.com/vi/-mycmvApTM8/hqdefault.jpg,480,360,https://i.ytimg.com/vi/-mycmvApTM8/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/-mycmvApTM8/maxresdefault.jpg,1280.0,720.0,Striped,"['Rocket League', 'RL', 'Grand champ', 'GC', 'Supersonic Legend', 'SSL', 'Striped', 'Bronze', 'Silver', 'Gold', 'Plat', 'Diamond', 'Champ', 'Free to play']",20,none,I tested every myth in Rocket League and learned something INSANE,"You don't know as much about Rocket League as you think you do and I'm going to prove it. Rocket League has tons of myths and I'm going to test them all with @Wayton Pilkin to see if they are real or busted. This led me to find some insane facts about the game that are actually useful! 
+#RocketLeague #Striped",https://i.ytimg.com/vi/-mycmvApTM8/default.jpg,120,90,https://i.ytimg.com/vi/-mycmvApTM8/mqdefault.jpg,320,180,https://i.ytimg.com/vi/-mycmvApTM8/hqdefault.jpg,480,360,https://i.ytimg.com/vi/-mycmvApTM8/sddefault.jpg,640,480,https://i.ytimg.com/vi/-mycmvApTM8/maxresdefault.jpg,1280,720,Striped,"['Rocket League', 'RL', 'Grand champ', 'GC', 'Supersonic Legend', 'SSL', 'Striped', 'Bronze', 'Silver', 'Gold', 'Plat', 'Diamond', 'Champ', 'Free to play']",20,none,I tested every myth in Rocket League and learned something INSANE,"You don't know as much about Rocket League as you think you do and I'm going to prove it. Rocket League has tons of myths and I'm going to test them all with @Wayton Pilkin to see if they are real or busted. This led me to find some insane facts about the game that are actually useful! 
 
 If you like this video, check out @Mr-Napkin!
 
@@ -91,7 +91,7 @@ Production Music: https://www.epidemicsound.com
 Thumbnail Artist: http://twitter.com/Totema_art
 
 
-#RocketLeague #Striped",PT13M24S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,121062,7329,0,460,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/-mycmvApTM8"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,,,,,,,,,,,,,,
+#RocketLeague #Striped",PT13M24S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,121062,7329,0,460,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/-mycmvApTM8"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,,,,,,,,,,,,,,,,yes
 youtube#video,fRxln5SsY7_HVnhQZ_rqP8YQkHE,Mw_lbNOEz5A,2022-07-07T17:00:10Z,UCTFi1wHONgD2pj-9PsBBIJQ,*NO WAY* INSANE NEW GOLDEN EGG 22 OPENING + IMPORT DROP FOR THE ROCKET LEAGUE BIRTHDAY BALL EVENT!,"Rocket League have dropped their 7th anniversary update ""Birthday Ball"" including Golden Egg 22, IMPORT DROPS & CREDITS for challenges! Leave a like for more! #PixelArmy #Roadto1Million
 🔥 Be sure to use code ""PIXELARMY"" in the Rocket League Item Shop! [AD] 
 
@@ -156,7 +156,7 @@ https://www.youtube.com/user/FarFromFilm
 
 🎵 The AWESOME guy who made my intro/outro music:
 http://www.youtube.com/knoxhill
-https://open.spotify.com/artist/1RWk8RsDoNhQ5J3DPXz5AC?si=oi7k3g6hR6yj68BGhNv3WQ",PT12M14S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,22855,1180,0,299,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/Mw_lbNOEz5A"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en-GB,,,,,,,,,,,,,,
+https://open.spotify.com/artist/1RWk8RsDoNhQ5J3DPXz5AC?si=oi7k3g6hR6yj68BGhNv3WQ",PT12M14S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,22855,1180,0,299,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/Mw_lbNOEz5A"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en-GB,,,,,,,,,,,,,,,,yes
 youtube#video,pM96xxFKnXqxmS1NFqosa2DFX3U,c5jHBTHxblQ,2022-07-07T16:00:24Z,UCkNYoWK1LqjFhxYI6BM_kOA,Rocket League was NOT designed for this...,"My Support-A-Creator Code: LETHAMYR
 Apply the code it in the Rocket League store to support me! (top right of the store)
 
@@ -209,7 +209,7 @@ Editors:
 Daily Videos & Facebook Videos: https://twitter.com/DannyLotusTV
 Highlights & Occasional Daily Videos: https://twitter.com/TRev21RL
 
-#Lethamyr #Leth #RocketLeague",https://i.ytimg.com/vi/c5jHBTHxblQ/default.jpg,120,90,https://i.ytimg.com/vi/c5jHBTHxblQ/mqdefault.jpg,320,180,https://i.ytimg.com/vi/c5jHBTHxblQ/hqdefault.jpg,480,360,https://i.ytimg.com/vi/c5jHBTHxblQ/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/c5jHBTHxblQ/maxresdefault.jpg,1280.0,720.0,Lethamyr,"['Rocket', 'League', 'Lethamyr', 'Pro', 'Leth', 'Grand', 'Champion', 'Champ', 'GC', 'RLCS', 'Pros', '1v1', '1s', 'Doubles', 'Squishy', 'Muffinz', 'Sunlesskhan', 'Fluump', 'Mertzy', 'Linkuru', 'Johnnyboi', 'amustycow', 'Musty', 'Jon', 'Sandman', 'Cizzorz', 'Squishymuffinz', 'Scrub', 'Killa', 'New', 'Custom', 'Maps', 'Road', 'To', 'Rank 1', 'Rizzo', 'Sizz', 'CBell', 'Supersonic', 'Legend', 'Free', 'Play', 'Update', 'Season', 'Brand', 'Map', 'Modded', 'Modding', 'Jstn', 'NRG', 'SSG', 'Best', 'RL', 'Top', 'SSL', 'Spacestation', 'Gaming', 'Arsenal', 'Sunless', 'Side', 'Swipe', 'Sideswipe', 'Striped', 'JZR', 'Knockout', 'Bash', 'Was', 'Not', 'Designed', 'For', 'This']",20,none,Rocket League was NOT designed for this...,"My Support-A-Creator Code: LETHAMYR
+#Lethamyr #Leth #RocketLeague",https://i.ytimg.com/vi/c5jHBTHxblQ/default.jpg,120,90,https://i.ytimg.com/vi/c5jHBTHxblQ/mqdefault.jpg,320,180,https://i.ytimg.com/vi/c5jHBTHxblQ/hqdefault.jpg,480,360,https://i.ytimg.com/vi/c5jHBTHxblQ/sddefault.jpg,640,480,https://i.ytimg.com/vi/c5jHBTHxblQ/maxresdefault.jpg,1280,720,Lethamyr,"['Rocket', 'League', 'Lethamyr', 'Pro', 'Leth', 'Grand', 'Champion', 'Champ', 'GC', 'RLCS', 'Pros', '1v1', '1s', 'Doubles', 'Squishy', 'Muffinz', 'Sunlesskhan', 'Fluump', 'Mertzy', 'Linkuru', 'Johnnyboi', 'amustycow', 'Musty', 'Jon', 'Sandman', 'Cizzorz', 'Squishymuffinz', 'Scrub', 'Killa', 'New', 'Custom', 'Maps', 'Road', 'To', 'Rank 1', 'Rizzo', 'Sizz', 'CBell', 'Supersonic', 'Legend', 'Free', 'Play', 'Update', 'Season', 'Brand', 'Map', 'Modded', 'Modding', 'Jstn', 'NRG', 'SSG', 'Best', 'RL', 'Top', 'SSL', 'Spacestation', 'Gaming', 'Arsenal', 'Sunless', 'Side', 'Swipe', 'Sideswipe', 'Striped', 'JZR', 'Knockout', 'Bash', 'Was', 'Not', 'Designed', 'For', 'This']",20,none,Rocket League was NOT designed for this...,"My Support-A-Creator Code: LETHAMYR
 Apply the code it in the Rocket League store to support me! (top right of the store)
 
 Map: https://steamcommunity.com/sharedfiles/filedetails/?id=2823390391
@@ -261,7 +261,7 @@ Editors:
 Daily Videos & Facebook Videos: https://twitter.com/DannyLotusTV
 Highlights & Occasional Daily Videos: https://twitter.com/TRev21RL
 
-#Lethamyr #Leth #RocketLeague",PT22M19S,2d,hd,false,True,rectangular,processed,public,creativeCommon,True,True,False,75387,2852,0,181,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/c5jHBTHxblQ"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en,,,,,,,,,,,,,,
+#Lethamyr #Leth #RocketLeague",PT22M19S,2d,hd,FALSE,TRUE,rectangular,processed,public,creativeCommon,TRUE,TRUE,FALSE,75387,2852,0,181,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/c5jHBTHxblQ"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en,,,,,,,,,,,,,,,,yes
 youtube#video,xtSQ8mTHFElZi-6gV0uY8S89vFE,X9NPzUwmPAk,2022-07-08T12:30:10Z,UCNO7GJXkkuCWZtUQYRdLQ6A,*ANSAGE* an alle TRASHTALKER in ROCKET LEAGUE 🤬 Rocket League Realtalk,"*ANSAGE* an alle TRASHTALKER in ROCKET LEAGUE 🤬 Realtalk
 🔥 Credits, Items & Auto günstig mit Rabatt (CC: ANYART): https://rl.exchange/de/r/ANYART (Werbung)
 🎁 Gewinnspiel: https://rl.exchange/giveaway/giveaway-dom-anyart-june
@@ -279,7 +279,7 @@ youtube#video,xtSQ8mTHFElZi-6gV0uY8S89vFE,X9NPzUwmPAk,2022-07-08T12:30:10Z,UCNO7
 ── Hashtags ──────
 #RocketLeague #Realtalk #Ansage
 
-Rocket League Realtalk Trashtalker Ansage Deutsch || Dom AnyArt",https://i.ytimg.com/vi/X9NPzUwmPAk/default.jpg,120,90,https://i.ytimg.com/vi/X9NPzUwmPAk/mqdefault.jpg,320,180,https://i.ytimg.com/vi/X9NPzUwmPAk/hqdefault.jpg,480,360,https://i.ytimg.com/vi/X9NPzUwmPAk/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/X9NPzUwmPAk/maxresdefault.jpg,1280.0,720.0,Dom | AnyArt,"['rocket league', 'rage', 'rocket league rage', 'salty', 'ansage', 'ansage video', 'tips', 'tricks', 'spielstunden', 'wie gut bin ich in rocket league', 'vergleich', 'rang vergleich', 'so gut bist du in rocket league']",20,none,*ANSAGE* an alle TRASHTALKER in ROCKET LEAGUE 🤬 Rocket League Realtalk,"*ANSAGE* an alle TRASHTALKER in ROCKET LEAGUE 🤬 Realtalk
+Rocket League Realtalk Trashtalker Ansage Deutsch || Dom AnyArt",https://i.ytimg.com/vi/X9NPzUwmPAk/default.jpg,120,90,https://i.ytimg.com/vi/X9NPzUwmPAk/mqdefault.jpg,320,180,https://i.ytimg.com/vi/X9NPzUwmPAk/hqdefault.jpg,480,360,https://i.ytimg.com/vi/X9NPzUwmPAk/sddefault.jpg,640,480,https://i.ytimg.com/vi/X9NPzUwmPAk/maxresdefault.jpg,1280,720,Dom | AnyArt,"['rocket league', 'rage', 'rocket league rage', 'salty', 'ansage', 'ansage video', 'tips', 'tricks', 'spielstunden', 'wie gut bin ich in rocket league', 'vergleich', 'rang vergleich', 'so gut bist du in rocket league']",20,none,*ANSAGE* an alle TRASHTALKER in ROCKET LEAGUE 🤬 Rocket League Realtalk,"*ANSAGE* an alle TRASHTALKER in ROCKET LEAGUE 🤬 Realtalk
 🔥 Credits, Items & Auto günstig mit Rabatt (CC: ANYART): https://rl.exchange/de/r/ANYART (Werbung)
 🎁 Gewinnspiel: https://rl.exchange/giveaway/giveaway-dom-anyart-june
 
@@ -296,7 +296,7 @@ Rocket League Realtalk Trashtalker Ansage Deutsch || Dom AnyArt",https://i.ytimg
 ── Hashtags ──────
 #RocketLeague #Realtalk #Ansage
 
-Rocket League Realtalk Trashtalker Ansage Deutsch || Dom AnyArt",PT5M54S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,571,98,0,49,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/X9NPzUwmPAk"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",de,de,*ANSAGE* an alle TRASHTALKER in ROCKET LEAGUE 🤬 Rocket League Realtalk,"*ANSAGE* an alle TRASHTALKER in ROCKET LEAGUE 🤬 Realtalk
+Rocket League Realtalk Trashtalker Ansage Deutsch || Dom AnyArt",PT5M54S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,571,98,0,49,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/X9NPzUwmPAk"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",de,de,*ANSAGE* an alle TRASHTALKER in ROCKET LEAGUE 🤬 Rocket League Realtalk,"*ANSAGE* an alle TRASHTALKER in ROCKET LEAGUE 🤬 Realtalk
 🔥 Credits, Items & Auto günstig mit Rabatt (CC: ANYART): https://rl.exchange/de/r/ANYART (Werbung)
 🎁 Gewinnspiel: https://rl.exchange/giveaway/giveaway-dom-anyart-june
 
@@ -313,7 +313,7 @@ Rocket League Realtalk Trashtalker Ansage Deutsch || Dom AnyArt",PT5M54S,2d,hd,f
 ── Hashtags ──────
 #RocketLeague #Realtalk #Ansage
 
-Rocket League Realtalk Trashtalker Ansage Deutsch || Dom AnyArt",,,,,,,,,,,
+Rocket League Realtalk Trashtalker Ansage Deutsch || Dom AnyArt",,,,,,,,,,,,,no
 youtube#video,jHxn2l_nfaAe3Od2LFQZEiEceL0,nFtSuCtkM0s,2022-07-03T21:44:52Z,UCdKuPY64fEpI4cdlBSyvEJw,RLCS Spring Major | Championship Sunday | Day 5,"Watch Championship Sunday of the RLCS Spring Major now!
 
 The RLCS Spring Major is finally here and live from the Copper Box Arena in London, England and it's time to crown a champion. Four teams remain, but only one will rise up to claim the crown and title of RLCS Spring Major Champion. Who's it going to be?
@@ -322,7 +322,7 @@ The RLCS Spring Major is finally here and live from the Copper Box Arena in Lond
 
 The RLCS Spring Major is finally here and live from the Copper Box Arena in London, England and it's time to crown a champion. Four teams remain, but only one will rise up to claim the crown and title of RLCS Spring Major Champion. Who's it going to be?
 
-#RocketLeague #RLCS  #SpringMajor #RLCSSpringMajor",PT7H9M41S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,317384,5626,0,351,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/nFtSuCtkM0s"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en,,,,2022-07-03T13:57:18Z,2022-07-03T21:06:50Z,2022-07-03T14:00:00Z,,,,,,,,
+#RocketLeague #RLCS  #SpringMajor #RLCSSpringMajor",PT7H9M41S,2d,hd,FALSE,FALSE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,317384,5626,0,351,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/nFtSuCtkM0s"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en,,,,2022-07-03T13:57:18Z,2022-07-03T21:06:50Z,2022-07-03T14:00:00Z,,,,,,,,,,yes
 youtube#video,2WjP0cXGO5W9cGedubZwtqepwZk,az5HavdjWZ4,2022-07-07T18:30:02Z,UCRKqb7N0kLSVYmFjLjvwkIg,How To Claim *INFINITE* FREE CREDITS on Rocket League!,"How To Claim *INFINITE* FREE CREDITS on Rocket League!
 Today this video will teach you how to get free credits on Rocket League and the secret method to repeat the process several times!
 
@@ -361,7 +361,7 @@ MY DISCORD SERVER: https://discord.gg/adxEbde
 
 ADD ME ON XBOX! GT: ZenicOfficial
 
-NEW Rocket League Creator-Code: ZenicYT",PT3M37S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,12884,618,0,186,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/az5HavdjWZ4"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,,,,,,,,,,,,,,
+NEW Rocket League Creator-Code: ZenicYT",PT3M37S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,12884,618,0,186,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/az5HavdjWZ4"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,,,,,,,,,,,,,,,,yes
 youtube#video,X0zNVW_p4VxYdydh6LXRE4mFXcc,7U-7noVDnv8,2022-07-02T22:48:35Z,UCdKuPY64fEpI4cdlBSyvEJw,RLCS Spring Major | Day 4,"Watch Day 4 of the RLCS Spring Major now!
 
 The RLCS Spring Major is finally here and live from the Copper Box Arena in London, England and the crowd is back! Eight teams remain in the hunt for the RLCS Spring Major title, but four more teams will be sent home today. Who will crack the Top 4 and make it to Championship Sunday? It's time to find out!
@@ -370,7 +370,7 @@ The RLCS Spring Major is finally here and live from the Copper Box Arena in Lond
 
 The RLCS Spring Major is finally here and live from the Copper Box Arena in London, England and the crowd is back! Eight teams remain in the hunt for the RLCS Spring Major title, but four more teams will be sent home today. Who will crack the Top 4 and make it to Championship Sunday? It's time to find out!
 
-#RocketLeague #RLCS  #SpringMajor #RLCSSpringMajor",PT8H16M,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,288207,4738,0,405,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/7U-7noVDnv8"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en,,,,2022-07-02T13:52:45Z,2022-07-02T22:08:36Z,2022-07-02T14:00:00Z,,,,,,,,
+#RocketLeague #RLCS  #SpringMajor #RLCSSpringMajor",PT8H16M,2d,hd,FALSE,FALSE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,288207,4738,0,405,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/7U-7noVDnv8"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en,,,,2022-07-02T13:52:45Z,2022-07-02T22:08:36Z,2022-07-02T14:00:00Z,,,,,,,,,,yes
 youtube#video,OnLsjDR25S78GEXu5CUfEarckTk,c3FJRsBLXtw,2022-07-01T19:09:39Z,UCdKuPY64fEpI4cdlBSyvEJw,RLCS Spring Major | Lower Round 2 | Day 3,"Watch Day 3 of the RLCS Spring Major now!
 
 The RLCS Spring Major is finally here and live from the Copper Box Arena in London, England! It's time for the Lower Round 2 matches, where four more teams will be eliminated from the RLCS Spring Major. Who will live to play another day? It's time to find out!
@@ -379,7 +379,7 @@ The RLCS Spring Major is finally here and live from the Copper Box Arena in Lond
 
 The RLCS Spring Major is finally here and live from the Copper Box Arena in London, England! It's time for the Lower Round 2 matches, where four more teams will be eliminated from the RLCS Spring Major. Who will live to play another day? It's time to find out!
 
-#RocketLeague #RLCS  #SpringMajor #RLCSSpringMajor",PT4H18M30S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,159781,3008,0,273,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/c3FJRsBLXtw"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en,,,,2022-07-01T14:26:19Z,2022-07-01T18:44:42Z,2022-07-01T14:30:00Z,,,,,,,,
+#RocketLeague #RLCS  #SpringMajor #RLCSSpringMajor",PT4H18M30S,2d,hd,FALSE,FALSE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,159781,3008,0,273,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/c3FJRsBLXtw"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en,,,,2022-07-01T14:26:19Z,2022-07-01T18:44:42Z,2022-07-01T14:30:00Z,,,,,,,,,,yes
 youtube#video,-kQxXXT6RXjLwuL_0lY2smOVvVY,pHAvy2ldfAA,2020-10-29T13:00:15Z,UCeg2dFpnarFPI14hbN_5rKg,61 CRITICAL Rocket League Tips For New Players,"This video is the best overall guide to Rocket League for new players. In this video, I go over everything from rotation, to mechanics, settings, training, and so much more! I don’t go in depth on anything because I don’t want this video to be an hour long lol. I do, however, reference a lot of videos here in the description that you can check out if you’d like to dive deeper into any of the topics discussed.
 
 TIP #4:
@@ -443,7 +443,7 @@ Thanks to Epic Games and Psyonix for the creator code.
 
 Production music from Epidemicsound.com
 
-:)",https://i.ytimg.com/vi/pHAvy2ldfAA/default.jpg,120,90,https://i.ytimg.com/vi/pHAvy2ldfAA/mqdefault.jpg,320,180,https://i.ytimg.com/vi/pHAvy2ldfAA/hqdefault.jpg,480,360,https://i.ytimg.com/vi/pHAvy2ldfAA/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/pHAvy2ldfAA/maxresdefault.jpg,1280.0,720.0,Wayton Pilkin,"['rocket league', 'rocket league tips', 'wayton', 'rocket league beginner tips', 'rocket league tips for beginners', 'rocket league tutorial', 'rocket league pro', 'free to play', 'new players', 'beginners', 'wayton pilkin', 'how to', 'best tips', 'rlcs', 'tutorial', 'pro', 'pros', 'bronze', 'silver', 'gold', 'platinum', 'plat', 'rank up']",20,none,61 CRITICAL Rocket League Tips For New Players,"This video is the best overall guide to Rocket League for new players. In this video, I go over everything from rotation, to mechanics, settings, training, and so much more! I don’t go in depth on anything because I don’t want this video to be an hour long lol. I do, however, reference a lot of videos here in the description that you can check out if you’d like to dive deeper into any of the topics discussed.
+:)",https://i.ytimg.com/vi/pHAvy2ldfAA/default.jpg,120,90,https://i.ytimg.com/vi/pHAvy2ldfAA/mqdefault.jpg,320,180,https://i.ytimg.com/vi/pHAvy2ldfAA/hqdefault.jpg,480,360,https://i.ytimg.com/vi/pHAvy2ldfAA/sddefault.jpg,640,480,https://i.ytimg.com/vi/pHAvy2ldfAA/maxresdefault.jpg,1280,720,Wayton Pilkin,"['rocket league', 'rocket league tips', 'wayton', 'rocket league beginner tips', 'rocket league tips for beginners', 'rocket league tutorial', 'rocket league pro', 'free to play', 'new players', 'beginners', 'wayton pilkin', 'how to', 'best tips', 'rlcs', 'tutorial', 'pro', 'pros', 'bronze', 'silver', 'gold', 'platinum', 'plat', 'rank up']",20,none,61 CRITICAL Rocket League Tips For New Players,"This video is the best overall guide to Rocket League for new players. In this video, I go over everything from rotation, to mechanics, settings, training, and so much more! I don’t go in depth on anything because I don’t want this video to be an hour long lol. I do, however, reference a lot of videos here in the description that you can check out if you’d like to dive deeper into any of the topics discussed.
 
 TIP #4:
 How To Train Properly: https://youtu.be/7HV8NQyoHdE
@@ -506,7 +506,7 @@ Thanks to Epic Games and Psyonix for the creator code.
 
 Production music from Epidemicsound.com
 
-:)",PT21M33S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,4401273,130132,0,3479,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/pHAvy2ldfAA"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en,en,,,,,,61 CRITICAL Rocket League Tips For New Players,"This video is the best overall guide to Rocket League for new players. In this video, I go over everything from rotation, to mechanics, settings, training, and so much more! I don’t go in depth on anything because I don’t want this video to be an hour long lol. I do, however, reference a lot of videos here in the description that you can check out if you’d like to dive deeper into any of the topics discussed.
+:)",PT21M33S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,4401273,130132,0,3479,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/pHAvy2ldfAA"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en,en,,,,,,61 CRITICAL Rocket League Tips For New Players,"This video is the best overall guide to Rocket League for new players. In this video, I go over everything from rotation, to mechanics, settings, training, and so much more! I don’t go in depth on anything because I don’t want this video to be an hour long lol. I do, however, reference a lot of videos here in the description that you can check out if you’d like to dive deeper into any of the topics discussed.
 
 TIP #4:
 How To Train Properly: https://youtu.be/7HV8NQyoHdE
@@ -569,7 +569,7 @@ Thanks to Epic Games and Psyonix for the creator code.
 
 Production music from Epidemicsound.com
 
-:)",,,,,,
+:)",,,,,,,,yes
 youtube#video,B7MKR4hEu-2X-y1qpwEWTzPVeOo,EhHzJidkydo,2020-10-02T18:56:05Z,UCIPPMRA040LQr5QPyJEbmXA,The Best Rocket League Game Ever!,"This video is sponsored by Epic Games. Play Rocket League for free now! Sign in or create an epic games account and pick which platform you want to play on. #ad
 
 https://www.rocketleague.com/ua/season-1?utm_source=mrbeast&utm_medium=Influencer&utm_campaign=an*Internal_pr*RL_ct*Influencer_co*US_cr* F2PLaunch
@@ -583,7 +583,7 @@ follow all of these or i will kick you
 • Facebook - https://www.facebook.com/MrBeast6000/
 • Twitter - https://twitter.com/MrBeastYT
 •  Instagram - https://www.instagram.com/mrbeast
---------------------------------------------------------------------",https://i.ytimg.com/vi/EhHzJidkydo/default.jpg,120,90,https://i.ytimg.com/vi/EhHzJidkydo/mqdefault.jpg,320,180,https://i.ytimg.com/vi/EhHzJidkydo/hqdefault.jpg,480,360,https://i.ytimg.com/vi/EhHzJidkydo/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/EhHzJidkydo/maxresdefault.jpg,1280.0,720.0,MrBeast Gaming,['#ad'],20,none,The Best Rocket League Game Ever!,"This video is sponsored by Epic Games. Play Rocket League for free now! Sign in or create an epic games account and pick which platform you want to play on. #ad
+--------------------------------------------------------------------",https://i.ytimg.com/vi/EhHzJidkydo/default.jpg,120,90,https://i.ytimg.com/vi/EhHzJidkydo/mqdefault.jpg,320,180,https://i.ytimg.com/vi/EhHzJidkydo/hqdefault.jpg,480,360,https://i.ytimg.com/vi/EhHzJidkydo/sddefault.jpg,640,480,https://i.ytimg.com/vi/EhHzJidkydo/maxresdefault.jpg,1280,720,MrBeast Gaming,['#ad'],20,none,The Best Rocket League Game Ever!,"This video is sponsored by Epic Games. Play Rocket League for free now! Sign in or create an epic games account and pick which platform you want to play on. #ad
 
 https://www.rocketleague.com/ua/season-1?utm_source=mrbeast&utm_medium=Influencer&utm_campaign=an*Internal_pr*RL_ct*Influencer_co*US_cr* F2PLaunch
 SUBSCRIBE OR YOU'LL HAVE BAD LUCK
@@ -596,7 +596,7 @@ follow all of these or i will kick you
 • Facebook - https://www.facebook.com/MrBeast6000/
 • Twitter - https://twitter.com/MrBeastYT
 •  Instagram - https://www.instagram.com/mrbeast
---------------------------------------------------------------------",PT10M2S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,35880245,704847,0,58794,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/EhHzJidkydo"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,,,,,,,,,,,,,,
+--------------------------------------------------------------------",PT10M2S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,35880245,704847,0,58794,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/EhHzJidkydo"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,,,,,,,,,,,,,,,,yes
 youtube#video,R4oPgHeFpJFBEmo-d4gWhlwwvfM,oV8FPQ5uTv8,2022-07-06T14:00:33Z,UCktpnUzA1CI7rWna-Uc0tKA,VERY INTENSE RANKED 1v1 GAMES!,"Please like comment and subscribe! :D
 PS4 CONTROLLER!
 Camera: 109 270 90 -4 .45
@@ -619,7 +619,7 @@ My Socials: https://www.twitch.tv/ayyjayy
                      https://twitter.com/AyyJayyRL
 
 
-#RocketLeague #AYYJAYY",PT14M34S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,16876,766,0,104,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/oV8FPQ5uTv8"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en,,,,,,,,,,,,,,
+#RocketLeague #AYYJAYY",PT14M34S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,16876,766,0,104,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/oV8FPQ5uTv8"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en,,,,,,,,,,,,,,,,yes
 youtube#video,RPiHm4CHTgeY2QsBMAsPTXGQDDQ,9zGXm_Ok66g,2022-07-08T01:03:27Z,UCoyH1b5H0j8RE9dHNWWegVw,EU JOGO E ELA FALA! Fingi ser minha avó de 80 Anos no Rocket League! (Acreditaram),"Itens de Rocket League com os melhores preços: https://rl.exchange/r/NOEX
 Use o código ""Noex"" para ganhar desconto e dar uma força pro canal!!
 
@@ -628,7 +628,7 @@ Instagram: @noexrl
 Twitter: @NoexRl
 
 Meu servidor de Trocas no RL: https://discord.gg/Kr5qSx7QPq
-Email de contato: noexcontato@gmail.com",https://i.ytimg.com/vi/9zGXm_Ok66g/default.jpg,120,90,https://i.ytimg.com/vi/9zGXm_Ok66g/mqdefault.jpg,320,180,https://i.ytimg.com/vi/9zGXm_Ok66g/hqdefault.jpg,480,360,https://i.ytimg.com/vi/9zGXm_Ok66g/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/9zGXm_Ok66g/maxresdefault.jpg,1280.0,720.0,Noex,"['noex', 'noex rl', 'rocket league', 'fingi ser idosa no rocket league', 'rocket league idosa', '80 anos jogando rocket league', 'idosa no rocket league', 'jogando rocket league idosa', 'a pessoa mais velha jogando rocket league', 'pessoa velha no rocekt elague', '90 anos jogando rocket league', 'supersonic legends mais velho', 'supersonic legends mais idoso', 'rocket league idoso', 'idosos no rocket league']",20,none,EU JOGO E ELA FALA! Fingi ser minha avó de 80 Anos no Rocket League! (Acreditaram),"Itens de Rocket League com os melhores preços: https://rl.exchange/r/NOEX
+Email de contato: noexcontato@gmail.com",https://i.ytimg.com/vi/9zGXm_Ok66g/default.jpg,120,90,https://i.ytimg.com/vi/9zGXm_Ok66g/mqdefault.jpg,320,180,https://i.ytimg.com/vi/9zGXm_Ok66g/hqdefault.jpg,480,360,https://i.ytimg.com/vi/9zGXm_Ok66g/sddefault.jpg,640,480,https://i.ytimg.com/vi/9zGXm_Ok66g/maxresdefault.jpg,1280,720,Noex,"['noex', 'noex rl', 'rocket league', 'fingi ser idosa no rocket league', 'rocket league idosa', '80 anos jogando rocket league', 'idosa no rocket league', 'jogando rocket league idosa', 'a pessoa mais velha jogando rocket league', 'pessoa velha no rocekt elague', '90 anos jogando rocket league', 'supersonic legends mais velho', 'supersonic legends mais idoso', 'rocket league idoso', 'idosos no rocket league']",20,none,EU JOGO E ELA FALA! Fingi ser minha avó de 80 Anos no Rocket League! (Acreditaram),"Itens de Rocket League com os melhores preços: https://rl.exchange/r/NOEX
 Use o código ""Noex"" para ganhar desconto e dar uma força pro canal!!
 
 REDES SOCIAIS:
@@ -636,7 +636,7 @@ Instagram: @noexrl
 Twitter: @NoexRl
 
 Meu servidor de Trocas no RL: https://discord.gg/Kr5qSx7QPq
-Email de contato: noexcontato@gmail.com",PT8M36S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,2240,276,0,20,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/9zGXm_Ok66g"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",pt-BR,,,,,,,,,,,,,,
+Email de contato: noexcontato@gmail.com",PT8M36S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,2240,276,0,20,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/9zGXm_Ok66g"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",pt-BR,,,,,,,,,,,,,,,,no
 youtube#video,1V8pCtc4JWlsnnzBR0maie8mujY,VppcaPa6yfY,2022-07-05T15:19:45Z,UCImNSM8Ob7u3XJW50t6WWGg,Rocket League Clutch Moments #4 - Best 0 second Plays!,"▶Hey Penguins! Today our host will present to you the best zero-second and overtime plays in rocket league!
 
 ▶For Cheap Rocket League crates/items/keys, check out: 
@@ -765,7 +765,7 @@ flappers87 -
 kyro38_ - 
 
 ♫ Music:
-Epidemic Sound",PT8M37S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,40782,1017,0,56,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/VppcaPa6yfY"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,en,,,,,,Rocket League Clutch Moments #4 - Best 0 second Plays!,"▶Hey Penguins! Today our host will present to you the best zero-second and overtime plays in rocket league!
+Epidemic Sound",PT8M37S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,40782,1017,0,56,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/VppcaPa6yfY"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,en,,,,,,Rocket League Clutch Moments #4 - Best 0 second Plays!,"▶Hey Penguins! Today our host will present to you the best zero-second and overtime plays in rocket league!
 
 ▶For Cheap Rocket League crates/items/keys, check out: 
 http://bit.ly/Penguin-Aoeah - Buy and sell rocket league items with cash.
@@ -829,7 +829,7 @@ flappers87 -
 kyro38_ - 
 
 ♫ Music:
-Epidemic Sound",,,,,,
+Epidemic Sound",,,,,,,,yes
 youtube#video,MgMfZd9CyCoiCPK5UQw9ElkCWkM,FJcR2FgWid8,2022-06-29T22:01:17Z,UCdKuPY64fEpI4cdlBSyvEJw,RLCS Spring Major | Day 1,"Watch Day 1 of the RLCS Spring Major now!
 
 The RLCS Spring Major is finally here and live from the Copper Box Arena in London, England! Tune in to watch 16 of the best Rocket League teams in the world face off in the final Major of the RLCS 2021-22 Season.
@@ -838,7 +838,7 @@ The RLCS Spring Major is finally here and live from the Copper Box Arena in Lond
 
 The RLCS Spring Major is finally here and live from the Copper Box Arena in London, England! Tune in to watch 16 of the best Rocket League teams in the world face off in the final Major of the RLCS 2021-22 Season.
 
-#RocketLeague #RLCS  #SpringMajor #RLCSSpringMajor",PT6H45M30S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,264615,4013,0,254,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/FJcR2FgWid8"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en,,,,2022-06-29T14:25:45Z,2022-06-29T21:11:08Z,2022-06-29T14:30:00Z,,,,,,,,
+#RocketLeague #RLCS  #SpringMajor #RLCSSpringMajor",PT6H45M30S,2d,hd,FALSE,FALSE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,264615,4013,0,254,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/FJcR2FgWid8"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en,,,,2022-06-29T14:25:45Z,2022-06-29T21:11:08Z,2022-06-29T14:30:00Z,,,,,,,,,,yes
 youtube#video,o8EdjnQRY-3kD9OJC7SlHbZSJQY,2cAu0q7jqHI,2022-04-14T19:50:48Z,UCRi4YlWuLFCucOx_rk-ddsg,What RANK 1 GLOBAL gameplay looks like (Rocket League),"What RANK 1 GLOBAL gameplay looks like (Rocket League)
 
 ApparentlyJack here, in this Rocket League YouTube Video I try to extend my lead as the Rank 1 player in the world. I play against Rezears, a former rank 1 player in Rocket League.
@@ -858,7 +858,7 @@ ApparentlyJack is a Professional Rocket League player for Dignitas. Dignitas is 
 
 Music from EpidemicSound and Artlist.io.
 
-#RocketLeague #ApparentlyJack #Rezears",https://i.ytimg.com/vi/2cAu0q7jqHI/default.jpg,120,90,https://i.ytimg.com/vi/2cAu0q7jqHI/mqdefault.jpg,320,180,https://i.ytimg.com/vi/2cAu0q7jqHI/hqdefault.jpg,480,360,https://i.ytimg.com/vi/2cAu0q7jqHI/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/2cAu0q7jqHI/maxresdefault.jpg,1280.0,720.0,ApparentlyJack,,20,none,What RANK 1 GLOBAL gameplay looks like (Rocket League),"What RANK 1 GLOBAL gameplay looks like (Rocket League)
+#RocketLeague #ApparentlyJack #Rezears",https://i.ytimg.com/vi/2cAu0q7jqHI/default.jpg,120,90,https://i.ytimg.com/vi/2cAu0q7jqHI/mqdefault.jpg,320,180,https://i.ytimg.com/vi/2cAu0q7jqHI/hqdefault.jpg,480,360,https://i.ytimg.com/vi/2cAu0q7jqHI/sddefault.jpg,640,480,https://i.ytimg.com/vi/2cAu0q7jqHI/maxresdefault.jpg,1280,720,ApparentlyJack,,20,none,What RANK 1 GLOBAL gameplay looks like (Rocket League),"What RANK 1 GLOBAL gameplay looks like (Rocket League)
 
 ApparentlyJack here, in this Rocket League YouTube Video I try to extend my lead as the Rank 1 player in the world. I play against Rezears, a former rank 1 player in Rocket League.
 
@@ -877,7 +877,7 @@ ApparentlyJack is a Professional Rocket League player for Dignitas. Dignitas is 
 
 Music from EpidemicSound and Artlist.io.
 
-#RocketLeague #ApparentlyJack #Rezears",PT30M47S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,275749,7405,0,321,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/2cAu0q7jqHI"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en,,,,,,,,,,,,,,
+#RocketLeague #ApparentlyJack #Rezears",PT30M47S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,275749,7405,0,321,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/2cAu0q7jqHI"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en,,,,,,,,,,,,,,,,yes
 youtube#video,xJhchPq4K1NPa_1BcSzq-fu80SQ,XhrpsosxUvc,2022-06-06T15:00:29Z,UCd1A9A5JGDtLxCrc59yHncg,50 Rocket League Tips from Beginner to Advanced,"50 Rocket League Tips from Beginner to Advanced. Today we will be going over 50 rocket league tips to help all players, for those of you beginner rocket players all the way up to those of you with thousands of hours in rocket league. If you are looking to rank up or improve in rocket league in general then these rocket league tips will help!
 
 Ground Shots Training Pack Code
@@ -916,7 +916,7 @@ This has been Thanovic
 I'll see ya next time
 
 
-#RocketLeague #Thanovic #tips",https://i.ytimg.com/vi/XhrpsosxUvc/default.jpg,120,90,https://i.ytimg.com/vi/XhrpsosxUvc/mqdefault.jpg,320,180,https://i.ytimg.com/vi/XhrpsosxUvc/hqdefault.jpg,480,360,https://i.ytimg.com/vi/XhrpsosxUvc/sddefault.jpg,640.0,480.0,,,,Thanovic,"['50 Rocket League Tips from Beginner to Advanced', 'rocket league tips for beginners', 'rocket league tips beginner to advanced', 'rocket league', 'rocket league tips', 'rocket league rank up', 'rocket league improve', 'how to rank up rocket league', 'rank up rocket league', 'tips', 'rocket', 'league', 'thanovic', 'tips to improve rocket league', 'rocket league tutorial', 'thanovic tips', 'RL tips', 'how to get to ssl', 'how to get to ssl rocket league', 'how to get to ssl from gc']",20,none,50 Rocket League Tips from Beginner to Advanced,"50 Rocket League Tips from Beginner to Advanced. Today we will be going over 50 rocket league tips to help all players, for those of you beginner rocket players all the way up to those of you with thousands of hours in rocket league. If you are looking to rank up or improve in rocket league in general then these rocket league tips will help!
+#RocketLeague #Thanovic #tips",https://i.ytimg.com/vi/XhrpsosxUvc/default.jpg,120,90,https://i.ytimg.com/vi/XhrpsosxUvc/mqdefault.jpg,320,180,https://i.ytimg.com/vi/XhrpsosxUvc/hqdefault.jpg,480,360,https://i.ytimg.com/vi/XhrpsosxUvc/sddefault.jpg,640,480,,,,Thanovic,"['50 Rocket League Tips from Beginner to Advanced', 'rocket league tips for beginners', 'rocket league tips beginner to advanced', 'rocket league', 'rocket league tips', 'rocket league rank up', 'rocket league improve', 'how to rank up rocket league', 'rank up rocket league', 'tips', 'rocket', 'league', 'thanovic', 'tips to improve rocket league', 'rocket league tutorial', 'thanovic tips', 'RL tips', 'how to get to ssl', 'how to get to ssl rocket league', 'how to get to ssl from gc']",20,none,50 Rocket League Tips from Beginner to Advanced,"50 Rocket League Tips from Beginner to Advanced. Today we will be going over 50 rocket league tips to help all players, for those of you beginner rocket players all the way up to those of you with thousands of hours in rocket league. If you are looking to rank up or improve in rocket league in general then these rocket league tips will help!
 
 Ground Shots Training Pack Code
 9472-6A26-7F5D-767B
@@ -954,7 +954,7 @@ This has been Thanovic
 I'll see ya next time
 
 
-#RocketLeague #Thanovic #tips",PT19M43S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,134105,6352,0,324,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/XhrpsosxUvc"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,,,,,,,,,,,,,,
+#RocketLeague #Thanovic #tips",PT19M43S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,134105,6352,0,324,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/XhrpsosxUvc"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,,,,,,,,,,,,,,,,yes
 youtube#video,YkBjLbVuJ91GCLQiA2TGBoCeBAs,_05K2cO8neE,2022-02-27T15:00:21Z,UCImNSM8Ob7u3XJW50t6WWGg,Rocket league Clutch Moments #2 - Best 0 second Plays!,"▶Hey Penguins! Today our host Chowson13 will present to you the best zero seconds play in rocket league!
 I hope you guys enjoy the video, like and subscribe for more!
 
@@ -1019,7 +1019,7 @@ Pexodroo921 -
 Arsenal - 
 
 ♫ Music:
-Epidemic Sound",https://i.ytimg.com/vi/_05K2cO8neE/default.jpg,120,90,https://i.ytimg.com/vi/_05K2cO8neE/mqdefault.jpg,320,180,https://i.ytimg.com/vi/_05K2cO8neE/hqdefault.jpg,480,360,https://i.ytimg.com/vi/_05K2cO8neE/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/_05K2cO8neE/maxresdefault.jpg,1280.0,720.0,PNation,"['PNation', 'pnation rocket league', 'rocket league funny moments', 'rocket league fails', 'rocket league best moments', 'flip reset rocket league', 'best of pnation', 'Rocket League Fails and Epic Moments', 'rocket league funny moments compilation', 'this is rocket league', 'rocket league', 'p nation', 'best rocket league goals', 'rocket league memes', 'clutch rocket league moments', 'rocket league greatest 0 second plays ever', '0 second goal rocket league rlcs', '0 second goal rocket league', 'air dribble']",20,none,Rocket league Clutch Moments #2 - Best 0 second Plays!,"▶Hey Penguins! Today our host Chowson13 will present to you the best zero seconds play in rocket league!
+Epidemic Sound",https://i.ytimg.com/vi/_05K2cO8neE/default.jpg,120,90,https://i.ytimg.com/vi/_05K2cO8neE/mqdefault.jpg,320,180,https://i.ytimg.com/vi/_05K2cO8neE/hqdefault.jpg,480,360,https://i.ytimg.com/vi/_05K2cO8neE/sddefault.jpg,640,480,https://i.ytimg.com/vi/_05K2cO8neE/maxresdefault.jpg,1280,720,PNation,"['PNation', 'pnation rocket league', 'rocket league funny moments', 'rocket league fails', 'rocket league best moments', 'flip reset rocket league', 'best of pnation', 'Rocket League Fails and Epic Moments', 'rocket league funny moments compilation', 'this is rocket league', 'rocket league', 'p nation', 'best rocket league goals', 'rocket league memes', 'clutch rocket league moments', 'rocket league greatest 0 second plays ever', '0 second goal rocket league rlcs', '0 second goal rocket league', 'air dribble']",20,none,Rocket league Clutch Moments #2 - Best 0 second Plays!,"▶Hey Penguins! Today our host Chowson13 will present to you the best zero seconds play in rocket league!
 I hope you guys enjoy the video, like and subscribe for more!
 
 ▶For Cheap Rocket League crates/items/keys, check out: 
@@ -1083,7 +1083,7 @@ Pexodroo921 -
 Arsenal - 
 
 ♫ Music:
-Epidemic Sound",PT8M14S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,769478,8930,0,145,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/_05K2cO8neE"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,en,,,,,,Rocket league Clutch Moments #2 - Best 0 second Plays!,"▶Hey Penguins! Today our host Chowson13 will present to you the best zero seconds play in rocket league!
+Epidemic Sound",PT8M14S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,769478,8930,0,145,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/_05K2cO8neE"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,en,,,,,,Rocket league Clutch Moments #2 - Best 0 second Plays!,"▶Hey Penguins! Today our host Chowson13 will present to you the best zero seconds play in rocket league!
 I hope you guys enjoy the video, like and subscribe for more!
 
 ▶For Cheap Rocket League crates/items/keys, check out: 
@@ -1147,7 +1147,7 @@ Pexodroo921 -
 Arsenal - 
 
 ♫ Music:
-Epidemic Sound",,,,,,
+Epidemic Sound",,,,,,,,yes
 youtube#video,hUnAsBpGsi1kYXzptZNRKRTYubQ,W_UWmUt_RBY,2022-06-27T14:32:03Z,UCD922LlbSe1BF_ddDBYm80Q,Rocket League Players vs the Rank They Were Before They Quit,"Check out the new Thrustmaster Eswap S Pro Controller, now available at https://amzn.to/3Or5qS1
 
 Have you quit rocket league? Many people have throughout the years and they've left their rank behind. Platinum and diamonds never make it to champ or grand champ and mechanics might disappear. Today we test rocket league players vs the rank they were before they quit. The first thing that might go away after not playing for over a year is probably mechanics and skill. Will our players be able to maintain enough game knowledge to potentially win?
@@ -1202,7 +1202,7 @@ Production music from https://www.epidemicsound.com
 
 Check out this video! - https://youtu.be/hhdrUNAYwXs
 
-#cbell #rocketleague",PT17M37S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,201497,10502,0,787,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/W_UWmUt_RBY"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,,,,,,,,,,,,,,
+#cbell #rocketleague",PT17M37S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,201497,10502,0,787,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/W_UWmUt_RBY"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,,,,,,,,,,,,,,,,yes
 youtube#video,2o_cUaVLi_0lfMpY0tAFqrJx4XM,sPOUdDXpSl8,2022-06-17T15:27:21Z,UCocHtA1ADT6kTObipYzJoww,The new Rocket League update has one fatal flaw,"Season 7 brings glitz and glamour to Rocket League, but it also brings one slight problem.
 
 Make sure to check out @Rizzo 
@@ -1241,7 +1241,7 @@ Like the music on my channel? Here's a Spotify playlist of some of my favorites:
 
 Production music from Epidemicsound.com
 
-#rocketleague #sunlesskhan",PT13M46S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,648266,26879,0,1583,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/sPOUdDXpSl8"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en-US,en-US,,,,,,,,The new Rocket League update has one fatal flaw,"Season 7 brings glitz and glamour to Rocket League, but it also brings one slight problem.
+#rocketleague #sunlesskhan",PT13M46S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,648266,26879,0,1583,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/sPOUdDXpSl8"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en-US,en-US,,,,,,,,The new Rocket League update has one fatal flaw,"Season 7 brings glitz and glamour to Rocket League, but it also brings one slight problem.
 
 Make sure to check out @Rizzo 
 Outro song: Ebo Krdum - Nedaal
@@ -1260,7 +1260,7 @@ Like the music on my channel? Here's a Spotify playlist of some of my favorites:
 
 Production music from Epidemicsound.com
 
-#rocketleague #sunlesskhan",,,,
+#rocketleague #sunlesskhan",,,,,,yes
 youtube#video,M_6Ok8wu5fbczp0GkpmK_4O-owc,4J7d_uDvrvM,2021-05-17T05:54:36Z,UCliniROQynmFzfJFLFhosjg,I 2v2'd Every Rank in Rocket League: Which is the best?,"I played a game of 2v2 in EVERY rank of Rocket League from Bronze to Supersonic Legend and even Pro players...
 
 Special thanks to:
@@ -1280,7 +1280,7 @@ Twitch: https://www.twitch.tv/mrnapkinn
 Instagram: https://www.instagram.com/jariassss
 #MrNapkin #RocketLeague
 
-Music by Epidemic Sound",https://i.ytimg.com/vi/4J7d_uDvrvM/default.jpg,120,90,https://i.ytimg.com/vi/4J7d_uDvrvM/mqdefault.jpg,320,180,https://i.ytimg.com/vi/4J7d_uDvrvM/hqdefault.jpg,480,360,https://i.ytimg.com/vi/4J7d_uDvrvM/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/4J7d_uDvrvM/maxresdefault.jpg,1280.0,720.0,Mr-Napkin,"['rocket league', 'rocket league tips', 'mr-napkin', 'ssl', 'rocket league 2v2', '2v2 every rank in rocket league', 'which is the best', '1v1 every rank in rocket league', 'bronze to ssl', 'bronze to supersonic legend', 'rocket league every rank', 'rocket league every rank gameplay']",20,none,I 2v2'd Every Rank in Rocket League: Which is the best?,"I played a game of 2v2 in EVERY rank of Rocket League from Bronze to Supersonic Legend and even Pro players...
+Music by Epidemic Sound",https://i.ytimg.com/vi/4J7d_uDvrvM/default.jpg,120,90,https://i.ytimg.com/vi/4J7d_uDvrvM/mqdefault.jpg,320,180,https://i.ytimg.com/vi/4J7d_uDvrvM/hqdefault.jpg,480,360,https://i.ytimg.com/vi/4J7d_uDvrvM/sddefault.jpg,640,480,https://i.ytimg.com/vi/4J7d_uDvrvM/maxresdefault.jpg,1280,720,Mr-Napkin,"['rocket league', 'rocket league tips', 'mr-napkin', 'ssl', 'rocket league 2v2', '2v2 every rank in rocket league', 'which is the best', '1v1 every rank in rocket league', 'bronze to ssl', 'bronze to supersonic legend', 'rocket league every rank', 'rocket league every rank gameplay']",20,none,I 2v2'd Every Rank in Rocket League: Which is the best?,"I played a game of 2v2 in EVERY rank of Rocket League from Bronze to Supersonic Legend and even Pro players...
 
 Special thanks to:
 @FaZe Gyro 
@@ -1299,7 +1299,7 @@ Twitch: https://www.twitch.tv/mrnapkinn
 Instagram: https://www.instagram.com/jariassss
 #MrNapkin #RocketLeague
 
-Music by Epidemic Sound",PT20M40S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,2071627,64888,0,1793,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/4J7d_uDvrvM"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en-US,,,,,,,,,,,,,,
+Music by Epidemic Sound",PT20M40S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,2071627,64888,0,1793,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/4J7d_uDvrvM"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en-US,,,,,,,,,,,,,,,,yes
 youtube#video,HAWXtyN_Yj6L3Kg8z6S9_BDq_YU,zkL__Y23st0,2022-02-25T17:00:44Z,UCkNYoWK1LqjFhxYI6BM_kOA,This Diamond claims he's UNBEATABLE... is he right?,"My Support-A-Creator Code: LETHAMYR
 Apply the code it in the Rocket League store to support me! (top right of the store)
 
@@ -1349,7 +1349,7 @@ Editors:
 Daily Videos & Facebook Videos: https://twitter.com/DannyLotusTV
 Highlights & Occassional Daily Videos: https://twitter.com/TRev21RL
 
-#Lethamyr #Leth #RocketLeague",https://i.ytimg.com/vi/zkL__Y23st0/default.jpg,120,90,https://i.ytimg.com/vi/zkL__Y23st0/mqdefault.jpg,320,180,https://i.ytimg.com/vi/zkL__Y23st0/hqdefault.jpg,480,360,https://i.ytimg.com/vi/zkL__Y23st0/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/zkL__Y23st0/maxresdefault.jpg,1280.0,720.0,Lethamyr,"['Rocket', 'League', 'Lethamyr', 'Pro', 'Leth', 'Grand', 'Champion', 'Champ', 'GC', 'RLCS', 'Pros', '1v1', '1s', 'Doubles', 'Squishy', 'Muffinz', 'Sunlesskhan', 'Fluump', 'Mertzy', 'Linkuru', 'Johnnyboi', 'amustycow', 'Musty', 'Jon', 'Sandman', 'Cizzorz', 'Squishymuffinz', 'Scrub', 'Killa', 'New', 'Custom', 'Maps', 'Road', 'To', 'Rank 1', 'Rizzo', 'Sizz', 'CBell', 'Supersonic', 'Legend', 'Free', 'Play', 'Update', 'Season', 'Brand', 'Map', 'Modded', 'Modding', 'Jstn', 'NRG', 'SSG', 'Best', 'RL', 'Top', 'SSL', 'Spacestation', 'Gaming', 'Arsenal', 'Sunless', 'Side', 'Swipe', 'Sideswipe', 'Striped', 'JZR', 'This', 'Diamond', 'Claims']",20,none,This Diamond claims he's UNBEATABLE... is he right?,"My Support-A-Creator Code: LETHAMYR
+#Lethamyr #Leth #RocketLeague",https://i.ytimg.com/vi/zkL__Y23st0/default.jpg,120,90,https://i.ytimg.com/vi/zkL__Y23st0/mqdefault.jpg,320,180,https://i.ytimg.com/vi/zkL__Y23st0/hqdefault.jpg,480,360,https://i.ytimg.com/vi/zkL__Y23st0/sddefault.jpg,640,480,https://i.ytimg.com/vi/zkL__Y23st0/maxresdefault.jpg,1280,720,Lethamyr,"['Rocket', 'League', 'Lethamyr', 'Pro', 'Leth', 'Grand', 'Champion', 'Champ', 'GC', 'RLCS', 'Pros', '1v1', '1s', 'Doubles', 'Squishy', 'Muffinz', 'Sunlesskhan', 'Fluump', 'Mertzy', 'Linkuru', 'Johnnyboi', 'amustycow', 'Musty', 'Jon', 'Sandman', 'Cizzorz', 'Squishymuffinz', 'Scrub', 'Killa', 'New', 'Custom', 'Maps', 'Road', 'To', 'Rank 1', 'Rizzo', 'Sizz', 'CBell', 'Supersonic', 'Legend', 'Free', 'Play', 'Update', 'Season', 'Brand', 'Map', 'Modded', 'Modding', 'Jstn', 'NRG', 'SSG', 'Best', 'RL', 'Top', 'SSL', 'Spacestation', 'Gaming', 'Arsenal', 'Sunless', 'Side', 'Swipe', 'Sideswipe', 'Striped', 'JZR', 'This', 'Diamond', 'Claims']",20,none,This Diamond claims he's UNBEATABLE... is he right?,"My Support-A-Creator Code: LETHAMYR
 Apply the code it in the Rocket League store to support me! (top right of the store)
 
 Check out my NEW Facebook Gaming Page! 20 Exclusive videos a MONTH over there! https://www.facebook.com/people/Lethamyr/100075498848034/
@@ -1398,7 +1398,7 @@ Editors:
 Daily Videos & Facebook Videos: https://twitter.com/DannyLotusTV
 Highlights & Occassional Daily Videos: https://twitter.com/TRev21RL
 
-#Lethamyr #Leth #RocketLeague",PT15M15S,2d,hd,false,True,rectangular,processed,public,creativeCommon,True,True,False,1056630,24059,0,644,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/zkL__Y23st0"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en,,,,,,,,,,,,,,
+#Lethamyr #Leth #RocketLeague",PT15M15S,2d,hd,FALSE,TRUE,rectangular,processed,public,creativeCommon,TRUE,TRUE,FALSE,1056630,24059,0,644,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/zkL__Y23st0"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en,,,,,,,,,,,,,,,,yes
 youtube#video,JYPkaFrpvmSQR-XV0UPE-7Aeqj0,bphvPZQlvoc,2022-06-25T16:00:30Z,UCkNYoWK1LqjFhxYI6BM_kOA,"To get better at Rocket League, all you have to do is","My Support-A-Creator Code: LETHAMYR
 Apply the code it in the Rocket League store to support me! (top right of the store)
 
@@ -1495,7 +1495,7 @@ Editors:
 Daily Videos & Facebook Videos: https://twitter.com/DannyLotusTV
 Highlights & Occasional Daily Videos: https://twitter.com/TRev21RL
 
-#Lethamyr #Leth #RocketLeague",PT22M46S,2d,hd,false,True,rectangular,processed,public,creativeCommon,True,True,False,76908,2736,0,128,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/bphvPZQlvoc"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en,,,,,,,,,,,,,,
+#Lethamyr #Leth #RocketLeague",PT22M46S,2d,hd,FALSE,TRUE,rectangular,processed,public,creativeCommon,TRUE,TRUE,FALSE,76908,2736,0,128,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/bphvPZQlvoc"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en,,,,,,,,,,,,,,,,yes
 youtube#video,3NSCNNQlvNM_KbOFrSoTHs3o5XA,SYNCHHyi_Vw,2022-06-19T16:00:13Z,UC1GFqqHIBaiCW1ivJJCFTvg,"A trash talker challenged me to another $1,000 1v1 in Rocket League","My arch nemesis and long time rival, @Spoodah challenged me to a 1v1 in Rocket League with $1,000 on the line...... watch the WHOLE video (or else) 🔫🔫🔫🔫
 
 To see how we got here, watch these 2 videos (or else) 🔫🔫🔫🔫
@@ -1521,7 +1521,7 @@ TikTok: https://www.tiktok.com/@amustycow
 
 Car Colors and Settings: https://youtu.be/6sSVgS3zYRM
 
-Edited by kdence. https://twitter.com/thekdence",https://i.ytimg.com/vi/SYNCHHyi_Vw/default.jpg,120,90,https://i.ytimg.com/vi/SYNCHHyi_Vw/mqdefault.jpg,320,180,https://i.ytimg.com/vi/SYNCHHyi_Vw/hqdefault.jpg,480,360,https://i.ytimg.com/vi/SYNCHHyi_Vw/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/SYNCHHyi_Vw/maxresdefault.jpg,1280.0,720.0,amustycow,"['Rocket League Musty Flick', 'Musty Flick Rocket League', 'amustycow', 'Rocket League Mechanics', 'Rocket League tutorial', 'Rocket League', 'rocket league trash talker', 'trash talker rocket league', 'musty vs trash talker', 'musty trash talk', 'spoodah vs musty', 'musty vs spoodah', 'musty 1000 dollar 1v1', 'rocket league 1v1', 'rocket league 1v1 gameplay', 'musty 1v1', '1v1 rocket league', '1v1 rocket league trash talker', 'trash talker 1v1', 'trash talker 1v1 rocket league', '1000 dollar 1v1', 'musty 1000 1v1']",20,none,"A trash talker challenged me to another $1,000 1v1 in Rocket League","My arch nemesis and long time rival, @Spoodah challenged me to a 1v1 in Rocket League with $1,000 on the line...... watch the WHOLE video (or else) 🔫🔫🔫🔫
+Edited by kdence. https://twitter.com/thekdence",https://i.ytimg.com/vi/SYNCHHyi_Vw/default.jpg,120,90,https://i.ytimg.com/vi/SYNCHHyi_Vw/mqdefault.jpg,320,180,https://i.ytimg.com/vi/SYNCHHyi_Vw/hqdefault.jpg,480,360,https://i.ytimg.com/vi/SYNCHHyi_Vw/sddefault.jpg,640,480,https://i.ytimg.com/vi/SYNCHHyi_Vw/maxresdefault.jpg,1280,720,amustycow,"['Rocket League Musty Flick', 'Musty Flick Rocket League', 'amustycow', 'Rocket League Mechanics', 'Rocket League tutorial', 'Rocket League', 'rocket league trash talker', 'trash talker rocket league', 'musty vs trash talker', 'musty trash talk', 'spoodah vs musty', 'musty vs spoodah', 'musty 1000 dollar 1v1', 'rocket league 1v1', 'rocket league 1v1 gameplay', 'musty 1v1', '1v1 rocket league', '1v1 rocket league trash talker', 'trash talker 1v1', 'trash talker 1v1 rocket league', '1000 dollar 1v1', 'musty 1000 1v1']",20,none,"A trash talker challenged me to another $1,000 1v1 in Rocket League","My arch nemesis and long time rival, @Spoodah challenged me to a 1v1 in Rocket League with $1,000 on the line...... watch the WHOLE video (or else) 🔫🔫🔫🔫
 
 To see how we got here, watch these 2 videos (or else) 🔫🔫🔫🔫
 first video: https://youtu.be/kX7fTY8KViY
@@ -1546,7 +1546,7 @@ TikTok: https://www.tiktok.com/@amustycow
 
 Car Colors and Settings: https://youtu.be/6sSVgS3zYRM
 
-Edited by kdence. https://twitter.com/thekdence",PT8M51S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,340320,18244,0,539,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/SYNCHHyi_Vw"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,,,,,,,,,,,,,,
+Edited by kdence. https://twitter.com/thekdence",PT8M51S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,340320,18244,0,539,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/SYNCHHyi_Vw"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,,,,,,,,,,,,,,,,yes
 youtube#video,EIjMjyqCBE3PzkcJQiKzgAFtLbw,ApO2tWY06XA,2022-07-05T22:00:06Z,UC1JPEwMqLaI96qRUKNp3_ow,INSANE 200IQ 1V3... | Grinding for the RLCS World Championship | Supersonic Legend | Rocket League,"Twitter
 https://twitter.com/SquishyMuffinz
 
@@ -1584,7 +1584,7 @@ Hope you guys enjoy!!!
 
 
 
-#SquishyMuffinz​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ #RocketLeague​​​​​​​​​​​",https://i.ytimg.com/vi/ApO2tWY06XA/default.jpg,120,90,https://i.ytimg.com/vi/ApO2tWY06XA/mqdefault.jpg,320,180,https://i.ytimg.com/vi/ApO2tWY06XA/hqdefault.jpg,480,360,https://i.ytimg.com/vi/ApO2tWY06XA/sddefault.jpg,640.0,480.0,,,,SquishyMuffinz,"['Professional Rocket League', 'Squishy', 'Rocket League Analysis', 'Mechanical Player', 'SquishyMuffinz', 'Smart Game Play', 'RLCS World Champion', 'Rocket League Training', 'Professional Game Play Analysis', 'NRG Esports', 'NRG Squishy', 'Free rocket league coaching', 'free rocket league tips', 'professional rocket league coaching', 'gaming tips and tricks', 'improve rocket league game play', 'supersonic legend', 'ssl', 'epic gaming']",20,none,INSANE 200IQ 1V3... | Grinding for the RLCS World Championship | Supersonic Legend | Rocket League,"Twitter
+#SquishyMuffinz​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ #RocketLeague​​​​​​​​​​​",https://i.ytimg.com/vi/ApO2tWY06XA/default.jpg,120,90,https://i.ytimg.com/vi/ApO2tWY06XA/mqdefault.jpg,320,180,https://i.ytimg.com/vi/ApO2tWY06XA/hqdefault.jpg,480,360,https://i.ytimg.com/vi/ApO2tWY06XA/sddefault.jpg,640,480,,,,SquishyMuffinz,"['Professional Rocket League', 'Squishy', 'Rocket League Analysis', 'Mechanical Player', 'SquishyMuffinz', 'Smart Game Play', 'RLCS World Champion', 'Rocket League Training', 'Professional Game Play Analysis', 'NRG Esports', 'NRG Squishy', 'Free rocket league coaching', 'free rocket league tips', 'professional rocket league coaching', 'gaming tips and tricks', 'improve rocket league game play', 'supersonic legend', 'ssl', 'epic gaming']",20,none,INSANE 200IQ 1V3... | Grinding for the RLCS World Championship | Supersonic Legend | Rocket League,"Twitter
 https://twitter.com/SquishyMuffinz
 
 Follow me on Twitch and get notified when I go live! 
@@ -1621,7 +1621,7 @@ Hope you guys enjoy!!!
 
 
 
-#SquishyMuffinz​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ #RocketLeague​​​​​​​​​​​",PT13M37S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,107817,4612,0,182,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/ApO2tWY06XA"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,,,,,,,,,,,,,,
+#SquishyMuffinz​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ #RocketLeague​​​​​​​​​​​",PT13M37S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,107817,4612,0,182,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/ApO2tWY06XA"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,,,,,,,,,,,,,,,,yes
 youtube#video,Rpf-Y1KJQOWCQMVBvQ5SyJ_7k8Q,DnmZqxDPvlI,2022-06-30T14:30:02Z,UCJI-evgSEVjMHu_kDi-Buew,Someone made a bot for EVERY rank in Rocket League,"Check out the new Thrustmaster Eswap S Pro Controller, now available at https://amzn.to/3LcrePy
 
 Rocket League bots have finally reached a whole new level. There is now a bot for every rank in Rocket League (except SSL) and they are taking over the game. So, I decided to figure how accurate these bots are by facing them against their corresponding rank. Of course, I had to throw in Nexto for the GC too. 
@@ -1662,7 +1662,7 @@ Production Music: https://www.epidemicsound.com
 Thumbnail Artist: http://twitter.com/Totema_art
 
 
-#RocketLeague #Striped",PT14M59S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,134000,5299,0,532,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/DnmZqxDPvlI"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,,,,,,,,,,,,,,
+#RocketLeague #Striped",PT14M59S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,134000,5299,0,532,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/DnmZqxDPvlI"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,,,,,,,,,,,,,,,,yes
 youtube#video,elVCBDFDrsz-Q8saGsHH2zXtNsg,-mZtwu6Ofrk,2022-07-02T21:00:01Z,UC1JPEwMqLaI96qRUKNp3_ow,You won't believe how I won this game... | Road to RANK #1 | Supersonic Legend 2v2/3v3,"Twitter
 https://twitter.com/SquishyMuffinz
 
@@ -1700,7 +1700,7 @@ Hope you guys enjoy!!!
 
 
 
-#SquishyMuffinz​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ #RocketLeague​​​​​​​​​​​",https://i.ytimg.com/vi/-mZtwu6Ofrk/default.jpg,120,90,https://i.ytimg.com/vi/-mZtwu6Ofrk/mqdefault.jpg,320,180,https://i.ytimg.com/vi/-mZtwu6Ofrk/hqdefault.jpg,480,360,https://i.ytimg.com/vi/-mZtwu6Ofrk/sddefault.jpg,640.0,480.0,,,,SquishyMuffinz,"['Professional Rocket League', 'Squishy', 'Rocket League Analysis', 'Mechanical Player', 'SquishyMuffinz', 'Smart Game Play', 'RLCS World Champion', 'Rocket League Training', 'Professional Game Play Analysis', 'NRG Esports', 'NRG Squishy', 'Free rocket league coaching', 'free rocket league tips', 'professional rocket league coaching', 'gaming tips and tricks', 'improve rocket league game play', 'supersonic legend', 'ssl', 'epic gaming']",20,none,You won't believe how I won this game... | Road to RANK #1 | Supersonic Legend 2v2/3v3,"Twitter
+#SquishyMuffinz​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ #RocketLeague​​​​​​​​​​​",https://i.ytimg.com/vi/-mZtwu6Ofrk/default.jpg,120,90,https://i.ytimg.com/vi/-mZtwu6Ofrk/mqdefault.jpg,320,180,https://i.ytimg.com/vi/-mZtwu6Ofrk/hqdefault.jpg,480,360,https://i.ytimg.com/vi/-mZtwu6Ofrk/sddefault.jpg,640,480,,,,SquishyMuffinz,"['Professional Rocket League', 'Squishy', 'Rocket League Analysis', 'Mechanical Player', 'SquishyMuffinz', 'Smart Game Play', 'RLCS World Champion', 'Rocket League Training', 'Professional Game Play Analysis', 'NRG Esports', 'NRG Squishy', 'Free rocket league coaching', 'free rocket league tips', 'professional rocket league coaching', 'gaming tips and tricks', 'improve rocket league game play', 'supersonic legend', 'ssl', 'epic gaming']",20,none,You won't believe how I won this game... | Road to RANK #1 | Supersonic Legend 2v2/3v3,"Twitter
 https://twitter.com/SquishyMuffinz
 
 Follow me on Twitch and get notified when I go live! 
@@ -1737,7 +1737,7 @@ Hope you guys enjoy!!!
 
 
 
-#SquishyMuffinz​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ #RocketLeague​​​​​​​​​​​",PT13M16S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,135484,4924,0,181,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/-mZtwu6Ofrk"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,,,,,,,,,,,,,,
+#SquishyMuffinz​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ #RocketLeague​​​​​​​​​​​",PT13M16S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,135484,4924,0,181,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/-mZtwu6Ofrk"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,,,,,,,,,,,,,,,,yes
 youtube#video,j5gYuHtnh1Mjpbq9wEdJUYdgooE,NoCY9iimFBw,2022-06-30T18:32:40Z,UCdKuPY64fEpI4cdlBSyvEJw,RLCS Spring Major | Lower Round 1 | Day 2,"Watch Day 2 of the RLCS Spring Major now!
 
 The RLCS Spring Major is finally here and live from the Copper Box Arena in London, England! Today's Lower Round 1 matches decide who lives to fight another day and who will be sent packing for home. Don't miss a play!
@@ -1746,7 +1746,7 @@ The RLCS Spring Major is finally here and live from the Copper Box Arena in Lond
 
 The RLCS Spring Major is finally here and live from the Copper Box Arena in London, England! Today's Lower Round 1 matches decide who lives to fight another day and who will be sent packing for home. Don't miss a play!
 
-#RocketLeague #RLCS  #SpringMajor #RLCSSpringMajor",PT3H48M38S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,154341,2680,0,439,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/NoCY9iimFBw"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en,,,,2022-06-30T14:25:51Z,2022-06-30T18:14:22Z,2022-06-30T14:30:00Z,,,,,,,,
+#RocketLeague #RLCS  #SpringMajor #RLCSSpringMajor",PT3H48M38S,2d,hd,FALSE,FALSE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,154341,2680,0,439,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/NoCY9iimFBw"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en,,,,2022-06-30T14:25:51Z,2022-06-30T18:14:22Z,2022-06-30T14:30:00Z,,,,,,,,,,yes
 youtube#video,rMpDMlVTz2YlERkgmnrolXLNvBk,EiIatLhW6V0,2022-07-08T12:00:09Z,UChmsRVLUhbcwoeU8T37ZS2Q,"*New Season 4* 100,000 SP Opening in Rocket League Sideswipe","I AM LIVE RIGHT NOW:
 https://linktr.ee/babyyoda_tv
 
@@ -1817,7 +1817,7 @@ EVERYTHING:
 https://linktr.ee/babyyoda_tv
 
 
-#season4  #rocketleague  #sideswipe",PT10M18S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,1043,110,0,29,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/EiIatLhW6V0"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,,,,,,,,,,,,,,
+#season4  #rocketleague  #sideswipe",PT10M18S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,1043,110,0,29,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/EiIatLhW6V0"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,,,,,,,,,,,,,,,,yes
 youtube#video,2op4O_Wv0UAauHRrR7h_Af2UJbQ,nmMqnyqviu4,2022-04-08T16:00:32Z,UCkNYoWK1LqjFhxYI6BM_kOA,This is proof that the Rocket League pros are on ANOTHER LEVEL,"My Support-A-Creator Code: LETHAMYR
 Apply the code it in the Rocket League store to support me! (top right of the store)
 
@@ -1918,7 +1918,7 @@ Editors:
 Daily Videos & Facebook Videos: https://twitter.com/DannyLotusTV
 Highlights & Occassional Daily Videos: https://twitter.com/TRev21RL
 
-#Lethamyr #Leth #RocketLeague",PT24M17S,2d,hd,false,True,rectangular,processed,public,creativeCommon,True,True,False,392391,9844,0,276,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/nmMqnyqviu4"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en,,,,,,,,,,,,,,
+#Lethamyr #Leth #RocketLeague",PT24M17S,2d,hd,FALSE,TRUE,rectangular,processed,public,creativeCommon,TRUE,TRUE,FALSE,392391,9844,0,276,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/nmMqnyqviu4"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en,,,,,,,,,,,,,,,,yes
 youtube#video,xqr__ztjFg9mPjDNOsA0E-qnhAk,ciikBU6i1Yc,2021-11-28T02:00:05Z,UCxcQX3lLPT8ACwGKEQuwtDg,Best of Rocket League Highlights - 2021,"My Twitch
 https://www.twitch.tv/evample2
 
@@ -1966,7 +1966,7 @@ Height - 100
 Angle - -3
 Stiffness - 0.3
 Swivel Speed - 4
-Transition Speed - 1",https://i.ytimg.com/vi/ciikBU6i1Yc/default.jpg,120,90,https://i.ytimg.com/vi/ciikBU6i1Yc/mqdefault.jpg,320,180,https://i.ytimg.com/vi/ciikBU6i1Yc/hqdefault.jpg,480,360,https://i.ytimg.com/vi/ciikBU6i1Yc/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/ciikBU6i1Yc/maxresdefault.jpg,1280.0,720.0,Evample,"['Rocket', 'league', 'Evample', 'Evample2', 'Flip reset Evample', 'Flip reset rocket league', 'Rocket league highlights', 'pulse evample', 'rocket league youtube', 'pulse', 'rocket league best', 'montage', 'highlights', 'rocket league montage', 'rocket league highlights', 'rocket league best goals', 'best goals rocket league', 'flip reset rocket league', 'rocket league flip reset', 'rocket league evample', 'evampla', 'evamp', 'evample', 'rocket league', 'compilation', 'best of', '2021', 'moments', 'best shots', 'gaming', 'twitch', 'cars', 'car']",20,none,Best of Rocket League Highlights - 2021,"My Twitch
+Transition Speed - 1",https://i.ytimg.com/vi/ciikBU6i1Yc/default.jpg,120,90,https://i.ytimg.com/vi/ciikBU6i1Yc/mqdefault.jpg,320,180,https://i.ytimg.com/vi/ciikBU6i1Yc/hqdefault.jpg,480,360,https://i.ytimg.com/vi/ciikBU6i1Yc/sddefault.jpg,640,480,https://i.ytimg.com/vi/ciikBU6i1Yc/maxresdefault.jpg,1280,720,Evample,"['Rocket', 'league', 'Evample', 'Evample2', 'Flip reset Evample', 'Flip reset rocket league', 'Rocket league highlights', 'pulse evample', 'rocket league youtube', 'pulse', 'rocket league best', 'montage', 'highlights', 'rocket league montage', 'rocket league highlights', 'rocket league best goals', 'best goals rocket league', 'flip reset rocket league', 'rocket league flip reset', 'rocket league evample', 'evampla', 'evamp', 'evample', 'rocket league', 'compilation', 'best of', '2021', 'moments', 'best shots', 'gaming', 'twitch', 'cars', 'car']",20,none,Best of Rocket League Highlights - 2021,"My Twitch
 https://www.twitch.tv/evample2
 
 Discord
@@ -2013,7 +2013,7 @@ Height - 100
 Angle - -3
 Stiffness - 0.3
 Swivel Speed - 4
-Transition Speed - 1",PT16M31S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,1118605,30872,0,1128,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/ciikBU6i1Yc"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en,,,,,,,,,,,,,,
+Transition Speed - 1",PT16M31S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,1118605,30872,0,1128,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/ciikBU6i1Yc"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en,,,,,,,,,,,,,,,,yes
 youtube#video,aHQCaA_sxv19TWdrJNZiIWqw3aw,2tIIPQI7QmY,2022-06-29T17:12:51Z,UCImNSM8Ob7u3XJW50t6WWGg,Rocket League MOST SATISFYING Moments! #40,"▶Hey Penguins! Today our host will present to you the best rocket league epic and very satisfying plays! with some spicy memes 😏
 I hope you guys enjoy the video, like and subscribe for more!
 
@@ -2156,7 +2156,7 @@ Crocrafty - https://youtu.be/AW52QfB6uso
 t.tv/jessie - 
 
 ♫ Music:
-Epidemic Sound",PT8M25S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,44133,1026,0,49,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/2tIIPQI7QmY"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,en,,,,,,Rocket League MOST SATISFYING Moments! #40,"▶Hey Penguins! Today our host will present to you the best rocket league epic and very satisfying plays! with some spicy memes 😏
+Epidemic Sound",PT8M25S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,44133,1026,0,49,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/2tIIPQI7QmY"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,en,,,,,,Rocket League MOST SATISFYING Moments! #40,"▶Hey Penguins! Today our host will present to you the best rocket league epic and very satisfying plays! with some spicy memes 😏
 I hope you guys enjoy the video, like and subscribe for more!
 
 ▶For Cheap Rocket League crates/items/keys, check out: 
@@ -2227,7 +2227,7 @@ Crocrafty - https://youtu.be/AW52QfB6uso
 t.tv/jessie - 
 
 ♫ Music:
-Epidemic Sound",,,,,,
+Epidemic Sound",,,,,,,,yes
 youtube#video,9I-t3W3FIiicgcavzGGBGmUxmqs,nMUEy0jJalQ,2022-07-06T21:00:20Z,UCuRS9KcqyOamnYjd6zOKiFQ,Retals and I Played The Highest Level of Ranked 2v2 and You wont believe what Happened!,"Subscribe to my Shorts Channel: https://www.youtube.com/channel/UCyfS...
 
 
@@ -2270,7 +2270,7 @@ Camera Settings:
 .45
 
 Follow my editor:
-https://twitter.com/ral_fx",PT18M1S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,65006,3274,0,109,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/nMUEy0jJalQ"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en,,,,,,,,,,,,,,
+https://twitter.com/ral_fx",PT18M1S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,65006,3274,0,109,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/nMUEy0jJalQ"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en,,,,,,,,,,,,,,,,yes
 youtube#video,yDGI2ZZvsnAjp_nG8Uyhk9AKi_Q,pFRmZZY7ab4,2022-06-16T14:30:23Z,UCJI-evgSEVjMHu_kDi-Buew,Why Season 7 of Rocket League is the BEST Update Since Free to Play,"Check out the new Thrustmaster Eswap S Pro Controller, now available at https://amzn.to/3LcrePy
 
 Gold painted items!? Rocket Leauge Season 7 is finally here and I broke down everything that makes it great. There's a new map: Utopia Coliseum Guilded, new car: the Mestro, Esports goal explosions, Training pack updates and tons more. To celebrate the new season, I created a whole new training pack challenge using the new features and it was hilarious. 
@@ -2311,7 +2311,7 @@ Production Music: https://www.epidemicsound.com
 Thumbnail Artist: http://twitter.com/Totema_art
 
 
-#RocketLeague #Striped",PT14M23S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,263903,8394,0,588,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/pFRmZZY7ab4"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,,,,,,,,,,,,,,
+#RocketLeague #Striped",PT14M23S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,263903,8394,0,588,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/pFRmZZY7ab4"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,,,,,,,,,,,,,,,,yes
 youtube#video,zdRs5C2ttEoZAehXLkWvhfKh5z8,Wxou7-j0nTA,2022-01-27T15:30:04Z,UCJI-evgSEVjMHu_kDi-Buew,Meet the Rocket League Prodigy Who's Only 5 YEARS OLD,"Get ready to meet the most talented 5 year in Rocket League who has crazy mechanics and clips for his age. This kid is insane at the game and is by far the youngest in his rank in Rocket League. Will he be the next RLCS pro? 
 
 Check out Hoodyhoooon Twitch! https://www.twitch.tv/hoodyhooo
@@ -2336,7 +2336,7 @@ Production Music: https://www.epidemicsound.com
 Thumbnail Artist: http://twitter.com/Totema_art
 
 
-#RocketLeague #Striped",https://i.ytimg.com/vi/Wxou7-j0nTA/default.jpg,120,90,https://i.ytimg.com/vi/Wxou7-j0nTA/mqdefault.jpg,320,180,https://i.ytimg.com/vi/Wxou7-j0nTA/hqdefault.jpg,480,360,https://i.ytimg.com/vi/Wxou7-j0nTA/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/Wxou7-j0nTA/maxresdefault.jpg,1280.0,720.0,Striped,"['Rocket League', 'RL', 'Grand champ', 'GC', 'Supersonic Legend', 'SSL', 'Striped', 'Bronze', 'Silver', 'Gold', 'Plat', 'Diamond', 'Champ', 'Free to play']",20,none,Meet the Rocket League Prodigy Who's Only 5 YEARS OLD,"Get ready to meet the most talented 5 year in Rocket League who has crazy mechanics and clips for his age. This kid is insane at the game and is by far the youngest in his rank in Rocket League. Will he be the next RLCS pro? 
+#RocketLeague #Striped",https://i.ytimg.com/vi/Wxou7-j0nTA/default.jpg,120,90,https://i.ytimg.com/vi/Wxou7-j0nTA/mqdefault.jpg,320,180,https://i.ytimg.com/vi/Wxou7-j0nTA/hqdefault.jpg,480,360,https://i.ytimg.com/vi/Wxou7-j0nTA/sddefault.jpg,640,480,https://i.ytimg.com/vi/Wxou7-j0nTA/maxresdefault.jpg,1280,720,Striped,"['Rocket League', 'RL', 'Grand champ', 'GC', 'Supersonic Legend', 'SSL', 'Striped', 'Bronze', 'Silver', 'Gold', 'Plat', 'Diamond', 'Champ', 'Free to play']",20,none,Meet the Rocket League Prodigy Who's Only 5 YEARS OLD,"Get ready to meet the most talented 5 year in Rocket League who has crazy mechanics and clips for his age. This kid is insane at the game and is by far the youngest in his rank in Rocket League. Will he be the next RLCS pro? 
 
 Check out Hoodyhoooon Twitch! https://www.twitch.tv/hoodyhooo
 
@@ -2360,7 +2360,7 @@ Production Music: https://www.epidemicsound.com
 Thumbnail Artist: http://twitter.com/Totema_art
 
 
-#RocketLeague #Striped",PT13M2S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,687685,20860,0,1770,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/Wxou7-j0nTA"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,,,,,,,,,,,,,,
+#RocketLeague #Striped",PT13M2S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,687685,20860,0,1770,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/Wxou7-j0nTA"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,,,,,,,,,,,,,,,,yes
 youtube#video,2mTd6L4uKc7qpTfswWx-Q551Hb4,AQCsv5R3xy4,2022-06-27T15:00:05Z,UCd1A9A5JGDtLxCrc59yHncg,I met a HACKER in Rocket League… Here’s what happened,"Check out Rocket League tracker for a simple way to give you that insight into your rocket league gameplay https://link.overwolf.com/rltracker-thanovic
 A REAL Hacker Joined My Party in Rocket League! I came across a rocket league hacker for the first time and he ended up at my party out of no where, so we had a chat. Today's video is another rocket league highlights video, but this time with a bit more of a look into what it was like to chat to and figure out whats going on with this hacker.
 
@@ -2435,7 +2435,7 @@ This has been Thanovic
 I'll see ya next time
 
 
-#RocketLeague #Thanovic #hacker",PT10M56S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,52326,2409,0,130,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/AQCsv5R3xy4"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,,,,,,,,,,,,,,
+#RocketLeague #Thanovic #hacker",PT10M56S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,52326,2409,0,130,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/AQCsv5R3xy4"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,,,,,,,,,,,,,,,,yes
 youtube#video,9u0h4qVwskNbgKDE0XFtk1GvGXw,6J6lLuqeq1U,2022-07-07T16:56:41Z,UC3ejl7_LE3vVaXmluBDBsew,Le NOUVEAU MODE SMASH BROS sur ROCKET LEAGUE est INCROYABLE !,"📢 6% de réduction avec le code ""Sniip"" pour acheter tes items Rocket League : https://www.aoeah.com/rocket-league-items/fr
 
 📌 LIENS
@@ -2455,7 +2455,7 @@ Map: https://steamcommunity.com/sharedfiles/filedetails/?id=2814041805&searchtex
 ➤ TIKTOK : https://www.tiktok.com/@sniiperrl_off
 
 ➤ MUSIQUE : http://www.epidemicsound.com
-👉 Pour toutes demandes professionnelles ou commerciales: Sniiper@thenode.gg",https://i.ytimg.com/vi/6J6lLuqeq1U/default.jpg,120,90,https://i.ytimg.com/vi/6J6lLuqeq1U/mqdefault.jpg,320,180,https://i.ytimg.com/vi/6J6lLuqeq1U/hqdefault.jpg,480,360,https://i.ytimg.com/vi/6J6lLuqeq1U/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/6J6lLuqeq1U/maxresdefault.jpg,1280.0,720.0,SniiperRL,"['rocket league', 'rocket league fr', 'SniiperRL', 'Kouros', 'Tequilaz', 'Playourlife', 'Wesh92', 'grand champion', 'rocket league tuto', 'funny', 'fr', 'GC', 'grand champ', 'rocket league tips', 'Kaydop']",20,none,Le NOUVEAU MODE SMASH BROS sur ROCKET LEAGUE est INCROYABLE !,"📢 6% de réduction avec le code ""Sniip"" pour acheter tes items Rocket League : https://www.aoeah.com/rocket-league-items/fr
+👉 Pour toutes demandes professionnelles ou commerciales: Sniiper@thenode.gg",https://i.ytimg.com/vi/6J6lLuqeq1U/default.jpg,120,90,https://i.ytimg.com/vi/6J6lLuqeq1U/mqdefault.jpg,320,180,https://i.ytimg.com/vi/6J6lLuqeq1U/hqdefault.jpg,480,360,https://i.ytimg.com/vi/6J6lLuqeq1U/sddefault.jpg,640,480,https://i.ytimg.com/vi/6J6lLuqeq1U/maxresdefault.jpg,1280,720,SniiperRL,"['rocket league', 'rocket league fr', 'SniiperRL', 'Kouros', 'Tequilaz', 'Playourlife', 'Wesh92', 'grand champion', 'rocket league tuto', 'funny', 'fr', 'GC', 'grand champ', 'rocket league tips', 'Kaydop']",20,none,Le NOUVEAU MODE SMASH BROS sur ROCKET LEAGUE est INCROYABLE !,"📢 6% de réduction avec le code ""Sniip"" pour acheter tes items Rocket League : https://www.aoeah.com/rocket-league-items/fr
 
 📌 LIENS
 Artyrus: https://www.twitch.tv/artyrus
@@ -2474,7 +2474,7 @@ Map: https://steamcommunity.com/sharedfiles/filedetails/?id=2814041805&searchtex
 ➤ TIKTOK : https://www.tiktok.com/@sniiperrl_off
 
 ➤ MUSIQUE : http://www.epidemicsound.com
-👉 Pour toutes demandes professionnelles ou commerciales: Sniiper@thenode.gg",PT11M4S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,15846,1374,0,45,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/6J6lLuqeq1U"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",fr,,,,,,,,,,,,,,
+👉 Pour toutes demandes professionnelles ou commerciales: Sniiper@thenode.gg",PT11M4S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,15846,1374,0,45,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/6J6lLuqeq1U"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",fr,,,,,,,,,,,,,,,,no
 youtube#video,Aej-BJGyYqgrB2-yac9H7m4C9ns,8iHgunoFFWM,2022-07-07T16:15:00Z,UCPgqNtig_GJU2z83lGR276w,Rocket League mérite mieux.,"Pour acheter des items Rocket League vous pouvez cliquer sur ce lien : 
 https://www.lolga.com/rocket-league
 Utilise le code “GASPOWRL” pour 6% de réduction !
@@ -2553,7 +2553,7 @@ Tiktok : https://www.tiktok.com/@gaspowrl
 Musique d'Outro  ♪ : NCT & James Burki - Hold On
 
 Montage par Gaspow
-Miniature par Gaspow",PT26M36S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,23055,2634,0,341,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/8iHgunoFFWM"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",fr,,,,,,,,,,,,,,
+Miniature par Gaspow",PT26M36S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,23055,2634,0,341,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/8iHgunoFFWM"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",fr,,,,,,,,,,,,,,,,no
 youtube#video,XvM_2dGMYq_an2OyEu7Uy_dplIE,5mjXoT6qvJg,2022-07-08T07:55:59Z,UCOjMqvWIpSz0TY0JP8IkEow,Trójeczki z Randomami Jak Nam Poszło??!😂🤔★ROCKET LEAGUE  3VS3★ MafiaSolecTeam🚜,"INSTAGRAMY: 
 Tanas - https://www.instagram.com/tanass00/ 
 MafiaSolec - https://www.instagram.com/mafiasolecofficial/
@@ -2591,7 +2591,7 @@ Fanpage Team'u: https://www.facebook.com/MafiaSolec-Games-1623502411230023/
 
 #MafiaSolecTeam #RocketLeague
 
-@MafiaSolec Games @Bronczek2  @Tanas",https://i.ytimg.com/vi/5mjXoT6qvJg/default.jpg,120,90,https://i.ytimg.com/vi/5mjXoT6qvJg/mqdefault.jpg,320,180,https://i.ytimg.com/vi/5mjXoT6qvJg/hqdefault.jpg,480,360,https://i.ytimg.com/vi/5mjXoT6qvJg/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/5mjXoT6qvJg/maxresdefault.jpg,1280.0,720.0,Tanas,"['Keymailer', 'Tanas', 'MafiaSolecTeam', 'Ursus', 'Bizon', 'Farming', 'PGR', 'Simulator', '19', 'fs', 'sąsiedzi', 'MrAdamo15', 'sezon', 'drugi', 'gut', 'git', 'elo', 'kruszwil zostaje rolnikiem', 'Video', 'Game', 'Culture', 'pole', 'Agriculture']",20,none,Trójeczki z Randomami Jak Nam Poszło??!😂🤔★ROCKET LEAGUE  3VS3★ MafiaSolecTeam🚜,"INSTAGRAMY: 
+@MafiaSolec Games @Bronczek2  @Tanas",https://i.ytimg.com/vi/5mjXoT6qvJg/default.jpg,120,90,https://i.ytimg.com/vi/5mjXoT6qvJg/mqdefault.jpg,320,180,https://i.ytimg.com/vi/5mjXoT6qvJg/hqdefault.jpg,480,360,https://i.ytimg.com/vi/5mjXoT6qvJg/sddefault.jpg,640,480,https://i.ytimg.com/vi/5mjXoT6qvJg/maxresdefault.jpg,1280,720,Tanas,"['Keymailer', 'Tanas', 'MafiaSolecTeam', 'Ursus', 'Bizon', 'Farming', 'PGR', 'Simulator', '19', 'fs', 'sąsiedzi', 'MrAdamo15', 'sezon', 'drugi', 'gut', 'git', 'elo', 'kruszwil zostaje rolnikiem', 'Video', 'Game', 'Culture', 'pole', 'Agriculture']",20,none,Trójeczki z Randomami Jak Nam Poszło??!😂🤔★ROCKET LEAGUE  3VS3★ MafiaSolecTeam🚜,"INSTAGRAMY: 
 Tanas - https://www.instagram.com/tanass00/ 
 MafiaSolec - https://www.instagram.com/mafiasolecofficial/
 Bronczek:https://www.instagram.com/bronczekofficial/?hl=pl
@@ -2628,7 +2628,7 @@ Fanpage Team'u: https://www.facebook.com/MafiaSolec-Games-1623502411230023/
 
 #MafiaSolecTeam #RocketLeague
 
-@MafiaSolec Games @Bronczek2  @Tanas",PT27M29S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,2808,533,0,30,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/5mjXoT6qvJg"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",pl,,,,,,,,,,,,,,
+@MafiaSolec Games @Bronczek2  @Tanas",PT27M29S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,2808,533,0,30,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/5mjXoT6qvJg"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",pl,,,,,,,,,,,,,,,,no
 youtube#video,k6ieChsYkmXZj7WzvWwUWbgsnSQ,-aq1YUmIKm4,2022-06-27T14:00:00Z,UCeg2dFpnarFPI14hbN_5rKg,I tried RISKY Kickoff Strategies in Ranked,"Kickoffs are so much more boring in Rocket League than they need to be. So I put a twist on them to make them more interesting. I tried new risky kickoff strategies in ranked Rocket League.
 
 My Links
@@ -2661,7 +2661,7 @@ Production music from Epidemicsound.com
 Use Creator Code: WAYTON
 Thanks to Epic Games and Psyonix for the creator code.
 
-:)",PT9M42S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,252511,11474,0,434,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/-aq1YUmIKm4"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en,en,,,,,,I tried RISKY Kickoff Strategies in Ranked,"Kickoffs are so much more boring in Rocket League than they need to be. So I put a twist on them to make them more interesting. I tried new risky kickoff strategies in ranked Rocket League.
+:)",PT9M42S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,252511,11474,0,434,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/-aq1YUmIKm4"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en,en,,,,,,I tried RISKY Kickoff Strategies in Ranked,"Kickoffs are so much more boring in Rocket League than they need to be. So I put a twist on them to make them more interesting. I tried new risky kickoff strategies in ranked Rocket League.
 
 My Links
 ‣ Discord: https://discord.gg/32Yp5zb
@@ -2677,7 +2677,7 @@ Production music from Epidemicsound.com
 Use Creator Code: WAYTON
 Thanks to Epic Games and Psyonix for the creator code.
 
-:)",,,,,,
+:)",,,,,,,,yes
 youtube#video,yn0jjGaCD8j5zZN2893Yrz1ZWcE,sO2D0v0cNs0,2022-05-21T15:20:38Z,UCocHtA1ADT6kTObipYzJoww,Pros vs Freestylers,"Introducing a new game mode I created in Rocket League that actually turned out insane!
 
 Thanks @JorbyPls!
@@ -2707,7 +2707,7 @@ Like the music on my channel? Here's a Spotify playlist of some of my favorites:
 
 Production music from Epidemicsound.com
 
-#rocketleague #sunlesskhan",https://i.ytimg.com/vi/sO2D0v0cNs0/default.jpg,120,90,https://i.ytimg.com/vi/sO2D0v0cNs0/mqdefault.jpg,320,180,https://i.ytimg.com/vi/sO2D0v0cNs0/hqdefault.jpg,480,360,https://i.ytimg.com/vi/sO2D0v0cNs0/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/sO2D0v0cNs0/maxresdefault.jpg,1280.0,720.0,SunlessKhan,"['rocket league', 'rocket league pc', 'rocket league best', 'rocket league guide', 'rocket league funny', 'rocket league moments', 'rocket league pro', 'funny rocket league videos', 'multiplayer games', 'xbox video games', 'ps4 video games', 'free pc games']",20,none,Pros vs Freestylers,"Introducing a new game mode I created in Rocket League that actually turned out insane!
+#rocketleague #sunlesskhan",https://i.ytimg.com/vi/sO2D0v0cNs0/default.jpg,120,90,https://i.ytimg.com/vi/sO2D0v0cNs0/mqdefault.jpg,320,180,https://i.ytimg.com/vi/sO2D0v0cNs0/hqdefault.jpg,480,360,https://i.ytimg.com/vi/sO2D0v0cNs0/sddefault.jpg,640,480,https://i.ytimg.com/vi/sO2D0v0cNs0/maxresdefault.jpg,1280,720,SunlessKhan,"['rocket league', 'rocket league pc', 'rocket league best', 'rocket league guide', 'rocket league funny', 'rocket league moments', 'rocket league pro', 'funny rocket league videos', 'multiplayer games', 'xbox video games', 'ps4 video games', 'free pc games']",20,none,Pros vs Freestylers,"Introducing a new game mode I created in Rocket League that actually turned out insane!
 
 Thanks @JorbyPls!
 
@@ -2736,7 +2736,7 @@ Like the music on my channel? Here's a Spotify playlist of some of my favorites:
 
 Production music from Epidemicsound.com
 
-#rocketleague #sunlesskhan",PT15M3S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,525531,22209,0,746,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/sO2D0v0cNs0"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en-US,en-US,,,,,,,,Pros vs Freestylers,"Introducing a new game mode I created in Rocket League that actually turned out insane!
+#rocketleague #sunlesskhan",PT15M3S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,525531,22209,0,746,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/sO2D0v0cNs0"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en-US,en-US,,,,,,,,Pros vs Freestylers,"Introducing a new game mode I created in Rocket League that actually turned out insane!
 
 Thanks @JorbyPls!
 
@@ -2765,7 +2765,7 @@ Like the music on my channel? Here's a Spotify playlist of some of my favorites:
 
 Production music from Epidemicsound.com
 
-#rocketleague #sunlesskhan",,,,
+#rocketleague #sunlesskhan",,,,,,yes
 youtube#video,PGIK43s1OiY9d4Gobio8fTAHDSY,2IjCxDA83E4,2022-07-05T14:00:02Z,UCeg2dFpnarFPI14hbN_5rKg,The Essential Mechanic That Pros REFUSE To Practice,"There is an extremely valuable mechanic in Rocket League that pros know about but still refuse to practice. It's a basic fundamental that is far from being perfected by anyone but they still don't put time into improving it. Today I investigate and analyze exactly why that is.
 
 My Links
@@ -2796,7 +2796,7 @@ Production music from Epidemicsound.com
 Use Creator Code: WAYTON
 Thanks to Epic Games and Psyonix for the creator code.
 
-:)",https://i.ytimg.com/vi/2IjCxDA83E4/default.jpg,120,90,https://i.ytimg.com/vi/2IjCxDA83E4/mqdefault.jpg,320,180,https://i.ytimg.com/vi/2IjCxDA83E4/hqdefault.jpg,480,360,https://i.ytimg.com/vi/2IjCxDA83E4/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/2IjCxDA83E4/maxresdefault.jpg,1280.0,720.0,Wayton Pilkin,"['rocket league', 'rocket league tips', 'wayton pilkin', 'rocket league tutorial', 'wayton pilkin rocket league', 'wayton pilkin shooting', 'rocket league shooting', 'wayton pilkin experiment', 'shock', 'gyro', 'virge', 'rocket league mechanics', 'rocket league training', 'the essential mechanic that pros refuse to practice']",20,none,The Essential Mechanic That Pros REFUSE To Practice,"There is an extremely valuable mechanic in Rocket League that pros know about but still refuse to practice. It's a basic fundamental that is far from being perfected by anyone but they still don't put time into improving it. Today I investigate and analyze exactly why that is.
+:)",https://i.ytimg.com/vi/2IjCxDA83E4/default.jpg,120,90,https://i.ytimg.com/vi/2IjCxDA83E4/mqdefault.jpg,320,180,https://i.ytimg.com/vi/2IjCxDA83E4/hqdefault.jpg,480,360,https://i.ytimg.com/vi/2IjCxDA83E4/sddefault.jpg,640,480,https://i.ytimg.com/vi/2IjCxDA83E4/maxresdefault.jpg,1280,720,Wayton Pilkin,"['rocket league', 'rocket league tips', 'wayton pilkin', 'rocket league tutorial', 'wayton pilkin rocket league', 'wayton pilkin shooting', 'rocket league shooting', 'wayton pilkin experiment', 'shock', 'gyro', 'virge', 'rocket league mechanics', 'rocket league training', 'the essential mechanic that pros refuse to practice']",20,none,The Essential Mechanic That Pros REFUSE To Practice,"There is an extremely valuable mechanic in Rocket League that pros know about but still refuse to practice. It's a basic fundamental that is far from being perfected by anyone but they still don't put time into improving it. Today I investigate and analyze exactly why that is.
 
 My Links
 ‣ Discord: https://discord.gg/32Yp5zb
@@ -2826,7 +2826,7 @@ Production music from Epidemicsound.com
 Use Creator Code: WAYTON
 Thanks to Epic Games and Psyonix for the creator code.
 
-:)",PT11M27S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,165629,8445,0,338,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/2IjCxDA83E4"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en,en,,,,,,The Essential Mechanic That Pros REFUSE To Practice,"There is an extremely valuable mechanic in Rocket League that pros know about but still refuse to practice. It's a basic fundamental that is far from being perfected by anyone but they still don't put time into improving it. Today I investigate and analyze exactly why that is.
+:)",PT11M27S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,165629,8445,0,338,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/2IjCxDA83E4"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en,en,,,,,,The Essential Mechanic That Pros REFUSE To Practice,"There is an extremely valuable mechanic in Rocket League that pros know about but still refuse to practice. It's a basic fundamental that is far from being perfected by anyone but they still don't put time into improving it. Today I investigate and analyze exactly why that is.
 
 My Links
 ‣ Discord: https://discord.gg/32Yp5zb
@@ -2856,7 +2856,7 @@ Production music from Epidemicsound.com
 Use Creator Code: WAYTON
 Thanks to Epic Games and Psyonix for the creator code.
 
-:)",,,,,,
+:)",,,,,,,,yes
 youtube#video,1iSsG8AujFS5QxQR7HpuLCEQ62Y,fK7vZc-OfBo,2022-07-07T22:00:14Z,UCfD9De3tw7S1UsxIg99gKkg,USEI O CARRO DO ALANZOKA NO ROCKET LEAGUE (supersonic legend freestyle),"🚗 Compre itens de Rocket League no RLExchange: https://rl.exchange/pt/r/JATOZORD
 Use o código ""JATOZORD"" para apoiar o canal e ganhar 3% de desconto nas compras!
 
@@ -2864,21 +2864,21 @@ Use o código ""JATOZORD"" para apoiar o canal e ganhar 3% de desconto nas compr
 
 🚀 Apoie o canal! Vire Membro e ganhe benefícios exclusivos: https://www.youtube.com/channel/UCfD9De3tw7S1UsxIg99gKkg/join
 
-Meu insta: @jatozord",https://i.ytimg.com/vi/fK7vZc-OfBo/default.jpg,120,90,https://i.ytimg.com/vi/fK7vZc-OfBo/mqdefault.jpg,320,180,https://i.ytimg.com/vi/fK7vZc-OfBo/hqdefault.jpg,480,360,https://i.ytimg.com/vi/fK7vZc-OfBo/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/fK7vZc-OfBo/maxresdefault.jpg,1280.0,720.0,jatozord,,20,none,USEI O CARRO DO ALANZOKA NO ROCKET LEAGUE (supersonic legend freestyle),"🚗 Compre itens de Rocket League no RLExchange: https://rl.exchange/pt/r/JATOZORD
+Meu insta: @jatozord",https://i.ytimg.com/vi/fK7vZc-OfBo/default.jpg,120,90,https://i.ytimg.com/vi/fK7vZc-OfBo/mqdefault.jpg,320,180,https://i.ytimg.com/vi/fK7vZc-OfBo/hqdefault.jpg,480,360,https://i.ytimg.com/vi/fK7vZc-OfBo/sddefault.jpg,640,480,https://i.ytimg.com/vi/fK7vZc-OfBo/maxresdefault.jpg,1280,720,jatozord,,20,none,USEI O CARRO DO ALANZOKA NO ROCKET LEAGUE (supersonic legend freestyle),"🚗 Compre itens de Rocket League no RLExchange: https://rl.exchange/pt/r/JATOZORD
 Use o código ""JATOZORD"" para apoiar o canal e ganhar 3% de desconto nas compras!
 
 🏎️ Me apoie na loja de itens do Rocket League usando o meu código de criador ''jatozord'', obrigado!
 
 🚀 Apoie o canal! Vire Membro e ganhe benefícios exclusivos: https://www.youtube.com/channel/UCfD9De3tw7S1UsxIg99gKkg/join
 
-Meu insta: @jatozord",PT13M55S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,26302,3113,0,155,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/fK7vZc-OfBo"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",pt-BR,pt-BR,,,,,,,,,,USEI O CARRO DO ALANZOKA NO ROCKET LEAGUE (supersonic legend freestyle),"🚗 Compre itens de Rocket League no RLExchange: https://rl.exchange/pt/r/JATOZORD
+Meu insta: @jatozord",PT13M55S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,26302,3113,0,155,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/fK7vZc-OfBo"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",pt-BR,pt-BR,,,,,,,,,,USEI O CARRO DO ALANZOKA NO ROCKET LEAGUE (supersonic legend freestyle),"🚗 Compre itens de Rocket League no RLExchange: https://rl.exchange/pt/r/JATOZORD
 Use o código ""JATOZORD"" para apoiar o canal e ganhar 3% de desconto nas compras!
 
 🏎️ Me apoie na loja de itens do Rocket League usando o meu código de criador ''jatozord'', obrigado!
 
 🚀 Apoie o canal! Vire Membro e ganhe benefícios exclusivos: https://www.youtube.com/channel/UCfD9De3tw7S1UsxIg99gKkg/join
 
-Meu insta: @jatozord",,
+Meu insta: @jatozord",,,,no
 youtube#video,P48VYw4Xf4bPNQ-qTuFGI6s9txo,w3rNJbCu5Q8,2022-06-28T04:00:03Z,UCB_SBSg6ry3x47NumQ3a9DQ,Road to SSL but we actually win Rocket League games,"My Epic Games Support-A-Creator Code: ""Rizzo""
 Apply the code in the Rocket League store to support me! (top right of the store)
 
@@ -2906,7 +2906,7 @@ Height: 110
 Angle: -4
 Stiffness: 0.2
 
-#Rizzo #RocketLeague #ranked",https://i.ytimg.com/vi/w3rNJbCu5Q8/default.jpg,120,90,https://i.ytimg.com/vi/w3rNJbCu5Q8/mqdefault.jpg,320,180,https://i.ytimg.com/vi/w3rNJbCu5Q8/hqdefault.jpg,480,360,https://i.ytimg.com/vi/w3rNJbCu5Q8/sddefault.jpg,640.0,480.0,,,,Rizzo,"['Rizzo', 'rocket league', 'rocket league pro', 'rocket league gameplay', 'rocket league best', 'rocket league funny', 'rocket league moments', 'rocket league pc', 'RLCS', 'stream', 'chat', 'gaming', 'SSL', 'road to SSL']",20,none,Road to SSL but we actually win Rocket League games,"My Epic Games Support-A-Creator Code: ""Rizzo""
+#Rizzo #RocketLeague #ranked",https://i.ytimg.com/vi/w3rNJbCu5Q8/default.jpg,120,90,https://i.ytimg.com/vi/w3rNJbCu5Q8/mqdefault.jpg,320,180,https://i.ytimg.com/vi/w3rNJbCu5Q8/hqdefault.jpg,480,360,https://i.ytimg.com/vi/w3rNJbCu5Q8/sddefault.jpg,640,480,,,,Rizzo,"['Rizzo', 'rocket league', 'rocket league pro', 'rocket league gameplay', 'rocket league best', 'rocket league funny', 'rocket league moments', 'rocket league pc', 'RLCS', 'stream', 'chat', 'gaming', 'SSL', 'road to SSL']",20,none,Road to SSL but we actually win Rocket League games,"My Epic Games Support-A-Creator Code: ""Rizzo""
 Apply the code in the Rocket League store to support me! (top right of the store)
 
 
@@ -2933,7 +2933,7 @@ Height: 110
 Angle: -4
 Stiffness: 0.2
 
-#Rizzo #RocketLeague #ranked",PT28M25S,2d,hd,false,False,rectangular,processed,public,youtube,True,True,False,74318,2538,0,99,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/w3rNJbCu5Q8"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en,,,,,,,,,,,,,,
+#Rizzo #RocketLeague #ranked",PT28M25S,2d,hd,FALSE,FALSE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,74318,2538,0,99,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/w3rNJbCu5Q8"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",en,,,,,,,,,,,,,,,,yes
 youtube#video,tspyjUau-v1sveu1t3ePDvSFSik,o7diVYpTwFo,2022-02-10T15:30:13Z,UCJI-evgSEVjMHu_kDi-Buew,Making Toxic Rocket League Players FINALLY Respect Their Own Rank,"Check out https://displate.com/subrace?art=6140ce5b5d25a for sponsoring the race to 500k subscribers!
 
 It's time to teach cocky Rocket League players a lesson. I offered $100 to any toxic player who could beat the rank above them. The catch is that they are actually playing against their OWN rank instead. With the pressure of money on the line and thinking their opponent is insane, can these Rocket League players even beat their own rank? 
@@ -2958,7 +2958,7 @@ Production Music: https://www.epidemicsound.com
 Thumbnail Artist: https://twitter.com/semdzn
 
 
-#RocketLeague #Striped",https://i.ytimg.com/vi/o7diVYpTwFo/default.jpg,120,90,https://i.ytimg.com/vi/o7diVYpTwFo/mqdefault.jpg,320,180,https://i.ytimg.com/vi/o7diVYpTwFo/hqdefault.jpg,480,360,https://i.ytimg.com/vi/o7diVYpTwFo/sddefault.jpg,640.0,480.0,https://i.ytimg.com/vi/o7diVYpTwFo/maxresdefault.jpg,1280.0,720.0,Striped,"['Rocket League', 'RL', 'Grand champ', 'GC', 'Supersonic Legend', 'SSL', 'Striped', 'Bronze', 'Silver', 'Gold', 'Plat', 'Diamond', 'Champ', 'Free to play']",20,none,Making Toxic Rocket League Players FINALLY Respect Their Own Rank,"Check out https://displate.com/subrace?art=6140ce5b5d25a for sponsoring the race to 500k subscribers!
+#RocketLeague #Striped",https://i.ytimg.com/vi/o7diVYpTwFo/default.jpg,120,90,https://i.ytimg.com/vi/o7diVYpTwFo/mqdefault.jpg,320,180,https://i.ytimg.com/vi/o7diVYpTwFo/hqdefault.jpg,480,360,https://i.ytimg.com/vi/o7diVYpTwFo/sddefault.jpg,640,480,https://i.ytimg.com/vi/o7diVYpTwFo/maxresdefault.jpg,1280,720,Striped,"['Rocket League', 'RL', 'Grand champ', 'GC', 'Supersonic Legend', 'SSL', 'Striped', 'Bronze', 'Silver', 'Gold', 'Plat', 'Diamond', 'Champ', 'Free to play']",20,none,Making Toxic Rocket League Players FINALLY Respect Their Own Rank,"Check out https://displate.com/subrace?art=6140ce5b5d25a for sponsoring the race to 500k subscribers!
 
 It's time to teach cocky Rocket League players a lesson. I offered $100 to any toxic player who could beat the rank above them. The catch is that they are actually playing against their OWN rank instead. With the pressure of money on the line and thinking their opponent is insane, can these Rocket League players even beat their own rank? 
 
@@ -2982,7 +2982,7 @@ Production Music: https://www.epidemicsound.com
 Thumbnail Artist: https://twitter.com/semdzn
 
 
-#RocketLeague #Striped",PT16M9S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,500711,18621,0,1673,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/o7diVYpTwFo"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,,,,,,,,,,,,,,
+#RocketLeague #Striped",PT16M9S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,500711,18621,0,1673,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/o7diVYpTwFo"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Strategy_video_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,,,,,,,,,,,,,,,,yes
 youtube#video,cs50M1WQ4NP_V4PMMU25Yxkwvpg,NFBiafY76Fg,2022-06-21T16:21:38Z,UCImNSM8Ob7u3XJW50t6WWGg,30 MOST EPIC Rocket League Moments #3 - RL GODS 🌠,"▶Hey Penguins! Today our host will present to you some of the most epic moments in rocket league! 
 
 ▶For Cheap Rocket League crates/items/keys, check out: 
@@ -3119,7 +3119,7 @@ shoganai -
 After_Radio4447 - 
 
 ♫ Music:
-Epidemic Sound",PT8M17S,2d,hd,false,True,rectangular,processed,public,youtube,True,False,False,90287,1821,0,76,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/NFBiafY76Fg"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,en,,,,,,30 MOST EPIC Rocket League Moments #3 - RL GODS 🌠,"▶Hey Penguins! Today our host will present to you some of the most epic moments in rocket league! 
+Epidemic Sound",PT8M17S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,FALSE,FALSE,90287,1821,0,76,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/NFBiafY76Fg"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,en,,,,,,30 MOST EPIC Rocket League Moments #3 - RL GODS 🌠,"▶Hey Penguins! Today our host will present to you some of the most epic moments in rocket league! 
 
 ▶For Cheap Rocket League crates/items/keys, check out: 
 http://bit.ly/Penguin-Aoeah - Buy and sell rocket league items with cash.
@@ -3187,7 +3187,7 @@ shoganai -
 After_Radio4447 - 
 
 ♫ Music:
-Epidemic Sound",,,,,,
+Epidemic Sound",,,,,,,,yes
 youtube#video,zZ2NSGSBkoCeJ8gkeNmhLvQmfj0,_J1yBleYDWQ,2022-07-07T15:00:32Z,UCLwf4l6grIQbmABiRzJKxBA,GEGNER KOMPLETT HOPS GENOMMEN + Glück mit den Mates🤓| 2v2 Ranked | Rocket League,"Viel Spaß ihr lieben 🔥
 
 Hier Kannst du deine Rocket League Credits, Blueprints und Items kaufen:
@@ -3270,7 +3270,7 @@ Hier wird erstmal das Spiel Rocket League gezockt und bereichert euch mit versch
 
 Für Buisness Anfragen: angezockttvdani@gmail.com
 
-Music provided by https://www.epidemicsound.com/",PT16M46S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,4489,312,0,35,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/_J1yBleYDWQ"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",de,de-DE,,,,,,,,,,,,GEGNER KOMPLETT HOPS GENOMMEN + Glück mit den Mates🤓| 2v2 Ranked | Rocket League,"Viel Spaß ihr lieben 🔥
+Music provided by https://www.epidemicsound.com/",PT16M46S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,4489,312,0,35,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/_J1yBleYDWQ"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",de,de-DE,,,,,,,,,,,,GEGNER KOMPLETT HOPS GENOMMEN + Glück mit den Mates🤓| 2v2 Ranked | Rocket League,"Viel Spaß ihr lieben 🔥
 
 Hier Kannst du deine Rocket League Credits, Blueprints und Items kaufen:
 http://bit.ly/AGTV-Aoeah  (Mit dem Gutschein Code ""AGTV"" bekommst du zum Kauf 6% Rabatt)
@@ -3311,7 +3311,7 @@ Hier wird erstmal das Spiel Rocket League gezockt und bereichert euch mit versch
 
 Für Buisness Anfragen: angezockttvdani@gmail.com
 
-Music provided by https://www.epidemicsound.com/"
+Music provided by https://www.epidemicsound.com/",,no
 youtube#video,-FvkDPKrlXdXNivAOpPq0-D8aOw,4SX-9Vbo5Yg,2022-06-28T22:00:02Z,UC1JPEwMqLaI96qRUKNp3_ow,The Cloud9 duo goes for RANK #1 in Rocket League... | Supersonic Legend 3v3,"Twitter
 https://twitter.com/SquishyMuffinz
 
@@ -3349,7 +3349,7 @@ Hope you guys enjoy!!!
 
 
 
-#SquishyMuffinz​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ #RocketLeague​​​​​​​​​​​",https://i.ytimg.com/vi/4SX-9Vbo5Yg/default.jpg,120,90,https://i.ytimg.com/vi/4SX-9Vbo5Yg/mqdefault.jpg,320,180,https://i.ytimg.com/vi/4SX-9Vbo5Yg/hqdefault.jpg,480,360,https://i.ytimg.com/vi/4SX-9Vbo5Yg/sddefault.jpg,640.0,480.0,,,,SquishyMuffinz,"['Professional Rocket League', 'Squishy', 'Rocket League Analysis', 'Mechanical Player', 'SquishyMuffinz', 'Smart Game Play', 'RLCS World Champion', 'Rocket League Training', 'Professional Game Play Analysis', 'NRG Esports', 'NRG Squishy', 'Free rocket league coaching', 'free rocket league tips', 'professional rocket league coaching', 'gaming tips and tricks', 'improve rocket league game play', 'supersonic legend', 'ssl', 'epic gaming']",20,none,The Cloud9 duo goes for RANK #1 in Rocket League... | Supersonic Legend 3v3,"Twitter
+#SquishyMuffinz​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ #RocketLeague​​​​​​​​​​​",https://i.ytimg.com/vi/4SX-9Vbo5Yg/default.jpg,120,90,https://i.ytimg.com/vi/4SX-9Vbo5Yg/mqdefault.jpg,320,180,https://i.ytimg.com/vi/4SX-9Vbo5Yg/hqdefault.jpg,480,360,https://i.ytimg.com/vi/4SX-9Vbo5Yg/sddefault.jpg,640,480,,,,SquishyMuffinz,"['Professional Rocket League', 'Squishy', 'Rocket League Analysis', 'Mechanical Player', 'SquishyMuffinz', 'Smart Game Play', 'RLCS World Champion', 'Rocket League Training', 'Professional Game Play Analysis', 'NRG Esports', 'NRG Squishy', 'Free rocket league coaching', 'free rocket league tips', 'professional rocket league coaching', 'gaming tips and tricks', 'improve rocket league game play', 'supersonic legend', 'ssl', 'epic gaming']",20,none,The Cloud9 duo goes for RANK #1 in Rocket League... | Supersonic Legend 3v3,"Twitter
 https://twitter.com/SquishyMuffinz
 
 Follow me on Twitch and get notified when I go live! 
@@ -3386,7 +3386,7 @@ Hope you guys enjoy!!!
 
 
 
-#SquishyMuffinz​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ #RocketLeague​​​​​​​​​​​",PT19M9S,2d,hd,false,True,rectangular,processed,public,youtube,True,True,False,127813,4607,0,172,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/4SX-9Vbo5Yg"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,,,,,,,,,,,,,,
+#SquishyMuffinz​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ #RocketLeague​​​​​​​​​​​",PT19M9S,2d,hd,FALSE,TRUE,rectangular,processed,public,youtube,TRUE,TRUE,FALSE,127813,4607,0,172,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/4SX-9Vbo5Yg"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",,,,,,,,,,,,,,,,,yes
 youtube#video,kuX5sLz5TIIRjeH9hycKZseVSPc,RE8HnyxJNMk,2022-07-07T17:00:13Z,UCowObvDJlowexzUWaBWxrnw,SUBO AL TOP 10 DEL MUNDO DE ROCKET LEAGUE CON @VKSailen,"Equipoo, nuevo video con @VKSailen jugando unos dobles, donde conseguimos subir al top 10 del mundo, espero que os guste!
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -3407,7 +3407,7 @@ youtube#video,kuX5sLz5TIIRjeH9hycKZseVSPc,RE8HnyxJNMk,2022-07-07T17:00:13Z,UCowO
 • Watch: https://youtu.be/4m9qzHyWPQo
 • Free Download / Stream: http://ncs.io/pshollow
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬",https://i.ytimg.com/vi/RE8HnyxJNMk/default.jpg,120,90,https://i.ytimg.com/vi/RE8HnyxJNMk/mqdefault.jpg,320,180,https://i.ytimg.com/vi/RE8HnyxJNMk/hqdefault.jpg,480,360,,,,,,,Stake ,"['stake', 'stake rocket league', 'rocket league', 'rocket league español', 'karmine corp', 'kcorp', 'rlcs', 'stake rlcs', 'rocket league pro', 'rocket league profesional', 'rl pro', 'rlcs rocket league', 'dualview', 'rosdri', 'estrupa', 'musty', 'stake twitch', 'rocket league top 100', 'top 100', 'best rlcs player', 'best rocket league player', 'rlcs mejores momentos', 'stake mejores momentos', 'vksailen', '@vksailen', 'top 10 del mundo', 'mejores del mundo rocket league', 'top 10 del mundo rocket league', 'top 100 del mundo rocket league']",20,none,SUBO AL TOP 10 DEL MUNDO DE ROCKET LEAGUE CON @VKSailen,"Equipoo, nuevo video con @VKSailen jugando unos dobles, donde conseguimos subir al top 10 del mundo, espero que os guste!
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬",https://i.ytimg.com/vi/RE8HnyxJNMk/default.jpg,120,90,https://i.ytimg.com/vi/RE8HnyxJNMk/mqdefault.jpg,320,180,https://i.ytimg.com/vi/RE8HnyxJNMk/hqdefault.jpg,480,360,,,,,,,Stake,"['stake', 'stake rocket league', 'rocket league', 'rocket league español', 'karmine corp', 'kcorp', 'rlcs', 'stake rlcs', 'rocket league pro', 'rocket league profesional', 'rl pro', 'rlcs rocket league', 'dualview', 'rosdri', 'estrupa', 'musty', 'stake twitch', 'rocket league top 100', 'top 100', 'best rlcs player', 'best rocket league player', 'rlcs mejores momentos', 'stake mejores momentos', 'vksailen', '@vksailen', 'top 10 del mundo', 'mejores del mundo rocket league', 'top 10 del mundo rocket league', 'top 100 del mundo rocket league']",20,none,SUBO AL TOP 10 DEL MUNDO DE ROCKET LEAGUE CON @VKSailen,"Equipoo, nuevo video con @VKSailen jugando unos dobles, donde conseguimos subir al top 10 del mundo, espero que os guste!
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ★ MIS REDES ★
@@ -3427,4 +3427,4 @@ youtube#video,kuX5sLz5TIIRjeH9hycKZseVSPc,RE8HnyxJNMk,2022-07-07T17:00:13Z,UCowO
 • Watch: https://youtu.be/4m9qzHyWPQo
 • Free Download / Stream: http://ncs.io/pshollow
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬",PT14M30S,2d,hd,false,True,rectangular,processed,public,creativeCommon,True,False,False,5007,320,0,6,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/RE8HnyxJNMk"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",es,,,,,,,,,,,,,,
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬",PT14M30S,2d,hd,FALSE,TRUE,rectangular,processed,public,creativeCommon,TRUE,FALSE,FALSE,5007,320,0,6,"<iframe width=""480"" height=""270"" src=""//www.youtube.com/embed/RE8HnyxJNMk"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>","['https://en.wikipedia.org/wiki/Action-adventure_game', 'https://en.wikipedia.org/wiki/Action_game', 'https://en.wikipedia.org/wiki/Association_football', 'https://en.wikipedia.org/wiki/Racing_video_game', 'https://en.wikipedia.org/wiki/Sports_game', 'https://en.wikipedia.org/wiki/Video_game_culture']",es,,,,,,,,,,,,,,,,no
