@@ -80,10 +80,9 @@ def youtube_search(options):
         # print ("stat names length: " + str(len(stat_names)))
         print ("videos length: " + str(len(videos)))
         #print ("Resultant dictionary is : " +  str(res))
-        
-        file_name = 'videos' + str(i) + '.json'
+        keyword_name = 'makeupCollab'
+        file_name = keyword_name + str(i) + '.json'
         import os
-        file_path = 'videos' + str(i) + '.json'
 
         # check if size of file is 0
         with open(file_name, 'w') as f:
@@ -92,6 +91,13 @@ def youtube_search(options):
            json.dump(z, f, indent = 4)
         
         print('file dumped')
+        
+        import pandas as pd
+
+        with open('beauty_' + keyword_name + '.json') as json_file:
+            data = json.load(json_file)
+            df = pd.json_normalize(data.values())
+            df.to_csv(keyword_name + '.csv', index=False)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
