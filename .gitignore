@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# data
+data_csv/072622_samples/*.json
+
 # Distribution / packaging
 .Rhistory
 .Python
