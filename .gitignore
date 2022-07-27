@@ -8,6 +8,7 @@ __pycache__/
 
 # data
 data_csv/072622_samples/*.json
+data_csv/072622_samples/*all*.csv
 
 # Distribution / packaging
 .Rhistory

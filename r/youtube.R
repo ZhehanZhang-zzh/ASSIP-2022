@@ -37,8 +37,15 @@ plot(channels, snippet.channelId~num_videos)
 
 # Descriptive Statistics of Channels
 df <- read.csv("072622_samples/game_channels.csv")
+length(unique(df$id))
 channel_ids <- as.data.frame(as.character(df$id))
 write.csv(channel_ids, "channel_ids.csv", row.names = F)
 
 playlist_ids <- as.data.frame(as.character(df$contentDetails.relatedPlaylists.uploads))
+length(unique(playlist_ids$`as.character(df$contentDetails.relatedPlaylists.uploads)`))
 write.csv(playlist_ids, "game_playlist_ids.csv", row.names = F)
+
+
+# Descriptive Stat for Videos
+df <- read.csv("072622_samples/beauty_all_videos.csv")
+length(unique(df$snippet.channelId))
