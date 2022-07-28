@@ -37,7 +37,7 @@ def youtube_search(options):
     # this is a test script with a fixed Channel ID
     # For-loop is need by reading Channel IDs from a separate file, and make this call for all the IDs
     
-    with open('channel_ids.csv', 'r') as csvfile:
+    with open('../data_csv/channel_ids.csv', 'r') as csvfile:
         datareader = csv.reader(csvfile)
         for row in datareader:
             search_response = youtube.channels().list(
@@ -46,8 +46,6 @@ def youtube_search(options):
             ).execute()
             channels[i] = search_response.get('items',[i+1])[0]
             i = i+1    
-            
-
     
     file_name = 'channels.json'
     import os
